@@ -9,14 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Update dari @v3 ke @v4
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
+      # Update dari @v4 ke @v5
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
-
+          python-version: '3.11' # Sekalian pakai Python yang lebih stabil/baru
       - name: Install dependencies
         run: pip install requests
 
