@@ -16,6 +16,8 @@ SOURCES = [
     "https://epg.pw/api/epg.xml?channel_id=400479",
     "https://epg.pw/api/epg.xml?channel_id=400478",
     "https://epg.pw/api/epg.xml?channel_id=524073",
+    "https://epg.pw/api/epg.xml?channel_id=524003",
+    "https://epg.pw/api/epg.xml?channel_id=524184",
     "https://www.open-epg.com/files/slovakia2.xml"
 ]
 # 2. Daftar Channel ID yang ingin kamu ambil (sesuaikan dengan ID di sumber)
