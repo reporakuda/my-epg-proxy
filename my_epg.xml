@@ -1,0 +1,1376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Rakuda EPG Custom"><channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg" /></channel>
+<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png" /></channel>
+<channel id="TVRISport.id@SD"><display-name>TVRI Sport</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" /></channel>
+<channel id="DiscoveryChannelSoutheastAsia.sg@SD"><display-name>Discovery Channel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" /></channel>
+<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png" /></channel>
+<channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" /></channel>
+<programme start="20260511070000 +0700" stop="20260511073000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Nyaight Of Living Cat, Ep 7</title><desc lang="id">Sebuah virus misterius mengubah manusia yang menyentuh kucing menjadi kucing, sehingga memicu bencana global yang disebut “Nyandemic”, di mana manusia berubah menjadi kucing.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260511073000 +0700" stop="20260511080000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Nyaight Of Living Cat, Ep 8</title><desc lang="id">Sebuah virus misterius mengubah manusia yang menyentuh kucing menjadi kucing, sehingga memicu bencana global yang disebut “Nyandemic”, di mana manusia berubah menjadi kucing.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260511080000 +0700" stop="20260511083000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 1</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260511083000 +0700" stop="20260511090000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260511090000 +0700" stop="20260511093000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Fruits Basket S1, Ep 22</title><category lang="id">Series</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.21.0/1</episode-num><episode-num system="onscreen">S01E22</episode-num></programme>
+<programme start="20260511093000 +0700" stop="20260511100000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Fruits Basket S1, Ep 23</title><category lang="id">Series</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.22.0/1</episode-num><episode-num system="onscreen">S01E23</episode-num></programme>
+<programme start="20260511100000 +0700" stop="20260511103000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">I'll Become A..., Ep 12</title><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20260511103000 +0700" stop="20260511110000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">I'll Become A..., Ep 13</title><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20260511110000 +0700" stop="20260511113000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Nyaight Of Living Cat, Ep 7</title><desc lang="id">Sebuah virus misterius mengubah manusia yang menyentuh kucing menjadi kucing, sehingga memicu bencana global yang disebut “Nyandemic”, di mana manusia berubah menjadi kucing.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260511113000 +0700" stop="20260511120000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Nyaight Of Living Cat, Ep 8</title><desc lang="id">Sebuah virus misterius mengubah manusia yang menyentuh kucing menjadi kucing, sehingga memicu bencana global yang disebut “Nyandemic”, di mana manusia berubah menjadi kucing.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260511120000 +0700" stop="20260511123000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 1</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260511123000 +0700" stop="20260511130000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260511130000 +0700" stop="20260511133000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Fruits Basket S1, Ep 22</title><category lang="id">Series</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.21.0/1</episode-num><episode-num system="onscreen">S01E22</episode-num></programme>
+<programme start="20260511133000 +0700" stop="20260511140000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Fruits Basket S1, Ep 23</title><category lang="id">Series</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.22.0/1</episode-num><episode-num system="onscreen">S01E23</episode-num></programme>
+<programme start="20260511140000 +0700" stop="20260511143000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">I'll Become A..., Ep 12</title><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20260511143000 +0700" stop="20260511150000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">I'll Become A..., Ep 13</title><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20260511150000 +0700" stop="20260511153000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 1</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260511153000 +0700" stop="20260511160000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260511160000 +0700" stop="20260511163000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Fruits Basket S1, Ep 22</title><category lang="id">Series</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.21.0/1</episode-num><episode-num system="onscreen">S01E22</episode-num></programme>
+<programme start="20260511163000 +0700" stop="20260511170000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Fruits Basket S1, Ep 23</title><category lang="id">Series</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.22.0/1</episode-num><episode-num system="onscreen">S01E23</episode-num></programme>
+<programme start="20260511170000 +0700" stop="20260511173000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260511173000 +0700" stop="20260511180000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260511180000 +0700" stop="20260511183000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 14</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.13.0/1</episode-num><episode-num system="onscreen">S02E14</episode-num></programme>
+<programme start="20260511183000 +0700" stop="20260511190000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260511190000 +0700" stop="20260511193000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 45</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20260511193000 +0700" stop="20260511200000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 46</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260511200000 +0700" stop="20260511203000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 14</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.13.0/1</episode-num><episode-num system="onscreen">S02E14</episode-num></programme>
+<programme start="20260511203000 +0700" stop="20260511210000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260511210000 +0700" stop="20260511213000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 5</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260511213000 +0700" stop="20260511220000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 6</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260511220000 +0700" stop="20260511223000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 45</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20260511223000 +0700" stop="20260511230000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 46</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260511230000 +0700" stop="20260511233000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 14</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.13.0/1</episode-num><episode-num system="onscreen">S02E14</episode-num></programme>
+<programme start="20260511233000 +0700" stop="20260512000000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260512000000 +0700" stop="20260512003000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 5</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260512003000 +0700" stop="20260512010000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 6</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260512010000 +0700" stop="20260512013000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260512013000 +0700" stop="20260512020000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260512020000 +0700" stop="20260512023000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 45</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20260512023000 +0700" stop="20260512030000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 46</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260512030000 +0700" stop="20260512033000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 14</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.13.0/1</episode-num><episode-num system="onscreen">S02E14</episode-num></programme>
+<programme start="20260512033000 +0700" stop="20260512040000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260512040000 +0700" stop="20260512043000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 5</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260512043000 +0700" stop="20260512050000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 6</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260512050000 +0700" stop="20260512053000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260512053000 +0700" stop="20260512060000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260512060000 +0700" stop="20260512063000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 14</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.13.0/1</episode-num><episode-num system="onscreen">S02E14</episode-num></programme>
+<programme start="20260512063000 +0700" stop="20260512070000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260512070000 +0700" stop="20260512073000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 45</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20260512073000 +0700" stop="20260512080000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 46</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260512080000 +0700" stop="20260512083000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260512083000 +0700" stop="20260512090000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260512090000 +0700" stop="20260512093000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 5</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260512093000 +0700" stop="20260512100000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 6</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260512100000 +0700" stop="20260512103000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 14</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.13.0/1</episode-num><episode-num system="onscreen">S02E14</episode-num></programme>
+<programme start="20260512103000 +0700" stop="20260512110000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260512110000 +0700" stop="20260512113000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 45</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20260512113000 +0700" stop="20260512120000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 46</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260512120000 +0700" stop="20260512123000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260512123000 +0700" stop="20260512130000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260512130000 +0700" stop="20260512133000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 5</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260512133000 +0700" stop="20260512140000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 6</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260512140000 +0700" stop="20260512143000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 14</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.13.0/1</episode-num><episode-num system="onscreen">S02E14</episode-num></programme>
+<programme start="20260512143000 +0700" stop="20260512150000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260512150000 +0700" stop="20260512153000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 2</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260512153000 +0700" stop="20260512160000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260512160000 +0700" stop="20260512163000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 5</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260512163000 +0700" stop="20260512170000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 6</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260512170000 +0700" stop="20260512173000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260512173000 +0700" stop="20260512180000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 4</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260512180000 +0700" stop="20260512183000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260512183000 +0700" stop="20260512190000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 16</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.15.0/1</episode-num><episode-num system="onscreen">S02E16</episode-num></programme>
+<programme start="20260512190000 +0700" stop="20260512193000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 46</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260512193000 +0700" stop="20260512200000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 47</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.46.0/1</episode-num><episode-num system="onscreen">S01E47</episode-num></programme>
+<programme start="20260512200000 +0700" stop="20260512203000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260512203000 +0700" stop="20260512210000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 16</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.15.0/1</episode-num><episode-num system="onscreen">S02E16</episode-num></programme>
+<programme start="20260512210000 +0700" stop="20260512213000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 7</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260512213000 +0700" stop="20260512220000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 8</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260512220000 +0700" stop="20260512223000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 46</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260512223000 +0700" stop="20260512230000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 47</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.46.0/1</episode-num><episode-num system="onscreen">S01E47</episode-num></programme>
+<programme start="20260512230000 +0700" stop="20260512233000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260512233000 +0700" stop="20260513000000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 16</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.15.0/1</episode-num><episode-num system="onscreen">S02E16</episode-num></programme>
+<programme start="20260513000000 +0700" stop="20260513003000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 7</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260513003000 +0700" stop="20260513010000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 8</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260513010000 +0700" stop="20260513013000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260513013000 +0700" stop="20260513020000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 4</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260513020000 +0700" stop="20260513023000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 46</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260513023000 +0700" stop="20260513030000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford, Ep 47</title><desc lang="id">Busur Marineford adalah busur cerita kedua puluh dua dari manga dan anime One Piece, dan busur cerita keempat dari Saga Summit War.</desc><category lang="id">Series</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.46.0/1</episode-num><episode-num system="onscreen">S01E47</episode-num></programme>
+<programme start="20260513030000 +0700" stop="20260513033000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260513033000 +0700" stop="20260513040000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 16</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.15.0/1</episode-num><episode-num system="onscreen">S02E16</episode-num></programme>
+<programme start="20260513040000 +0700" stop="20260513043000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 7</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260513043000 +0700" stop="20260513050000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Reborn To Master..., Ep 8</title><desc lang="id">Seorang raja pahlawan legendaris, Inglis, yang telah mengabdikan hidupnya untuk rakyatnya, meninggal dengan satu penyesalan: belum sempat hidup sebagai pejuang untuk dirinya sendiri. Dewi Alistia mengabulkan keinginannya dengan mereinkarnasikannya ke masa depan sebagai seorang gadis bangsawan. Namun, ia dinyatakan tidak layak menjadi ksatria sejak kecil. Alih-alih menyerah, Inglis melihatnya sebagai tantangan dan bertekad membuktikan bahwa menjadi ksatria ditentukan oleh kemampuan di medan perang, bukan oleh status atau takdir.</desc><category lang="id">Series</category><category lang="id">Action</category><category lang="id">Animated</category><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260513050000 +0700" stop="20260513053000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 3</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260513053000 +0700" stop="20260513060000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Parallel World Pharmacy, Ep 4</title><category lang="id">Series</category><category lang="id">Drama</category><category lang="id">Animated</category><category lang="id">Fantasy</category><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260513060000 +0700" stop="20260513063000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 15</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.14.0/1</episode-num><episode-num system="onscreen">S02E15</episode-num></programme>
+<programme start="20260513063000 +0700" stop="20260513070000 +0700" channel="AnimaxAsia.sg@SD"><title lang="id">Tsukimichi S2, Ep 16</title><desc lang="id">Misumi Makoto, seorang siswa SMA yang hidupnya biasa saja tiba-tiba terpanggil untuk menjadi seorang "Pahlawan" di dunia yang memanggilnya.Nahasnya, Sang Dewi dari dunia ini mengatakan dia terlalu buruk rupa dan mengasingkannya di tempat terpencil dimana banyak spesies mengerikan hidup. Naga, laba-laba, orc, kurcaci, dan spesies mengerikan lainnya selalu dihadapinya saat menjelajahi hutan belantara</desc><category lang="id">Series</category><category lang="id">Drama</category><episode-num system="xmltv_ns">1.15.0/1</episode-num><episode-num system="onscreen">S02E16</episode-num></programme>
+<programme start="20260511000000 +0700" stop="20260511003000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
+<programme start="20260511003000 +0700" stop="20260511010000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
+<programme start="20260511010000 +0700" stop="20260511013000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
+<programme start="20260511013000 +0700" stop="20260511060000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Tech &amp; Telco Forum 2026</title></programme>
+<programme start="20260511060000 +0700" stop="20260511063000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra</title></programme>
+<programme start="20260511063000 +0700" stop="20260511070000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz</title></programme>
+<programme start="20260511070000 +0700" stop="20260511073000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260511073000 +0700" stop="20260511080000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260511080000 +0700" stop="20260511100000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
+<programme start="20260511100000 +0700" stop="20260511115500 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20260511115500 +0700" stop="20260511140000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20260511140000 +0700" stop="20260511143000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260511143000 +0700" stop="20260511150000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260511150000 +0700" stop="20260511170000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
+<programme start="20260511170000 +0700" stop="20260511180500 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20260511180500 +0700" stop="20260511190000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Manufacture Check - Live</title></programme>
+<programme start="20260511190000 +0700" stop="20260511193000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260511193000 +0700" stop="20260511200000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260511200000 +0700" stop="20260511220000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
+<programme start="20260511220000 +0700" stop="20260512000000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260512000000 +0700" stop="20260512020000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
+<programme start="20260512020000 +0700" stop="20260512040000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
+<programme start="20260512040000 +0700" stop="20260512043000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260512043000 +0700" stop="20260512053000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
+<programme start="20260512053000 +0700" stop="20260512060000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260512060000 +0700" stop="20260512063000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260512063000 +0700" stop="20260512073000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Manufacture Check</title></programme>
+<programme start="20260512073000 +0700" stop="20260512080000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260512080000 +0700" stop="20260512100000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
+<programme start="20260512100000 +0700" stop="20260512115500 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20260512115500 +0700" stop="20260512140000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20260512140000 +0700" stop="20260512143000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260512143000 +0700" stop="20260512150000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Number's Bite</title></programme>
+<programme start="20260512150000 +0700" stop="20260512170000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
+<programme start="20260512170000 +0700" stop="20260512180500 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20260512180500 +0700" stop="20260512190000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz - Live</title></programme>
+<programme start="20260512190000 +0700" stop="20260512193000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260512193000 +0700" stop="20260512200000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Number's Bite</title></programme>
+<programme start="20260512200000 +0700" stop="20260512220000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
+<programme start="20260512220000 +0700" stop="20260513000000 +0700" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260511001500 +0700" stop="20260511004500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Sports</title></programme>
+<programme start="20260511004500 +0700" stop="20260511021500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20260511021500 +0700" stop="20260511024500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">World Now</title></programme>
+<programme start="20260511024500 +0700" stop="20260511041500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Prime News</title></programme>
+<programme start="20260511041500 +0700" stop="20260511044500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Akhir Pekan</title></programme>
+<programme start="20260511044500 +0700" stop="20260511053000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Gapai Kemuliaan</title></programme>
+<programme start="20260511053000 +0700" stop="20260511063000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20260511063000 +0700" stop="20260511073000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20260511073000 +0700" stop="20260511083000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Good Morning</title></programme>
+<programme start="20260511083000 +0700" stop="20260511090000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20260511090000 +0700" stop="20260511093000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20260511093000 +0700" stop="20260511100000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Today</title></programme>
+<programme start="20260511100000 +0700" stop="20260511110000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Business</title></programme>
+<programme start="20260511110000 +0700" stop="20260511124500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Hour</title></programme>
+<programme start="20260511124500 +0700" stop="20260511134500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20260511134500 +0700" stop="20260511141500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">World Now</title></programme>
+<programme start="20260511141500 +0700" stop="20260511150000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi</title></programme>
+<programme start="20260511150000 +0700" stop="20260511160000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20260511160000 +0700" stop="20260511163000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20260511163000 +0700" stop="20260511181500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20260511181500 +0700" stop="20260511190000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20260511190000 +0700" stop="20260511203000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Prime News</title></programme>
+<programme start="20260511203000 +0700" stop="20260511220000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Prime Plus With Bram</title></programme>
+<programme start="20260511220000 +0700" stop="20260511223000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20260511223000 +0700" stop="20260511230000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20260511230000 +0700" stop="20260512001500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Prime News</title></programme>
+<programme start="20260512001500 +0700" stop="20260512004500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20260512004500 +0700" stop="20260512021500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20260512021500 +0700" stop="20260512024500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">World Now</title></programme>
+<programme start="20260512024500 +0700" stop="20260512041500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Prime News</title></programme>
+<programme start="20260512041500 +0700" stop="20260512044500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Akhir Pekan</title></programme>
+<programme start="20260512044500 +0700" stop="20260512053000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Gapai Kemuliaan</title></programme>
+<programme start="20260512053000 +0700" stop="20260512063000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20260512063000 +0700" stop="20260512073000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20260512073000 +0700" stop="20260512083000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Good Morning</title></programme>
+<programme start="20260512083000 +0700" stop="20260512090000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20260512090000 +0700" stop="20260512093000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20260512093000 +0700" stop="20260512100000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Today</title></programme>
+<programme start="20260512100000 +0700" stop="20260512110000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Business</title></programme>
+<programme start="20260512110000 +0700" stop="20260512124500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Hour</title></programme>
+<programme start="20260512124500 +0700" stop="20260512134500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20260512134500 +0700" stop="20260512141500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">World Now</title></programme>
+<programme start="20260512141500 +0700" stop="20260512150000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi</title></programme>
+<programme start="20260512150000 +0700" stop="20260512160000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20260512160000 +0700" stop="20260512163000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20260512163000 +0700" stop="20260512181500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20260512181500 +0700" stop="20260512190000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20260512190000 +0700" stop="20260512203000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Prime News</title></programme>
+<programme start="20260512203000 +0700" stop="20260512213000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Inside Story With Diana</title></programme>
+<programme start="20260512213000 +0700" stop="20260512220000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20260512220000 +0700" stop="20260512223000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Check It Out!</title></programme>
+<programme start="20260512223000 +0700" stop="20260512230000 +0700" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20260512230000 +0700" stop="20260513001500 +0700" channel="CNNIndonesia.id@SD"><title lang="id">Prime News</title></programme>
+<programme start="20260510224500 +0700" stop="20260510234000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Expedition Files (S2)</title><desc lang="en">Did the CIA's mind-control experiments kill one of their own? Did Cleopatra really take her own life? Who was behind the theft of a $160m painting?</desc><category lang="en">Education</category></programme>
+<programme start="20260510234000 +0700" stop="20260511003500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Ghost Adventures (S13)</title><desc lang="en">Zak and the crew travel to Guthrie, Oklahoma, to probe the dark and mysterious Samaritan cult.</desc><category lang="en">Education</category></programme>
+<programme start="20260511003500 +0700" stop="20260511013000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">Shawn's rocky pay-streak takes him for a wild ride. Kris raids another claim but a rival dredge fights back. Vernon loses patience with his crew's performance.</desc><category lang="en">Education</category></programme>
+<programme start="20260511013000 +0700" stop="20260511022500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">With a massive storm about to hit Nome, Shawn and Ken push their operations to the brink to get one last score in. Emily gambles on untested ground.</desc><category lang="en">Education</category></programme>
+<programme start="20260511022500 +0700" stop="20260511032000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush: Winter's Fortune (S1)</title><desc lang="en">Dave Turin's on the trail of a massive honey hole in Idaho. Rick Ness levels up his racing and mining operations.</desc><category lang="en">Education</category></programme>
+<programme start="20260511032000 +0700" stop="20260511041000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">High Speed Chase (S2)</title><desc lang="en">A chance encounter in Utah escalates from death threats in a parking lot to a demolition derby on the interstate.</desc><category lang="en">Education</category></programme>
+<programme start="20260511041000 +0700" stop="20260511050000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Border Control: Sweden (S2)</title><desc lang="en">The security and customs services at the border of Sweden are on constant watch to stop illegal items from entering the country. It's their job to detect crime.</desc><category lang="en">Education</category></programme>
+<programme start="20260511050000 +0700" stop="20260511060000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">As the miners look to find more valuable ground, Shawn must fight the sea's shifting tide, Ken strains his excavator arm when digging hard cobble.</desc><category lang="en">Education</category></programme>
+<programme start="20260511060000 +0700" stop="20260511065000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Border Control: Sweden (S2)</title><desc lang="en">The security and customs services at the border of Sweden are on constant watch to stop illegal items from entering the country. It's their job to detect crime.</desc><category lang="en">Education</category></programme>
+<programme start="20260511065000 +0700" stop="20260511074000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Mike and Elvis head to sun drenched Portugal where the iconic Mini Moke has earned cult status. It's a car with a very special place in Mike's heart.</desc><category lang="en">Education</category></programme>
+<programme start="20260511074000 +0700" stop="20260511083000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Homicide Hunter: American Detective (S4)</title><desc lang="en">As Det. Mechelle Soehlig pieces together the victim's final steps, a trail of clues lead her from the site of a late-night house party to a mysterious Icelandic biker.</desc><category lang="en">Education</category></programme>
+<programme start="20260511083000 +0700" stop="20260511085500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Border Control: Spain (S9)</title><desc lang="en">At the borders of Spain, it's the job of the Security and Customs Services to detect threats from drugs, weapons, and suspected terrorists.</desc><category lang="en">Education</category></programme>
+<programme start="20260511085500 +0700" stop="20260511092000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Border Control: Spain (S9)</title><desc lang="en">At the borders of Spain, it's the job of the Security and Customs Services to detect threats from drugs, weapons, and suspected terrorists.</desc><category lang="en">Education</category></programme>
+<programme start="20260511092000 +0700" stop="20260511101000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">After the raging storm, Ken learns the Myrtle Irene's fate. Shawn uses a new tool to hunt for new hotspots. Emily brings on a new crew member from her past.</desc><category lang="en">Education</category></programme>
+<programme start="20260511101000 +0700" stop="20260511110000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Border Control: Sweden (S2)</title><desc lang="en">The security and customs services at the border of Sweden are on constant watch to stop illegal items from entering the country. It's their job to detect crime.</desc><category lang="en">Education</category></programme>
+<programme start="20260511110000 +0700" stop="20260511115000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Mike and Elvis try to give a rare Skoda 110R a rally inspired makeover, but they soon discover it's a bigger and more expensive job than they thought.</desc><category lang="en">Education</category></programme>
+<programme start="20260511115000 +0700" stop="20260511124000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Filthy Fortunes (S2)</title><desc lang="en">Matt hunts for "Back to the Future" self-lacing sneakers worth $100,000, limited-edition hip-hop tour jackets, and rare Olympic memorabilia.</desc><category lang="en">Education</category></programme>
+<programme start="20260511124000 +0700" stop="20260511133500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush: White Water (S8)</title><desc lang="en">Dustin hits rock bottom after abandoning The Wall. The crew discovers a new site, The Golden Straits, igniting a frantic race for season-saving gold.</desc><category lang="en">Education</category></programme>
+<programme start="20260511133500 +0700" stop="20260511143000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush (S16)</title><desc lang="en">Kevin is sent reeling when Parker shows up demanding the money he's owed. Parker discovers he's losing gold from a wash plant on Dominion Creek.</desc><category lang="en">Education</category></programme>
+<programme start="20260511143000 +0700" stop="20260511152500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Deadliest Catch (S10)</title><desc lang="en">With one captain in the hospital and another on a bender, fishing has come to a halt on two boats.</desc><category lang="en">Education</category></programme>
+<programme start="20260511152500 +0700" stop="20260511162000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Deadliest Catch (S10)</title><desc lang="en">Problems on land pale in comparison to those on the Bering Sea where the brave men and women of the United States Coast Guard lose one of their own.</desc><category lang="en">Education</category></programme>
+<programme start="20260511162000 +0700" stop="20260511171500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Deadliest Catch (S10)</title><desc lang="en">Opilio season kicks off with the return of the fabled Cornelia Marie. After a 3-year struggle, Josh Harris bought back the boat that helped make his old man a legend.</desc><category lang="en">Education</category></programme>
+<programme start="20260511171500 +0700" stop="20260511181000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Mike and Elvis travel to Turin and set about trying to rescue a rundown Fiat Barchetta. Unfortunately, parts prove almost impossible to find.</desc><category lang="en">Education</category></programme>
+<programme start="20260511181000 +0700" stop="20260511190500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Alien Sharks Ghosts Of Japan</title><desc lang="en">Expert Forrest Galante and a team of shark scientists uncover whether the critically endangered Japanese angel shark remains in Japan's waters.</desc><category lang="en">Education</category></programme>
+<programme start="20260511190500 +0700" stop="20260511200000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Filthy Fortunes (S2)</title><desc lang="en">In a modern-day treasure hunt, Matt Paxton and his team gamble on finding rare, potentially valuable items buried inside cluttered, filthy homes.</desc><category lang="en">Education</category></programme>
+<programme start="20260511200000 +0700" stop="20260511205500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush (S16)</title><desc lang="en">Forest fires threaten to shut down Parker's Sulphur Creek claim before he can get all the gold out.</desc><category lang="en">Education</category></programme>
+<programme start="20260511205500 +0700" stop="20260511215000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush (Specials) (S16)</title><desc lang="en">Rick Ness takes a job working on 16-year-old Parker Schnabel's gold mine. The two miners form a strong bond, bringing in millions in gold.</desc><category lang="en">Education</category></programme>
+<programme start="20260511215000 +0700" stop="20260511224500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush: White Water (S8)</title><desc lang="en">Dustin risks the lives of his entire crew at a deadly waterfall. But an all-out mutiny changes the course of his season.</desc><category lang="en">Education</category></programme>
+<programme start="20260511224500 +0700" stop="20260511234000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Alien Sharks Ghosts Of Japan</title><desc lang="en">Expert Forrest Galante and a team of shark scientists uncover whether the critically endangered Japanese angel shark remains in Japan's waters.</desc><category lang="en">Education</category></programme>
+<programme start="20260511224500 +0700" stop="20260511234000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Alien Sharks Ghosts Of Japan</title><desc lang="en">Expert Forrest Galante and a team of shark scientists uncover whether the critically endangered Japanese angel shark remains in Japan's waters.</desc><category lang="en">Education</category></programme>
+<programme start="20260511234000 +0700" stop="20260512003500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush (S16)</title><desc lang="en">Forest fires threaten to shut down Parker's Sulphur Creek claim before he can get all the gold out.</desc><category lang="en">Education</category></programme>
+<programme start="20260512003500 +0700" stop="20260512013000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush (Specials) (S16)</title><desc lang="en">Rick Ness takes a job working on 16-year-old Parker Schnabel's gold mine. The two miners form a strong bond, bringing in millions in gold.</desc><category lang="en">Education</category></programme>
+<programme start="20260512013000 +0700" stop="20260512022500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Filthy Fortunes (S2)</title><desc lang="en">In a modern-day treasure hunt, Matt Paxton and his team gamble on finding rare, potentially valuable items buried inside cluttered, filthy homes.</desc><category lang="en">Education</category></programme>
+<programme start="20260512022500 +0700" stop="20260512032000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush: White Water (S8)</title><desc lang="en">Dustin risks the lives of his entire crew at a deadly waterfall. But an all-out mutiny changes the course of his season.</desc><category lang="en">Education</category></programme>
+<programme start="20260512032000 +0700" stop="20260512041000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">After the raging storm, Ken learns the Myrtle Irene's fate. Shawn uses a new tool to hunt for new hotspots. Emily brings on a new crew member from her past.</desc><category lang="en">Education</category></programme>
+<programme start="20260512041000 +0700" stop="20260512050000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Mike and Elvis travel to Turin and set about trying to rescue a rundown Fiat Barchetta. Unfortunately, parts prove almost impossible to find.</desc><category lang="en">Education</category></programme>
+<programme start="20260512050000 +0700" stop="20260512060000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">Tensions fly as Brad leads The Reaper into hostile waters where Emily defends Claim 14 from claim jumpers. Shawn hunts an elusive pay-streak.</desc><category lang="en">Education</category></programme>
+<programme start="20260512060000 +0700" stop="20260512065000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Alien Sharks Ghosts Of Japan</title><desc lang="en">Expert Forrest Galante and a team of shark scientists uncover whether the critically endangered Japanese angel shark remains in Japan's waters.</desc><category lang="en">Education</category></programme>
+<programme start="20260512065000 +0700" stop="20260512074000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">The guys take a huge risk buying a neglected Audi RS2 that they can't test drive. Will this high-performance estate car turn into a €40k money pit?</desc><category lang="en">Education</category></programme>
+<programme start="20260512074000 +0700" stop="20260512083000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush (S16)</title><desc lang="en">Forest fires threaten to shut down Parker's Sulphur Creek claim before he can get all the gold out.</desc><category lang="en">Education</category></programme>
+<programme start="20260512083000 +0700" stop="20260512092000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush (Specials) (S16)</title><desc lang="en">Rick Ness takes a job working on 16-year-old Parker Schnabel's gold mine. The two miners form a strong bond, bringing in millions in gold.</desc><category lang="en">Education</category></programme>
+<programme start="20260512092000 +0700" stop="20260512101000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">Shawn confronts his dad for the sake of the family operation -- to disastrous results. Emily brings her father aboard The Eroica.</desc><category lang="en">Education</category></programme>
+<programme start="20260512101000 +0700" stop="20260512110000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Alien Sharks Ghosts Of Japan</title><desc lang="en">Expert Forrest Galante and a team of shark scientists uncover whether the critically endangered Japanese angel shark remains in Japan's waters.</desc><category lang="en">Education</category></programme>
+<programme start="20260512110000 +0700" stop="20260512115000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Mike and Elvis travel to Turin and set about trying to rescue a rundown Fiat Barchetta. Unfortunately, parts prove almost impossible to find.</desc><category lang="en">Education</category></programme>
+<programme start="20260512115000 +0700" stop="20260512124000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Building Off The Grid (S6)</title><desc lang="en">A couple with a passion for snowboarding build a cabin in Vermont. Can they finish this ambitious build before the harsh New England winter hits?</desc><category lang="en">Education</category></programme>
+<programme start="20260512124000 +0700" stop="20260512133500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Otto Bulletproof - Facing The Unknown (S2)</title><desc lang="en">Does Otto have what it takes to be a cowboy? In California, he reveals what he's learned and leads nearly 200 cattle across the prairie.</desc><category lang="en">Education</category></programme>
+<programme start="20260512133500 +0700" stop="20260512143000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">The Last Woodsmen (S1)</title><desc lang="en">Drowning in debt, Jared fights to keep his business afloat and his workers employed when 'fowl play' threatens to sink his float camp.</desc><category lang="en">Education</category></programme>
+<programme start="20260512143000 +0700" stop="20260512152500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Gold Rush: Mine Rescue With Freddy &amp; Juan_Specials (S4)</title><desc lang="en">Freddy and Juan expose the truth behind the pitfalls of gold-hungry miners they've encountered over the years.</desc><category lang="en">Education</category></programme>
+<programme start="20260512152500 +0700" stop="20260512171500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (b) (S13)</title><desc lang="en">After a week lost to stormy weather, the fleet scrambles to make up for lost time in innovative ways.</desc><category lang="en">Education</category></programme>
+<programme start="20260512171500 +0700" stop="20260512181000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Having wanted to buy a Ford Cortina for 20 years, Mike finally finds a rust-free Mk2 in Malta. Unfortunately, the rest of the car is a complete mess.</desc><category lang="en">Education</category></programme>
+<programme start="20260512181000 +0700" stop="20260512190500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Dual Survival (S3)</title><desc lang="en">Stranded 9000 feet above sea level in the snow covered Rocky Mountains, Cody and Joe battle hypothermia and stay alive long enough.</desc><category lang="en">Education</category></programme>
+<programme start="20260512190500 +0700" stop="20260512200000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Otto Bulletproof - Facing The Unknown (S2)</title><desc lang="en">Otto heads to the Congo River using a dugout canoe. As civil war rages in the region, an encounter with armed militia could have fatal consequences.</desc><category lang="en">Education</category></programme>
+<programme start="20260512200000 +0700" stop="20260512205500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">The Last Woodsmen (S1)</title><desc lang="en">Jared needs to move $1,000,000 of wood down a treacherous river to market. But they can't find anyone brave enough to lead the journey.</desc><category lang="en">Education</category></programme>
+<programme start="20260512205500 +0700" stop="20260512215000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Building Off The Grid (S6)</title><desc lang="en">A young family plan to build their forever home in Alabama. Can they complete this challenging build during the peak of hurricane season?</desc><category lang="en">Education</category></programme>
+<programme start="20260512215000 +0700" stop="20260512224500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Alaskan Bush People (S7)</title><desc lang="en">The Brown siblings battle boat issues while racing to meet a deadline. And, Bam strives to save the ranch money by learning from a local hay farmer.</desc><category lang="en">Education</category></programme>
+<programme start="20260512224500 +0700" stop="20260512234000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Dual Survival (S3)</title><desc lang="en">Stranded 9000 feet above sea level in the snow covered Rocky Mountains, Cody and Joe battle hypothermia and stay alive long enough.</desc><category lang="en">Education</category></programme>
+<programme start="20260512224500 +0700" stop="20260512234000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Dual Survival (S3)</title><desc lang="en">Stranded 9000 feet above sea level in the snow covered Rocky Mountains, Cody and Joe battle hypothermia and stay alive long enough.</desc><category lang="en">Education</category></programme>
+<programme start="20260512234000 +0700" stop="20260513003500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">The Last Woodsmen (S1)</title><desc lang="en">Jared needs to move $1,000,000 of wood down a treacherous river to market. But they can't find anyone brave enough to lead the journey.</desc><category lang="en">Education</category></programme>
+<programme start="20260513003500 +0700" stop="20260513013000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Building Off The Grid (S6)</title><desc lang="en">A young family plan to build their forever home in Alabama. Can they complete this challenging build during the peak of hurricane season?</desc><category lang="en">Education</category></programme>
+<programme start="20260513013000 +0700" stop="20260513022500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Otto Bulletproof - Facing The Unknown (S2)</title><desc lang="en">Otto heads to the Congo River using a dugout canoe. As civil war rages in the region, an encounter with armed militia could have fatal consequences.</desc><category lang="en">Education</category></programme>
+<programme start="20260513022500 +0700" stop="20260513032000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Alaskan Bush People (S7)</title><desc lang="en">The Brown siblings battle boat issues while racing to meet a deadline. And, Bam strives to save the ranch money by learning from a local hay farmer.</desc><category lang="en">Education</category></programme>
+<programme start="20260513032000 +0700" stop="20260513041000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">Shawn confronts his dad for the sake of the family operation -- to disastrous results. Emily brings her father aboard The Eroica.</desc><category lang="en">Education</category></programme>
+<programme start="20260513041000 +0700" stop="20260513050000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Having wanted to buy a Ford Cortina for 20 years, Mike finally finds a rust-free Mk2 in Malta. Unfortunately, the rest of the car is a complete mess.</desc><category lang="en">Education</category></programme>
+<programme start="20260513050000 +0700" stop="20260513060000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">Shawn's rocky pay-streak takes him for a wild ride. Kris raids another claim but a rival dredge fights back. Vernon loses patience with his crew's performance.</desc><category lang="en">Education</category></programme>
+<programme start="20260513060000 +0700" stop="20260513065000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Dual Survival (S3)</title><desc lang="en">Stranded 9000 feet above sea level in the snow covered Rocky Mountains, Cody and Joe battle hypothermia and stay alive long enough.</desc><category lang="en">Education</category></programme>
+<programme start="20260513065000 +0700" stop="20260513074000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">In Barcelona, Mike and Elvis try to restore a SEAT 600, but an unexpected breakdown and some nasty bills put the boys' profit margin in peril.</desc><category lang="en">Education</category></programme>
+<programme start="20260513074000 +0700" stop="20260513083000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Building Off The Grid (S6)</title><desc lang="en">A young family plan to build their forever home in Alabama. Can they complete this challenging build during the peak of hurricane season?</desc><category lang="en">Education</category></programme>
+<programme start="20260513083000 +0700" stop="20260513092000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Otto Bulletproof - Facing The Unknown (S2)</title><desc lang="en">Otto heads to the Congo River using a dugout canoe. As civil war rages in the region, an encounter with armed militia could have fatal consequences.</desc><category lang="en">Education</category></programme>
+<programme start="20260513092000 +0700" stop="20260513101000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Bering Sea Gold (S9)</title><desc lang="en">As summer's end approaches, Shawn claws his way closer to the top of the gold count. Emily leaves her unpredictable father to tend on the Eroica.</desc><category lang="en">Education</category></programme>
+<programme start="20260513101000 +0700" stop="20260513110000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Dual Survival (S3)</title><desc lang="en">Stranded 9000 feet above sea level in the snow covered Rocky Mountains, Cody and Joe battle hypothermia and stay alive long enough.</desc><category lang="en">Education</category></programme>
+<programme start="20260513110000 +0700" stop="20260513115000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Having wanted to buy a Ford Cortina for 20 years, Mike finally finds a rust-free Mk2 in Malta. Unfortunately, the rest of the car is a complete mess.</desc><category lang="en">Education</category></programme>
+<programme start="20260513115000 +0700" stop="20260513124000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Expedition Files (S1)</title><desc lang="en">Josh Gates looks closely at some of history's most intriguing hoaxes and unexplained events, including the Amityville Horror.</desc><category lang="en">Education</category></programme>
+<programme start="20260513124000 +0700" stop="20260513133500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Expedition Files (S2)</title><desc lang="en">Did the CIA's mind-control experiments kill one of their own? Did Cleopatra really take her own life? Who was behind the theft of a $160m painting?</desc><category lang="en">Education</category></programme>
+<programme start="20260513133500 +0700" stop="20260513143000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Expedition From Hell: The Lost Tapes (S1)</title><desc lang="en">Mickey loses his grip on the expedition. His questionable motives cause chaos, leading to a kidnapping and a shocking firing.</desc><category lang="en">Education</category></programme>
+<programme start="20260513143000 +0700" stop="20260513152500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Deadliest Catch (S17)</title><desc lang="en">Facing a global pandemic, half the fleet is tied up leaving a handful of boats to catch the fleet-wide quota or face closure of the fishery.</desc><category lang="en">Education</category></programme>
+<programme start="20260513152500 +0700" stop="20260513162000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Deadliest Catch (S17)</title><desc lang="en">As a polar vortex storm slams the Cornelia Marie in the far north, Josh navigates the biggest seas of his career while Casey performs emergency surgery.</desc><category lang="en">Education</category></programme>
+<programme start="20260513162000 +0700" stop="20260513171500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Deadliest Catch (S17)</title><desc lang="en">Sig makes a desperate bid to save his gear from the descending ice pack while Jake dumps pots to avoid capsize.</desc><category lang="en">Education</category></programme>
+<programme start="20260513171500 +0700" stop="20260513181000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Wheeler Dealers World Tour (S2)</title><desc lang="en">Mike and Elvis only have a shoestring budget to fix up a Hillman Imp. With a journalist lined up to review the finished car, the heat is on.</desc><category lang="en">Education</category></programme>
+<programme start="20260513181000 +0700" stop="20260513190000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Sharktopia</title><desc lang="en">In this special, Mark teams up with cinematographer and shark expert Kina Scollay to hunt for a brand new walking shark species and hunt for schooling hammerheads.</desc><category lang="en">Education</category></programme>
+<programme start="20260513190000 +0700" stop="20260513200000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">The Americas (S1)</title><desc lang="en">Baby bears make treacherous descents, rare hummingbirds compete for mates, frogs freeze and revive, and lizards battle for territory.</desc><category lang="en">Education</category></programme>
+<programme start="20260513200000 +0700" stop="20260513205500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Expedition Files (S2)</title><desc lang="en">Josh analyses the Patterson-Gimlin Bigfoot film with cutting-edge technology. Plus, was the Hindenburg airship disaster an accident or sabotage?</desc><category lang="en">Education</category></programme>
+<programme start="20260513205500 +0700" stop="20260513215000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Expedition From Hell: The Lost Tapes (S1)</title><desc lang="en">A near-deadly case of dengue fever almost stops Mickey before he's arrested at gunpoint and imprisoned in Brazil. Missing footage leads to questions.</desc><category lang="en">Education</category></programme>
+<programme start="20260513215000 +0700" stop="20260513224500 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Ghost Adventures (S13)</title><desc lang="en">The crew investigates the site of a 1996 double murder in Los Angeles' Chatsworth neighborhood.</desc><category lang="en">Education</category></programme>
+<programme start="20260513224500 +0700" stop="20260513234000 +0700" channel="DiscoveryChannelSoutheastAsia.sg@SD"><title lang="en">Sharktopia</title><desc lang="en">In this special, Mark teams up with cinematographer and shark expert Kina Scollay to hunt for a brand new walking shark species and hunt for schooling hammerheads.</desc><category lang="en">Education</category></programme>
+<programme start="20260510223000 +0700" stop="20260511000000 +0700" channel="GTV.id@SD"><title lang="id">Big Movies Indonesia</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511000000 +0700" stop="20260511001500 +0700" channel="GTV.id@SD"><title lang="id">Big Movies Indonesia</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511010000 +0700" stop="20260511050000 +0700" channel="GTV.id@SD"><title lang="id">AMAZING ENTERTAINMENT : TERTAWA TENGAH MALAM</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511050000 +0700" stop="20260511060000 +0700" channel="GTV.id@SD"><title lang="id">AMAZING ENTERTAINMENT : RAGAM PAGI</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511060000 +0700" stop="20260511090000 +0700" channel="GTV.id@SD"><title lang="id">AMAZING KIDS : SPONGEBOB SQUAREPANTS</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511090000 +0700" stop="20260511093000 +0700" channel="GTV.id@SD"><title lang="id">AMAZING KIDS : COCOMELON DAN SAHABAT</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511093000 +0700" stop="20260511100000 +0700" channel="GTV.id@SD"><title lang="id">BULETIN INEWS PAGI</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511100000 +0700" stop="20260511123000 +0700" channel="GTV.id@SD"><title lang="id">AMAZING KIDS : SPONGEBOB SQUAREPANTS</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511123000 +0700" stop="20260511133000 +0700" channel="GTV.id@SD"><title lang="id">BIG MOVIES : BLEACH</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511133000 +0700" stop="20260511143000 +0700" channel="GTV.id@SD"><title lang="id">AMAZING KIDS : ZAKSTORM</title><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511150000 +0700" stop="20260511170000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Entertainment : Superdeal Indonesia</title><desc lang="id">Super Deal Indonesia adalah acara game show fenomenal dan favorit keluarga yang berfokus pada perjuangan peserta dalam meraih hadiah impian.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511170000 +0700" stop="20260511180000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Kids : Pada Zaman Dahulu</title><desc lang="id">Pada Zaman Dahulu adalah serial animasi yang mengangkat kisah fabel rakyat Melayu, terutama kecerdikan Sang Kancil. Cerita berpusat pada Aki yang menceritakan dongeng kepada dua cucunya, Aris dan Ara, yang tinggal bersamanya di kampung. Animasi ini mengandung nilai moral, nasihat kehidupan, dan hiburan.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511180000 +0700" stop="20260511190000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Kids : Petualangan Seru Spongebob</title><desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan?penuh?warna.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511190000 +0700" stop="20260511203000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Entertainment : New Family 100</title><desc lang="id">Family 100 adalah kuis televisi di mana dua tim keluarga bersaing menebak jawaban terbanyak yang diberikan oleh 100 orang dalam sebuah survei. Tim harus menebak jawaban dari pertanyaan-pertanyaan survei yang diajukan untuk mendapatkan poin, dengan tujuan untuk memenangkan hadiah-hadiah spektakuler. Acara ini menampilkan keseruan, momen lucu, dan cerita inspiratif dari para peserta.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511203000 +0700" stop="20260511223000 +0700" channel="GTV.id@SD"><title lang="id">Big Movies</title><desc lang="id">Program yang menjadikan berbagai jenis film mulai dari petualangan, horror hingga aksi.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512000000 +0700" stop="20260512050000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Entertainment : Tertawa Tengah Malam</title><desc lang="id">Tertawa Tengah Malam adalah sinetron komedi yang mengisahkan tentang berbagai kejadian lucu dan kocak dalam kehidupan sehari-hari.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512050000 +0700" stop="20260512060000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Entertainment : Ragam Pagi</title><desc lang="id">Ragam Pagi adalah sebuah program TV yang berisi series dan komedi.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512060000 +0700" stop="20260512090000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Kids : Spongebob Squarepants</title><desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan?penuh?warna.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512090000 +0700" stop="20260512093000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Kids : Cocomelon Dan Sahabat</title><desc lang="id">Cocomelon merupakan seri animasi yang menceritakan kehidupan sehari-hari JJ, saudara-saudaranya, dan teman-temannya dalam dunia yang cerah dan penuh warna. Melalui lagu, permainan, dan petualangan sederhana, mereka belajar tentang keluarga, sopan santun, angka, huruf, serta nilai-nilai moral seperti tolong-menolong dan kasih sayang.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512093000 +0700" stop="20260512100000 +0700" channel="GTV.id@SD"><title lang="id">Buletin iNews Pagi</title><desc lang="id">Program berita harian yang menyajikan berbagai peristiwa terkini secara cepat dan akurat dari seluruh Indonesia. Mengupas berbagai masalah yang tengah hangat di masyarakat, baik di bidang sosial, ekonomi, perkotaan, hingga dunia hukum dan politik. Semuanya dikemas secara mendalam, menyentuh tapi tetap kritis. Buletin iNews Pagi, Siang, dan Malam juga dilengkapi dengan berita-berita hiburan serta feature unik baik dari dalam dan luar negeri yang disajikan secara humanis. Saksikan Buletin iNews Pagi, Siang, dan Malam hanya di GTV!</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512100000 +0700" stop="20260512120000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Kids : Spongebob Squarepants</title><desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan?penuh?warna.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512120000 +0700" stop="20260512150000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Kids : Spongebob Squarepants</title><desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan?penuh?warna.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512150000 +0700" stop="20260512170000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Entertainment : Superdeal Indonesia</title><desc lang="id">Super Deal Indonesia adalah acara game show fenomenal dan favorit keluarga yang berfokus pada perjuangan peserta dalam meraih hadiah impian.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512170000 +0700" stop="20260512180000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Kids : Pada Zaman Dahulu</title><desc lang="id">Pada Zaman Dahulu adalah serial animasi yang mengangkat kisah fabel rakyat Melayu, terutama kecerdikan Sang Kancil. Cerita berpusat pada Aki yang menceritakan dongeng kepada dua cucunya, Aris dan Ara, yang tinggal bersamanya di kampung. Animasi ini mengandung nilai moral, nasihat kehidupan, dan hiburan.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512180000 +0700" stop="20260512190000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Kids : Petualangan Seru Spongebob</title><desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan?penuh?warna.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512190000 +0700" stop="20260512203000 +0700" channel="GTV.id@SD"><title lang="id">Amazing Entertainment : New Family 100</title><desc lang="id">Family 100 adalah kuis televisi di mana dua tim keluarga bersaing menebak jawaban terbanyak yang diberikan oleh 100 orang dalam sebuah survei. Tim harus menebak jawaban dari pertanyaan-pertanyaan survei yang diajukan untuk mendapatkan poin, dengan tujuan untuk memenangkan hadiah-hadiah spektakuler. Acara ini menampilkan keseruan, momen lucu, dan cerita inspiratif dari para peserta.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260512203000 +0700" stop="20260512223000 +0700" channel="GTV.id@SD"><title lang="id">Big Movies</title><desc lang="id">Program yang menjadikan berbagai jenis film mulai dari petualangan, horror hingga aksi.</desc><image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image></programme>
+<programme start="20260511000000 +0700" stop="20260511010000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511010000 +0700" stop="20260511013000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511013000 +0700" stop="20260511020000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511020000 +0700" stop="20260511030000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511030000 +0700" stop="20260511043000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511043000 +0700" stop="20260511053000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511053000 +0700" stop="20260511060000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511060000 +0700" stop="20260511063000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511063000 +0700" stop="20260511070000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511070000 +0700" stop="20260511080000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511080000 +0700" stop="20260511093000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511093000 +0700" stop="20260511100000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511100000 +0700" stop="20260511110000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511110000 +0700" stop="20260511113000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511113000 +0700" stop="20260511140000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511140000 +0700" stop="20260511150000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511150000 +0700" stop="20260511160000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511160000 +0700" stop="20260511170000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511170000 +0700" stop="20260511180000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511180000 +0700" stop="20260511183000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511183000 +0700" stop="20260511190000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511190000 +0700" stop="20260511210000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511210000 +0700" stop="20260511220000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511220000 +0700" stop="20260511230000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511230000 +0700" stop="20260511235950 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260511235950 +0700" stop="20260511235959 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512000000 +0700" stop="20260512010000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512010000 +0700" stop="20260512013000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512013000 +0700" stop="20260512020000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512020000 +0700" stop="20260512030000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512030000 +0700" stop="20260512043000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512043000 +0700" stop="20260512053000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512053000 +0700" stop="20260512060000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512060000 +0700" stop="20260512063000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512063000 +0700" stop="20260512070000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512070000 +0700" stop="20260512080000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512080000 +0700" stop="20260512093000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512093000 +0700" stop="20260512100000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512100000 +0700" stop="20260512110000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512110000 +0700" stop="20260512113000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512113000 +0700" stop="20260512140000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512140000 +0700" stop="20260512150000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512150000 +0700" stop="20260512160000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512160000 +0700" stop="20260512170000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512170000 +0700" stop="20260512180000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512180000 +0700" stop="20260512183000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512183000 +0700" stop="20260512190000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512190000 +0700" stop="20260512210000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512210000 +0700" stop="20260512220000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512220000 +0700" stop="20260512230000 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512230000 +0700" stop="20260512235950 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260512235950 +0700" stop="20260512235959 +0700" channel="TVRISport.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<channel id="400477">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="400477" start="20260511090000 +0700" stop="20260511103000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Melbourne Demons v West Coast Eagles.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511103000 +0700" stop="20260511120000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Richmond Tigers v Adelaide Crows.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511120000 +0700" stop="20260511130000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the third stage of the race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511130000 +0700" stop="20260511140000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Tro Bro Leon.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511140000 +0700" stop="20260511150000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the first stage of the 2026 Baku-Khankendi Azerbaijan Cycling Race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511150000 +0700" stop="20260511163000 +0700">
+    <title lang="zh">Live: Men's Cycling Pro Series</title>
+    <desc>The 2026 Baku-Khankendi Azerbaijan Cycling Race. Coverage of the second stage of the race, a 193.2km route from Baku to Ismayilli.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511163000 +0700" stop="20260511170000 +0700">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>England striker Dominic Calvert-Lewin opens up on battling with anxiety at a young age, leaving Everton, and fighting off relegation with Leeds United.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511170000 +0700" stop="20260511173000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Martin Keown, Owen Hargreaves, Joe Cole and Ally McCoist to discuss the stars of the 2025/26 Premier League season.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511173000 +0700" stop="20260511190000 +0700">
+    <title lang="zh">Premier League</title>
+    <desc>Liverpool v Chelsea.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511190000 +0700" stop="20260511200000 +0700">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Liverpool Women v Brighton \u0026 Hove Albion Women.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511200000 +0700" stop="20260511210000 +0700">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Chelsea Women v Manchester City Women.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511210000 +0700" stop="20260511220000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Lecce v Juventus.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511220000 +0700" stop="20260511230000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Atalanta.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260511230000 +0700" stop="20260512000000 +0700">
+    <title lang="zh">IFSC Climbing World Series Highlights</title>
+    <desc>All the latest action from Wujiang, China.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512000000 +0700" stop="20260512013000 +0700">
+    <title lang="zh">Ultimate Pool</title>
+    <desc>Action from finals night of the Pairs Cup.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512013000 +0700" stop="20260512023000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512023000 +0700" stop="20260512033000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the third stage of the race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512033000 +0700" stop="20260512040000 +0700">
+    <title lang="zh">Fight Week</title>
+    <desc>A look back at UFC 328.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512040000 +0700" stop="20260512043000 +0700">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>England striker Dominic Calvert-Lewin opens up on battling with anxiety at a young age, leaving Everton, and fighting off relegation with Leeds United.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512043000 +0700" stop="20260512050000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512050000 +0700" stop="20260512053000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <desc>All the best action from the semi-final second-leg ties.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512053000 +0700" stop="20260512060000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Featuring Gallagher PREM side Exeter Chiefs.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512060000 +0700" stop="20260512070000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400477" start="20260512070000 +0700" stop="20260512100000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>Houston Astros v Seattle Mariners (Start-time 1.10am). Coverage of the American League match from Daikin Park.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512100000 +0700" stop="20260512110000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Orlando Pride v North Carolina Courage.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512110000 +0700" stop="20260512120000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Kansas City Current v Chicago Stars.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512120000 +0700" stop="20260512130000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at matchday 36 of the top flight, including Liverpool v Chelsea, West Ham United v Arsenal, Tottenham Hotspur v Leeds United, and Manchester City v Brentford.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512130000 +0700" stop="20260512140000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the third stage of the race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512140000 +0700" stop="20260512150000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the second stage of the 2026 Baku-Khankendi Azerbaijan Cycling Race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512150000 +0700" stop="20260512163000 +0700">
+    <title lang="zh">Live: Men's Cycling Pro Series</title>
+    <desc>The 2026 Baku-Khankendi Azerbaijan Cycling Race. Coverage of the third stage of the race, a 163.3km route from Qabala to Mingacevir.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512163000 +0700" stop="20260512164500 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512164500 +0700" stop="20260512170000 +0700">
+    <title lang="zh">Playing for Our Future - Cycling</title>
+    <desc>Asking what the future holds for cycling in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how it can be a positive force for change.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512170000 +0700" stop="20260512180000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the third stage of the race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512180000 +0700" stop="20260512230000 +0700">
+    <title lang="zh">Live: Men's Giro d'Italia</title>
+    <desc>Coverage from the fourth stage of the race, a 138km route from Catanzaro to Cosenza. This stage last year saw a 189km route from Alberobello to Lecce that was won by Dutch cyclist Casper van Uden, as he picked up his one and only victory of the race. Great Britain's Simon Yates won last year's race ahead of Mexico's Isaac del Toro and Ecuador's Richard Carapaz.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512230000 +0700" stop="20260512233000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <desc>All the best action from the semi-final second-leg ties.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260512233000 +0700" stop="20260513000000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>Arsenal's Leandro Trossard is put to the test in 'Ball Knowledge', and Esteban Cambiasso reflects on winning the UCL with Inter Milan.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513000000 +0700" stop="20260513003000 +0700">
+    <title lang="zh">Premier League Netbusters</title>
+    <desc>A unique and fast-paced look at all the best action from the top flight, including Liverpool v Chelsea, Tottenham Hotspur v Leeds United, West Ham United v Arsenal, and more.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513003000 +0700" stop="20260513010000 +0700">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Andros Townsend reflects on a career that took him through some of England's biggest clubs, while navigating the setbacks and defining moments that tested him on and off the pitch.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513010000 +0700" stop="20260513013000 +0700">
+    <title lang="zh">Match Officials Mic'd Up</title>
+    <desc>PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513013000 +0700" stop="20260513020000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Martin Keown, Owen Hargreaves, Joe Cole and Ally McCoist to discuss the stars of the 2025/26 Premier League season.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513020000 +0700" stop="20260513030000 +0700">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Liverpool Women v Brighton \u0026 Hove Albion Women.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513030000 +0700" stop="20260513040000 +0700">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Chelsea Women v Manchester City Women.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513040000 +0700" stop="20260513041500 +0700">
+    <title lang="zh">Premier League Reload</title>
+    <desc>A unique and fast-paced look at all the best action from the top flight, including Liverpool v Chelsea, West Ham United v Arsenal, Tottenham Hotspur v Leeds, and more.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513041500 +0700" stop="20260513043000 +0700">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best action from the MotoGP Grand Prix of France.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513043000 +0700" stop="20260513053000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513053000 +0700" stop="20260513060000 +0700">
+    <title lang="zh">MLB Lead Off</title>
+    <desc>A look at the upcoming MLB action.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400477" start="20260513060000 +0700" stop="20260513070000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>Atlanta Braves v Chicago Cubs (Start-time 12.15am). Coverage of the National League match from Truist Park. These two sides last met back in September in a three-match series at this venue that saw the visitors win two of those games. The Braves won the first contest 4-1 before the Cubs replied with 6-1 and 3-2 victories.</desc>
+    <date>2026-05-12</date>
+  </programme>
+<channel id="400480">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="400480" start="20260511070000 +0700" stop="20260511073000 +0700">
+    <title lang="zh">UFC Connected</title>
+    <desc>A unique look inside the UFC with exclusive access to fighters, teams and events from around the globe.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511073000 +0700" stop="20260511080000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Martin Keown, Owen Hargreaves, Joe Cole and Ally McCoist to discuss the stars of the 2025/26 Premier League season.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511080000 +0700" stop="20260511083000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>Action from Paris Saint-Germain v Bayern Munich.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511083000 +0700" stop="20260511090000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>Action from Bayern Munich v Paris Saint-Germain.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511090000 +0700" stop="20260511093000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>Action from Atletico Madrid v Arsenal.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511093000 +0700" stop="20260511100000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>Action from Arsenal v Atletico Madrid.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511100000 +0700" stop="20260511103000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <desc>Action from the semi-final first-leg matches.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511103000 +0700" stop="20260511110000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <desc>All the best action from the semi-final second-leg ties.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511110000 +0700" stop="20260511113000 +0700">
+    <title lang="zh">World Rally Championship</title>
+    <desc>Action from the third day of the Rally de Portugal.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511113000 +0700" stop="20260511120000 +0700">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511120000 +0700" stop="20260511130000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France Moto3 race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511130000 +0700" stop="20260511140000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France Moto2 race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511140000 +0700" stop="20260511143000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France sprint race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511143000 +0700" stop="20260511153000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France MotoGP race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511153000 +0700" stop="20260511163000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Lecce v Juventus.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511163000 +0700" stop="20260511173000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Atalanta.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511173000 +0700" stop="20260511180000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511180000 +0700" stop="20260511183000 +0700">
+    <title lang="zh">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <desc>All the best action from the semi-final second-leg ties.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511183000 +0700" stop="20260511190000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>The 2013/14 UEFA Champions League final in Lisbon saw Real Madrid go head-to-head with arch-rivals Atletico Madrid. Real aimed to become the first club to win the trophy 10 times.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511190000 +0700" stop="20260511200000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511200000 +0700" stop="20260511210000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Tro Bro Leon.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511210000 +0700" stop="20260511220000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the third stage of the race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511220000 +0700" stop="20260511230000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511230000 +0700" stop="20260511233000 +0700">
+    <title lang="zh">Ninja A-League Women Highlights</title>
+    <desc>Action from the latest semi-final second-leg ties.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260511233000 +0700" stop="20260512000000 +0700">
+    <title lang="zh">Isuzu UTE A-League Highlights</title>
+    <desc>Action from the latest semi-final first-leg ties.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512000000 +0700" stop="20260512013000 +0700">
+    <title lang="zh">LIV Golf</title>
+    <desc>Action from the fourth and final day of the seventh round of the season, which takes place at Trump National Golf Club Washington in Potomac Falls, Virginia.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512013000 +0700" stop="20260512014500 +0700">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>A look back at all of the biggest stories and best action from the 15th round of fixtures, including Bristol Bears v Saracens, Exeter Chiefs v Bath Rugby, and more.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512014500 +0700" stop="20260512020000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512020000 +0700" stop="20260512030000 +0700">
+    <title lang="zh">WRC Review</title>
+    <desc>A look back at the latest action from Rally Portugal.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512030000 +0700" stop="20260512040000 +0700">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>A look back at the winter of 2022.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512040000 +0700" stop="20260512050000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Orlando Pride v North Carolina Courage.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512050000 +0700" stop="20260512060000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Kansas City Current v Chicago Stars.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512060000 +0700" stop="20260512070000 +0700">
+    <title lang="zh">UFC</title>
+    <desc>Khamzat Chimaev v Sean Strickland.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400480" start="20260512090000 +0700" stop="20260512093000 +0700">
+    <title lang="zh">Fight Week</title>
+    <desc>A look back at UFC 328.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512093000 +0700" stop="20260512111500 +0700">
+    <title lang="zh">UFC Reloaded</title>
+    <desc>A look back at the heavyweight bout between Derrick Lewis and Shamil Abdurakhimov from December 2016 in Albany. Francis Ngannou and Anthony Hamilton clashed in the co-main event.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512111500 +0700" stop="20260512113000 +0700">
+    <title lang="zh">Kenny Allstar's Number 1's</title>
+    <desc>The hosts talks all things firsts and favourites with Danny Welbeck.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512113000 +0700" stop="20260512120000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Behind the scenes at Gallagher PREM side Bristol Bears.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512120000 +0700" stop="20260512130000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Lecce v Juventus.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512130000 +0700" stop="20260512140000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Atalanta.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512140000 +0700" stop="20260512150000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France Moto3 race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512150000 +0700" stop="20260512160000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France Moto2 race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512160000 +0700" stop="20260512163000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France sprint race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512163000 +0700" stop="20260512173000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France MotoGP race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512173000 +0700" stop="20260512183000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at matchday 36 of the top flight, including Liverpool v Chelsea, West Ham United v Arsenal, Tottenham Hotspur v Leeds United, and Manchester City v Brentford.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512183000 +0700" stop="20260512190000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>Arsenal's Leandro Trossard is put to the test in 'Ball Knowledge', and Esteban Cambiasso reflects on winning the UCL with Inter Milan.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512190000 +0700" stop="20260512200000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512200000 +0700" stop="20260512210000 +0700">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at matchday 36 of the top flight, including Liverpool v Chelsea, West Ham United v Arsenal, Tottenham Hotspur v Leeds United, and Manchester City v Brentford.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512210000 +0700" stop="20260512220000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Lecce v Juventus.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512220000 +0700" stop="20260512230000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Atalanta.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512230000 +0700" stop="20260512234500 +0700">
+    <title lang="zh">Sign Up - Into Football</title>
+    <desc>Fulham special, featuring head coach Marco Silva and captain Tom Cairney. Glenn Hoddle on the Premier League, FA Cup and World Cup. Plus, England Deaf Women win t"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"he Futsal Euros.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260512234500 +0700" stop="20260513000000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260513000000 +0700" stop="20260513010000 +0700">
+    <title lang="zh">LIV Golf</title>
+    <desc>A review of the seventh round of the season in Virginia.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260513010000 +0700" stop="20260513020000 +0700">
+    <title lang="zh">Rolex SailGP Championship</title>
+    <desc>Action from the fifth round of the season in Bermuda.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260513020000 +0700" stop="20260513030000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Gloucester Rugby v Sale Sharks.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260513030000 +0700" stop="20260513040000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Leicester Tigers v Northampton Saints.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260513040000 +0700" stop="20260513050000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Saracens.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260513050000 +0700" stop="20260513060000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Exeter Chiefs v Bath Rugby.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260513060000 +0700" stop="20260513070000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Newcastle Red Bulls v Harlequins.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400480" start="20260513070000 +0700" stop="20260514070000 +0700">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>A look back at all of the biggest stories and best action from the 15th round of fixtures, including Bristol Bears v Saracens, Exeter Chiefs v Bath Rugby, and more.</desc>
+    <date>2026-05-13</date>
+  </programme>
+<channel id="400479">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="400479" start="20260511070000 +0700" stop="20260511080000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Newcastle Red Bulls v Harlequins.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511080000 +0700" stop="20260511090000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Atalanta.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511090000 +0700" stop="20260511100000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the third stage of the race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511100000 +0700" stop="20260511110000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Tro Bro Leon.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511110000 +0700" stop="20260511120000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the first stage of the 2026 Baku-Khankendi Azerbaijan Cycling Race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511120000 +0700" stop="20260511133000 +0700">
+    <title lang="zh">LIV Golf</title>
+    <desc>Action from the fourth and final day of the seventh round of the season, which takes place at Trump National Golf Club Washington in Potomac Falls, Virginia.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511133000 +0700" stop="20260511140000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>We revisit the 1996/97 UEFA Champions League final between Borussia Dortmund and Juventus in Munich. Armed with an expensively assembled squad, Juve were overwhelming favourites.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511140000 +0700" stop="20260511143000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>Real Madrid went in search of their seventh European Cup title when they faced Juventus in the 1998 final in Amsterdam. The Serie A winners featured a 25-year-old Zinedine Zidane.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511143000 +0700" stop="20260511150000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>A look back at the 1999/00 UEFA Champions League final between Real Madrid and Valencia in Paris. Steve McManaman, signed from Liverpool the previous summer, featured for Madrid.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511150000 +0700" stop="20260511153000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>We revisit the dramatic 2001 final between Bayern Munich and Valencia in Milan. Bayern, chasing their first title in a quarter-century, featured a 20-year-old Owen Hargreaves.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511153000 +0700" stop="20260511160000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>The 2001/02 UEFA Champions League final saw a star-studded Real Madrid face Bayer Leverkusen in Glasgow. The match featured arguably the greatest goal in the competition's history.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511160000 +0700" stop="20260511163000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>We revisit the 2003/04 UEFA Champions League final between Monaco and Porto in Gelsenkirchen. Jose Mourinho would leave Porto to take over at Chelsea just days later.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511163000 +0700" stop="20260511170000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>We revisit the 2011/12 UEFA Champions League final between Bayern Munich and Chelsea at the Allianz Arena. This was Chelsea's second final, having lost their first in 2008.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511170000 +0700" stop="20260511183000 +0700">
+    <title lang="zh">LIV Golf</title>
+    <desc>Action from the fourth and final day of the seventh round of the season, which takes place at Trump National Golf Club Washington in Potomac Falls, Virginia.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511183000 +0700" stop="20260511193000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Gloucester Rugby v Sale Sharks.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511193000 +0700" stop="20260511203000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Leicester Tigers v Northampton Saints.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511203000 +0700" stop="20260511213000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Saracens.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511213000 +0700" stop="20260511223000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Exeter Chiefs v Bath Rugby.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511223000 +0700" stop="20260511233000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Newcastle Red Bulls v Harlequins.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260511233000 +0700" stop="20260512003000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France Moto3 race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512003000 +0700" stop="20260512013000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France Moto2 race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512013000 +0700" stop="20260512020000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France sprint race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512020000 +0700" stop="20260512030000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France MotoGP race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512030000 +0700" stop="20260512031500 +0700">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>A look back at all of the biggest stories and best action from the 15th round of fixtures, including Bristol Bears v Saracens, Exeter Chiefs v Bath Rugby, and more.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512031500 +0700" stop="20260512033000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512033000 +0700" stop="20260512043000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the second stage of the 2026 Baku-Khankendi Azerbaijan Cycling Race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512043000 +0700" stop="20260512053000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the third stage of the race.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512053000 +0700" stop="20260512063000 +0700">
+    <title lang="zh">UCI Gravel World Series</title>
+    <desc>Action from Valkenburg in the Netherlands.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512063000 +0700" stop="20260512070000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Lecce v Juventus.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400479" start="20260512073000 +0700" stop="20260512083000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Atalanta.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512083000 +0700" stop="20260512100000 +0700">
+    <title lang="zh">LIV Golf</title>
+    <desc>Action from the fourth and final day of the seventh round of the season, which takes place at Trump National Golf Club Washington in Potomac Falls, Virginia.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512100000 +0700" stop="20260512110000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Tro Bro Leon.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512110000 +0700" stop="20260512120000 +0700">
+    <title lang="zh">IFSC Climbing World Series Highlights</title>
+    <desc>All the latest action from Wujiang, China.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512120000 +0700" stop="20260512130000 +0700">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>A look back at the winter of 2022.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512130000 +0700" stop="20260512140000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Gloucester Rugby v Sale Sharks.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512140000 +0700" stop="20260512150000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Leicester Tigers v Northampton Saints.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512150000 +0700" stop="20260512160000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Saracens.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512160000 +0700" stop="20260512170000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Exeter Chiefs v Bath Rugby.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512170000 +0700" stop="20260512180000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Newcastle Red Bulls v Harlequins.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512180000 +0700" stop="20260512230000 +0700">
+    <title lang="zh">Live: Men's Giro d'Italia</title>
+    <desc>Coverage from the fourth stage of the race, a 138km route from Catanzaro to Cosenza. This stage last year saw a 189km route from Alberobello to Lecce that was won by Dutch cyclist Casper van Uden, as he picked up his one and only victory of the race. Great Britain's Simon Yates won last year's race ahead of Mexico's Isaac del Toro and Ecuador's Richard Carapaz.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260512230000 +0700" stop="20260513000000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Orlando Pride v North Carolina Courage.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260513000000 +0700" stop="20260513010000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Kansas City Current v Chicago Stars.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260513010000 +0700" stop="20260513020000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the third stage of the Baku-Khankendi Azerbaijan Cycling Race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260513020000 +0700" stop="20260513030000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the fourth stage of the race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260513030000 +0700" stop="20260513040000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>Lecce v Juventus.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260513040000 +0700" stop="20260513050000 +0700">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Atalanta.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260513050000 +0700" stop="20260513060000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Orlando Pride v North Carolina Courage.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260513060000 +0700" stop="20260513070000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Kansas City Current v Chicago Stars.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400479" start="20260513070000 +0700" stop="20260514070000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>Action from the fourth stage of the race.</desc>
+    <date>2026-05-13</date>
+  </programme>
+<channel id="400478">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="400478" start="20260511073000 +0700" stop="20260511090000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Richmond Tigers v Adelaide Crows.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511090000 +0700" stop="20260511100000 +0700">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Liverpool Women v Brighton \u0026 Hove Albion Women.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511100000 +0700" stop="20260511110000 +0700">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Chelsea Women v Manchester City Women.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511110000 +0700" stop="20260511120000 +0700">
+    <title lang="zh">World Superbike Highlights</title>
+    <desc>Action from the fourth round of the season in Hungary.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511120000 +0700" stop="20260511130000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Gloucester Rugby v Sale Sharks.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511130000 +0700" stop="20260511140000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Leicester Tigers v Northampton Saints.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511140000 +0700" stop="20260511150000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Saracens.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511150000 +0700" stop="20260511160000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Exeter Chiefs v Bath Rugby.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511160000 +0700" stop="20260511170000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Newcastle Red Bulls v Harlequins.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511170000 +0700" stop="20260511183000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Fremantle Dockers v Hawthorn Hawks.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511183000 +0700" stop="20260511200000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Brisbane Lions v Carlton Blues.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511200000 +0700" stop="20260511213000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Port Adelaide Power v Western Bulldogs.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511213000 +0700" stop="20260511230000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>North Melbourne Kangaroos v Sydney Swans.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260511230000 +0700" stop="20260512000000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512000000 +0700" stop="20260512003000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>Action from Arsenal v Atletico Madrid.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512003000 +0700" stop="20260512010000 +0700">
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    <desc>Action from Bayern Munich v Paris Saint-Germain.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512010000 +0700" stop="20260512020000 +0700">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Liverpool Women v Brighton \u0026 Hove Albion Women.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512020000 +0700" stop="20260512030000 +0700">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Chelsea Women v Manchester City Women.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512030000 +0700" stop="20260512033000 +0700">
+    <title lang="zh">Ninja A-League Women Highlights</title>
+    <desc>Action from the latest semi-final second-leg ties.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512033000 +0700" stop="20260512040000 +0700">
+    <title lang="zh">Isuzu UTE A-League Highlights</title>
+    <desc>Action from the latest semi-final first-leg ties.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512040000 +0700" stop="20260512050000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512050000 +0700" stop="20260512063000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Fremantle Dockers v Hawthorn Hawks.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512063000 +0700" stop="20260512070000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Brisbane Lions v Carlton Blues.</desc>
+    <date>2026-05-11</date>
+  </programme>
+  <programme channel="400478" start="20260512080000 +0700" stop="20260512093000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Port Adelaide Power v Western Bulldogs.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512093000 +0700" stop="20260512110000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>North Melbourne Kangaroos v Sydney Swans.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512110000 +0700" stop="20260512120000 +0700">
+    <title lang="zh">WRC Review</title>
+    <desc>A look back at the latest action from Rally Portugal.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512120000 +0700" stop="20260512133000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>GWS Giants v Essendon Bombers.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512133000 +0700" stop="20260512150000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Gold Coast Suns v St Kilda Saints.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512150000 +0700" stop="20260512163000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Geelong Cats v Collingwood Magpies.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512163000 +0700" stop="20260512180000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Melbourne Demons v West Coast Eagles.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512180000 +0700" stop="20260512193000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Richmond Tigers v Adelaide Crows.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512193000 +0700" stop="20260512200000 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>Featuring Gallagher PREM side Exeter Chiefs.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512200000 +0700" stop="20260512210000 +0700">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>A look back at the winter of 2022.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512210000 +0700" stop="20260512220000 +0700">
+    <title lang="zh">WRC Review</title>
+    <desc>A look back at the latest action from Rally Portugal.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512220000 +0700" stop="20260512230000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France Moto3 race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260512230000 +0700" stop="20260513000000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France Moto2 race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513000000 +0700" stop="20260513003000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France sprint race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513003000 +0700" stop="20260513013000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the Grand Prix of France MotoGP race.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513013000 +0700" stop="20260513023000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513023000 +0700" stop="20260513033000 +0700">
+    <title lang="zh">WRC Review</title>
+    <desc>A look back at the latest action from Rally Portugal.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513033000 +0700" stop="20260513040000 +0700">
+    <title lang="zh">Ninja A-League Women Highlights</title>
+    <desc>Action from the latest semi-final second-leg ties.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513040000 +0700" stop="20260513043000 +0700">
+    <title lang="zh">Isuzu UTE A-League Highlights</title>
+    <desc>Action from the latest semi-final first-leg ties.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513043000 +0700" stop="20260513053000 +0700">
+    <title lang="zh">European Le Mans Series Highlights</title>
+    <desc>Action from Le Castellet, France.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513053000 +0700" stop="20260513060000 +0700">
+    <title lang="zh">Michelin Le Mans Cup Highlights</title>
+    <desc>Action from Le Castellet, France.</desc>
+    <date>2026-05-12</date>
+  </programme>
+  <programme channel="400478" start="20260513060000 +0700" stop="20260513070000 +0700">
+    <title lang="zh">AFL</title>
+    <desc>Gold Coast Suns v St Kilda Saints.</desc>
+    <date>2026-05-12</date>
+  </programme>
+</tv>
