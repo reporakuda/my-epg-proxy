@@ -18,10 +18,11 @@ SOURCES = [
     "https://epg.pw/api/epg.xml?channel_id=524073",
     "https://epg.pw/api/epg.xml?channel_id=524003",
     "https://epg.pw/api/epg.xml?channel_id=524184",
+    "https://epg.pw/api/epg.xml?channel_id=524033",
     "https://www.open-epg.com/files/slovakia2.xml"
 ]
 # 2. Daftar Channel ID yang ingin kamu ambil (sesuaikan dengan ID di sumber)
-WANTED_CHANNELS = ["beINSports1.qa@Indonesia", "beINSports2.qa@MENA", "beINSports3.qa@Indonesia", "beINSports4.qa@MENA", "beINSports1.au", "beINSports2.au", "beINSports3.au", "SoccerChannel.id@SD", "Sportstars.id@SD", "Sportstars2.id@SD", "524003", "Sportstars3.id@SD", "524184", "Sportstars4.id@SD", "Sport 1.sk", "Sport 2.sk", "SPOTV.id@SD", "SPOTV2.id@SD", "400477", "400480", "400479", "400478", "TVRISport.id@SD", "AnimaxAsia.sg@SD", "CelestialMoviesIndonesia.id@SD", "CinemaxAsia.sg@SD", "Galaxy.id@SD", "GalaxyPremium.id@SD", "HBOAsia.sg@SD", "HBOFamilyAsia.sg@SD", "HBOHitsAsia.sg@SD", "HBOSignatureAsia.sg@SD", "IMC.id@SD", "tvNMoviesAsia.hk@SD", "ANTV.id@SD", "CNBCIndonesia.id@SD", "CNNIndonesia.id@SD", "DiscoveryChannelSoutheastAsia.sg@SD", "GTV.id@SD", "Indosiar.id@SD", "iNews.id@SD", "JakTV.id@SD", "KompasTV.id@SD", "MDTV.id@SD", "MNCTV.id@SD", "Moji.id@SD", "RCTI.id@SD", "RTV.id@SD", "SINDONews.id@SD", "SCTV.id@SD", "Trans7.id@SD", "TransTV.id@SD", "TVOne.id@SD", "TVRI.id@SD", "Okey.my", "Sukan RTM.my"]
+WANTED_CHANNELS = ["beINSports1.qa@Indonesia", "beINSports2.qa@MENA", "beINSports3.qa@Indonesia", "beINSports4.qa@MENA", "beINSports1.au", "beINSports2.au", "beINSports3.au", "SoccerChannel.id@SD", "Sportstars.id@SD", "Sportstars2.id@SD", "524003", "Sportstars3.id@SD", "524184", "Sportstars4.id@SD", "524033", "Sport 1.sk", "Sport 2.sk", "SPOTV.id@SD", "SPOTV2.id@SD", "400477", "400480", "400479", "400478", "TVRISport.id@SD", "AnimaxAsia.sg@SD", "CelestialMoviesIndonesia.id@SD", "CinemaxAsia.sg@SD", "Galaxy.id@SD", "GalaxyPremium.id@SD", "HBOAsia.sg@SD", "HBOFamilyAsia.sg@SD", "HBOHitsAsia.sg@SD", "HBOSignatureAsia.sg@SD", "IMC.id@SD", "tvNMoviesAsia.hk@SD", "ANTV.id@SD", "CNBCIndonesia.id@SD", "CNNIndonesia.id@SD", "DiscoveryChannelSoutheastAsia.sg@SD", "GTV.id@SD", "Indosiar.id@SD", "iNews.id@SD", "JakTV.id@SD", "KompasTV.id@SD", "MDTV.id@SD", "MNCTV.id@SD", "Moji.id@SD", "RCTI.id@SD", "RTV.id@SD", "SINDONews.id@SD", "SCTV.id@SD", "Trans7.id@SD", "TransTV.id@SD", "TVOne.id@SD", "TVRI.id@SD", "Okey.my", "Sukan RTM.my"]
 
 # 3. Header agar dianggap browser asli
 HEADERS = {
