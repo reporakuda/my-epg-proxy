@@ -1,6 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 import gzip
+import re  # Tambahkan re untuk regex
 from datetime import datetime, timedelta
 import os
 
@@ -53,8 +54,18 @@ def convert_to_plus_7(time_str):
         print(f"⚠️ Gagal konversi waktu {time_str}: {e}")
         return time_str
 
+def sanitize_xml(xml_string):
+    """Membersihkan karakter ilegal yang merusak parser XML"""
+    # 1. Perbaiki ampersand yang sendirian (paling sering bikin error)
+    # Mengubah '&' menjadi '&amp;' jika tidak diikuti oleh kode entitas
+    clean_data = re.sub(r"&(?!(?:amp|lt|gt|quot|apos);)", "&amp;", xml_string)
+    
+    # 2. Buang karakter kontrol non-printable (ASCII 0-31 kecuali tab, newline, dsb)
+    clean_data = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", clean_data)
+    
+    return clean_data
+
 def create_epg():
-    # Inisialisasi Root XMLTV Baru
     new_root = ET.Element("tv")
     new_root.set("generator-info-name", "Rakuda-EPG-Aggregator")
     
@@ -67,47 +78,52 @@ def create_epg():
             response = requests.get(url, headers=HEADERS, timeout=60)
             
             if response.status_code != 200:
-                print(f"❌ Error {response.status_code} pada {url}")
+                print(f"❌ Error {response.status_code}")
                 continue
 
             content = response.content
-
-            # Cek jika file terkompresi Gzip
             if url.endswith('.gz') or content.startswith(b'\x1f\x8b'):
-                print(f"📦 Mengekstrak Gzip...")
                 content = gzip.decompress(content)
 
-            # Parse XML
-            root = ET.fromstring(content)
-            print(f"✅ XML Berhasil dimuat.")
+            # --- PROSES SANITASI (PEMBERSIHAN) ---
+            # Decode ke string dulu untuk dibersihkan
+            try:
+                raw_xml = content.decode('utf-8')
+            except UnicodeDecodeError:
+                raw_xml = content.decode('iso-8859-1') # Fallback jika bukan utf-8
 
-            # 1. Filter & Tambah Elemen <channel>
+            clean_xml = sanitize_xml(raw_xml)
+            
+            # Parse dari string yang sudah bersih
+            root = ET.fromstring(clean_xml)
+            print(f"✅ XML Berhasil dimuat dan dibersihkan.")
+            # -------------------------------------
+
             for channel in root.findall("channel"):
                 ch_id = channel.get("id")
                 if ch_id in WANTED_CHANNELS and ch_id not in channels_added:
                     new_root.append(channel)
                     channels_added.add(ch_id)
 
-            # 2. Filter & Tambah Elemen <programme>
             for programme in root.findall("programme"):
                 ch_id = programme.get("channel")
                 if ch_id in WANTED_CHANNELS:
-                    # Ambil dan konversi waktu start/stop
                     start = programme.get("start")
                     stop = programme.get("stop")
-                    
                     programme.set("start", convert_to_plus_7(start))
                     programme.set("stop", convert_to_plus_7(stop))
-                    
                     new_root.append(programme)
                     program_count += 1
 
         except Exception as e:
+            # Jika error terjadi di baris tertentu, log akan lebih detail
             print(f"❌ Gagal memproses {url}: {e}")
 
     # Simpan file akhir
-    print(f"📝 Menyusun file akhir dengan {len(channels_added)} channel dan {program_count} jadwal...")
     tree = ET.ElementTree(new_root)
+    output_file = "my_epg.xml"
+    tree.write(output_file, encoding="utf-8", xml_declaration=True)
+    print(f"🚀 Selesai! File: {output_file}")
     
     # Simpan ke folder yang sama dengan script
     output_file = "my_epg.xml"
