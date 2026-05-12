@@ -2,7 +2,7 @@ name: Update My EPG
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Jalan setiap 6 jam
+    - cron: '23 */6 * * *' # Jalan setiap 6 jam
   workflow_dispatch:      # Tombol manual jika ingin update mendadak
 
 jobs:
