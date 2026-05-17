@@ -4021,6 +4021,7 @@
 <channel id="RCTI.id"><display-name>RCTI.id</display-name><icon src="https://images.open-epg.com/x1298.png" /></channel>
 <channel id="RTV.id"><display-name>RTV.id</display-name><icon src="https://images.open-epg.com/x1297.png" /></channel>
 <channel id="SCTV.id"><display-name>SCTV.id</display-name><icon src="https://images.open-epg.com/x1301.png" /></channel>
+<channel id="SindonewsTV.id"><display-name>Sindonews TV.id</display-name><icon src="https://images.open-epg.com/x1207.png" /></channel>
 <channel id="SoccerChannel.id"><display-name>Soccer Channel.id</display-name><icon src="https://images.open-epg.com/x1321.png" /></channel>
 <channel id="Sportstars.id"><display-name>Sportstars.id</display-name><icon src="https://images.open-epg.com/x1318.png" /></channel>
 <channel id="Sportstars2.id"><display-name>Sportstars 2.id</display-name><icon src="https://images.open-epg.com/x1333.png" /></channel>
@@ -5303,6 +5304,30 @@
 <programme start="20260519123000 +0700" stop="20260519140000 +0700" channel="SCTV.id"><title>SCTV FTV Siang Cowok Tajir Bikin Hati Nggak Santuy</title><desc>Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc></programme>
 <programme start="20260519140000 +0700" stop="20260519153000 +0700" channel="SCTV.id"><title>SCTV FTV Siang Mau Pilih Kamu Tapi Gak Ada Di Menu</title><desc>Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc></programme>
 <programme start="20260519153000 +0700" stop="20260519170000 +0700" channel="SCTV.id"><title>SCTV FTV Sore Kutuklah Aku Dengan Cintamu, Pliss!</title><desc>Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc></programme>
+<programme start="20260517003000 +0700" stop="20260517013000 +0700" channel="SindonewsTV.id"><title>iNews Sore</title></programme>
+<programme start="20260517013000 +0700" stop="20260517030000 +0700" channel="SindonewsTV.id"><title>SINDO Breaking News</title></programme>
+<programme start="20260517030000 +0700" stop="20260517040000 +0700" channel="SindonewsTV.id"><title>iNews Malam</title></programme>
+<programme start="20260517040000 +0700" stop="20260517050000 +0700" channel="SindonewsTV.id"><title>SINDO Sore</title></programme>
+<programme start="20260517050000 +0700" stop="20260517053000 +0700" channel="SindonewsTV.id"><title>Ayat-Ayat Langit</title></programme>
+<programme start="20260517053000 +0700" stop="20260517063000 +0700" channel="SindonewsTV.id"><title>SINDO Malam</title></programme>
+<programme start="20260517063000 +0700" stop="20260517073000 +0700" channel="SindonewsTV.id"><title>iNews Files</title></programme>
+<programme start="20260517073000 +0700" stop="20260517090000 +0700" channel="SindonewsTV.id"><title>SINDO Today</title></programme>
+<programme start="20260517090000 +0700" stop="20260517100000 +0700" channel="SindonewsTV.id"><title>Special Report</title></programme>
+<programme start="20260517100000 +0700" stop="20260517103000 +0700" channel="SindonewsTV.id"><title>Autotech</title></programme>
+<programme start="20260517103000 +0700" stop="20260517120000 +0700" channel="SindonewsTV.id"><title>SINDO Siang</title></programme>
+<programme start="20260517120000 +0700" stop="20260517123000 +0700" channel="SindonewsTV.id"><title>Food Diary</title></programme>
+<programme start="20260517123000 +0700" stop="20260517130000 +0700" channel="SindonewsTV.id"><title>I Love Indonesia</title></programme>
+<programme start="20260517130000 +0700" stop="20260517143000 +0700" channel="SindonewsTV.id"><title>SINDO Today</title></programme>
+<programme start="20260517143000 +0700" stop="20260517153000 +0700" channel="SindonewsTV.id"><title>iNews Siang</title></programme>
+<programme start="20260517153000 +0700" stop="20260517163000 +0700" channel="SindonewsTV.id"><title>Top Issue</title></programme>
+<programme start="20260517163000 +0700" stop="20260517180000 +0700" channel="SindonewsTV.id"><title>SINDO Sore</title></programme>
+<programme start="20260517180000 +0700" stop="20260517190000 +0700" channel="SindonewsTV.id"><title>SINDO Files Weekend</title></programme>
+<programme start="20260517190000 +0700" stop="20260517200000 +0700" channel="SindonewsTV.id"><title>Inside Story</title></programme>
+<programme start="20260517200000 +0700" stop="20260517203000 +0700" channel="SindonewsTV.id"><title>OMG</title></programme>
+<programme start="20260517203000 +0700" stop="20260517213000 +0700" channel="SindonewsTV.id"><title>SINDO Malam</title></programme>
+<programme start="20260517213000 +0700" stop="20260517223000 +0700" channel="SindonewsTV.id"><title>iNews Room Weekend</title></programme>
+<programme start="20260517223000 +0700" stop="20260517233000 +0700" channel="SindonewsTV.id"><title>Top Issue</title></programme>
+<programme start="20260517233000 +0700" stop="20260518003000 +0700" channel="SindonewsTV.id"><title>Special Report</title></programme>
 <programme start="20260517080000 +0700" stop="20260517083000 +0700" channel="SoccerChannel.id"><title>Planet Football</title><desc>Planet Football</desc></programme>
 <programme start="20260517083000 +0700" stop="20260517085500 +0700" channel="SoccerChannel.id"><title>The Ultimate Goals</title><desc>World-class goal footage packaged into a show that football fans can enjoy.</desc></programme>
 <programme start="20260517085500 +0700" stop="20260517110000 +0700" channel="SoccerChannel.id"><title>Pro Futsal League Indonesia (L)</title><desc>Pro Futsal League Indonesia (L) — Live coverage of Indonesia’s premier futsal competition featuring top clubs battling for supremacy. Known for its fast-paced action, technical skill, and high-scoring encounters, the league highlights tactical discipline and individual brilliance on the indoor court. With championship ambitions and playoff positions on the line, every match delivers excitement and intensity.</desc></programme>
