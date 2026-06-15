@@ -14,145 +14,6 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/1850/image" />
     <url>http://www.fetchtv.com.au</url>
   </channel>
-  <programme start="20260613080000 +0700" stop="20260613110000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Den Bosch Evening QFs</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E126</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613110000 +0700" stop="20260613140000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Stuttgart Day QFs</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E137</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613140000 +0700" stop="20260613170000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Stuttgart Evening QFs</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E138</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613170000 +0700" stop="20260613220000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Stuttgart SFs</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E139</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613220000 +0700" stop="20260613230000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Classic</title>
-    <sub-title lang="en">Federer v Nadal 2005</sub-title>
-    <desc lang="en">We delve into the ATP archives for another classic encounter when Roger Federer met Rafael Nadal in the final at Miami in 2005.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/401955/image/334x188" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613230000 +0700" stop="20260614000000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP</title>
-    <sub-title lang="en">Agassi &amp; Djokovic at Miami</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/192345/image/334x188" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614000000 +0700" stop="20260614010000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Classic</title>
-    <sub-title lang="en">Nadal v Djokovic 2016</sub-title>
-    <desc lang="en">We delve into the ATP archives for another classic encounter when Rafael Nadal met Novak Djokovic in the quarter final at Cincinnati in 2016.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/401955/image/334x188" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614010000 +0700" stop="20260614020000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP</title>
-    <sub-title lang="en">Federer v Nadal at Miami</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/192345/image/334x188" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614020000 +0700" stop="20260614030000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Classic</title>
-    <sub-title lang="en">Djokovic v Nadal 2009</sub-title>
-    <desc lang="en">We delve into the ATP archives for another classic encounter when Novak Djokovic met Rafael Nadal in the final at Rome in 2009.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/401955/image/334x188" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614030000 +0700" stop="20260614040000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Acapulco</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403097/image/334x188" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614040000 +0700" stop="20260614050000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Dubai</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403097/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614050000 +0700" stop="20260614060000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Indian Wells</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403097/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614060000 +0700" stop="20260614063000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Tour: This Week</title>
-    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/105381/image/334x188" />
-    <episode-num system="onscreen">E22</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614063000 +0700" stop="20260614093000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Den Bosch SFs</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E127</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20260614093000 +0700" stop="20260614123000 +0700" channel="beINSports1.au">
     <title lang="en">ATP 250</title>
     <sub-title lang="en">Stuttgart SFs</sub-title>
@@ -792,230 +653,98 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613070000 +0700" stop="20260613080000 +0700" channel="beINSports2.au">
-    <title lang="en">MUTV All The Goals</title>
-    <sub-title lang="en">Rashford</sub-title>
-    <desc lang="en">Enjoy exclusive access to programming related to the Red Devils as part of MUTV, only on beIN Sports.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/407504/image/334x188" />
-    <episode-num system="onscreen">S1 E11</episode-num>
+  <programme start="20260620073000 +0700" stop="20260620093000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613080000 +0700" stop="20260613090000 +0700" channel="beINSports2.au">
-    <title lang="en">MUTV All The Goals</title>
-    <sub-title lang="en">Martial II</sub-title>
-    <desc lang="en">In this MUTV special, enjoy every goal from this United legend, from 1 yard tap-ins to 30 yard screamers and everything in between.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/407504/image/334x188" />
-    <episode-num system="onscreen">S1 E45</episode-num>
+  <programme start="20260620093000 +0700" stop="20260620113000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613090000 +0700" stop="20260613093000 +0700" channel="beINSports2.au">
-    <title lang="en">Fastzone</title>
-    <desc lang="en">Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/373572/image/334x188" />
-    <episode-num system="onscreen">E9</episode-num>
+  <programme start="20260620113000 +0700" stop="20260620133000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613093000 +0700" stop="20260613100000 +0700" channel="beINSports2.au">
-    <title lang="en">Formula Regional Highlights</title>
-    <sub-title lang="en">Spa</sub-title>
-    <desc lang="en">Catch the highlights of all the races of Formula Regional European Championship this season.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/394329/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
+  <programme start="20260620133000 +0700" stop="20260620153000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613100000 +0700" stop="20260613103000 +0700" channel="beINSports2.au">
-    <title lang="en">FIA Truck Racing Highlights</title>
-    <sub-title lang="en">Slovakiaring</sub-title>
-    <desc lang="en">Catch all the non-stop tumbling action from the European Truck Racing Championships, packed into a 30-mins thrilling highlight program.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/364251/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
+  <programme start="20260620153000 +0700" stop="20260620173000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613103000 +0700" stop="20260613113000 +0700" channel="beINSports2.au">
-    <title lang="en">DTM Highlights</title>
-    <sub-title lang="en">Red Bull Ring</sub-title>
-    <desc lang="en">Catch the highlights from every round of the 2026 DTM.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360949/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
+  <programme start="20260620173000 +0700" stop="20260620193000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613113000 +0700" stop="20260613123000 +0700" channel="beINSports2.au">
-    <title lang="en">DTM Highlights</title>
-    <sub-title lang="en">Zandvoort</sub-title>
-    <desc lang="en">Catch the highlights from every round of the 2026 DTM.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360949/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
+  <programme start="20260620193000 +0700" stop="20260620213000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613123000 +0700" stop="20260613130000 +0700" channel="beINSports2.au">
-    <title lang="en">Porsche Carrera Cup Highlights</title>
-    <sub-title lang="en">Imola</sub-title>
-    <desc lang="en">Catch up on all the action from the Porsche Carrera Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362820/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
+  <programme start="20260620213000 +0700" stop="20260620233000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613130000 +0700" stop="20260613133000 +0700" channel="beINSports2.au">
-    <title lang="en">Porsche Carrera Cup Highlights</title>
-    <sub-title lang="en">Red Bull Ring</sub-title>
-    <desc lang="en">Catch up on all the action from the Porsche Carrera Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362820/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
+  <programme start="20260620233000 +0700" stop="20260621013000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613133000 +0700" stop="20260613140000 +0700" channel="beINSports2.au">
-    <title lang="en">Porsche Carrera Cup Highlights</title>
-    <sub-title lang="en">Spa</sub-title>
-    <desc lang="en">Catch up on all the action from the Porsche Carrera Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362820/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
+  <programme start="20260621013000 +0700" stop="20260621033000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613140000 +0700" stop="20260613150000 +0700" channel="beINSports2.au">
-    <title lang="en">Ferrari Challenge</title>
-    <sub-title lang="en">Race 2, Le Mans</sub-title>
-    <desc lang="en">The Ferrari Challenge has been an integral part of the world of racing for over three decades.Today, the Prancing Horse's one-make series spans five different regions: Europe, North America,United Kingdom, Japan and Australasia.Witness the action all season long - from February to the glittering highlight at the World Finals!</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360878/image/334x188" />
-    <episode-num system="onscreen">E14</episode-num>
+  <programme start="20260621033000 +0700" stop="20260621053000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613150000 +0700" stop="20260613153000 +0700" channel="beINSports2.au">
-    <title lang="en">WTA All Access</title>
-    <sub-title lang="en">Clay Season</sub-title>
-    <desc lang="en">WTA All Access tells the compelling stories from the 2026 season of the WTA Tour.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/355845/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613153000 +0700" stop="20260613160000 +0700" channel="beINSports2.au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Rome</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar: the 'Big Ten\.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/370712/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613160000 +0700" stop="20260613200000 +0700" channel="beINSports2.au">
-    <title lang="en">WTA 250</title>
-    <sub-title lang="en">Den Bosch SFs</sub-title>
-    <desc lang="en">Watch every tournament from the WTA 250 tour as the top female players in the world travel the globe vying to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/402387/image/334x188" />
-    <episode-num system="onscreen">E40</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613200000 +0700" stop="20260614010000 +0700" channel="beINSports2.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Den Bosch SFs</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E127</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614010000 +0700" stop="20260614020000 +0700" channel="beINSports2.au">
-    <title lang="en">Ferrari Challenge Highlights</title>
-    <sub-title lang="en">Mugello</sub-title>
-    <desc lang="en">Catch the highlights of all the rounds of the Ferrari Challenge Europe 2026.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/394070/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614020000 +0700" stop="20260614030000 +0700" channel="beINSports2.au">
-    <title lang="en">Ferrari Challenge Highlights</title>
-    <sub-title lang="en">Spielberg</sub-title>
-    <desc lang="en">Catch the highlights of all the rounds of the Ferrari Challenge Europe 2026.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/394070/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614030000 +0700" stop="20260614033000 +0700" channel="beINSports2.au">
-    <title lang="en">Fastzone</title>
-    <desc lang="en">Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/373572/image/334x188" />
-    <episode-num system="onscreen">E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614033000 +0700" stop="20260614040000 +0700" channel="beINSports2.au">
-    <title lang="en">Formula Regional Highlights</title>
-    <sub-title lang="en">Spa</sub-title>
-    <desc lang="en">Catch the highlights of all the races of Formula Regional European Championship this season.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/394329/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614040000 +0700" stop="20260614043000 +0700" channel="beINSports2.au">
-    <title lang="en">FIA Truck Racing Highlights</title>
-    <sub-title lang="en">Slovakiaring</sub-title>
-    <desc lang="en">Catch all the non-stop tumbling action from the European Truck Racing Championships, packed into a 30-mins thrilling highlight program.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/364251/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614043000 +0700" stop="20260614053000 +0700" channel="beINSports2.au">
-    <title lang="en">DTM Highlights</title>
-    <sub-title lang="en">Red Bull Ring</sub-title>
-    <desc lang="en">Catch the highlights from every round of the 2026 DTM.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360949/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614053000 +0700" stop="20260614063000 +0700" channel="beINSports2.au">
-    <title lang="en">DTM Highlights</title>
-    <sub-title lang="en">Zandvoort</sub-title>
-    <desc lang="en">Catch the highlights from every round of the 2026 DTM.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360949/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614063000 +0700" stop="20260614070000 +0700" channel="beINSports2.au">
-    <title lang="en">Porsche Carrera Cup Highlights</title>
-    <sub-title lang="en">Imola</sub-title>
-    <desc lang="en">Catch up on all the action from the Porsche Carrera Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362820/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
+  <programme start="20260621053000 +0700" stop="20260621073000 +0700" channel="beINSports1.au">
+    <title lang="en">beIN SPORTS 1</title>
+    <desc lang="en">beIN SPORTS 1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/157/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -1851,222 +1580,98 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613070000 +0700" stop="20260613072500 +0700" channel="beINSports3.au">
-    <title lang="en">MUTV: 2000 Premier League Goals</title>
-    <sub-title lang="en">2009/10</sub-title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this series.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/410007/image/334x188" />
-    <episode-num system="onscreen">S1 E11</episode-num>
+  <programme start="20260620073000 +0700" stop="20260620093000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613072500 +0700" stop="20260613075000 +0700" channel="beINSports3.au">
-    <title lang="en">MUTV: 2000 Premier League Goals</title>
-    <sub-title lang="en">2010/11</sub-title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this series.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/410007/image/334x188" />
-    <episode-num system="onscreen">S1 E12</episode-num>
+  <programme start="20260620093000 +0700" stop="20260620113000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613075000 +0700" stop="20260613081000 +0700" channel="beINSports3.au">
-    <title lang="en">MUTV: 2000 Premier League Goals</title>
-    <sub-title lang="en">2011/12</sub-title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this series.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/410007/image/334x188" />
-    <episode-num system="onscreen">S1 E13</episode-num>
+  <programme start="20260620113000 +0700" stop="20260620133000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613081000 +0700" stop="20260613083000 +0700" channel="beINSports3.au">
-    <title lang="en">MUTV: 2000 Premier League Goals</title>
-    <sub-title lang="en">2012/13</sub-title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this series.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/410007/image/334x188" />
-    <episode-num system="onscreen">S1 E14</episode-num>
+  <programme start="20260620133000 +0700" stop="20260620153000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613083000 +0700" stop="20260613090000 +0700" channel="beINSports3.au">
-    <title lang="en">MUTV: 2000 Premier League Goals</title>
-    <sub-title lang="en">1999/00</sub-title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this series.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/410007/image/334x188" />
-    <episode-num system="onscreen">S1 E18</episode-num>
+  <programme start="20260620153000 +0700" stop="20260620173000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613090000 +0700" stop="20260613104000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Real Madrid vs Barcelona - 2015/16</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E99</episode-num>
+  <programme start="20260620173000 +0700" stop="20260620193000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613104000 +0700" stop="20260613122000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Barcelona vs Real Madrid - 2016/17</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E116</episode-num>
+  <programme start="20260620193000 +0700" stop="20260620213000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613122000 +0700" stop="20260613140000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Real Madrid vs Barcelona - 2016/17</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E126</episode-num>
+  <programme start="20260620213000 +0700" stop="20260620233000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613140000 +0700" stop="20260613143000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Real Madrid vs Barcelona - 2022/23</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E58</episode-num>
+  <programme start="20260620233000 +0700" stop="20260621013000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613143000 +0700" stop="20260613150000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Barcelona vs Real Madrid - 2023/24</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E72</episode-num>
+  <programme start="20260621013000 +0700" stop="20260621033000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613150000 +0700" stop="20260613165000 +0700" channel="beINSports3.au">
-    <title lang="en">SPFL Premiership</title>
-    <sub-title lang="en">Rangers vs Celtic</sub-title>
-    <desc lang="en">Join us for exclusive coverage of the Scottish Premiership 2025/26 season as Scotland's elite teams battle for the title.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/317659/image/334x188" />
-    <episode-num system="onscreen">E55</episode-num>
+  <programme start="20260621033000 +0700" stop="20260621053000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260613165000 +0700" stop="20260613170000 +0700" channel="beINSports3.au">
-    <title lang="en">Old Firm Classic</title>
-    <sub-title lang="en">Rangers vs Celtic - 2023/24</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/376683/image/334x188" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613170000 +0700" stop="20260613173000 +0700" channel="beINSports3.au">
-    <title lang="en">WTA All Access</title>
-    <sub-title lang="en">Clay Season</sub-title>
-    <desc lang="en">WTA All Access tells the compelling stories from the 2026 season of the WTA Tour.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/355845/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613173000 +0700" stop="20260613223000 +0700" channel="beINSports3.au">
-    <title lang="en">WTA 500</title>
-    <sub-title lang="en">Queen's Evening SFs</sub-title>
-    <desc lang="en">Watch every tournament from the WTA 500 tour as the top female players in the world travel the globe vying to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/401223/image/334x188" />
-    <episode-num system="onscreen">E70</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613223000 +0700" stop="20260613230000 +0700" channel="beINSports3.au">
-    <title lang="en">WTA All Access</title>
-    <sub-title lang="en">Aussie Summer</sub-title>
-    <desc lang="en">WTA All Access tells the compelling stories from the 2026 season of the WTA Tour.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/355845/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260613230000 +0700" stop="20260614004000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Real Madrid vs Barcelona - 2015/16</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E99</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614004000 +0700" stop="20260614022000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Barcelona vs Real Madrid - 2016/17</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E116</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614022000 +0700" stop="20260614040000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Real Madrid vs Barcelona - 2016/17</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E126</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614040000 +0700" stop="20260614043000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Real Madrid vs Barcelona - 2022/23</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E58</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614043000 +0700" stop="20260614050000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Barcelona vs Real Madrid - 2023/24</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E72</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614050000 +0700" stop="20260614065000 +0700" channel="beINSports3.au">
-    <title lang="en">SPFL Premiership</title>
-    <sub-title lang="en">Rangers vs Celtic</sub-title>
-    <desc lang="en">Join us for exclusive coverage of the Scottish Premiership 2025/26 season as Scotland's elite teams battle for the title.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/317659/image/334x188" />
-    <episode-num system="onscreen">E55</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260614065000 +0700" stop="20260614070000 +0700" channel="beINSports3.au">
-    <title lang="en">Old Firm Classic</title>
-    <sub-title lang="en">Rangers vs Celtic - 2023/24</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/376683/image/334x188" />
-    <episode-num system="onscreen">S1 E19</episode-num>
+  <programme start="20260621053000 +0700" stop="20260621073000 +0700" channel="beINSports2.au">
+    <title lang="en">beIN SPORTS 2</title>
+    <desc lang="en">beIN SPORTS 2.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/158/image/334x188" />
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -2930,6 +2535,102 @@
     </rating>
   </programme>
   <programme start="20260620053000 +0700" stop="20260620073000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620073000 +0700" stop="20260620093000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620093000 +0700" stop="20260620113000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620113000 +0700" stop="20260620133000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620133000 +0700" stop="20260620153000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620153000 +0700" stop="20260620173000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620173000 +0700" stop="20260620193000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620193000 +0700" stop="20260620213000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620213000 +0700" stop="20260620233000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260620233000 +0700" stop="20260621013000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260621013000 +0700" stop="20260621033000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260621033000 +0700" stop="20260621053000 +0700" channel="beINSports3.au">
+    <title lang="en">beIN SPORTS 3</title>
+    <desc lang="en">beIN SPORTS 3.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260621053000 +0700" stop="20260621073000 +0700" channel="beINSports3.au">
     <title lang="en">beIN SPORTS 3</title>
     <desc lang="en">beIN SPORTS 3.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/159/image/334x188" />
@@ -5054,71 +4755,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20260614071500 +0700" stop="20260614111500 +0700">
-    <title lang="zh">Live International T20 Cricket</title>
-    <desc>West Indies v Sri Lanka. Coverage of the second match in the three-game series, held at Sabina Park in Kingston, Jamaica.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260614111500 +0700" stop="20260614113000 +0700">
-    <title lang="zh">What Went Down</title>
-    <desc>UFC President and CEO Dana White looks at the biggest moments in the company's history.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260614113000 +0700" stop="20260614114500 +0700">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Hungary.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260614114500 +0700" stop="20260614193000 +0700">
-    <title lang="zh">Live: One Day International Cricket</title>
-    <desc>Bangladesh v Australia. Coverage of the third and final ODI in the series from Sher-E-Bangla National Cricket Stadium in Dhaka.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260614193000 +0700" stop="20260614221500 +0700">
-    <title lang="zh">Live: Premiership Women's Rugby</title>
-    <desc>Gloucester-Hartpury v Ealing Trailfinders (Kick-off 2.00pm). Coverage of the semi-final match at Kingsholm.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260614221500 +0700" stop="20260615004500 +0700">
-    <title lang="zh">Live: Premiership Women's Rugby</title>
-    <desc>Saracens v Exeter Chiefs (Kick-off 4.30pm). Coverage of the semi-final match at StoneX Stadium.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260615004500 +0700" stop="20260615014500 +0700">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>The Rugby Awards at the Old Billingsgate in London, a landmark awards ceremony showcasing the very best of elite English rugby.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260615014500 +0700" stop="20260615020000 +0700">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260615020000 +0700" stop="20260615050000 +0700">
-    <title lang="zh">Live MLB</title>
-    <desc>San Francisco Giants v Chicago Cubs (Start-time 8.10pm). Coverage of the National League match at Oracle Park.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260615050000 +0700" stop="20260615051500 +0700">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>Action from the second T20 between West Indies and Sri Lanka.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260615051500 +0700" stop="20260615061500 +0700">
-    <title lang="zh">UFC Countdown</title>
-    <desc>A look ahead to the historic Freedom 250 event at The White House, where Ilia Topuria will battle Justin Gaethje for the UFC Lightweight title.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260615061500 +0700" stop="20260615063000 +0700">
-    <title lang="zh">What Went Down</title>
-    <desc>UFC President and CEO Dana White looks at the biggest moments in the company's history.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400477" start="20260615063000 +0700" stop="20260615070000 +0700">
-    <title lang="zh">UFC Breakdown</title>
-    <desc>A preview of the forthcoming UFC Freedom 250 event, which is due to take place on the South Lawn at The White House.</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="400477" start="20260615070000 +0700" stop="20260615113000 +0700">
     <title lang="zh">Live UFC</title>
     <desc>Coverage of UFC Freedom 250 held on the South Lawn of the White House in Washington, D.C., which is headlined by the Light-Heavyweight title fight between Ilia Topuria and Justin Gaethje. The event is being held as part of this year's celebrations in recognition of the 250th anniversary of the United States Declaration of Independence, when the Thirteen Colonies declared themselves as independent </desc>
@@ -5214,135 +4850,25 @@
     <desc>Documentary series that follows MMA fighters.</desc>
     <date>2026-06-15</date>
   </programme>
+  <programme channel="400477" start="20260616073000 +0700" stop="20260616080000 +0700">
+    <title lang="zh">UFC Fight Flashback</title>
+    <desc>A look back at the light heavyweight title showdown between Jon Jones and Daniel Cormier at UFC 182 in January 2015.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400477" start="20260616080000 +0700" stop="20260616090000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400477" start="20260616090000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>Los Angeles Dodgers v Tampa Bay Rays (Start-time 3.00am). Coverage of the inter-league match at Dodger Stadium. This is the first contest in a three-game series between the teams and both sides have impressed so far this season. The Dodgers had the better of the matches involving the teams last year, winning two of the three encounters, all of which took place in Tampa.</desc>
+    <date>2026-06-16</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20260614090000 +0700" stop="20260614093000 +0700">
-    <title lang="zh">UFC Connected</title>
-    <desc>A unique look inside the UFC with exclusive access to fighters, teams and events from around the globe.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614093000 +0700" stop="20260614100000 +0700">
-    <title lang="zh">World Superbikes</title>
-    <desc>Action from the first Superbike race at Misano World Circuit in Emilia-Romagna, Italy.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614100000 +0700" stop="20260614110000 +0700">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Bath Rugby v Exeter Chiefs. Action from the semi-final at The Recreation Ground.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614110000 +0700" stop="20260614120000 +0700">
-    <title lang="zh">Women's Giro d'Italia</title>
-    <desc>A review of the best action from 2026 Giro d'Italia Women.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614120000 +0700" stop="20260614150000 +0700">
-    <title lang="zh">Live AFL</title>
-    <desc>St Kilda v GWS Giants (Bounce-up 6.15am). Coverage of the match from the 14th round of fixtures, which takes place at Marvel Stadium in Melbourne.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614150000 +0700" stop="20260614151500 +0700">
-    <title lang="zh">World Superbike Rewind</title>
-    <desc>Action from the latest round of the season in Aragon, Spain.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614151500 +0700" stop="20260614154500 +0700">
-    <title lang="zh">World Superbikes</title>
-    <desc>Action from the first Superbike race at Misano World Circuit in Emilia-Romagna, Italy.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614154500 +0700" stop="20260614164500 +0700">
-    <title lang="zh">Live: World Superbikes</title>
-    <desc>Coverage of the Superpole race at Misano World Circuit in Emilia-Romagna, Italy, where the seventh round of the season takes place.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614164500 +0700" stop="20260614173000 +0700">
-    <title lang="zh">Live: Women's Circuit Racing World Championship</title>
-    <desc>Coverage of race two at Misano World Circuit in Emilia-Romagna, Italy, where the fourth round of the season takes place.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614173000 +0700" stop="20260614183000 +0700">
-    <title lang="zh">Live: World Superbikes</title>
-    <desc>Coverage of Sportbike race two at Misano World Circuit in Emilia-Romagna, Italy, where the seventh round of the season takes place.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614183000 +0700" stop="20260614200000 +0700">
-    <title lang="zh">Live: World Superbikes</title>
-    <desc>Coverage of Superbike race two at Misano World Circuit in Emilia-Romagna, Italy, where the seventh round of the season takes place.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614200000 +0700" stop="20260614211500 +0700">
-    <title lang="zh">Live: World Superbikes</title>
-    <desc>Coverage of Supersport race two at Misano World Circuit in Emilia-Romagna, Italy, where the seventh round of the season takes place.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614211500 +0700" stop="20260614213000 +0700">
-    <title lang="zh">UEFA Champions League Goals Reload</title>
-    <desc>A look back at the best goals from the quarter-finals, semi-finals and final.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614213000 +0700" stop="20260614214500 +0700">
-    <title lang="zh">UEFA Europa League Goals Reload</title>
-    <desc>A look back at the best goals from the quarter-finals, semi-finals and final.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614214500 +0700" stop="20260614220000 +0700">
-    <title lang="zh">UEFA Conference League Goals Reload</title>
-    <desc>A look back at the best goals from the quarter-finals, semi-finals and final.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614220000 +0700" stop="20260614230000 +0700">
-    <title lang="zh">MLB Highlights</title>
-    <desc>Action from Major League Baseball.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260614230000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">Live MLB</title>
-    <desc>Pittsburgh Pirates v Miami Marlins (Start-time 5.15pm). Coverage of the National League match at PNC Park.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260615020000 +0700" stop="20260615030000 +0700">
-    <title lang="zh">International T20 Cricket Highlights</title>
-    <desc>West Indies v Sri Lanka. Action from the second match in the three-game series, held at Kingston Park in Jamaica.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260615030000 +0700" stop="20260615031500 +0700">
-    <title lang="zh">No Filter Football</title>
-    <desc>A special behind-the-scenes look at the Women's FA Cup Final, as WSL champions Manchester City took on first-time finalists Brighton \u0026 Hove Albion.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260615031500 +0700" stop="20260615033000 +0700">
-    <title lang="zh">What Went Down</title>
-    <desc>UFC President and CEO Dana White looks at the biggest moments in the company's history.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260615033000 +0700" stop="20260615040000 +0700">
-    <title lang="zh">UFC Breakdown</title>
-    <desc>A preview of the forthcoming UFC Freedom 250 event, which is due to take place on the South Lawn at The White House.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260615040000 +0700" stop="20260615050000 +0700">
-    <title lang="zh">Premiership Women's Rugby</title>
-    <desc>Gloucester-Hartpury v Ealing Trailfinders in the first semi-final.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260615050000 +0700" stop="20260615060000 +0700">
-    <title lang="zh">Premiership Women's Rugby</title>
-    <desc>Saracens and Exeter Chiefs in the second semi-final.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260615060000 +0700" stop="20260615061500 +0700">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>Action from the first T20 between West Indies and Sri Lanka.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400480" start="20260615061500 +0700" stop="20260615070000 +0700">
-    <title lang="zh">International T20 Cricket Highlights</title>
-    <desc>West Indies v Sri Lanka. Action from the second match in the three-game series, held at Kingston Park in Jamaica.</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="400480" start="20260615071500 +0700" stop="20260615111500 +0700">
     <title lang="zh">Live International T20 Cricket</title>
     <desc>West Indies v Sri Lanka. Coverage of the final match in the three-game series, held at Kingston Park in Jamaica.</desc>
@@ -5493,65 +5019,50 @@
     <desc>Bangladesh v Australia. Action from the second ODI in the three-match series from Sher-E-Bangla National Cricket Stadium in Dhaka.</desc>
     <date>2026-06-15</date>
   </programme>
-  <programme channel="400480" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="400480" start="20260616070000 +0700" stop="20260616080000 +0700">
     <title lang="zh">One Day International Cricket</title>
     <desc>Bangladesh v Australia. Action from the third ODI in the three-match series, which took place at Sher-e-Bangla National Cricket Stadium in Dhaka.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400480" start="20260616080000 +0700" stop="20260616090000 +0700">
+    <title lang="zh">Longines Global Champions Tour</title>
+    <desc>Action from the Grand Prix of Saint Tropez at Pampelonne Beach in France.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400480" start="20260616090000 +0700" stop="20260616093000 +0700">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>Including Manchester United v Chelsea from 2008, and Real Madrid v Atletico Madrid from 2014.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400480" start="20260616093000 +0700" stop="20260616100000 +0700">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>Including AC Milan v Liverpool from 2007, and Chelsea v Bayern Munich from 2012.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400480" start="20260616100000 +0700" stop="20260616103000 +0700">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>Including Borussia Dortmund v Juventus from 1997, and Real Madrid v Atletico Madrid from 2016.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400480" start="20260616103000 +0700" stop="20260616110000 +0700">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>A look back at some of the famous finals from the UEFA Champions League era, featuring Real Madrid v Liverpool from 2018 and AC Milan v Barcelona from 1994.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400480" start="20260616110000 +0700" stop="20260616120000 +0700">
+    <title lang="zh">World Superbike Highlights</title>
+    <desc>Action from the seventh round of the season at Misano World Circuit in Emilia-Romagna, Italy.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400480" start="20260616120000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">UEFA Europa League</title>
+    <desc>SC Freiburg v Aston Villa. Action from the final, which took place at Besiktas Stadium in Istanbul, Turkiye.</desc>
     <date>2026-06-16</date>
   </programme>
 <channel id="400479">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400479" start="20260614120000 +0700" stop="20260614220000 +0700">
-    <title lang="zh">Live FIA World Endurance Championship</title>
-    <desc>Coverage from the 24 Hours of Le Mans, as the third round of the season takes place at Circuit de la Sarthe in Le Mans, France. This prestigious race, first held in 1923, is the oldest endurance event in the world, and is one of three races in the 'triple crown' alongside the Formula 1 Monaco Grand Prix and the Indycar Indianapolis 500. Legendary British driver Graham Hill is the only driver to co</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260614220000 +0700" stop="20260614230000 +0700">
-    <title lang="zh">WRC Review</title>
-    <desc>The best action from the 2026 World Rally Championship so far, including events in Monte Carlo, Sweden, Kenya, and Japan.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260614230000 +0700" stop="20260615003000 +0700">
-    <title lang="zh">AFL</title>
-    <desc>Richmond v Brisbane Lions.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260615003000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">AFL</title>
-    <desc>St Kilda v GWS Giants.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260615020000 +0700" stop="20260615030000 +0700">
-    <title lang="zh">Roland Garros</title>
-    <desc>A look back at the 2026 tournament.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260615030000 +0700" stop="20260615033000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the elite cross-country Olympic race in Leogang, Austria.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260615033000 +0700" stop="20260615040000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the elite cross-country Olympic race in Leogang, Austria.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260615040000 +0700" stop="20260615050000 +0700">
-    <title lang="zh">Men's Cycling World Tour</title>
-    <desc>Action from the eighth stage of the Tour Auvergne Rhone Alpes.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260615050000 +0700" stop="20260615060000 +0700">
-    <title lang="zh">Men's Cycling World Tour</title>
-    <desc>Action from the Copenhagen Sprint.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400479" start="20260615060000 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Live MLB</title>
-    <desc>Boston Red Sox v Texas Rangers (Start-time 12.20am). Coverage of the American League match at Fenway Park.</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="400479" start="20260615090000 +0700" stop="20260615103000 +0700">
     <title lang="zh">AFL</title>
     <desc>Richmond v Brisbane Lions.</desc>
@@ -5667,115 +5178,40 @@
     <desc>Action from Chelsea v Manchester City in the final.</desc>
     <date>2026-06-15</date>
   </programme>
+  <programme channel="400479" start="20260616073000 +0700" stop="20260616080000 +0700">
+    <title lang="zh">The Muddy Roots of Football - Part 1</title>
+    <desc>Following a football team in the highlands of Ireland made of members of the same family who speak a language that none of their opponents understand.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400479" start="20260616080000 +0700" stop="20260616090000 +0700">
+    <title lang="zh">Premiership Women's Rugby</title>
+    <desc>Gloucester-Hartpury v Ealing Trailfinders in the first semi-final.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400479" start="20260616090000 +0700" stop="20260616100000 +0700">
+    <title lang="zh">Premiership Women's Rugby</title>
+    <desc>Saracens and Exeter Chiefs in the second semi-final.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400479" start="20260616100000 +0700" stop="20260616110000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Northampton Saints v Leicester Tigers. Action from the semi-final match at cinch Stadium at Franklin's Gardens.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400479" start="20260616110000 +0700" stop="20260616120000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bath Rugby v Exeter Chiefs. Action from the semi-final at The Recreation Ground.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400479" start="20260616120000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">UCI Mountain Bike World Series Women</title>
+    <desc>Action from the Challenge Mallorca and Trofeo Llucmajor events.</desc>
+    <date>2026-06-16</date>
+  </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400478" start="20260614070000 +0700" stop="20260614080000 +0700">
-    <title lang="zh">Women's Cycling World Tour</title>
-    <desc>Action from the 2026 Copenhagen Sprint.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614080000 +0700" stop="20260614100000 +0700">
-    <title lang="zh">London Nocturne Criterium</title>
-    <desc>Action from the elite women's and men's races at the City of London Nocturne Criterium, featuring 1.3km closed-road loop weaving through iconic locations.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614100000 +0700" stop="20260614130000 +0700">
-    <title lang="zh">Live AFL</title>
-    <desc>Richmond Tigers v Brisbane Lions (Bounce-up 4.10am). Coverage of the match from Ninja Stadium in Hobart.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614130000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">Women's Cycling World Tour</title>
-    <desc>Action from the 2026 Copenhagen Sprint.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614140000 +0700" stop="20260614150000 +0700">
-    <title lang="zh">Men's Cycling World Tour</title>
-    <desc>Action from the seventh stage of the Tour Auvergne Rhone Alpes.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614150000 +0700" stop="20260614153000 +0700">
-    <title lang="zh">The Cycling Show</title>
-    <desc>All the latest news from the world of cycling.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614153000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite downhill in Leogang, Austria.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614160000 +0700" stop="20260614163000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the women's elite downhill in Leogang, Austria.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614163000 +0700" stop="20260614183000 +0700">
-    <title lang="zh">Live: UCI Mountain Bike World Series Women (?)</title>
-    <desc>).</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614183000 +0700" stop="20260614204500 +0700">
-    <title lang="zh">Live: UCI Mountain Bike World Series Men (?)</title>
-    <desc>).</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614204500 +0700" stop="20260614221500 +0700">
-    <title lang="zh">Live: Men's Cycling World Tour (?)</title>
-    <desc>).</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260614221500 +0700" stop="20260615001500 +0700">
-    <title lang="zh">London Nocturne Criterium</title>
-    <desc>Action from the elite women's and men's races at the City of London Nocturne Criterium, featuring 1.3km closed-road loop weaving through iconic locations.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615001500 +0700" stop="20260615003000 +0700">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>Action from the second T20 between West Indies and Sri Lanka.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615003000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">Ultimate Pool</title>
-    <desc>Action from finals night of the Pairs Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615020000 +0700" stop="20260615030000 +0700">
-    <title lang="zh">Longines Global Champions Tour</title>
-    <desc>Action from the Grand Prix of Saint Tropez at Pampelonne Beach in France.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615030000 +0700" stop="20260615040000 +0700">
-    <title lang="zh">WRC Review</title>
-    <desc>The best action from the 2026 World Rally Championship so far, including events in Monte Carlo, Sweden, Kenya, and Japan.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615040000 +0700" stop="20260615043000 +0700">
-    <title lang="zh">World Superbikes</title>
-    <desc>Action from Superbike race two at Misano World Circuit in Emilia-Romagna, Italy, where the seventh round of the season takes place.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615043000 +0700" stop="20260615050000 +0700">
-    <title lang="zh">World Superbikes</title>
-    <desc>Action from the Superpole race at Misano World Circuit in Emilia-Romagna, Italy, where the seventh round of the season takes place.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615050000 +0700" stop="20260615060000 +0700">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>Bangladesh v Australia. Action from the third ODI in the three-match series, which took place at Sher-e-Bangla National Cricket Stadium in Dhaka.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615060000 +0700" stop="20260615063000 +0700">
-    <title lang="zh">UIM F1H2O World Championship Highlights</title>
-    <desc>A look at the latest action in Italy.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="400478" start="20260615063000 +0700" stop="20260615070000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the elite cross-country Olympic race in Leogang, Austria.</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="400478" start="20260615070000 +0700" stop="20260615073000 +0700">
     <title lang="zh">UCI Mountain Bike World Series Men</title>
     <desc>Action from the elite cross-country Olympic race in Leogang, Austria.</desc>
@@ -5901,90 +5337,35 @@
     <desc>Action from the eighth stage of the Tour Auvergne Rhone Alpes.</desc>
     <date>2026-06-15</date>
   </programme>
-  <programme channel="400478" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="400478" start="20260616070000 +0700" stop="20260616080000 +0700">
     <title lang="zh">Men's Cycling World Tour</title>
     <desc>Action from the Copenhagen Sprint.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400478" start="20260616080000 +0700" stop="20260616090000 +0700">
+    <title lang="zh">Women's Cycling World Tour</title>
+    <desc>Action from the 2026 Copenhagen Sprint.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400478" start="20260616090000 +0700" stop="20260616100000 +0700">
+    <title lang="zh">Giro d'Italia Men Highlights</title>
+    <desc>A look back at the biggest moments from the 2026 Giro d’Italia.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400478" start="20260616100000 +0700" stop="20260616110000 +0700">
+    <title lang="zh">Women's Giro d'Italia</title>
+    <desc>A review of the best action from 2026 Giro d'Italia Women.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="400478" start="20260616110000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>West Indies v Sri Lanka. Action from the final match in the three-game series, held at Kingston Park in Jamaica.</desc>
     <date>2026-06-16</date>
   </programme>
 <channel id="524003">
     <display-name lang="Indonesia">Sportstars 2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524003" start="20260614070000 +0700" stop="20260614073000 +0700">
-    <title lang="zh">iNews Sport</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614073000 +0700" stop="20260614093000 +0700">
-    <title lang="zh">WST World Championship</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614093000 +0700" stop="20260614100000 +0700">
-    <title lang="zh">Sports Today: Viral</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614100000 +0700" stop="20260614120000 +0700">
-    <title lang="zh">Road To AFF</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614120000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">Padel Hexagon Cup</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614140000 +0700" stop="20260614153000 +0700">
-    <title lang="zh">Tinju</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614153000 +0700" stop="20260614173000 +0700">
-    <title lang="zh">Road To AFF</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614173000 +0700" stop="20260614200000 +0700">
-    <title lang="zh">Best Of Badminton</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614200000 +0700" stop="20260614220000 +0700">
-    <title lang="zh">WST World Championship</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614220000 +0700" stop="20260614223000 +0700">
-    <title lang="zh">World Classic Soccer</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260614223000 +0700" stop="20260615000000 +0700">
-    <title lang="zh">Tinju</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260615000000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">Padel Hexagon Cup</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260615020000 +0700" stop="20260615040000 +0700">
-    <title lang="zh">Road To AFF</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260615040000 +0700" stop="20260615063000 +0700">
-    <title lang="zh">Best Of Badminton</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524003" start="20260615063000 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Golden Fit</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="524003" start="20260615070000 +0700" stop="20260615073000 +0700">
     <title lang="zh">iNews Sport</title>
     <desc />
@@ -6060,75 +5441,90 @@
     <desc />
     <date>2026-06-15</date>
   </programme>
-  <programme channel="524003" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="524003" start="20260616070000 +0700" stop="20260616073000 +0700">
     <title lang="zh">iNews Sport</title>
     <desc />
     <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616073000 +0700" stop="20260616093000 +0700">
+    <title lang="zh">The Championships Wimbledon</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616093000 +0700" stop="20260616100000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616100000 +0700" stop="20260616120000 +0700">
+    <title lang="zh">Road To AFF</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616120000 +0700" stop="20260616140000 +0700">
+    <title lang="zh">Padel Hexagon Cup</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616140000 +0700" stop="20260616153000 +0700">
+    <title lang="zh">Tinju</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616153000 +0700" stop="20260616173000 +0700">
+    <title lang="zh">Road To AFF</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616173000 +0700" stop="20260616200000 +0700">
+    <title lang="zh">Indonesia Juara Badminton</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616200000 +0700" stop="20260616220000 +0700">
+    <title lang="zh">WST World Championship</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616220000 +0700" stop="20260616223000 +0700">
+    <title lang="zh">Top Goals</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260616223000 +0700" stop="20260617000000 +0700">
+    <title lang="zh">Tinju</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260617000000 +0700" stop="20260617020000 +0700">
+    <title lang="zh">Padel Hexagon Cup</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260617020000 +0700" stop="20260617040000 +0700">
+    <title lang="zh">Road To AFF</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260617040000 +0700" stop="20260617063000 +0700">
+    <title lang="zh">Indonesia Juara Badminton</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260617063000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Sportrivia</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524003" start="20260617070000 +0700" stop="20260618070000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-06-17</date>
   </programme>
 <channel id="524184">
     <display-name lang="Indonesia">Sportstars 3</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524184" start="20260614080000 +0700" stop="20260614100000 +0700">
-    <title lang="zh">AFC U17 Asian Cup 2026</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260614100000 +0700" stop="20260614120000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260614120000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260614140000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">Pro Futsal League 2</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260614160000 +0700" stop="20260614180000 +0700">
-    <title lang="zh">AFC U17 Asian Cup 2026</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260614180000 +0700" stop="20260614200000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260614200000 +0700" stop="20260614220000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260614220000 +0700" stop="20260615000000 +0700">
-    <title lang="zh">Pro Futsal League 2</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260615000000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260615020000 +0700" stop="20260615040000 +0700">
-    <title lang="zh">AFC U17 Asian Cup 2026</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260615040000 +0700" stop="20260615060000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524184" start="20260615060000 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Pro Futsal League IDN 2025-2026</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="524184" start="20260615080000 +0700" stop="20260615100000 +0700">
     <title lang="zh">AFC U17 Asian Cup 2026</title>
     <desc />
@@ -6189,70 +5585,70 @@
     <desc />
     <date>2026-06-15</date>
   </programme>
+  <programme channel="524184" start="20260616080000 +0700" stop="20260616100000 +0700">
+    <title lang="zh">AFC U17 Asian Cup 2026</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260616100000 +0700" stop="20260616120000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260616120000 +0700" stop="20260616140000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260616140000 +0700" stop="20260616160000 +0700">
+    <title lang="zh">Pro Futsal League IDN 2025-2026</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260616160000 +0700" stop="20260616180000 +0700">
+    <title lang="zh">AFC U17 Asian Cup 2026</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260616180000 +0700" stop="20260616200000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260616200000 +0700" stop="20260616220000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260616220000 +0700" stop="20260617000000 +0700">
+    <title lang="zh">Pro Futsal League IDN 2025-2026</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260617000000 +0700" stop="20260617020000 +0700">
+    <title lang="zh">Garuda Juara</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260617020000 +0700" stop="20260617040000 +0700">
+    <title lang="zh">Garuda Juara</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260617040000 +0700" stop="20260617060000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524184" start="20260617060000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Pro Futsal League IDN 2025-2026</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
 <channel id="524033">
     <display-name lang="Indonesia">Sportstars 4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524033" start="20260614080000 +0700" stop="20260614100000 +0700">
-    <title lang="zh">AFC U17 Asian Cup 2026</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260614100000 +0700" stop="20260614120000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260614120000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260614140000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">Pro Futsal League 2</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260614160000 +0700" stop="20260614180000 +0700">
-    <title lang="zh">AFC U17 Asian Cup 2026</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260614180000 +0700" stop="20260614200000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260614200000 +0700" stop="20260614220000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260614220000 +0700" stop="20260615000000 +0700">
-    <title lang="zh">Pro Futsal League 2</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260615000000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260615020000 +0700" stop="20260615040000 +0700">
-    <title lang="zh">AFC U17 Asian Cup 2026</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260615040000 +0700" stop="20260615060000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524033" start="20260615060000 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Pro Futsal League Indonesia</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="524033" start="20260615080000 +0700" stop="20260615100000 +0700">
     <title lang="zh">AFC U17 Asian Cup 2026</title>
     <desc />
@@ -6313,105 +5709,70 @@
     <desc />
     <date>2026-06-15</date>
   </programme>
+  <programme channel="524033" start="20260616080000 +0700" stop="20260616100000 +0700">
+    <title lang="zh">AFC U17 Asian Cup 2026</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260616100000 +0700" stop="20260616120000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260616120000 +0700" stop="20260616140000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260616140000 +0700" stop="20260616160000 +0700">
+    <title lang="zh">Pro Futsal League Indonesia</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260616160000 +0700" stop="20260616180000 +0700">
+    <title lang="zh">AFC U17 Asian Cup 2026</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260616180000 +0700" stop="20260616200000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260616200000 +0700" stop="20260616220000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260616220000 +0700" stop="20260617000000 +0700">
+    <title lang="zh">Pro Futsal League Indonesia</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260617000000 +0700" stop="20260617020000 +0700">
+    <title lang="zh">Garuda Juara: KOR Vs IDN</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260617020000 +0700" stop="20260617040000 +0700">
+    <title lang="zh">Garuda Juara: IDN Vs YEM</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260617040000 +0700" stop="20260617060000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524033" start="20260617060000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Pro Futsal League Indonesia</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
 <channel id="524124">
     <display-name lang="Indonesia">Sportstars</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524124" start="20260614070000 +0700" stop="20260614073000 +0700">
-    <title lang="zh">Golden Fit</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614073000 +0700" stop="20260614093000 +0700">
-    <title lang="zh">V-League 2025-2026: Women</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614093000 +0700" stop="20260614113000 +0700">
-    <title lang="zh">Proliga</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614113000 +0700" stop="20260614120000 +0700">
-    <title lang="zh">Sports Today</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614120000 +0700" stop="20260614123000 +0700">
-    <title lang="zh">iNews Sport</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614123000 +0700" stop="20260614150000 +0700">
-    <title lang="zh">Best Of Badminton</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614150000 +0700" stop="20260614153000 +0700">
-    <title lang="zh">Bloopers</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614153000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">Golden Fit</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614160000 +0700" stop="20260614180000 +0700">
-    <title lang="zh">V-League 2025-2026: Women</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614180000 +0700" stop="20260614200000 +0700">
-    <title lang="zh">WST World Championship</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614200000 +0700" stop="20260614203000 +0700">
-    <title lang="zh">Golden Fit</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614203000 +0700" stop="20260614223000 +0700">
-    <title lang="zh">Padel Hexagon Cup</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260614223000 +0700" stop="20260615003000 +0700">
-    <title lang="zh">Proliga</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260615003000 +0700" stop="20260615030000 +0700">
-    <title lang="zh">Best Of Badminton</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260615030000 +0700" stop="20260615033000 +0700">
-    <title lang="zh">Sports Today</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260615033000 +0700" stop="20260615040000 +0700">
-    <title lang="zh">iNews Sport</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260615040000 +0700" stop="20260615060000 +0700">
-    <title lang="zh">Padel Hexagon Cup</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260615060000 +0700" stop="20260615063000 +0700">
-    <title lang="zh">Golden Fit</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="524124" start="20260615063000 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Bloopers</title>
-    <desc />
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="524124" start="20260615070000 +0700" stop="20260615073000 +0700">
     <title lang="zh">Sportrivia</title>
     <desc />
@@ -6507,120 +5868,110 @@
     <desc />
     <date>2026-06-15</date>
   </programme>
-  <programme channel="524124" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="524124" start="20260616070000 +0700" stop="20260616073000 +0700">
     <title lang="zh">Sportrivia</title>
     <desc />
     <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616073000 +0700" stop="20260616093000 +0700">
+    <title lang="zh">V-League 2025-2026: Women</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616093000 +0700" stop="20260616113000 +0700">
+    <title lang="zh">Proliga</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616113000 +0700" stop="20260616120000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616120000 +0700" stop="20260616123000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616123000 +0700" stop="20260616150000 +0700">
+    <title lang="zh">Indonesia Juara Badminton</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616150000 +0700" stop="20260616153000 +0700">
+    <title lang="zh">Bloopers</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616153000 +0700" stop="20260616160000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616160000 +0700" stop="20260616180000 +0700">
+    <title lang="zh">V-League 2025-2026: Women</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616180000 +0700" stop="20260616200000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616200000 +0700" stop="20260616203000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616203000 +0700" stop="20260616223000 +0700">
+    <title lang="zh">Padel Hexagon Cup</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260616223000 +0700" stop="20260617003000 +0700">
+    <title lang="zh">Proliga</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260617003000 +0700" stop="20260617030000 +0700">
+    <title lang="zh">Indonesia Juara Badminton</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260617030000 +0700" stop="20260617033000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260617033000 +0700" stop="20260617040000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260617040000 +0700" stop="20260617060000 +0700">
+    <title lang="zh">Padel Hexagon Cup</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260617060000 +0700" stop="20260617063000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260617063000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Bloopers</title>
+    <desc />
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="524124" start="20260617070000 +0700" stop="20260618070000 +0700">
+    <title lang="zh">Sportrivia</title>
+    <desc />
+    <date>2026-06-17</date>
   </programme>
 <channel id="470446">
     <display-name lang="Canada">TSN 1</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470446" start="20260614070000 +0700" stop="20260614074500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614074500 +0700" stop="20260614100000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Haiti plays Scotland in a historic Group C match at Boston Stadium as World Cup play continues. Heavy favorite Scotland returns to the global stage for the first time since 1998, while Haiti makes its first tournament appearance since 1974.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614100000 +0700" stop="20260614104500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614104500 +0700" stop="20260614130000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Australia takes on Turkey in the second match of Group D at BC Place in Vancouver. This is their first competitive meeting, but they have a head-to-head record consisting of two friendly matches played in May 2004, with Turkey winning both fixtures.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614130000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">Live: World Cup Tonight</title>
-    <desc>News, highlights and commentary from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614140000 +0700" stop="20260614150000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614150000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614160000 +0700" stop="20260614170000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614170000 +0700" stop="20260614180000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614180000 +0700" stop="20260614190000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614190000 +0700" stop="20260614200000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614200000 +0700" stop="20260614210000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614210000 +0700" stop="20260614220000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614220000 +0700" stop="20260614223000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614223000 +0700" stop="20260614230000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614230000 +0700" stop="20260614234500 +0700">
-    <title lang="zh">Live: World Cup Today</title>
-    <desc>News and highlights from the day's action at the FIFA World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260614234500 +0700" stop="20260615020000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Germany take on Curaçao in the Group E opener at Houston Stadium. Manuel Neuer reversed his international retirement to participate in his fifth World Cup. Curaçao makes its debut against the four-time champions after a historic qualifying run.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260615020000 +0700" stop="20260615024500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260615024500 +0700" stop="20260615050000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Netherlands take on Japan in the Group F opener at Dallas Stadium. The three-time World Cup finalist was unbeaten in the UEFA qualifying campaign, while Japan makes its eighth appearance after becoming the first team outside the co-hosts to qualify.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260615050000 +0700" stop="20260615054500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470446" start="20260615054500 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Côte d'Ivoire and Ecuador meet for the second FIFA World Cup Group E match at Philadelphia Stadium. Fixture marks the first competitive international match between the teams. Côte d'Ivoire is making its first FIFA World Cup appearance since 2014.</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="470446" start="20260615080000 +0700" stop="20260615084500 +0700">
     <title lang="zh">Live: TSN at the World Cup</title>
     <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
@@ -6726,175 +6077,30 @@
     <desc>Saudi Arabia and Uruguay meet for the second FIFA World Cup Group H match at Miami Stadium. Darwin Nuñez enters the tournament as Uruguay's top scorer after leading the team with five goals during the CONMEBOL World Cup qualification phase.</desc>
     <date>2026-06-15</date>
   </programme>
-  <programme channel="470446" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="470446" start="20260616070000 +0700" stop="20260616074500 +0700">
     <title lang="zh">Live: TSN at the World Cup</title>
     <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470446" start="20260616074500 +0700" stop="20260616100000 +0700">
+    <title lang="zh">Live: FIFA World Cup 2026</title>
+    <desc>IR Iran and New Zealand face-off in the second FIFA World Cup Group G match at Los Angeles Stadium. IR Iran qualified for the World Cup through the preliminary competition in Asia by securing a 2-2 draw against Uzbekistan in Tehran.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470446" start="20260616100000 +0700" stop="20260616110000 +0700">
+    <title lang="zh">Live: World Cup Tonight</title>
+    <desc>News, highlights and commentary from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470446" start="20260616110000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
     <date>2026-06-16</date>
   </programme>
 <channel id="470550">
     <display-name lang="Canada">TSN 2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470550" start="20260614070000 +0700" stop="20260614073000 +0700">
-    <title lang="zh">Live: NBA Tip-Off</title>
-    <desc>Host Ernie Johnson and analysts Shaquille O'Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN's Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614073000 +0700" stop="20260614100000 +0700">
-    <title lang="zh">Live: 2026 NBA Finals</title>
-    <desc>Game 5.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614100000 +0700" stop="20260614103000 +0700">
-    <title lang="zh">Live: Inside the NBA</title>
-    <desc>This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O'Neal. It's a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analyst</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614103000 +0700" stop="20260614113000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614113000 +0700" stop="20260614120000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614120000 +0700" stop="20260614130000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614130000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">PBR Bull Riding</title>
-    <desc>Coverage of classic bull riding events from around the United States.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614140000 +0700" stop="20260614143000 +0700">
-    <title lang="zh">Live: FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614143000 +0700" stop="20260614150000 +0700">
-    <title lang="zh">Live: Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614150000 +0700" stop="20260614153000 +0700">
-    <title lang="zh">FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614153000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614160000 +0700" stop="20260614163000 +0700">
-    <title lang="zh">FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614163000 +0700" stop="20260614170000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614170000 +0700" stop="20260614173000 +0700">
-    <title lang="zh">FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614173000 +0700" stop="20260614180000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614180000 +0700" stop="20260614183000 +0700">
-    <title lang="zh">FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614183000 +0700" stop="20260614190000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614190000 +0700" stop="20260614193000 +0700">
-    <title lang="zh">FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614193000 +0700" stop="20260614200000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614200000 +0700" stop="20260614203000 +0700">
-    <title lang="zh">FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614203000 +0700" stop="20260614210000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614210000 +0700" stop="20260614213000 +0700">
-    <title lang="zh">FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614213000 +0700" stop="20260614220000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614220000 +0700" stop="20260614223000 +0700">
-    <title lang="zh">FIFA World Cup Highlight Show</title>
-    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260614223000 +0700" stop="20260615013000 +0700">
-    <title lang="zh">AFL Premiership Football</title>
-    <desc>From Marvel Stadium in Melbourne, Australia.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260615013000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">Live: Toronto Tempo Basketball Pregame</title>
-    <desc>Pregame coverage for the Toronto Tempo women's basketball team.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260615020000 +0700" stop="20260615040000 +0700">
-    <title lang="zh">Live: WNBA Basketball</title>
-    <desc>Atlanta plays Toronto in a WNBA Commissioner's Cup game at Coca-Cola Coliseum. The Tempo secured a 106-102 victory against the Sun behind 38 points from Brittney Sykes, and the Dream picked up an 82-75 win against the Sky in their last outings.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260615040000 +0700" stop="20260615043000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260615043000 +0700" stop="20260615050000 +0700">
-    <title lang="zh">SC</title>
-    <desc>2025 SC Top 10-SC: Top 10 Women's World Hockey Championship Games.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260615050000 +0700" stop="20260615053000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260615053000 +0700" stop="20260615060000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470550" start="20260615060000 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Live: MLB Baseball</title>
-    <desc>The Texas Rangers and the Boston Red Sox meet at Fenway Park for the finale of a three-game series. Texas' right-handed pitcher Nathan Eovaldi (4.26 ERA) is the projected starter against Boston's left-handed pitcher Connelly Early (3.30 ERA).</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="470550" start="20260615090000 +0700" stop="20260615093000 +0700">
     <title lang="zh">SC</title>
     <desc>Top plays from the 2025-26 NFL season.</desc>
@@ -7085,80 +6291,45 @@
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-06-15</date>
   </programme>
-  <programme channel="470550" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="470550" start="20260616070000 +0700" stop="20260616090000 +0700">
     <title lang="zh">Live: WNBA Basketball</title>
     <desc>The Aces travel to College Park Center to play the Wings in a WNBA Commissioner's Cup game. Dallas look to sweep Las Vegas after Jessica Shepard recorded a historic triple-double in their last game, making her the second player in history to do so.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470550" start="20260616090000 +0700" stop="20260616093000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470550" start="20260616093000 +0700" stop="20260616100000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470550" start="20260616100000 +0700" stop="20260616103000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2024 SC Top 10-SC: Coaches Gone Wild.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470550" start="20260616103000 +0700" stop="20260616110000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470550" start="20260616110000 +0700" stop="20260616113000 +0700">
+    <title lang="zh">Live: FIFA World Cup Highlight Show</title>
+    <desc>Highlights from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470550" start="20260616113000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Live: Canada at the World Cup</title>
+    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
     <date>2026-06-16</date>
   </programme>
 <channel id="470888">
     <display-name lang="Canada">TSN 3</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470888" start="20260614090000 +0700" stop="20260614100000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260614100000 +0700" stop="20260614130000 +0700">
-    <title lang="zh">Live: AFL Premiership Football</title>
-    <desc>From Ninja Stadium in Hobart, Tasmania, Australia.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260614130000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260614140000 +0700" stop="20260614150000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260614150000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260614160000 +0700" stop="20260614170000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260614170000 +0700" stop="20260614180000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260614180000 +0700" stop="20260614184500 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260614184500 +0700" stop="20260615000000 +0700">
-    <title lang="zh">Live: PGA Tour Golf</title>
-    <desc>From TPC Toronto at Osprey Valley (North Course) in Caledon, Ontario.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260615000000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">Live: PGA Tour Golf</title>
-    <desc>The final round of the 2026 RBC Canadian Open begins at TPC Toronto at Osprey Valley in Caledon, Ontario. This represents the fourth round of the tournament, where the champion is crowned and lifts the historic RBC Canadian Open trophy.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260615020000 +0700" stop="20260615050000 +0700">
-    <title lang="zh">Live: PGA Tour Golf</title>
-    <desc>The final round of the 2026 RBC Canadian Open begins at TPC Toronto at Osprey Valley in Caledon, Ontario. This represents the fourth round of the tournament, where the champion is crowned and lifts the historic RBC Canadian Open trophy.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260615050000 +0700" stop="20260615054500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470888" start="20260615054500 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Côte d'Ivoire and Ecuador meet for the second FIFA World Cup Group E match at Philadelphia Stadium. Fixture marks the first competitive international match between the teams. Côte d'Ivoire is making its first FIFA World Cup appearance since 2014.</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="470888" start="20260615080000 +0700" stop="20260615084500 +0700">
     <title lang="zh">Live: TSN at the World Cup</title>
     <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
@@ -7264,120 +6435,30 @@
     <desc>Saudi Arabia and Uruguay meet for the second FIFA World Cup Group H match at Miami Stadium. Darwin Nuñez enters the tournament as Uruguay's top scorer after leading the team with five goals during the CONMEBOL World Cup qualification phase.</desc>
     <date>2026-06-15</date>
   </programme>
-  <programme channel="470888" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="470888" start="20260616070000 +0700" stop="20260616074500 +0700">
     <title lang="zh">Live: TSN at the World Cup</title>
     <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470888" start="20260616074500 +0700" stop="20260616100000 +0700">
+    <title lang="zh">Live: FIFA World Cup 2026</title>
+    <desc>IR Iran and New Zealand face-off in the second FIFA World Cup Group G match at Los Angeles Stadium. IR Iran qualified for the World Cup through the preliminary competition in Asia by securing a 2-2 draw against Uzbekistan in Tehran.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470888" start="20260616100000 +0700" stop="20260616110000 +0700">
+    <title lang="zh">Live: World Cup Tonight</title>
+    <desc>News, highlights and commentary from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470888" start="20260616110000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
     <date>2026-06-16</date>
   </programme>
 <channel id="470730">
     <display-name lang="Canada">TSN 4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470730" start="20260614070000 +0700" stop="20260614074500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614074500 +0700" stop="20260614100000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Haiti plays Scotland in a historic Group C match at Boston Stadium as World Cup play continues. Heavy favorite Scotland returns to the global stage for the first time since 1998, while Haiti makes its first tournament appearance since 1974.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614100000 +0700" stop="20260614104500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614104500 +0700" stop="20260614130000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Australia takes on Turkey in the second match of Group D at BC Place in Vancouver. This is their first competitive meeting, but they have a head-to-head record consisting of two friendly matches played in May 2004, with Turkey winning both fixtures.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614130000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">Live: World Cup Tonight</title>
-    <desc>News, highlights and commentary from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614140000 +0700" stop="20260614150000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614150000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614160000 +0700" stop="20260614170000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614170000 +0700" stop="20260614180000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614180000 +0700" stop="20260614190000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614190000 +0700" stop="20260614200000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614200000 +0700" stop="20260614210000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614210000 +0700" stop="20260614220000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614220000 +0700" stop="20260614223000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614223000 +0700" stop="20260614230000 +0700">
-    <title lang="zh">Canada at the World Cup</title>
-    <desc>Highlights from the Canadian men's national soccer team at the 2026 FIFA Men's World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614230000 +0700" stop="20260614234500 +0700">
-    <title lang="zh">Live: World Cup Today</title>
-    <desc>News and highlights from the day's action at the FIFA World Cup.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260614234500 +0700" stop="20260615020000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Germany take on Curaçao in the Group E opener at Houston Stadium. Manuel Neuer reversed his international retirement to participate in his fifth World Cup. Curaçao makes its debut against the four-time champions after a historic qualifying run.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260615020000 +0700" stop="20260615024500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260615024500 +0700" stop="20260615050000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Netherlands take on Japan in the Group F opener at Dallas Stadium. The three-time World Cup finalist was unbeaten in the UEFA qualifying campaign, while Japan makes its eighth appearance after becoming the first team outside the co-hosts to qualify.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260615050000 +0700" stop="20260615054500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470730" start="20260615054500 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Côte d'Ivoire and Ecuador meet for the second FIFA World Cup Group E match at Philadelphia Stadium. Fixture marks the first competitive international match between the teams. Côte d'Ivoire is making its first FIFA World Cup appearance since 2014.</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="470730" start="20260615080000 +0700" stop="20260615084500 +0700">
     <title lang="zh">Live: TSN at the World Cup</title>
     <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
@@ -7478,120 +6559,30 @@
     <desc>Saudi Arabia and Uruguay meet for the second FIFA World Cup Group H match at Miami Stadium. Darwin Nuñez enters the tournament as Uruguay's top scorer after leading the team with five goals during the CONMEBOL World Cup qualification phase.</desc>
     <date>2026-06-15</date>
   </programme>
-  <programme channel="470730" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="470730" start="20260616070000 +0700" stop="20260616074500 +0700">
     <title lang="zh">Live: TSN at the World Cup</title>
     <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470730" start="20260616074500 +0700" stop="20260616100000 +0700">
+    <title lang="zh">Live: FIFA World Cup 2026</title>
+    <desc>IR Iran and New Zealand face-off in the second FIFA World Cup Group G match at Los Angeles Stadium. IR Iran qualified for the World Cup through the preliminary competition in Asia by securing a 2-2 draw against Uzbekistan in Tehran.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470730" start="20260616100000 +0700" stop="20260616110000 +0700">
+    <title lang="zh">Live: World Cup Tonight</title>
+    <desc>News, highlights and commentary from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470730" start="20260616110000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
     <date>2026-06-16</date>
   </programme>
 <channel id="470390">
     <display-name lang="Canada">TSN 5</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470390" start="20260614070000 +0700" stop="20260614074500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614074500 +0700" stop="20260614100000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Haiti plays Scotland in a historic Group C match at Boston Stadium as World Cup play continues. Heavy favorite Scotland returns to the global stage for the first time since 1998, while Haiti makes its first tournament appearance since 1974.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614100000 +0700" stop="20260614104500 +0700">
-    <title lang="zh">Live: TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614104500 +0700" stop="20260614130000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Australia takes on Turkey in the second match of Group D at BC Place in Vancouver. This is their first competitive meeting, but they have a head-to-head record consisting of two friendly matches played in May 2004, with Turkey winning both fixtures.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614130000 +0700" stop="20260614140000 +0700">
-    <title lang="zh">Live: World Cup Tonight</title>
-    <desc>News, highlights and commentary from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614140000 +0700" stop="20260614150000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614150000 +0700" stop="20260614160000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614160000 +0700" stop="20260614170000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614170000 +0700" stop="20260614180000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614180000 +0700" stop="20260614183000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614183000 +0700" stop="20260614195500 +0700">
-    <title lang="zh">Live: F1 Grand Prix Sunday</title>
-    <desc>Featuring pre-race predictions and analysis leading up to today's Formula 1 racing action.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614195500 +0700" stop="20260614220000 +0700">
-    <title lang="zh">Live: Formula 1 Racing</title>
-    <desc>The field tackles Round Seven of the Formula One season at the Barcelona-Catalunya Grand Prix. Lewis Hamilton protects second place in the driver standings with 90 points, while Charles Leclerc attempts to erase a 15-point deficit for Ferrari.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614220000 +0700" stop="20260614230000 +0700">
-    <title lang="zh">Live: F1 Chequered Flag</title>
-    <desc>Post-race analysis of F1 races.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614230000 +0700" stop="20260614233000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The most outrageous moments in NASCAR history.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260614233000 +0700" stop="20260615000000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260615000000 +0700" stop="20260615003000 +0700">
-    <title lang="zh">Porsche Supercup</title>
-    <desc>Coverage of racing action from the Porsche Supercup competition.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260615003000 +0700" stop="20260615013000 +0700">
-    <title lang="zh">NASCAR Canada Series</title>
-    <desc>From Autodrome Chaudière in Vallée-Jonction, Quebec.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260615013000 +0700" stop="20260615020000 +0700">
-    <title lang="zh">Live: NASCAR Cup Series Prerace</title>
-    <desc>Featuring the latest news, highlights and interviews.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260615020000 +0700" stop="20260615053000 +0700">
-    <title lang="zh">Live: NASCAR Cup Series</title>
-    <desc>The NASCAR Cup Series Race 16 gets underway at Pocono Raceway. This 400-mile premier series race features 37 cars. Tyler Reddick is the current championship points leader, along with number two Denny Hamlin and number three Ryan Blaney.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260615053000 +0700" stop="20260615054500 +0700">
-    <title lang="zh">TSN at the World Cup</title>
-    <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
-    <date>2026-06-14</date>
-  </programme>
-  <programme channel="470390" start="20260615054500 +0700" stop="20260615070000 +0700">
-    <title lang="zh">Live: FIFA World Cup 2026</title>
-    <desc>Côte d'Ivoire and Ecuador meet for the second FIFA World Cup Group E match at Philadelphia Stadium. Fixture marks the first competitive international match between the teams. Côte d'Ivoire is making its first FIFA World Cup appearance since 2014.</desc>
-    <date>2026-06-14</date>
-  </programme>
   <programme channel="470390" start="20260615080000 +0700" stop="20260615084500 +0700">
     <title lang="zh">Live: TSN at the World Cup</title>
     <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
@@ -7697,27 +6688,28 @@
     <desc>Saudi Arabia and Uruguay meet for the second FIFA World Cup Group H match at Miami Stadium. Darwin Nuñez enters the tournament as Uruguay's top scorer after leading the team with five goals during the CONMEBOL World Cup qualification phase.</desc>
     <date>2026-06-15</date>
   </programme>
-  <programme channel="470390" start="20260616070000 +0700" stop="20260617070000 +0700">
+  <programme channel="470390" start="20260616070000 +0700" stop="20260616074500 +0700">
     <title lang="zh">Live: TSN at the World Cup</title>
     <desc>TSN coverage of the 2026 FIFA Men's World Cup from Canada, United States and Mexico.</desc>
     <date>2026-06-16</date>
   </programme>
+  <programme channel="470390" start="20260616074500 +0700" stop="20260616100000 +0700">
+    <title lang="zh">Live: FIFA World Cup 2026</title>
+    <desc>IR Iran and New Zealand face-off in the second FIFA World Cup Group G match at Los Angeles Stadium. IR Iran qualified for the World Cup through the preliminary competition in Asia by securing a 2-2 draw against Uzbekistan in Tehran.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470390" start="20260616100000 +0700" stop="20260616110000 +0700">
+    <title lang="zh">Live: World Cup Tonight</title>
+    <desc>News, highlights and commentary from the 2026 FIFA Men's World Cup in Canada, United States and Mexico.</desc>
+    <date>2026-06-16</date>
+  </programme>
+  <programme channel="470390" start="20260616110000 +0700" stop="20260617070000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-06-16</date>
+  </programme>
 <channel id="Sport 1.sk"><display-name>Sport 1.sk</display-name></channel>
 <channel id="Sport 2.sk"><display-name>Sport 2.sk</display-name></channel>
-<programme start="20260614043000 +0700" stop="20260614070000 +0700" channel="Sport 1.sk"><title>Lední hokej: HV71 - Färjestad</title><desc>Záznam, SHL, základní část</desc></programme>
-<programme start="20260614070000 +0700" stop="20260614110000 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, Poland Darts Open, PDC European Tour 2025, 2. den, část 2</desc></programme>
-<programme start="20260614110000 +0700" stop="20260614113000 +0700" channel="Sport 1.sk"><title>Sectrets of Calcio (Tajemství fotbalu), La Gazetta</title></programme>
-<programme start="20260614113000 +0700" stop="20260614123000 +0700" channel="Sport 1.sk"><title>Poker</title><desc>Záznam, WSOP, sestřih hlavních událostí 15/12</desc></programme>
-<programme start="20260614123000 +0700" stop="20260614130000 +0700" channel="Sport 1.sk"><title>Tenis, WTA Rabat, sestřih</title></programme>
-<programme start="20260614130000 +0700" stop="20260614150000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Záznam, WTA 250, 's-Hertogenbosch, semifinále</desc></programme>
-<programme start="20260614150000 +0700" stop="20260614170000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Záznam, WTA 250, 's-Hertogenbosch, semifinále</desc></programme>
-<programme start="20260614170000 +0700" stop="20260614190000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, 's-Hertogenbosch, finále</desc></programme>
-<programme start="20260614190000 +0700" stop="20260614200000 +0700" channel="Sport 1.sk"><title>Poker</title><desc>Záznam, WSOP, sestřih hlavních událostí 15/1</desc></programme>
-<programme start="20260614200000 +0700" stop="20260614214500 +0700" channel="Sport 1.sk"><title>Házená</title><desc>Přímý přenos utkání, Liga mistrů, muži, finále čtyř, bronzový zápas</desc></programme>
-<programme start="20260614214500 +0700" stop="20260614224500 +0700" channel="Sport 1.sk"><title>Box: Tony Pep - Floyd Mayweather</title><desc>Záznam</desc></programme>
-<programme start="20260614224500 +0700" stop="20260615004500 +0700" channel="Sport 1.sk"><title>Házená</title><desc>Přímý přenos utkání, Liga mistrů, muži, finále čtyř, finále</desc></programme>
-<programme start="20260615004500 +0700" stop="20260615024500 +0700" channel="Sport 1.sk"><title>Lední hokej: Frölunda - Brynäs</title><desc>Záznam, SHL, základní část</desc></programme>
-<programme start="20260615024500 +0700" stop="20260615050000 +0700" channel="Sport 1.sk"><title>Fotbal: Anglie - Kostarika</title><desc>Záznam, Přátelský zápas</desc></programme>
 <programme start="20260615050000 +0700" stop="20260615071500 +0700" channel="Sport 1.sk"><title>Fotbal: Maďarsko - Kazachstán</title><desc>Záznam, Přátelský zápas</desc></programme>
 <programme start="20260615071500 +0700" stop="20260615110000 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, Poland Darts Open, PDC European Tour 2025, 3. den, část 2</desc></programme>
 <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="Sport 1.sk"><title>Fotbal: Juventus - Řím</title><desc>Záznam, Serie A, 16. kolo</desc></programme>
@@ -7734,21 +6726,18 @@
 <programme start="20260616050000 +0700" stop="20260616070000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Záznam, WTA 250, Rabat, semifinále</desc></programme>
 <programme start="20260616070000 +0700" stop="20260616090000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Záznam, WTA 250, Rabat, semifinále</desc></programme>
 <programme start="20260616090000 +0700" stop="20260616110000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Záznam, WTA 250, Rabat, finále</desc></programme>
-<programme start="20260614044500 +0700" stop="20260614083000 +0700" channel="Sport 2.sk"><title>Šipky</title><desc>Belgium Darts Open, Wieze, Belgie, 3. den, část 2, (šport)</desc></programme>
-<programme start="20260614083000 +0700" stop="20260614110000 +0700" channel="Sport 2.sk"><title>Lední hokej</title><desc>SHL, základní část Rögle - Malmö, (šport)</desc></programme>
-<programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Coppa Italia, semifinále, hra 2 Atalanta - Lazio, (šport)</desc></programme>
-<programme start="20260614130000 +0700" stop="20260614140000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Tony Pep - Floyd Mayweather, (šport)</desc></programme>
-<programme start="20260614140000 +0700" stop="20260614154500 +0700" channel="Sport 2.sk"><title>Házená</title><desc>Klub mladých mistrů, muži, finále čtyř, (šport)</desc></programme>
-<programme start="20260614154500 +0700" stop="20260614163000 +0700" channel="Sport 2.sk"><title>MVP</title><desc>Rozhovory o sportu, Richard Nemec, (šport)</desc></programme>
-<programme start="20260614163000 +0700" stop="20260614181500 +0700" channel="Sport 2.sk"><title>Házená</title><desc>Klub mladých mistrů, muži, finále čtyř, (šport)</desc></programme>
-<programme start="20260614181500 +0700" stop="20260614191500 +0700" channel="Sport 2.sk"><title>Box</title><desc>Miguel Angel Cotto - Carlos Ramirez, (šport)</desc></programme>
-<programme start="20260614191500 +0700" stop="20260614193000 +0700" channel="Sport 2.sk"><title>Fotbal, Made in Italy, Khephren Thuram</title><desc>(šport)</desc></programme>
-<programme start="20260614193000 +0700" stop="20260614213000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Přátelský zápas Řecko - Itálie, (šport)</desc></programme>
-<programme start="20260614213000 +0700" stop="20260614233000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 7. kolo Řím - Inter, (šport)</desc></programme>
-<programme start="20260614233000 +0700" stop="20260615003000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Tony Pep - Floyd Mayweather, (šport)</desc></programme>
-<programme start="20260615003000 +0700" stop="20260615010000 +0700" channel="Sport 2.sk"><title>Sectrets of Calcio (Tajemství fotbalu), La Gazetta</title><desc>(šport)</desc></programme>
-<programme start="20260615010000 +0700" stop="20260615030000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, 's-Hertogenbosch, finále, (šport)</desc></programme>
-<programme start="20260615030000 +0700" stop="20260615044500 +0700" channel="Sport 2.sk"><title>Házená</title><desc>Liga mistrů, muži, finále čtyř, bronzový zápas, (šport)</desc></programme>
+<programme start="20260616110000 +0700" stop="20260616130000 +0700" channel="Sport 1.sk"><title>Fotbal: Inter - Neapol</title><desc>Záznam, Serie A, 20. kolo</desc></programme>
+<programme start="20260616130000 +0700" stop="20260616150000 +0700" channel="Sport 1.sk"><title>Fotbal: Verona - Neapol</title><desc>Záznam, Serie A, 27. kolo</desc></programme>
+<programme start="20260616150000 +0700" stop="20260616173000 +0700" channel="Sport 1.sk"><title>Lední hokej: Davos - Zug</title><desc>Záznam, Národní liga, playoff</desc></programme>
+<programme start="20260616173000 +0700" stop="20260616213000 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, European Darts Trophy, Kiel, Německo, 2. den, část 2</desc></programme>
+<programme start="20260616213000 +0700" stop="20260616220000 +0700" channel="Sport 1.sk"><title>Tenis, WTA 250, Cluj Napoca, sestřih</title></programme>
+<programme start="20260616220000 +0700" stop="20260617003000 +0700" channel="Sport 1.sk"><title>Lední hokej: Davos - ZSC Lions</title><desc>Záznam, Národní liga, základní část</desc></programme>
+<programme start="20260617003000 +0700" stop="20260617010000 +0700" channel="Sport 1.sk"><title>Tenis, WTA 250 s-Hertogenbosch, sestřih</title></programme>
+<programme start="20260617010000 +0700" stop="20260617020000 +0700" channel="Sport 1.sk"><title>Fotbal: Evropská liga</title><desc>Přehled sezóny</desc></programme>
+<programme start="20260617020000 +0700" stop="20260617024500 +0700" channel="Sport 1.sk"><title>MVP</title><desc>Rozhovory o sportu, Marek Hamšík, dnešní, (šport)</desc></programme>
+<programme start="20260617024500 +0700" stop="20260617051500 +0700" channel="Sport 1.sk"><title>Lední hokej: Davos - Rapperswil- Jona</title><desc>Záznam, Národní liga, základní část</desc></programme>
+<programme start="20260617051500 +0700" stop="20260617094500 +0700" channel="Sport 1.sk"><title>Box: Gilberto Ramírez - David Benavidez</title><desc>Záznam, Las Vegas</desc></programme>
+<programme start="20260617094500 +0700" stop="20260617104500 +0700" channel="Sport 1.sk"><title>Box: Miguel Angel Cotto - Carlos Ramirez</title><desc>Záznam</desc></programme>
 <programme start="20260615044500 +0700" stop="20260615064500 +0700" channel="Sport 2.sk"><title>Házená</title><desc>Liga mistrů, muži, finále čtyř, finále, (šport)</desc></programme>
 <programme start="20260615064500 +0700" stop="20260615074500 +0700" channel="Sport 2.sk"><title>Box</title><desc>Hector Camacho Jr - Bryon Mackie, (šport)</desc></programme>
 <programme start="20260615074500 +0700" stop="20260615103000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Bogota, finále Bouzkova - Udvardy, (šport)</desc></programme>
@@ -7764,4 +6753,16 @@
 <programme start="20260616063000 +0700" stop="20260616070000 +0700" channel="Sport 2.sk"><title>Tenis, WTA 250, Cluj Napoca, sestřih</title><desc>(šport)</desc></programme>
 <programme start="20260616070000 +0700" stop="20260616090000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 19. kolo Neapol - Verona, (šport)</desc></programme>
 <programme start="20260616090000 +0700" stop="20260616110000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 19. kolo Lazio - Fiorentina, (šport)</desc></programme>
+<programme start="20260616110000 +0700" stop="20260616150000 +0700" channel="Sport 2.sk"><title>Šipky</title><desc>European Darts Trophy, Kiel, Německo, 2. den, část 1, (šport)</desc></programme>
+<programme start="20260616150000 +0700" stop="20260616160000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Punto 17, Marek Hamšík, dokument, (šport)</desc></programme>
+<programme start="20260616160000 +0700" stop="20260616173000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Sugar Ray Robinson ponud for pound, (šport)</desc></programme>
+<programme start="20260616173000 +0700" stop="20260616190000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Sugar Ray Robinson ponud for pound, část 2, (šport)</desc></programme>
+<programme start="20260616190000 +0700" stop="20260616230000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Las Vegas Gilberto Ramírez - David Benavidez, (šport)</desc></programme>
+<programme start="20260616230000 +0700" stop="20260617010000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 20. kolo Inter - Neapol, (šport)</desc></programme>
+<programme start="20260617010000 +0700" stop="20260617030000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 27. kolo Verona - Neapol, (šport)</desc></programme>
+<programme start="20260617030000 +0700" stop="20260617053000 +0700" channel="Sport 2.sk"><title>Lední hokej</title><desc>SHL, základní část Skelleftea - Leksand, (šport)</desc></programme>
+<programme start="20260617053000 +0700" stop="20260617060000 +0700" channel="Sport 2.sk"><title>Tenis, WTA 250 s-Hertogenbosch, sestřih</title><desc>(šport)</desc></programme>
+<programme start="20260617060000 +0700" stop="20260617070000 +0700" channel="Sport 2.sk"><title>Poker</title><desc>WSOP, sestřih hlavních událostí 15/11, (šport)</desc></programme>
+<programme start="20260617070000 +0700" stop="20260617090000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 22. kolo Řím - Milán, (šport)</desc></programme>
+<programme start="20260617090000 +0700" stop="20260617110000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 20. kolo Juventus - Cremonese, (šport)</desc></programme>
 </tv>
