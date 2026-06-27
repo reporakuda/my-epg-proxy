@@ -7860,10 +7860,20 @@
     <desc />
     <date>2026-06-27</date>
   </programme>
-  <programme channel="524003" start="20260629053000 +0700" stop="20260629070000 +0700">
+  <programme channel="524003" start="20260629053000 +0700" stop="20260629063000 +0700">
     <title lang="zh">WTT Star Contender Ljubljana</title>
     <desc />
     <date>2026-06-28</date>
+  </programme>
+  <programme channel="524003" start="20260629063000 +0700" stop="20260629070000 +0700">
+    <title lang="zh">Golden Fit</title>
+    <desc />
+    <date>2026-06-28</date>
+  </programme>
+  <programme channel="524003" start="20260629070000 +0700" stop="20260630070000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-06-29</date>
   </programme>
 <channel id="524184">
     <display-name lang="Indonesia">Sportstars 3</display-name>
