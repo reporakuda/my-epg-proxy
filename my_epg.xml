@@ -9095,16 +9095,6 @@
   </programme>
 <channel id="Sport 1.sk"><display-name>Sport 1.sk</display-name></channel>
 <channel id="Sport 2.sk"><display-name>Sport 2.sk</display-name></channel>
-<programme start="20260702033000 +0700" stop="20260702073000 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, Belgium Darts Open, Wieze, Belgie, 2. den, část 1</desc></programme>
-<programme start="20260702073000 +0700" stop="20260702110000 +0700" channel="Sport 1.sk"><title>NCAA, americký fotbal: Texas - Arizona</title><desc>Záznam, Peach Bowl</desc></programme>
-<programme start="20260702110000 +0700" stop="20260702133000 +0700" channel="Sport 1.sk"><title>Lední hokej: Servette - Fribourg</title><desc>Záznam, Národní liga, základní část</desc></programme>
-<programme start="20260702133000 +0700" stop="20260702160000 +0700" channel="Sport 1.sk"><title>Lední hokej: Lugano - Zug</title><desc>Záznam, Národní liga, základní část</desc></programme>
-<programme start="20260702160000 +0700" stop="20260702180000 +0700" channel="Sport 1.sk"><title>Fotbal: Neapol - Juventus</title><desc>Záznam, Serie A, 14. kolo</desc></programme>
-<programme start="20260702180000 +0700" stop="20260702200000 +0700" channel="Sport 1.sk"><title>Fotbal: Inter - Bologna</title><desc>Záznam, Serie A, 18. kolo</desc></programme>
-<programme start="20260702200000 +0700" stop="20260702220000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Záznam, WTA 250, Cluj Napoca, semifinále</desc></programme>
-<programme start="20260702220000 +0700" stop="20260703000000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Záznam, WTA 250, Cluj Napoca, semifinále</desc></programme>
-<programme start="20260703000000 +0700" stop="20260703030000 +0700" channel="Sport 1.sk"><title>Lední hokej: HC Slovan Bratislava - HK Spišská Nová Ves</title><desc>Záznam, Tipsport Liga, 15. kolo</desc></programme>
-<programme start="20260703030000 +0700" stop="20260703033000 +0700" channel="Sport 1.sk"><title>Sectrets of Calcio (Tajemství fotbalu), La Gazetta</title></programme>
 <programme start="20260703033000 +0700" stop="20260703073000 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, Belgium Darts Open, Wieze, Belgie, 2. den, část 2</desc></programme>
 <programme start="20260703073000 +0700" stop="20260703090000 +0700" channel="Sport 1.sk"><title>Házená: Nyköbing - Blomberg-Lippe</title><desc>Záznam, Evropská liga, ženy</desc></programme>
 <programme start="20260703090000 +0700" stop="20260703103000 +0700" channel="Sport 1.sk"><title>Házená: Baia Mare - Thüringer HC</title><desc>Záznam, Evropská liga, ženy</desc></programme>
@@ -9119,19 +9109,17 @@
 <programme start="20260704034500 +0700" stop="20260704074500 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, Belgium Darts Open, Wieze, Belgie, 3. den, část 1</desc></programme>
 <programme start="20260704074500 +0700" stop="20260704093000 +0700" channel="Sport 1.sk"><title>Házená: HCB Karvina - Balatonfüredi KSE</title><desc>Záznam, Evropský pohár EHF, muži</desc></programme>
 <programme start="20260704093000 +0700" stop="20260704110000 +0700" channel="Sport 1.sk"><title>Házená: Dortmund - Metz</title><desc>Záznam, Liga mistrů, ženy</desc></programme>
-<programme start="20260702030000 +0700" stop="20260702051500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Evropská liga, Ligová fáze Stuttgart - Celta Vigo, (šport)</desc></programme>
-<programme start="20260702051500 +0700" stop="20260702060000 +0700" channel="Sport 2.sk"><title>MVP</title><desc>Rozhovory o sportu, Lukas Haraslin, (šport)</desc></programme>
-<programme start="20260702060000 +0700" stop="20260702080000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Coppa Italia, 1. kolo Janov - L.R. Vicenza, (šport)</desc></programme>
-<programme start="20260702080000 +0700" stop="20260702083000 +0700" channel="Sport 2.sk"><title>Tenis, WTA 250, Eastbourne, sestřih</title><desc>(šport)</desc></programme>
-<programme start="20260702083000 +0700" stop="20260702100000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Sugar Ray Robinson ponud for pound, (šport)</desc></programme>
-<programme start="20260702100000 +0700" stop="20260702110000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Tony Pep - Floyd Mayweather, (šport)</desc></programme>
-<programme start="20260702110000 +0700" stop="20260702150000 +0700" channel="Sport 2.sk"><title>Šipky</title><desc>Slovak Darts Open - Bratislava, Slovensko, PDC European Tour 2026, 2. den, část 2, (šport)</desc></programme>
-<programme start="20260702150000 +0700" stop="20260702183000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Los Angeles Badou Jack - Noel Mikaelian, (šport)</desc></programme>
-<programme start="20260702183000 +0700" stop="20260702184500 +0700" channel="Sport 2.sk"><title>Fotbal, Made in Italy, Amin Sarr</title><desc>(šport)</desc></programme>
-<programme start="20260702184500 +0700" stop="20260702224500 +0700" channel="Sport 2.sk"><title>Šipky</title><desc>Belgium Darts Open, Wieze, Belgie, 2. den, část 2, (šport)</desc></programme>
-<programme start="20260702224500 +0700" stop="20260703004500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 14. kolo Neapol - Juventus, (šport)</desc></programme>
-<programme start="20260703004500 +0700" stop="20260703024500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Evropská liga, Ligová fáze Viktoria Plzeň - Malmö, (šport)</desc></programme>
-<programme start="20260703024500 +0700" stop="20260703044500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Konferenční liga, Ligová fáze Fiorentina - Sigma Olomouc, (šport)</desc></programme>
+<programme start="20260704110000 +0700" stop="20260704130000 +0700" channel="Sport 1.sk"><title>Fotbal: Dánsko - Ukrajina</title><desc>Záznam, Přátelský zápas</desc></programme>
+<programme start="20260704130000 +0700" stop="20260704150000 +0700" channel="Sport 1.sk"><title>Fotbal: Řecko - Itálie</title><desc>Záznam, Přátelský zápas</desc></programme>
+<programme start="20260704150000 +0700" stop="20260704170000 +0700" channel="Sport 1.sk"><title>Fotbal: Řím - Inter</title><desc>Záznam, Serie A, 7. kolo</desc></programme>
+<programme start="20260704170000 +0700" stop="20260704171500 +0700" channel="Sport 1.sk"><title>Fotbal, Made in Italy, Samuele Ricci</title></programme>
+<programme start="20260704171500 +0700" stop="20260704191500 +0700" channel="Sport 1.sk"><title>Fotbal: Viktoria Plzeň - Malmö</title><desc>Záznam, Evropská liga, Ligová fáze</desc></programme>
+<programme start="20260704191500 +0700" stop="20260704211500 +0700" channel="Sport 1.sk"><title>Fotbal: Fiorentina - Sigma Olomouc</title><desc>Záznam, Konferenční liga, Ligová fáze</desc></programme>
+<programme start="20260704211500 +0700" stop="20260704213000 +0700" channel="Sport 1.sk"><title>Fotbal, Made in Italy, Justin Bijlow</title></programme>
+<programme start="20260704213000 +0700" stop="20260705010000 +0700" channel="Sport 1.sk"><title>NCAA, americký fotbal: Washington St. - Utah St.</title><desc>Záznam, Potato Bowl</desc></programme>
+<programme start="20260705010000 +0700" stop="20260705033000 +0700" channel="Sport 1.sk"><title>Lední hokej: Lugano - Zug</title><desc>Záznam, Národní liga, základní část</desc></programme>
+<programme start="20260705033000 +0700" stop="20260705073000 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, Belgium Darts Open, Wieze, Belgie, 3. den, část 2</desc></programme>
+<programme start="20260705073000 +0700" stop="20260705103000 +0700" channel="Sport 1.sk"><title>Lední hokej: HC Slovan Bratislava - HK Spišská Nová Ves</title><desc>Záznam, Tipsport Liga, 15. kolo</desc></programme>
 <programme start="20260703044500 +0700" stop="20260703081500 +0700" channel="Sport 2.sk"><title>NCAA, americký fotbal</title><desc>Sugar Bowl Notre Dame - Georgia, (šport)</desc></programme>
 <programme start="20260703081500 +0700" stop="20260703110000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Bogota, finále Bouzkova - Udvardy, (šport)</desc></programme>
 <programme start="20260703110000 +0700" stop="20260703150000 +0700" channel="Sport 2.sk"><title>Šipky</title><desc>Slovak Darts Open - Bratislava, Slovensko, PDC European Tour 2026, 3. den, část 1, (šport)</desc></programme>
@@ -9146,4 +9134,13 @@
 <programme start="20260704044500 +0700" stop="20260704081500 +0700" channel="Sport 2.sk"><title>NCAA, americký fotbal</title><desc>Music Bowl Tennesse - Illinois, (šport)</desc></programme>
 <programme start="20260704081500 +0700" stop="20260704084500 +0700" channel="Sport 2.sk"><title>Tenis, WTA 250, Eastbourne, sestřih</title><desc>(šport)</desc></programme>
 <programme start="20260704084500 +0700" stop="20260704110000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Evropská liga, Ligová fáze Lille - Brann, (šport)</desc></programme>
+<programme start="20260704110000 +0700" stop="20260704150000 +0700" channel="Sport 2.sk"><title>Šipky</title><desc>Slovak Darts Open - Bratislava, Slovensko, PDC European Tour 2026, 3. den, část 2, (šport)</desc></programme>
+<programme start="20260704150000 +0700" stop="20260704171500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Evropská liga, Ligová fáze Bologna - Freiburg, (šport)</desc></programme>
+<programme start="20260704171500 +0700" stop="20260704184500 +0700" channel="Sport 2.sk"><title>Box</title><desc>Sugar Ray Robinson ponud for pound, (šport)</desc></programme>
+<programme start="20260704184500 +0700" stop="20260704224500 +0700" channel="Sport 2.sk"><title>Šipky</title><desc>Belgium Darts Open, Wieze, Belgie, 3. den, část 2, (šport)</desc></programme>
+<programme start="20260704224500 +0700" stop="20260705013000 +0700" channel="Sport 2.sk"><title>Lední hokej</title><desc>Tipsport Liga, základní část, 5. kolo HC Košice - HK Spišská Nová Ves, (šport)</desc></programme>
+<programme start="20260705013000 +0700" stop="20260705043000 +0700" channel="Sport 2.sk"><title>Lední hokej</title><desc>Tipsport Liga, základní část, 7. kolo HK Dukla Trenčín - HK Poprad, (šport)</desc></programme>
+<programme start="20260705043000 +0700" stop="20260705080000 +0700" channel="Sport 2.sk"><title>NCAA, americký fotbal</title><desc>Peach Bowl Texas - Arizona, (šport)</desc></programme>
+<programme start="20260705080000 +0700" stop="20260705090000 +0700" channel="Sport 2.sk"><title>Poker</title><desc>WSOP, sestřih hlavních událostí 15/10, (šport)</desc></programme>
+<programme start="20260705090000 +0700" stop="20260705100000 +0700" channel="Sport 2.sk"><title>Poker</title><desc>WSOP, sestřih hlavních událostí 15/11, (šport)</desc></programme>
 </tv>
