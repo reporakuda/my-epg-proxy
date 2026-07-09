@@ -6,8 +6,8 @@
   <programme start="20260712040000 +0700" stop="20260712070000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Norwegia vs Inggris</title></programme>
   <programme start="20260712080000 +0700" stop="20260712110000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Argentina vs Swiss</title></programme>
 <channel id="fox26"><display-name>FOX26</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7VnIoJx3hS2kd6CyVvwBPSAziyu5p8MrZrKyTK6dKg&s=10" /></channel>
-  <programme start="20260710030000 +0700" stop="20260710060000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Prancis vs Marako</title></programme>
-  <programme start="20260711020000 +0700" stop="20260711005000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Spanyol vs Belgia</title></programme>
-  <programme start="20260712040000 +0700" stop="20260712070000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Norwegia vs Inggris</title></programme>
-  <programme start="20260712080000 +0700" stop="20260712110000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Argentina vs Swiss</title></programme>
+  <programme start="20260710030000 +0700" stop="20260710060000 +0700" channel="fox26"><title>FIFA Worldcup: Prancis vs Marako</title></programme>
+  <programme start="20260711020000 +0700" stop="20260711005000 +0700" channel="fox26"><title>FIFA Worldcup: Spanyol vs Belgia</title></programme>
+  <programme start="20260712040000 +0700" stop="20260712070000 +0700" channel="fox26"><title>FIFA Worldcup: Norwegia vs Inggris</title></programme>
+  <programme start="20260712080000 +0700" stop="20260712110000 +0700" channel="fox26"><title>FIFA Worldcup: Argentina vs Swiss</title></programme>
 </tv>
