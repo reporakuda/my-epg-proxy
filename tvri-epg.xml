@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Rakuda-EPG-Aggregator">
 <channel id="TVRISport.id"><display-name>TVRI Sport.id</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo38CwCzobCnBkAfjd_veWvQKZeguE9ksd-6O7TojrFw&s=10" /></channel>
-  <programme start="20260619020000 +0700" stop="20260619043000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Switzerland vs Bosnia and Herzegovina</title></programme>
-  <programme start="20260619050000 +0700" stop="20260619073000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Canada vs Qatar</title></programme>
-  <programme start="20260619080000 +0700" stop="20260619103000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Mexico vs Korea Republic</title></programme>
-  <programme start="20260620020000 +0700" stop="20260620043000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: USA vs Australia</title></programme>
-  <programme start="20260620050000 +0700" stop="20260620073000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Scotland vs Morocco</title></programme>
-  <programme start="20260620073000 +0700" stop="20260620100000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Brazil vs Haiti</title></programme>
-  <programme start="20260620100000 +0700" stop="20260620123000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Turkey vs Paraguay</title></programme>
-  <programme start="20260621000000 +0700" stop="20260621023000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Netherlands vs Sweden</title></programme>
-  <programme start="20260621030000 +0700" stop="20260621053000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Germany vs Côte d'Ivoire</title></programme>
-  <programme start="20260621070000 +0700" stop="20260621093000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Ecuador vs Curaçao</title></programme>
-  <programme start="20260621110000 +0700" stop="20260621133000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Tunisia vs Japan</title></programme>
+  <programme start="20260710030000 +0700" stop="20260710060000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Prancis vs Marako</title></programme>
+  <programme start="20260711020000 +0700" stop="20260711005000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Spanyol vs Belgia</title></programme>
+  <programme start="20260712040000 +0700" stop="20260712070000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Norwegia vs Inggris</title></programme>
+  <programme start="20260712080000 +0700" stop="20260712110000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Argentina vs Swiss</title></programme>
+<channel id="fox26"><display-name>FOX26</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7VnIoJx3hS2kd6CyVvwBPSAziyu5p8MrZrKyTK6dKg&s=10" /></channel>
+  <programme start="20260710030000 +0700" stop="20260710060000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Prancis vs Marako</title></programme>
+  <programme start="20260711020000 +0700" stop="20260711005000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Spanyol vs Belgia</title></programme>
+  <programme start="20260712040000 +0700" stop="20260712070000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Norwegia vs Inggris</title></programme>
+  <programme start="20260712080000 +0700" stop="20260712110000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Argentina vs Swiss</title></programme>
 </tv>
