@@ -2,6 +2,10 @@
 <tv generator-info-name="Rakuda-EPG-Aggregator">
 <channel id="TVRISport.id"><display-name>TVRI Sport.id</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo38CwCzobCnBkAfjd_veWvQKZeguE9ksd-6O7TojrFw&s=10" /></channel>
   <programme start="20260716020000 +0700" stop="20260716050000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Inggris vs Argentina</title></programme>
+  <programme start="20260719040000 +0700" stop="20260719070000 +0700" channel="TVRISport.id"><title>FIFA Worldcup: Prancis vs Inggris</title></programme>
+  <programme start="20260720020000 +0700" stop="20260720050000 +0700" channel="TVRISport.id"><title>FINAL FIFA Worldcup: Spanyol vs Argentina</title></programme>
 <channel id="fox26"><display-name>FOX26</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7VnIoJx3hS2kd6CyVvwBPSAziyu5p8MrZrKyTK6dKg&s=10" /></channel>
   <programme start="20260716020000 +0700" stop="20260716050000 +0700" channel="fox26"><title>FIFA Worldcup: Inggris vs Argentina</title></programme>
+  <programme start="20260719040000 +0700" stop="20260719070000 +0700" channel="fox26"><title>FIFA Worldcup: Prancis vs Inggris</title></programme>
+  <programme start="20260720020000 +0700" stop="20260720050000 +0700" channel="fox26"><title>FINAL FIFA Worldcup: Spanyol vs Argentina</title></programme>
 </tv>
