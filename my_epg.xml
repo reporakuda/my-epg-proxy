@@ -14,95 +14,6 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/1850/image" />
     <url>http://www.fetchtv.com.au</url>
   </channel>
-  <programme start="20260716093000 +0700" stop="20260716123000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Gstaad Day 3</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E180</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716123000 +0700" stop="20260716153000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Gstaad Evening 3</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E181</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716153000 +0700" stop="20260716200000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Gstaad Day 4</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E182</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716200000 +0700" stop="20260717013000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Gstaad Evening 4</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E183</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717013000 +0700" stop="20260717020000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Tour: This Week</title>
-    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/105381/image/334x188" />
-    <episode-num system="onscreen">E27</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717020000 +0700" stop="20260717023000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP</title>
-    <sub-title lang="en">Monte Carlo Moments 2013-2015</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/192345/image/334x188" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717023000 +0700" stop="20260717033000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Rome</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403097/image/334x188" />
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717033000 +0700" stop="20260717063000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Bastad Day 4</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E170</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717063000 +0700" stop="20260717093000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Bastad Evening 4</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E171</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20260717093000 +0700" stop="20260717123000 +0700" channel="beINSports1.au">
     <title lang="en">ATP 250</title>
     <sub-title lang="en">Gstaad Day 4</sub-title>
@@ -133,7 +44,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260717193000 +0700" stop="20260718013000 +0700" channel="beINSports1.au">
+  <programme start="20260717193000 +0700" stop="20260718020000 +0700" channel="beINSports1.au">
     <title lang="en">ATP 250</title>
     <sub-title lang="en">Gstaad Evening QFs</sub-title>
     <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
@@ -143,12 +54,11 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260718013000 +0700" stop="20260718023000 +0700" channel="beINSports1.au">
-    <title lang="en">ATP</title>
-    <sub-title lang="en">Agassi &amp; Djokovic at Miami</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/192345/image/334x188" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+  <programme start="20260718020000 +0700" stop="20260718023000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP Tour: This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/105381/image/334x188" />
+    <episode-num system="onscreen">E27</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -747,162 +657,101 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716071000 +0700" stop="20260716090000 +0700" channel="beINSports2.au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">Coventry vs Derby</sub-title>
-    <desc lang="en">The EFL Championship 2025/26 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/347605/image/334x188" />
-    <episode-num system="onscreen">E132</episode-num>
+  <programme start="20260723070000 +0700" stop="20260723100000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Kitzbuhel Evening 3</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
+    <episode-num system="onscreen">E214</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716090000 +0700" stop="20260716105000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Bayern vs Schalke - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E9</episode-num>
+  <programme start="20260723100000 +0700" stop="20260723130000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Estoril Day 3</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
+    <episode-num system="onscreen">E192</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716105000 +0700" stop="20260716124000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Dortmund vs Bayern - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E16</episode-num>
+  <programme start="20260723130000 +0700" stop="20260723160000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Estoril Evening 3</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
+    <episode-num system="onscreen">E193</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716124000 +0700" stop="20260716143000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Frankfurt vs Bayern - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E27</episode-num>
+  <programme start="20260723160000 +0700" stop="20260723200000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Kitzbuhel Day QFs</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
+    <episode-num system="onscreen">E215</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716143000 +0700" stop="20260716144500 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Bayern vs Dortmund - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E19</episode-num>
+  <programme start="20260723200000 +0700" stop="20260724010000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Kitzbuhel Evening QFs</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
+    <episode-num system="onscreen">E216</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716144500 +0700" stop="20260716150000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Bayern vs Darmstadt - 2023/24</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E23</episode-num>
+  <programme start="20260724010000 +0700" stop="20260724013000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP Tour: This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/105381/image/334x188" />
+    <episode-num system="onscreen">E28</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716150000 +0700" stop="20260716160000 +0700" channel="beINSports2.au">
+  <programme start="20260724013000 +0700" stop="20260724020000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP</title>
+    <sub-title lang="en">Rafael Nadal Being Iconic</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries, achievements and special features at ATP Masters events.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/192345/image/334x188" />
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260724020000 +0700" stop="20260724030000 +0700" channel="beINSports1.au">
+    <title lang="en">ATP</title>
+    <sub-title lang="en">Federer v Nadal at Miami</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/192345/image/334x188" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260724030000 +0700" stop="20260724040000 +0700" channel="beINSports1.au">
     <title lang="en">ATP Review</title>
-    <sub-title lang="en">Monte-Carlo</sub-title>
+    <sub-title lang="en">Rio de Janeiro</sub-title>
     <desc lang="en">A look back at the best of the action from the tournament.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/403097/image/334x188" />
-    <episode-num system="onscreen">E9</episode-num>
+    <episode-num system="onscreen">E4</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716160000 +0700" stop="20260716200000 +0700" channel="beINSports2.au">
+  <programme start="20260724040000 +0700" stop="20260724070000 +0700" channel="beINSports1.au">
     <title lang="en">ATP 250</title>
-    <sub-title lang="en">Bastad Day 4</sub-title>
+    <sub-title lang="en">Kitzbuhel Day QFs</sub-title>
     <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E170</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716200000 +0700" stop="20260717010000 +0700" channel="beINSports2.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Bastad Evening 4</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E171</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717010000 +0700" stop="20260717013000 +0700" channel="beINSports2.au">
-    <title lang="en">Old Firm Classic</title>
-    <sub-title lang="en">Celtic vs Rangers - 2018/19</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/376683/image/334x188" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717013000 +0700" stop="20260717020000 +0700" channel="beINSports2.au">
-    <title lang="en">Old Firm Classic</title>
-    <sub-title lang="en">Rangers vs Celtic - 2018/19</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/376683/image/334x188" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717020000 +0700" stop="20260717023000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Bayern vs Leipzig - 2016/17</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717023000 +0700" stop="20260717030000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Bayern vs Wolfsburg - 2016/17</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717030000 +0700" stop="20260717045000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Bayern vs Schalke - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717045000 +0700" stop="20260717064000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Dortmund vs Bayern - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717064000 +0700" stop="20260717083000 +0700" channel="beINSports2.au">
-    <title lang="en">Bundesliga Classic</title>
-    <sub-title lang="en">Frankfurt vs Bayern - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
-    <episode-num system="onscreen">S1 E27</episode-num>
+    <episode-num system="onscreen">E215</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -1846,30 +1695,30 @@
     </rating>
   </programme>
   <programme start="20260721090000 +0700" stop="20260721105000 +0700" channel="beINSports2.au">
-    <title lang="en">Carabao Cup</title>
+    <title lang="en">Carabao Cup Classic</title>
     <sub-title lang="en">Chelsea vs Arsenal - SF 1st Leg</sub-title>
     <desc lang="en">Get ready for the 2025/26 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/363025/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/385905/image/334x188" />
     <episode-num system="onscreen">E90</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20260721105000 +0700" stop="20260721124000 +0700" channel="beINSports2.au">
-    <title lang="en">Carabao Cup</title>
+    <title lang="en">Carabao Cup Classic</title>
     <sub-title lang="en">Arsenal vs Chelsea - SF 2nd Leg</sub-title>
     <desc lang="en">Get ready for the 2025/26 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/363025/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/385905/image/334x188" />
     <episode-num system="onscreen">E91</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20260721124000 +0700" stop="20260721143000 +0700" channel="beINSports2.au">
-    <title lang="en">Carabao Cup</title>
+    <title lang="en">Carabao Cup Classic</title>
     <sub-title lang="en">Arsenal vs Man City - Final</sub-title>
     <desc lang="en">Get ready for the 2025/26 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/363025/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/385905/image/334x188" />
     <episode-num system="onscreen">E93</episode-num>
     <rating system="AU">
       <value>NR</value>
@@ -1936,30 +1785,30 @@
     </rating>
   </programme>
   <programme start="20260722030000 +0700" stop="20260722045000 +0700" channel="beINSports2.au">
-    <title lang="en">Carabao Cup</title>
+    <title lang="en">Carabao Cup Classic</title>
     <sub-title lang="en">Chelsea vs Arsenal - SF 1st Leg</sub-title>
     <desc lang="en">Get ready for the 2025/26 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/363025/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/385905/image/334x188" />
     <episode-num system="onscreen">E90</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20260722045000 +0700" stop="20260722064000 +0700" channel="beINSports2.au">
-    <title lang="en">Carabao Cup</title>
+    <title lang="en">Carabao Cup Classic</title>
     <sub-title lang="en">Arsenal vs Chelsea - SF 2nd Leg</sub-title>
     <desc lang="en">Get ready for the 2025/26 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/363025/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/385905/image/334x188" />
     <episode-num system="onscreen">E91</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20260722064000 +0700" stop="20260722083000 +0700" channel="beINSports2.au">
-    <title lang="en">Carabao Cup</title>
+    <title lang="en">Carabao Cup Classic</title>
     <sub-title lang="en">Arsenal vs Man City - Final</sub-title>
     <desc lang="en">Get ready for the 2025/26 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/363025/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/385905/image/334x188" />
     <episode-num system="onscreen">E93</episode-num>
     <rating system="AU">
       <value>NR</value>
@@ -2135,211 +1984,151 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716083000 +0700" stop="20260716090000 +0700" channel="beINSports3.au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Napoli vs Inter</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/386957/image/334x188" />
-    <episode-num system="onscreen">E37</episode-num>
+  <programme start="20260723072000 +0700" stop="20260723093000 +0700" channel="beINSports2.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Sporting Cristal vs RB Bragantino - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E117</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716090000 +0700" stop="20260716105000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Barcelona vs Atletico Madrid - 2009/10</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
+  <programme start="20260723093000 +0700" stop="20260723112000 +0700" channel="beINSports2.au">
+    <title lang="en">Bundesliga Classic</title>
+    <sub-title lang="en">Hertha vs Bayern - 2022/23</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723112000 +0700" stop="20260723131000 +0700" channel="beINSports2.au">
+    <title lang="en">Bundesliga Classic</title>
+    <sub-title lang="en">Bochum vs Bayern - 2022/23</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
+    <episode-num system="onscreen">S1 E46</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723131000 +0700" stop="20260723150000 +0700" channel="beINSports2.au">
+    <title lang="en">Bundesliga Classic</title>
+    <sub-title lang="en">Wolfsburg vs Bayern - 2022/23</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/360883/image/334x188" />
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723150000 +0700" stop="20260723160000 +0700" channel="beINSports2.au">
+    <title lang="en">Tales, Tears &amp; Trophies</title>
+    <sub-title lang="en">Joe Hart</sub-title>
+    <desc lang="en">Joe Hart sits down to talk about his time at Manchester City, his England career, and the challenges of goalkeeping at the highest level.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/61692/image/334x188" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723160000 +0700" stop="20260723170000 +0700" channel="beINSports2.au">
+    <title lang="en">Tales, Tears &amp; Trophies</title>
+    <sub-title lang="en">Joe Cole</sub-title>
+    <desc lang="en">Joe Cole &amp; Mikael Silvestre on London market stalls, appalling training grounds, Jose Mourinho and coaching ambitions.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/61692/image/334x188" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723170000 +0700" stop="20260723180000 +0700" channel="beINSports2.au">
+    <title lang="en">Tales, Tears &amp; Trophies</title>
+    <sub-title lang="en">Ashley Cole</sub-title>
+    <desc lang="en">Ashley Cole &amp; Mikael Silvestre on flying pizzas, Mourinho vs Wenger vs Ferguson, and the World Cup England could have won.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/61692/image/334x188" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723180000 +0700" stop="20260723230000 +0700" channel="beINSports2.au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Estoril Day 4</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
+    <episode-num system="onscreen">E194</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723230000 +0700" stop="20260724040000 +0700" channel="beINSports2.au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Estoril Evening 4</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
+    <episode-num system="onscreen">E195</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260724040000 +0700" stop="20260724050000 +0700" channel="beINSports2.au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Sampras v Kuerten 2000</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Pete Sampras met Gustavo Kuerten in the final at Miami in 2000.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/401955/image/334x188" />
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716105000 +0700" stop="20260716124000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Barcelona vs Villarreal - 2011/12</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E15</episode-num>
+  <programme start="20260724050000 +0700" stop="20260724060000 +0700" channel="beINSports2.au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Djokovic v Nadal 2013</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Novak Djokovic met Rafael Nadal in the final at Monte Carlo in 2013.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/401955/image/334x188" />
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716124000 +0700" stop="20260716143000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Barcelona vs Osasuna - 2012/13</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E30</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716143000 +0700" stop="20260716150000 +0700" channel="beINSports3.au">
-    <title lang="en">LaLiga Classic</title>
-    <sub-title lang="en">Barcelona vs Osasuna - 2016/17</sub-title>
-    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362874/image/334x188" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716150000 +0700" stop="20260716153000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 1</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
+  <programme start="20260724060000 +0700" stop="20260724061500 +0700" channel="beINSports2.au">
+    <title lang="en">Champions of Made In Italy</title>
+    <sub-title lang="en">Fiorentina</sub-title>
+    <desc lang="en">Made in Italy series returns, producing dedicated videos for each of the 20 Serie A clubs that showcase their home cities and local industries, linking football with Italian culture and highlighting each club's community and economic identity.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/46692/image/334x188" />
     <episode-num system="onscreen">E1</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716153000 +0700" stop="20260716160000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 2</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
+  <programme start="20260724061500 +0700" stop="20260724063000 +0700" channel="beINSports2.au">
+    <title lang="en">Champions of Made In Italy</title>
+    <sub-title lang="en">Verona</sub-title>
+    <desc lang="en">Made in Italy series returns, producing dedicated videos for each of the 20 Serie A clubs that showcase their home cities and local industries, linking football with Italian culture and highlighting each club's community and economic identity.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/46692/image/334x188" />
     <episode-num system="onscreen">E2</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716160000 +0700" stop="20260716163000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 3</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
+  <programme start="20260724063000 +0700" stop="20260724064500 +0700" channel="beINSports2.au">
+    <title lang="en">Champions of Made In Italy</title>
+    <sub-title lang="en">Sassuolo</sub-title>
+    <desc lang="en">Made in Italy series returns, producing dedicated videos for each of the 20 Serie A clubs that showcase their home cities and local industries, linking football with Italian culture and highlighting each club's community and economic identity.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/46692/image/334x188" />
     <episode-num system="onscreen">E3</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260716163000 +0700" stop="20260716170000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 4</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716170000 +0700" stop="20260716173000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 5</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716173000 +0700" stop="20260716180000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 6</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716180000 +0700" stop="20260716183000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Bayern Unleashed - Records In Red</sub-title>
-    <desc lang="en">Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E20</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716183000 +0700" stop="20260716190000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">The Legacy of Manuel Neuer</sub-title>
-    <desc lang="en">Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E18</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716190000 +0700" stop="20260716193000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Beyond Ninety - The Ultimate Drama</sub-title>
-    <desc lang="en">Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E16</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716193000 +0700" stop="20260716203000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Season Review</sub-title>
-    <desc lang="en">Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E21</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716203000 +0700" stop="20260716210000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Analysis II</sub-title>
-    <desc lang="en">Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E22</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260716210000 +0700" stop="20260717050000 +0700" channel="beINSports3.au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Umag Day QFs</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/236935/image/334x188" />
-    <episode-num system="onscreen">E162</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717050000 +0700" stop="20260717053000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 1</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717053000 +0700" stop="20260717060000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 2</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717060000 +0700" stop="20260717063000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 3</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260717063000 +0700" stop="20260717070000 +0700" channel="beINSports3.au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Road to Americas Ep 4</sub-title>
-    <desc lang="en">The third season of the Bundesliga Original Series documents the journey of five professional footballers on the road to the 2026 FIFA World Cup.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/215362/image/334x188" />
+  <programme start="20260724064500 +0700" stop="20260724070000 +0700" channel="beINSports2.au">
+    <title lang="en">Champions of Made In Italy</title>
+    <sub-title lang="en">Genoa</sub-title>
+    <desc lang="en">Made in Italy series returns, producing dedicated videos for each of the 20 Serie A clubs that showcase their home cities and local industries, linking football with Italian culture and highlighting each club's community and economic identity.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/46692/image/334x188" />
     <episode-num system="onscreen">E4</episode-num>
     <rating system="AU">
       <value>NR</value>
@@ -2854,42 +2643,42 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260719110000 +0700" stop="20260719111000 +0700" channel="beINSports3.au">
-    <title lang="en">Old Firm Classic</title>
-    <sub-title lang="en">Celtic vs Rangers 2023/24</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/376683/image/334x188" />
-    <episode-num system="onscreen">S1 E23</episode-num>
+  <programme start="20260719110000 +0700" stop="20260719133000 +0700" channel="beINSports3.au">
+    <title lang="en">MUTV</title>
+    <sub-title lang="en">Man United vs Wrexham - Friendly</sub-title>
+    <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/215370/image/334x188" />
+    <episode-num system="onscreen">E41</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260719111000 +0700" stop="20260719125000 +0700" channel="beINSports3.au">
-    <title lang="en">Serie A Classic</title>
-    <sub-title lang="en">Inter vs Atalanta - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362875/image/334x188" />
-    <episode-num system="onscreen">S1 E14</episode-num>
+  <programme start="20260719133000 +0700" stop="20260719140000 +0700" channel="beINSports3.au">
+    <title lang="en">MUTV</title>
+    <sub-title lang="en">How We Won The 2017 EFL Cup</sub-title>
+    <desc lang="en">We look back on the victories against Northampton, Man City, West Ham, Hull and Southampton that took us all the way to winning the EFL Cup 2017.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/215370/image/334x188" />
+    <episode-num system="onscreen">S1 E48</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260719125000 +0700" stop="20260719143000 +0700" channel="beINSports3.au">
-    <title lang="en">Serie A Classic</title>
-    <sub-title lang="en">Inter vs Sassuolo - 2022/23</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362875/image/334x188" />
-    <episode-num system="onscreen">S1 E19</episode-num>
+  <programme start="20260719140000 +0700" stop="20260719143000 +0700" channel="beINSports3.au">
+    <title lang="en">MUTV</title>
+    <sub-title lang="en">George Best: A Memoir</sub-title>
+    <desc lang="en">Sir Michael Parkinson reminisces about his personal and professional relationship with one of the game's greatest ever talents.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/215370/image/334x188" />
+    <episode-num system="onscreen">S1 E49</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20260719143000 +0700" stop="20260719150000 +0700" channel="beINSports3.au">
-    <title lang="en">Serie A Classic</title>
-    <sub-title lang="en">Inter vs Roma - 2016/17</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/362875/image/334x188" />
-    <episode-num system="onscreen">S1 E4</episode-num>
+    <title lang="en">MUTV</title>
+    <sub-title lang="en">Busby's Dream: The Triumph of '68</sub-title>
+    <desc lang="en">Special documentary featuring the players, fans' stories and unseen archive from one of United's greatest triumphs, the 1968 European Cup win.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/215370/image/334x188" />
+    <episode-num system="onscreen">S1 E50</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -3540,6 +3329,136 @@
     <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
     <episode-num system="onscreen">E115</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723070500 +0700" stop="20260723072000 +0700" channel="beINSports3.au">
+    <title lang="en">Serie A Special</title>
+    <sub-title lang="en">Best Striker</sub-title>
+    <desc lang="en">A comprehensive recap of all goals, assists, and saves from Serie A 2024/25, highlighting stunning plays and pivotal moments by the league's top playmakers..</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/61706/image/334x188" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723072000 +0700" stop="20260723093000 +0700" channel="beINSports3.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Lanus vs Cienciano - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E116</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723093000 +0700" stop="20260723112000 +0700" channel="beINSports3.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Independiente Medellin vs Vasco De Gama - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E115</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723112000 +0700" stop="20260723131000 +0700" channel="beINSports3.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Lanus vs Cienciano - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E116</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723131000 +0700" stop="20260723150000 +0700" channel="beINSports3.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Sporting Cristal vs RB Bragantino - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E117</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723150000 +0700" stop="20260723160000 +0700" channel="beINSports3.au">
+    <title lang="en">WTA Special</title>
+    <sub-title lang="en">Greatest 50</sub-title>
+    <desc lang="en">This mini series marks the WTA's 50th anniversary, showcasing influential women's tennis players since 1973. Selected by experts, it features the greatest contributors voted from the WTA's 50 year history.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/46690/image/334x188" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723160000 +0700" stop="20260723230000 +0700" channel="beINSports3.au">
+    <title lang="en">WTA 250</title>
+    <sub-title lang="en">Prague Day 1</sub-title>
+    <desc lang="en">Watch every tournament from the WTA 250 tour as the top female players in the world travel the globe vying to be #1.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/402387/image/334x188" />
+    <episode-num system="onscreen">E68</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723230000 +0700" stop="20260723231000 +0700" channel="beINSports3.au">
+    <title lang="en">Old Firm Classic</title>
+    <sub-title lang="en">Celtic vs Rangers - 2022/23</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/376683/image/334x188" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723231000 +0700" stop="20260723232000 +0700" channel="beINSports3.au">
+    <title lang="en">Old Firm Classic</title>
+    <sub-title lang="en">Rangers vs Celtic - 2022/23</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/376683/image/334x188" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260723232000 +0700" stop="20260724011000 +0700" channel="beINSports3.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Independiente Medellin vs Vasco De Gama - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E115</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260724011000 +0700" stop="20260724030000 +0700" channel="beINSports3.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Lanus vs Cienciano - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E116</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260724030000 +0700" stop="20260724045000 +0700" channel="beINSports3.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Sporting Cristal vs RB Bragantino - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E117</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260724045000 +0700" stop="20260724070500 +0700" channel="beINSports3.au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Bolivar vs Gremio - PO 1st Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/380147/image/334x188" />
+    <episode-num system="onscreen">E118</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
