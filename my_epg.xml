@@ -6929,81 +6929,6 @@
     <display-name lang="Indonesia">Sportstars 2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524003" start="20260806080000 +0700" stop="20260806083000 +0700">
-    <title lang="zh">iNews Sport</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806083000 +0700" stop="20260806090000 +0700">
-    <title lang="zh">Sport Today</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806090000 +0700" stop="20260806110000 +0700">
-    <title lang="zh">ASEAN Hyundai Cup: THA Vs MAS</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806110000 +0700" stop="20260806113000 +0700">
-    <title lang="zh">Adrenaline Rush</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806113000 +0700" stop="20260806120000 +0700">
-    <title lang="zh">Top Goals</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806120000 +0700" stop="20260806143000 +0700">
-    <title lang="zh">Best Of Badminton</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806143000 +0700" stop="20260806163000 +0700">
-    <title lang="zh">ASEAN Hyundai Cup: MYA Vs LAO</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806163000 +0700" stop="20260806183000 +0700">
-    <title lang="zh">ASEAN Hyundai Cup: LAO Vs PHI</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806183000 +0700" stop="20260806203000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806203000 +0700" stop="20260806220000 +0700">
-    <title lang="zh">Tinju</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260806220000 +0700" stop="20260807000000 +0700">
-    <title lang="zh">ASEAN Hyundai Cup: MYA Vs LAO</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260807000000 +0700" stop="20260807020000 +0700">
-    <title lang="zh">ASEAN Hyundai Cup: LAO Vs PHI</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260807020000 +0700" stop="20260807040000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260807040000 +0700" stop="20260807053000 +0700">
-    <title lang="zh">Tinju</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524003" start="20260807053000 +0700" stop="20260807070000 +0700">
-    <title lang="zh">Best Of Badminton</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
   <programme channel="524003" start="20260807080000 +0700" stop="20260807083000 +0700">
     <title lang="zh">iNews Sport</title>
     <desc />
@@ -7079,70 +7004,95 @@
     <desc />
     <date>2026-08-07</date>
   </programme>
+  <programme channel="524003" start="20260808080000 +0700" stop="20260808083000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808083000 +0700" stop="20260808090000 +0700">
+    <title lang="zh">Sport Today</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808090000 +0700" stop="20260808110000 +0700">
+    <title lang="zh">ASEAN Hyundai Cup: IDN Vs VIE</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808110000 +0700" stop="20260808113000 +0700">
+    <title lang="zh">Adrenaline Rush</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808113000 +0700" stop="20260808120000 +0700">
+    <title lang="zh">Top Goals</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808120000 +0700" stop="20260808143000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808143000 +0700" stop="20260808163000 +0700">
+    <title lang="zh">ASEAN Hyundai Cup: SIN Vs IDN</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808163000 +0700" stop="20260808183000 +0700">
+    <title lang="zh">ASEAN Hyundai Cup: PHI Vs THA</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808183000 +0700" stop="20260808190000 +0700">
+    <title lang="zh">Top Goals</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808190000 +0700" stop="20260808193000 +0700">
+    <title lang="zh">Adrenaline Rush</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808193000 +0700" stop="20260808195500 +0700">
+    <title lang="zh">Top Goals</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808195500 +0700" stop="20260808220000 +0700">
+    <title lang="zh">Hyundai Cup '26: THA Vs MYA (L)</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260808220000 +0700" stop="20260809000000 +0700">
+    <title lang="zh">ASEAN Hyundai Cup: SIN Vs IDN</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260809000000 +0700" stop="20260809020000 +0700">
+    <title lang="zh">ASEAN Hyundai Cup: PHI Vs THA</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260809020000 +0700" stop="20260809040000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260809040000 +0700" stop="20260809053000 +0700">
+    <title lang="zh">Tinju</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524003" start="20260809053000 +0700" stop="20260809070000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
 <channel id="524184">
     <display-name lang="Indonesia">Sportstars 3</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524184" start="20260806080000 +0700" stop="20260806100000 +0700">
-    <title lang="zh">ASEAN Hyundai C'ship 2026</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260806100000 +0700" stop="20260806120000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260806120000 +0700" stop="20260806140000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260806140000 +0700" stop="20260806160000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260806160000 +0700" stop="20260806180000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260806180000 +0700" stop="20260806200000 +0700">
-    <title lang="zh">ASEAN Hyundai C'ship 2026</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260806200000 +0700" stop="20260806220000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260806220000 +0700" stop="20260807000000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260807000000 +0700" stop="20260807020000 +0700">
-    <title lang="zh">ASEAN Hyundai C'ship 2026</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260807020000 +0700" stop="20260807040000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260807040000 +0700" stop="20260807060000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524184" start="20260807060000 +0700" stop="20260807070000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
   <programme channel="524184" start="20260807080000 +0700" stop="20260807100000 +0700">
     <title lang="zh">ASEAN Hyundai C'ship 2026</title>
     <desc />
@@ -7203,70 +7153,70 @@
     <desc />
     <date>2026-08-07</date>
   </programme>
+  <programme channel="524184" start="20260808080000 +0700" stop="20260808100000 +0700">
+    <title lang="zh">ASEAN Hyundai C'ship 2026</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260808100000 +0700" stop="20260808120000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260808120000 +0700" stop="20260808140000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260808140000 +0700" stop="20260808160000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260808160000 +0700" stop="20260808180000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260808180000 +0700" stop="20260808200000 +0700">
+    <title lang="zh">ASEAN Hyundai C'ship 2026</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260808200000 +0700" stop="20260808220000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260808220000 +0700" stop="20260809000000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260809000000 +0700" stop="20260809020000 +0700">
+    <title lang="zh">ASEAN Hyundai C'ship 2026</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260809020000 +0700" stop="20260809040000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260809040000 +0700" stop="20260809060000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524184" start="20260809060000 +0700" stop="20260809070000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
 <channel id="524033">
     <display-name lang="Indonesia">Sportstars 4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524033" start="20260806080000 +0700" stop="20260806100000 +0700">
-    <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260806100000 +0700" stop="20260806120000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260806120000 +0700" stop="20260806140000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260806140000 +0700" stop="20260806160000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260806160000 +0700" stop="20260806180000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260806180000 +0700" stop="20260806200000 +0700">
-    <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260806200000 +0700" stop="20260806220000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260806220000 +0700" stop="20260807000000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260807000000 +0700" stop="20260807020000 +0700">
-    <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260807020000 +0700" stop="20260807040000 +0700">
-    <title lang="zh">V-League Women</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260807040000 +0700" stop="20260807060000 +0700">
-    <title lang="zh">Bundesliga</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524033" start="20260807060000 +0700" stop="20260807070000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
   <programme channel="524033" start="20260807080000 +0700" stop="20260807100000 +0700">
     <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
     <desc />
@@ -7327,115 +7277,70 @@
     <desc />
     <date>2026-08-07</date>
   </programme>
+  <programme channel="524033" start="20260808080000 +0700" stop="20260808100000 +0700">
+    <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260808100000 +0700" stop="20260808120000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260808120000 +0700" stop="20260808140000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260808140000 +0700" stop="20260808160000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260808160000 +0700" stop="20260808180000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260808180000 +0700" stop="20260808200000 +0700">
+    <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260808200000 +0700" stop="20260808220000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260808220000 +0700" stop="20260809000000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260809000000 +0700" stop="20260809020000 +0700">
+    <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260809020000 +0700" stop="20260809040000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260809040000 +0700" stop="20260809060000 +0700">
+    <title lang="zh">Bundesliga</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524033" start="20260809060000 +0700" stop="20260809070000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
 <channel id="524124">
     <display-name lang="Indonesia">Sportstars</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524124" start="20260806070000 +0700" stop="20260806073000 +0700">
-    <title lang="zh">Adrenaline Rush</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806073000 +0700" stop="20260806093000 +0700">
-    <title lang="zh">Pro Futsal League</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806093000 +0700" stop="20260806102500 +0700">
-    <title lang="zh">Best Of Badminton</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806102500 +0700" stop="20260806123000 +0700">
-    <title lang="zh">AUBL 2026 (L)</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806123000 +0700" stop="20260806125500 +0700">
-    <title lang="zh">Sports Today</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806125500 +0700" stop="20260806150000 +0700">
-    <title lang="zh">AUBL 2026 (L)</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806150000 +0700" stop="20260806153000 +0700">
-    <title lang="zh">iNews Sport</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806153000 +0700" stop="20260806155500 +0700">
-    <title lang="zh">Bloopers</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806155500 +0700" stop="20260806180000 +0700">
-    <title lang="zh">AUBL 2026 (L)</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806180000 +0700" stop="20260806182500 +0700">
-    <title lang="zh">Adrenalin Rush</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806182500 +0700" stop="20260806203000 +0700">
-    <title lang="zh">AUBL 2026 (L)</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806203000 +0700" stop="20260806210000 +0700">
-    <title lang="zh">Sports Today</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806210000 +0700" stop="20260806230000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260806230000 +0700" stop="20260807003000 +0700">
-    <title lang="zh">Pro Futsal League</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260807003000 +0700" stop="20260807010000 +0700">
-    <title lang="zh">Bloopers</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260807010000 +0700" stop="20260807013000 +0700">
-    <title lang="zh">Sports Today</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260807013000 +0700" stop="20260807020000 +0700">
-    <title lang="zh">iNews Sport</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260807020000 +0700" stop="20260807040000 +0700">
-    <title lang="zh">Best Of Badminton</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260807040000 +0700" stop="20260807060000 +0700">
-    <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260807060000 +0700" stop="20260807063000 +0700">
-    <title lang="zh">Sports Today</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="524124" start="20260807063000 +0700" stop="20260807070000 +0700">
-    <title lang="zh">Bloopers</title>
-    <desc />
-    <date>2026-08-06</date>
-  </programme>
   <programme channel="524124" start="20260807070000 +0700" stop="20260807073000 +0700">
     <title lang="zh">Adrenaline Rush</title>
     <desc />
@@ -7516,145 +7421,95 @@
     <desc />
     <date>2026-08-07</date>
   </programme>
-  <programme channel="524124" start="20260808070000 +0700" stop="20260809070000 +0700">
+  <programme channel="524124" start="20260808070000 +0700" stop="20260808073000 +0700">
     <title lang="zh">Golden Fit</title>
     <desc />
     <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808073000 +0700" stop="20260808093000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808093000 +0700" stop="20260808095000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808095000 +0700" stop="20260808163000 +0700">
+    <title lang="zh">Sirkuit Nasional A: Finals (L)</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808163000 +0700" stop="20260808170000 +0700">
+    <title lang="zh">Golden Fit</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808170000 +0700" stop="20260808182500 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808182500 +0700" stop="20260808203000 +0700">
+    <title lang="zh">AUBL 2026 (L)</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808203000 +0700" stop="20260808210000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808210000 +0700" stop="20260808230000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260808230000 +0700" stop="20260809010000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260809010000 +0700" stop="20260809013000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260809013000 +0700" stop="20260809020000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260809020000 +0700" stop="20260809040000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260809040000 +0700" stop="20260809060000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260809060000 +0700" stop="20260809063000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260809063000 +0700" stop="20260809070000 +0700">
+    <title lang="zh">Bloopers</title>
+    <desc />
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="524124" start="20260809070000 +0700" stop="20260810070000 +0700">
+    <title lang="zh">Golden Fit</title>
+    <desc />
+    <date>2026-08-09</date>
   </programme>
 <channel id="470446">
     <display-name lang="Canada">TSN 1</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470446" start="20260806083000 +0700" stop="20260806093000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806093000 +0700" stop="20260806100000 +0700">
-    <title lang="zh">SC</title>
-    <desc>Top NFL football games from this season.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806100000 +0700" stop="20260806110000 +0700">
-    <title lang="zh">Hard Knocks: Training Camp With the Seattle Seahawks</title>
-    <desc>Following head coach Mike Macdonald, quarterback Sam Darnold and the rest of the Super Bowl-winning Seattle Seahawks in training camp in Renton, Wash.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806110000 +0700" stop="20260806120000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806120000 +0700" stop="20260806130000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806130000 +0700" stop="20260806140000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806140000 +0700" stop="20260806150000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806150000 +0700" stop="20260806160000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806160000 +0700" stop="20260806170000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806170000 +0700" stop="20260806180000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806180000 +0700" stop="20260806190000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806190000 +0700" stop="20260806200000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806200000 +0700" stop="20260806210000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806210000 +0700" stop="20260806220000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806220000 +0700" stop="20260806230000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260806230000 +0700" stop="20260807000000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807000000 +0700" stop="20260807010000 +0700">
-    <title lang="zh">PBR Bull Riding</title>
-    <desc>Coverage of classic bull riding events from around the United States.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807010000 +0700" stop="20260807013000 +0700">
-    <title lang="zh">STIHL Timbersports</title>
-    <desc>Showcasing the world's best lumberjacks competing across six events.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807013000 +0700" stop="20260807020000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807020000 +0700" stop="20260807030000 +0700">
-    <title lang="zh">Live: NBA Today</title>
-    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807030000 +0700" stop="20260807040000 +0700">
-    <title lang="zh">NFL Live</title>
-    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The "NFL Live" crew entertains fans while offering all the latest news and analysis from across the NFL.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807040000 +0700" stop="20260807043000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807043000 +0700" stop="20260807050000 +0700">
-    <title lang="zh">Live: Pardon the Interruption</title>
-    <desc>The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807050000 +0700" stop="20260807060000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807060000 +0700" stop="20260807063000 +0700">
-    <title lang="zh">Live: CFL on TSN Pregame</title>
-    <desc>The CFL on TSN panel sets up the game ahead.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470446" start="20260807063000 +0700" stop="20260807070000 +0700">
-    <title lang="zh">Live: CFL Football</title>
-    <desc>The Argonauts host the Stampeders in a regular-season CFL game in Toronto. The Stampeders look to receivers Tevin Jones and Erik Brooks to coordinate the downfield road offense, while Toronto relies on wideout Damonte Coxie to drive the home lineup.</desc>
-    <date>2026-08-06</date>
-  </programme>
   <programme channel="470446" start="20260807093000 +0700" stop="20260807100000 +0700">
     <title lang="zh">Live: SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
@@ -7770,9 +7625,119 @@
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-08-07</date>
   </programme>
-  <programme channel="470446" start="20260808070000 +0700" stop="20260809070000 +0700">
+  <programme channel="470446" start="20260808070000 +0700" stop="20260808073000 +0700">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808073000 +0700" stop="20260808080000 +0700">
+    <title lang="zh">Live: CFL on TSN Pregame</title>
+    <desc>The CFL on TSN panel sets up the game ahead.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808080000 +0700" stop="20260808110000 +0700">
+    <title lang="zh">Live: CFL Football</title>
+    <desc>The Saskatchewan Roughriders host the Ottawa Redblacks at Mosaic Stadium for a Week 10 CFL game. The home Roughriders count on starting quarterback Trevor Harris to lead the air game, while the Redblacks look to quarterback Jake Maier.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808110000 +0700" stop="20260808120000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808120000 +0700" stop="20260808130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808130000 +0700" stop="20260808140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808140000 +0700" stop="20260808150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808150000 +0700" stop="20260808160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808160000 +0700" stop="20260808170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808170000 +0700" stop="20260808180000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808180000 +0700" stop="20260808190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808190000 +0700" stop="20260808200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808200000 +0700" stop="20260808210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808210000 +0700" stop="20260808220000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808220000 +0700" stop="20260808230000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808230000 +0700" stop="20260808233000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260808233000 +0700" stop="20260809000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260809000000 +0700" stop="20260809003000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260809003000 +0700" stop="20260809020000 +0700">
+    <title lang="zh">NASCAR Canada Series</title>
+    <desc>From Edmonton International Raceway in Wetaskiwin, Alberta.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260809020000 +0700" stop="20260809050000 +0700">
+    <title lang="zh">Live: CFL Football</title>
+    <desc>The Montreal Alouettes host the Edmonton Elks at Percival Molson Memorial Stadium for a regular-season CFL match. Edmonton ranks first in the West Division with 12 points, while Montreal leads the East Division with 14 points in this game.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260809050000 +0700" stop="20260809053000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260809053000 +0700" stop="20260809060000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470446" start="20260809060000 +0700" stop="20260809070000 +0700">
+    <title lang="zh">Live: CFL Football</title>
+    <desc>The BC Lions host the Hamilton Tiger-Cats at BC Place in Week 10 of the Canadian Football League. BC sits fifth in the West Division with 4 points and beat Winnipeg, while Hamilton is third in the East Division with 6 points after losing to Montreal.</desc>
     <date>2026-08-08</date>
   </programme>
 <channel id="470550">
@@ -8187,116 +8152,6 @@
     <display-name lang="Canada">TSN 4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470730" start="20260806083000 +0700" stop="20260806093000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806093000 +0700" stop="20260806103000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806103000 +0700" stop="20260806110000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806110000 +0700" stop="20260806120000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806120000 +0700" stop="20260806130000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806130000 +0700" stop="20260806140000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806140000 +0700" stop="20260806150000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806150000 +0700" stop="20260806160000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806160000 +0700" stop="20260806170000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806170000 +0700" stop="20260806180000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806180000 +0700" stop="20260806190000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806190000 +0700" stop="20260806200000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806200000 +0700" stop="20260806210000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806210000 +0700" stop="20260806220000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806220000 +0700" stop="20260806230000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260806230000 +0700" stop="20260807010000 +0700">
-    <title lang="zh">First Take</title>
-    <desc>Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260807010000 +0700" stop="20260807013000 +0700">
-    <title lang="zh">STIHL Timbersports</title>
-    <desc>Showcasing the world's best lumberjacks competing across six events.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260807013000 +0700" stop="20260807020000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260807020000 +0700" stop="20260807030000 +0700">
-    <title lang="zh">Live: NBA Today</title>
-    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260807030000 +0700" stop="20260807050000 +0700">
-    <title lang="zh">Live: Overdrive</title>
-    <desc>Expert analysis on the day's biggest sports stories.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260807050000 +0700" stop="20260807063000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470730" start="20260807063000 +0700" stop="20260807070000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
   <programme channel="470730" start="20260807070000 +0700" stop="20260807073000 +0700">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
@@ -8422,120 +8277,120 @@
     <desc>From Rogers Place in Edmonton, Alberta.</desc>
     <date>2026-08-07</date>
   </programme>
+  <programme channel="470730" start="20260808083000 +0700" stop="20260808110000 +0700">
+    <title lang="zh">Live: CFL Football</title>
+    <desc>The Saskatchewan Roughriders host the Ottawa Redblacks at Mosaic Stadium for a Week 10 CFL game. The home Roughriders count on starting quarterback Trevor Harris to lead the air game, while the Redblacks look to quarterback Jake Maier.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808110000 +0700" stop="20260808120000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808120000 +0700" stop="20260808130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808130000 +0700" stop="20260808140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808140000 +0700" stop="20260808150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808150000 +0700" stop="20260808160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808160000 +0700" stop="20260808170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808170000 +0700" stop="20260808180000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808180000 +0700" stop="20260808190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808190000 +0700" stop="20260808200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808200000 +0700" stop="20260808210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808210000 +0700" stop="20260808220000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808220000 +0700" stop="20260808230000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260808230000 +0700" stop="20260809000000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260809000000 +0700" stop="20260809010000 +0700">
+    <title lang="zh">PBR Bull Riding</title>
+    <desc>Coverage of classic bull riding events from around the United States.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260809010000 +0700" stop="20260809033000 +0700">
+    <title lang="zh">Live: Hlinka Gretzky Cup</title>
+    <desc>From Rogers Place in Edmonton, Alberta.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260809033000 +0700" stop="20260809040000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2026 SC Top 10-SC: Top World Junior Moments.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260809040000 +0700" stop="20260809043000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260809043000 +0700" stop="20260809050000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260809050000 +0700" stop="20260809053000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260809053000 +0700" stop="20260809060000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470730" start="20260809060000 +0700" stop="20260809070000 +0700">
+    <title lang="zh">Live: Hlinka Gretzky Cup</title>
+    <desc>From Rogers Place in Edmonton, Alberta.</desc>
+    <date>2026-08-08</date>
+  </programme>
 <channel id="470390">
     <display-name lang="Canada">TSN 5</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470390" start="20260806083000 +0700" stop="20260806090000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806090000 +0700" stop="20260806110000 +0700">
-    <title lang="zh">Live: Leagues Cup</title>
-    <desc>From Nemesio Diez Stadium in Toluca, Mexico State, Mexico.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806110000 +0700" stop="20260806120000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806120000 +0700" stop="20260806130000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806130000 +0700" stop="20260806140000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806140000 +0700" stop="20260806150000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806150000 +0700" stop="20260806160000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806160000 +0700" stop="20260806170000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806170000 +0700" stop="20260806180000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806180000 +0700" stop="20260806190000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806190000 +0700" stop="20260806200000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806200000 +0700" stop="20260806210000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806210000 +0700" stop="20260806220000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806220000 +0700" stop="20260806230000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806230000 +0700" stop="20260806233000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260806233000 +0700" stop="20260807010000 +0700">
-    <title lang="zh">NASCAR Canada Series</title>
-    <desc>From Edmonton International Raceway in Wetaskiwin, Alberta.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260807010000 +0700" stop="20260807013000 +0700">
-    <title lang="zh">Canadian Superbike Championship</title>
-    <desc>From Atlantic Motorsport Park in Mill Village, Nova Scotia.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260807013000 +0700" stop="20260807020000 +0700">
-    <title lang="zh">Motorcycle Experience</title>
-    <desc>Dave Hatch and Emily Roberts share their passion for the sport as they interview motorcycle enthusiasts, share hard won tips and tricks, review the latest bikes, and travel to some of the best riding locations across North America.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260807020000 +0700" stop="20260807030000 +0700">
-    <title lang="zh">Live: NBA Today</title>
-    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260807030000 +0700" stop="20260807050000 +0700">
-    <title lang="zh">Live: Overdrive</title>
-    <desc>Expert analysis on the day's biggest sports stories.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260807050000 +0700" stop="20260807063000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-08-06</date>
-  </programme>
-  <programme channel="470390" start="20260807063000 +0700" stop="20260807070000 +0700">
-    <title lang="zh">Live: CEBL Basketball</title>
-    <desc>Eastern Conference Semifinal.</desc>
-    <date>2026-08-06</date>
-  </programme>
   <programme channel="470390" start="20260807083000 +0700" stop="20260807090000 +0700">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
@@ -8640,6 +8495,111 @@
     <title lang="zh">Live: Northern Super League Soccer</title>
     <desc>From Centre Sportif Bois-de-Boulogne in Laval, Quebec, Canada.</desc>
     <date>2026-08-07</date>
+  </programme>
+  <programme channel="470390" start="20260808080000 +0700" stop="20260808110000 +0700">
+    <title lang="zh">Live: CFL Football</title>
+    <desc>The Saskatchewan Roughriders host the Ottawa Redblacks at Mosaic Stadium for a Week 10 CFL game. The home Roughriders count on starting quarterback Trevor Harris to lead the air game, while the Redblacks look to quarterback Jake Maier.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808110000 +0700" stop="20260808120000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808120000 +0700" stop="20260808130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808130000 +0700" stop="20260808140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808140000 +0700" stop="20260808150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808150000 +0700" stop="20260808160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808160000 +0700" stop="20260808170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808170000 +0700" stop="20260808180000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808180000 +0700" stop="20260808190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808190000 +0700" stop="20260808200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808200000 +0700" stop="20260808210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808210000 +0700" stop="20260808220000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808220000 +0700" stop="20260808230000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260808230000 +0700" stop="20260809000000 +0700">
+    <title lang="zh">Maple Leaf Pro Wrestling Mayhem</title>
+    <desc>Adam Copeland shares his personal memories of Maple Leaf Gardens. Evil Uno vs. TJP vs. Jonathan Gresham vs. Johnny TV; Taylor Rising vs. Alice Crowley; Luigi Primo vs. Michael Allen Richard Clark; 1st Faction (Brent Banks &amp; Sheldon Jean) defend the MLP Canadian tag team championship against Subculture.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260809000000 +0700" stop="20260809020000 +0700">
+    <title lang="zh">Live: Canadian Premier League Soccer</title>
+    <desc>From TD Place Stadium in Ottawa.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260809020000 +0700" stop="20260809050000 +0700">
+    <title lang="zh">Live: PGA Tour Golf</title>
+    <desc>PGA Tour arrives for Moving Day at the Wyndham Championship. Competitors navigate a classic Donald Ross design established in 1926. The layout challenges the field with a par of 70 across 7,131 yards of Bermudagrass fairways and greens.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260809050000 +0700" stop="20260809053000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260809053000 +0700" stop="20260809060000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260809060000 +0700" stop="20260809063000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260809063000 +0700" stop="20260809070000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-08</date>
+  </programme>
+  <programme channel="470390" start="20260809070000 +0700" stop="20260810070000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-08-09</date>
   </programme>
 <channel id="Sport 1.sk"><display-name>Sport 1.sk</display-name></channel>
 <channel id="Sport 2.sk"><display-name>Sport 2.sk</display-name></channel>
