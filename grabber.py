@@ -25,10 +25,12 @@ SOURCES = [
     "https://epg.pw/api/epg.xml?channel_id=470888",
     "https://epg.pw/api/epg.xml?channel_id=470730",
     "https://epg.pw/api/epg.xml?channel_id=470390",
+    "https://epg.pw/api/epg.xml?channel_id=219100",
+    "https://epg.pw/api/epg.xml?channel_id=219104",
     "https://www.open-epg.com/files/slovakia2.xml"
 ]
 # 2. Daftar Channel ID yang ingin kamu ambil (sesuaikan dengan ID di sumber)
-WANTED_CHANNELS = ["beINSports1.id", "beINSports2.id", "beINSports3.id", "beINSports4.id", "beINSports1.au", "beINSports2.au", "beINSports3.au", "SoccerChannel.id", "Sportstars.id", "524124", "Sportstars2.id", "524003", "Sportstars3.id", "524184", "Sportstars4.id", "524033", "Sport 1.sk", "Sport 2.sk", "SPOTV.id", "SPOTV2.id", "400477", "400480", "400479", "400478", "470446", "470550", "470888", "470730", "470390", "TVRISport.id", "Animax.id", "CelestialMovies.id", "Cinemax.id", "Galaxy.id", "GalaxyPremium.id", "HBO.id", "HBOFamily.id", "HBOHits.id", "HBOSignature.id", "IMC.id", "tvNMovies.id", "ANTV.id", "CNBCIndonesia.id", "CNNIndonesia.id", "DiscoveryChannel.id", "GTV.id", "Indosiar.id", "iNews.id", "JakTV.id", "KompasTV.id","KPlus.id", "MDTV.id","MetroTV.id", "MNCTV.id", "mOji.i", "RCTI.id", "RTV.id", "SindonewsTV.id", "SCTV.id", "Trans7.id", "TransTV.id", "tvOne.id", "TVRI.id", "Okey.my", "Sukan RTM.my"]
+WANTED_CHANNELS = ["219100","219104", "beINSports1.id", "beINSports2.id", "beINSports3.id", "beINSports4.id", "beINSports1.au", "beINSports2.au", "beINSports3.au", "SoccerChannel.id", "Sportstars.id", "524124", "Sportstars2.id", "524003", "Sportstars3.id", "524184", "Sportstars4.id", "524033", "Sport 1.sk", "Sport 2.sk", "SPOTV.id", "SPOTV2.id", "400477", "400480", "400479", "400478", "470446", "470550", "470888", "470730", "470390", "TVRISport.id", "Animax.id", "CelestialMovies.id", "Cinemax.id", "Galaxy.id", "GalaxyPremium.id", "HBO.id", "HBOFamily.id", "HBOHits.id", "HBOSignature.id", "IMC.id", "tvNMovies.id", "ANTV.id", "CNBCIndonesia.id", "CNNIndonesia.id", "DiscoveryChannel.id", "GTV.id", "Indosiar.id", "iNews.id", "JakTV.id", "KompasTV.id","KPlus.id", "MDTV.id","MetroTV.id", "MNCTV.id", "mOji.i", "RCTI.id", "RTV.id", "SindonewsTV.id", "SCTV.id", "Trans7.id", "TransTV.id", "tvOne.id", "TVRI.id", "Okey.my", "Sukan RTM.my"]
 
 # 3. Header agar dianggap browser asli
 HEADERS = {
