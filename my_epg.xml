@@ -8322,6 +8322,11 @@
     <desc>Iconic sporting venues from around the globe.</desc>
     <date>2026-09-14</date>
   </programme>
+  <programme channel="219100" start="20260915070000 +0700" stop="20260916070000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-09-15</date>
+  </programme>
 <channel id="219104">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 2 HD</display-name>
     <icon src="" />
@@ -8675,8 +8680,18 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="408613" start="20260914183000 +0700" stop="20260915070000 +0700">
+  <programme channel="408613" start="20260914183000 +0700" stop="20260914190000 +0700">
     <title lang="zh">Sporting Greats. Series 1 Episode 7</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260914190000 +0700" stop="20260914210000 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260914210000 +0700" stop="20260915070000 +0700">
+    <title lang="zh">Scottish League Cup. Quarter-Final: Rangers v Celtic</title>
     <desc />
     <date>2026-09-14</date>
   </programme>
@@ -8829,8 +8844,18 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="408658" start="20260914180000 +0700" stop="20260915070000 +0700">
+  <programme channel="408658" start="20260914180000 +0700" stop="20260914200000 +0700">
     <title lang="zh">Liga Profesional de Fútbol. Atlético Tucumán v River Plate</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260914200000 +0700" stop="20260914203000 +0700">
+    <title lang="zh">The Valentino Rossi Story</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260914203000 +0700" stop="20260915070000 +0700">
+    <title lang="zh">Liga Profesional de Fútbol. Boca Juniors v Central Córdoba (SE)</title>
     <desc />
     <date>2026-09-14</date>
   </programme>
