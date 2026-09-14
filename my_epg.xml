@@ -9856,6 +9856,11 @@
     <desc>Action from a high-profile Elitserien meeting.</desc>
     <date>2026-09-15</date>
   </programme>
+  <programme channel="219104" start="20260916070000 +0700" stop="20260917070000 +0700">
+    <title lang="zh">MotorSport</title>
+    <desc>A look at the career of Valentino Rossi.</desc>
+    <date>2026-09-16</date>
+  </programme>
 <channel id="408613">
     <display-name lang="Russian Federation">Premier Sports 1 [UK]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/14/20250214020739986975_47.png" />
@@ -9920,10 +9925,225 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="408613" start="20260914210000 +0700" stop="20260915070000 +0700">
+  <programme channel="408613" start="20260914210000 +0700" stop="20260914230000 +0700">
     <title lang="zh">Scottish League Cup. Quarter-Final: Rangers v Celtic</title>
     <desc />
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260914230000 +0700" stop="20260914233000 +0700">
+    <title lang="zh">Sporting Greats. Series 1 Episode 8</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260914233000 +0700" stop="20260915000000 +0700">
+    <title lang="zh">Sporting Greats. Series 1 Episode 9</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260915000000 +0700" stop="20260915015500 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260915015500 +0700" stop="20260915040000 +0700">
+    <title lang="zh">⋗ LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260915040000 +0700" stop="20260915043000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 9</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260915043000 +0700" stop="20260915063000 +0700">
+    <title lang="zh">Scottish League Cup. Quarter-Final: Rangers v Celtic</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260915063000 +0700" stop="20260915070000 +0700">
+    <title lang="zh">Temples of Sport. Camp Nou</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408613" start="20260915070000 +0700" stop="20260915073000 +0700">
+    <title lang="zh">Temples of Sport. Maracana Stadium</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915073000 +0700" stop="20260915093000 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915093000 +0700" stop="20260915100000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 8</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915100000 +0700" stop="20260915120000 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915120000 +0700" stop="20260915130000 +0700">
+    <title lang="zh">Mass Participation. UK Challenge</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915130000 +0700" stop="20260915150000 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915150000 +0700" stop="20260915153000 +0700">
+    <title lang="zh">Sporting Greats. Series 1 Episode 5</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915153000 +0700" stop="20260915160000 +0700">
+    <title lang="zh">Sporting Greats. Series 1 Episode 7</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915160000 +0700" stop="20260915170000 +0700">
+    <title lang="zh">NASCAR Cup Racing Series. World Wide Technology Raceway</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915170000 +0700" stop="20260915171000 +0700">
+    <title lang="zh">LaLiga Highlights. Sevilla FC v Valencia CF</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915171000 +0700" stop="20260915172000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915172000 +0700" stop="20260915173000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915173000 +0700" stop="20260915174000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915174000 +0700" stop="20260915175000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915175000 +0700" stop="20260915180000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915180000 +0700" stop="20260915181000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915181000 +0700" stop="20260915182000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915182000 +0700" stop="20260915183000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915183000 +0700" stop="20260915190000 +0700">
+    <title lang="zh">Top 14 Highlights. Round 2</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915190000 +0700" stop="20260915195500 +0700">
+    <title lang="zh">World Surf League Highlights. Tahiti Pro</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915195500 +0700" stop="20260915202500 +0700">
+    <title lang="zh">Sporting Greats. Series 1 Episode 8</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915202500 +0700" stop="20260915205500 +0700">
+    <title lang="zh">Sporting Greats. Series 1 Episode 7</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915205500 +0700" stop="20260915210500 +0700">
+    <title lang="zh">LaLiga Highlights. Sevilla FC v Valencia CF</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915210500 +0700" stop="20260915211500 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915211500 +0700" stop="20260915212500 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915212500 +0700" stop="20260915232500 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915232500 +0700" stop="20260915235500 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 5</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260915235500 +0700" stop="20260916020000 +0700">
+    <title lang="zh">⋗ LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260916020000 +0700" stop="20260916021000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260916021000 +0700" stop="20260916022500 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260916022500 +0700" stop="20260916043000 +0700">
+    <title lang="zh">⋗ LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260916043000 +0700" stop="20260916044000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260916044000 +0700" stop="20260916045000 +0700">
+    <title lang="zh">LaLiga Highlights. Sevilla FC v Valencia CF</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260916045000 +0700" stop="20260916055000 +0700">
+    <title lang="zh">Scottish Football Social Club</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260916055000 +0700" stop="20260916060000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408613" start="20260916060000 +0700" stop="20260916070000 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
   </programme>
 <channel id="408658">
     <display-name lang="Russian Federation">Premier Sports 2 [UK]</display-name>
@@ -9989,10 +10209,140 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="408658" start="20260914203000 +0700" stop="20260915070000 +0700">
+  <programme channel="408658" start="20260914203000 +0700" stop="20260914223000 +0700">
     <title lang="zh">Liga Profesional de Fútbol. Boca Juniors v Central Córdoba (SE)</title>
     <desc />
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260914223000 +0700" stop="20260914230000 +0700">
+    <title lang="zh">Bike World. Series 9 Episode 150</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260914230000 +0700" stop="20260915010000 +0700">
+    <title lang="zh">Top 14. ASM Clermont v Stade Français Paris</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260915010000 +0700" stop="20260915040000 +0700">
+    <title lang="zh">Elite Ice Hockey League. Challenge Cup: Glasgow Clan v Belfast Giants</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260915040000 +0700" stop="20260915060000 +0700">
+    <title lang="zh">Top 14. RC Toulon v Stade Rochelais</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260915060000 +0700" stop="20260915063000 +0700">
+    <title lang="zh">The Valentino Rossi Story</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260915063000 +0700" stop="20260915070000 +0700">
+    <title lang="zh">NASCAR Cup Racing Series. World Wide Technology Raceway</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="408658" start="20260915103000 +0700" stop="20260915110000 +0700">
+    <title lang="zh">Bike World. Series 9 Episode 150</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915110000 +0700" stop="20260915120000 +0700">
+    <title lang="zh">TransWorld Sport</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915120000 +0700" stop="20260915123000 +0700">
+    <title lang="zh">Temples of Sport. Ascot Racecourse</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915123000 +0700" stop="20260915130000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 4</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915130000 +0700" stop="20260915150000 +0700">
+    <title lang="zh">Liga Profesional de Fútbol. Atlético Tucumán v River Plate</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915150000 +0700" stop="20260915153000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 7</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915153000 +0700" stop="20260915173000 +0700">
+    <title lang="zh">Liga Profesional de Fútbol. Boca Juniors v Central Córdoba (SE)</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915173000 +0700" stop="20260915180000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915180000 +0700" stop="20260915195500 +0700">
+    <title lang="zh">Campeonato Brasileiro. Santos v Cruzeiro</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915195500 +0700" stop="20260915202500 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 5</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915202500 +0700" stop="20260915222500 +0700">
+    <title lang="zh">Coppa Italia. Second Round: Palermo v Mantova</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915222500 +0700" stop="20260915225500 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 5</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260915225500 +0700" stop="20260916011500 +0700">
+    <title lang="zh">⋗ Coppa Italia. Second Round: Genoa v FC Südtirol</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260916011500 +0700" stop="20260916012500 +0700">
+    <title lang="zh">LaLiga Highlights. Sevilla FC v Valencia CF</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260916012500 +0700" stop="20260916015500 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 8</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260916015500 +0700" stop="20260916041500 +0700">
+    <title lang="zh">⋗ Coppa Italia. Second Round: Fiorentina v Pisa</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260916041500 +0700" stop="20260916043000 +0700">
+    <title lang="zh">LaLiga Highlights. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260916043000 +0700" stop="20260916050000 +0700">
+    <title lang="zh">Temples of Sport. Maracana Stadium</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260916050000 +0700" stop="20260916070000 +0700">
+    <title lang="zh">Swedish Elitserien Speedway. TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="408658" start="20260916070000 +0700" stop="20260917070000 +0700">
+    <title lang="zh">The Valentino Rossi Story</title>
+    <desc />
+    <date>2026-09-16</date>
   </programme>
 <channel id="369809">
     <display-name lang="Singapore">HBO HD</display-name>
