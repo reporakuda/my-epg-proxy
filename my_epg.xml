@@ -6266,7 +6266,7 @@
 <programme start="20260926110000 +0700" stop="20260926120000 +0700" channel="Sukan RTM.my"><title>Realiti : Rashid Mencari Juara (RMJ)</title><desc>Rancangan menarik untuk tontonan anda.</desc></programme>
 <programme start="20260926120000 +0700" stop="20260926160000 +0700" channel="Sukan RTM.my"><title>Siaran Langsung : Laporan Harian Sukan Asia AICHI - NAGOYA 2026</title><desc>Saksikan secara langsung laporan harian Sukan Asia AICHI - NAGOYA 2026 (SESI 2)</desc></programme>
 <channel id="400477">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400477" start="20260924090000 +0700" stop="20260924093000 +0700">
@@ -6549,7 +6549,7 @@
     <date>2026-09-25</date>
   </programme>
 <channel id="400479">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400479" start="20260924073000 +0700" stop="20260924090000 +0700">
@@ -6990,8 +6990,23 @@
     <desc />
     <date>2026-09-25</date>
   </programme>
-  <programme channel="524003" start="20260925233000 +0700" stop="20260926070000 +0700">
+  <programme channel="524003" start="20260925233000 +0700" stop="20260926013000 +0700">
     <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524003" start="20260926013000 +0700" stop="20260926040000 +0700">
+    <title lang="zh">UEFA Nations: HUN Vs UKR (L)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524003" start="20260926040000 +0700" stop="20260926053000 +0700">
+    <title lang="zh">Sabuk Emas</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524003" start="20260926053000 +0700" stop="20260926070000 +0700">
+    <title lang="zh">Best Of Badminton</title>
     <desc />
     <date>2026-09-25</date>
   </programme>
@@ -7094,7 +7109,27 @@
     <desc />
     <date>2026-09-25</date>
   </programme>
-  <programme channel="524184" start="20260925220000 +0700" stop="20260926070000 +0700">
+  <programme channel="524184" start="20260925220000 +0700" stop="20260926000000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524184" start="20260926000000 +0700" stop="20260926020000 +0700">
+    <title lang="zh">AFC Champions League Two</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524184" start="20260926020000 +0700" stop="20260926040000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524184" start="20260926040000 +0700" stop="20260926060000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524184" start="20260926060000 +0700" stop="20260926070000 +0700">
     <title lang="zh">Timnas Special</title>
     <desc />
     <date>2026-09-25</date>
@@ -7198,7 +7233,27 @@
     <desc />
     <date>2026-09-25</date>
   </programme>
-  <programme channel="524033" start="20260925220000 +0700" stop="20260926070000 +0700">
+  <programme channel="524033" start="20260925220000 +0700" stop="20260926000000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524033" start="20260926000000 +0700" stop="20260926020000 +0700">
+    <title lang="zh">AFC Champions League Two</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524033" start="20260926020000 +0700" stop="20260926040000 +0700">
+    <title lang="zh">V-League Women</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524033" start="20260926040000 +0700" stop="20260926060000 +0700">
+    <title lang="zh">Sportacular International Match</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524033" start="20260926060000 +0700" stop="20260926070000 +0700">
     <title lang="zh">Timnas Special</title>
     <desc />
     <date>2026-09-25</date>
@@ -7367,10 +7422,40 @@
     <desc />
     <date>2026-09-25</date>
   </programme>
-  <programme channel="524124" start="20260925224500 +0700" stop="20260926070000 +0700">
+  <programme channel="524124" start="20260925224500 +0700" stop="20260926010000 +0700">
     <title lang="zh">UEFA Nations League (L)</title>
     <desc />
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="524124" start="20260926010000 +0700" stop="20260926013000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524124" start="20260926013000 +0700" stop="20260926040000 +0700">
+    <title lang="zh">UEFA Nations League (L)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524124" start="20260926040000 +0700" stop="20260926060000 +0700">
+    <title lang="zh">Satu Hati Untuk Garuda</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524124" start="20260926060000 +0700" stop="20260926063000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524124" start="20260926063000 +0700" stop="20260926070000 +0700">
+    <title lang="zh">Street Workout</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="524124" start="20260926070000 +0700" stop="20260927070000 +0700">
+    <title lang="zh">Golden Fit</title>
+    <desc />
+    <date>2026-09-26</date>
   </programme>
 <channel id="470446">
     <display-name lang="Canada">TSN 1</display-name>
@@ -7471,10 +7556,90 @@
     <desc>The Green Bay Packers host the Atlanta Falcons at Lambeau Field as NFL Week 3 action continues. The Packers beat the Jets 20-17 behind placekicker Trey Smack's OT kick, while the Falcons seek to end a two-game skid after falling 34-3 to the Panthers.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="470446" start="20260925103000 +0700" stop="20260926070000 +0700">
+  <programme channel="470446" start="20260925103000 +0700" stop="20260925120000 +0700">
     <title lang="zh">Live: SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925120000 +0700" stop="20260925130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925130000 +0700" stop="20260925140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925140000 +0700" stop="20260925143000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925143000 +0700" stop="20260925153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925153000 +0700" stop="20260925163000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925163000 +0700" stop="20260925173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925173000 +0700" stop="20260925183000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925183000 +0700" stop="20260925193000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925193000 +0700" stop="20260925203000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925203000 +0700" stop="20260925213000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925213000 +0700" stop="20260925223000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925223000 +0700" stop="20260925233000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260925233000 +0700" stop="20260926010000 +0700">
+    <title lang="zh">Golf</title>
+    <desc>Action from golf tournaments around the world.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260926010000 +0700" stop="20260926060000 +0700">
+    <title lang="zh">Live: 2026 Presidents Cup</title>
+    <desc>From Medinah Country Club in Medinah, Ill.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260926060000 +0700" stop="20260926070000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="470446" start="20260926070000 +0700" stop="20260927070000 +0700">
+    <title lang="zh">Setting the Tempo</title>
+    <desc>Chronicling the creation of Canada's first WNBA franchise, the Toronto Tempo.</desc>
+    <date>2026-09-26</date>
   </programme>
 <channel id="470550">
     <display-name lang="Canada">TSN 2</display-name>
