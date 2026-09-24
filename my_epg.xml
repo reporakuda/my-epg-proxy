@@ -6265,6 +6265,130 @@
 <programme start="20260926070000 +0700" stop="20260926110000 +0700" channel="Sukan RTM.my"><title>Siaran Langsung : Laporan Harian Sukan Asia AICHI - NAGOYA 2026</title><desc>Saksikan secara langsung laporan harian Sukan Asia AICHI - NAGOYA 2026 (SESI 1)</desc></programme>
 <programme start="20260926110000 +0700" stop="20260926120000 +0700" channel="Sukan RTM.my"><title>Realiti : Rashid Mencari Juara (RMJ)</title><desc>Rancangan menarik untuk tontonan anda.</desc></programme>
 <programme start="20260926120000 +0700" stop="20260926160000 +0700" channel="Sukan RTM.my"><title>Siaran Langsung : Laporan Harian Sukan Asia AICHI - NAGOYA 2026</title><desc>Saksikan secara langsung laporan harian Sukan Asia AICHI - NAGOYA 2026 (SESI 2)</desc></programme>
+<channel id="400477">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="400477" start="20260924090000 +0700" stop="20260924093000 +0700">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc>A look at the most exciting plays from the past week's matches.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924093000 +0700" stop="20260924100000 +0700">
+    <title lang="zh">Discovery Golf</title>
+    <desc>A weekly show featuring the latest news from the world of golf.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924100000 +0700" stop="20260924110000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>San Diego Wave FC v Kansas City Current.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924110000 +0700" stop="20260924120000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Orlando Pride v Portland Thorns.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924120000 +0700" stop="20260924121500 +0700">
+    <title lang="zh">Premier League Reload</title>
+    <desc>A whirlwind catch-up from matchday five, including Tottenham Hotspur v Aston Villa, Fulham v Manchester United, and Bournemouth v Liverpool.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924121500 +0700" stop="20260924123000 +0700">
+    <title lang="zh">British Superbikes Rewind</title>
+    <desc>A look back at the best action from round nine at TT Assen Circuit in the Netherlands.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924123000 +0700" stop="20260924124500 +0700">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Austria.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924124500 +0700" stop="20260924130000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924130000 +0700" stop="20260924140000 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the second stage of the 2026 CRO Race in Croatia.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924140000 +0700" stop="20260924143000 +0700">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from matchday five of the Italian top flight.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924143000 +0700" stop="20260924150000 +0700">
+    <title lang="zh">T100 Triathlon World Tour Highlights</title>
+    <desc>Action from the latest event on the French Riviera.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924150000 +0700" stop="20260924153000 +0700">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924153000 +0700" stop="20260924160000 +0700">
+    <title lang="zh">Discovery Golf</title>
+    <desc>A weekly show featuring the latest news from the world of golf.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924160000 +0700" stop="20260924180000 +0700">
+    <title lang="zh">Live: AFLW</title>
+    <desc>Geelong Cats Women v Hawthorn Hawks Women (Bounce-up 10.15am). Coverage of the match from GMHBA Stadium in Geelong.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924180000 +0700" stop="20260924181500 +0700">
+    <title lang="zh">Premier League Reload</title>
+    <desc>A whirlwind catch-up from matchday five, including Tottenham Hotspur v Aston Villa, Fulham v Manchester United, and Bournemouth v Liverpool.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924181500 +0700" stop="20260924184500 +0700">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from matchday five of the Italian top flight.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924184500 +0700" stop="20260924194500 +0700">
+    <title lang="zh">UCI Road World Championships</title>
+    <desc>Action from the third day of the event in Montreal, Canada.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260924194500 +0700" stop="20260925001500 +0700">
+    <title lang="zh">Live: UCI Road World Championships</title>
+    <desc>Coverage of the women's under-23 road race, which takes place in Montreal, Canada.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260925001500 +0700" stop="20260925043000 +0700">
+    <title lang="zh">Live: UCI Road World Championships</title>
+    <desc>Coverage of the men's junior road race, which takes place in Montreal, Canada.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260925043000 +0700" stop="20260925050000 +0700">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260925050000 +0700" stop="20260925053000 +0700">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An in-depth interview with Hull City captain Lewie Coyle.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260925053000 +0700" stop="20260925060000 +0700">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc>A look at the most exciting plays from the past week's matches.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260925060000 +0700" stop="20260925070000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>New York Yankees v Tampa Bay Rays (Start-time 12.05am) Coverage of the American League match from Yankee Stadium.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="400477" start="20260925090000 +0700" stop="20260926070000 +0700">
+    <title lang="zh">Live: AFLW</title>
+    <desc>Essendon Bombers Women v West Coast Eagles Women (Bounce-up 3.05am). Coverage of the match from Windy Hill in Melbourne.</desc>
+    <date>2026-09-25</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
@@ -8877,4 +9001,891 @@
     <desc />
     <date>2026-09-26</date>
   </programme>
+<channel id="417351">
+    <display-name lang="Russian Federation">Setanta Sports 2 Lietuva</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/03/15/20250315021926005178_77.png" />
+  </channel>
+  <programme channel="417351" start="20260924080000 +0700" stop="20260924100000 +0700">
+    <title lang="zh">Football: Bundesliga. Stuttgart – Borussia Dortmund (1. Bundesliga)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260924100000 +0700" stop="20260924120000 +0700">
+    <title lang="zh">Football: LaLiga. Atletico Madrid – Real Madrid (LaLiga)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260924120000 +0700" stop="20260924140000 +0700">
+    <title lang="zh">Football: Serie A. Napoli – Bologna (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260924140000 +0700" stop="20260924160000 +0700">
+    <title lang="zh">Football: Serie A. Sassuolo – Juventus (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260924160000 +0700" stop="20260924180000 +0700">
+    <title lang="zh">Football: LaLiga. Sevilla – Valencia (LaLiga)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260924180000 +0700" stop="20260924200000 +0700">
+    <title lang="zh">Football: French Ligue 1. Lyon – Rennes (Ligue 1 McDonald's)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260924200000 +0700" stop="20260924220000 +0700">
+    <title lang="zh">Football: LaLiga. Malaga – Villarreal (LaLiga)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260924220000 +0700" stop="20260924230000 +0700">
+    <title lang="zh">Football: French Ligue 1. Round Highlight (Ligue 1 McDonald's)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260924230000 +0700" stop="20260925000000 +0700">
+    <title lang="zh">Football: Bundesliga. Round Highlight (1. Bundesliga)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260925000000 +0700" stop="20260925020000 +0700">
+    <title lang="zh">Football: Serie A. Napoli – Como (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260925020000 +0700" stop="20260925040000 +0700">
+    <title lang="zh">Football: French Ligue 1. Rennes – Paris SG (Ligue 1 McDonald's)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260925040000 +0700" stop="20260925060000 +0700">
+    <title lang="zh">Football: LaLiga. Elche – Real Madrid (LaLiga)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260925060000 +0700" stop="20260925070000 +0700">
+    <title lang="zh">Football: LaLiga. Real Sociedad – Celta Vigo (LaLiga)</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="417351" start="20260925080000 +0700" stop="20260925100000 +0700">
+    <title lang="zh">Football: Serie A. Roma – Inter (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260925100000 +0700" stop="20260925120000 +0700">
+    <title lang="zh">Football: LaLiga. Barcelona – Racing Santander (LaLiga)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260925120000 +0700" stop="20260925140000 +0700">
+    <title lang="zh">Football: French Ligue 1. Rennes – Paris SG (Ligue 1 McDonald's)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260925140000 +0700" stop="20260925160000 +0700">
+    <title lang="zh">Football: Serie A. Juventus – Parma (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260925160000 +0700" stop="20260925180000 +0700">
+    <title lang="zh">Football: LaLiga. Real Sociedad – Celta Vigo (LaLiga)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260925180000 +0700" stop="20260925200000 +0700">
+    <title lang="zh">Football: LaLiga. Elche – Real Madrid (LaLiga)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260925200000 +0700" stop="20260925220000 +0700">
+    <title lang="zh">Football: LaLiga. Barcelona – Racing Santander (LaLiga)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260925220000 +0700" stop="20260926000000 +0700">
+    <title lang="zh">Football: Bundesliga. Schalke – Bayern Munich (1. Bundesliga)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260926000000 +0700" stop="20260926020000 +0700">
+    <title lang="zh">Football: LaLiga. Real Betis – Real Madrid (LaLiga)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260926020000 +0700" stop="20260926040000 +0700">
+    <title lang="zh">Football: Bundesliga. Hamburger SV – Mainz (1. Bundesliga)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260926040000 +0700" stop="20260926060000 +0700">
+    <title lang="zh">Football: Serie A. Roma – Inter (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="417351" start="20260926060000 +0700" stop="20260926070000 +0700">
+    <title lang="zh">Football: Serie A. Juventus – Atalanta (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+<channel id="369786">
+    <display-name lang="Singapore">HBO Family (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369786" start="20260924070200 +0700" stop="20260924071200 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Fish are delish. Unless they are talking to you...</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924071200 +0700" stop="20260924072400 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>K'Nuckles becomes mayor of Stormalong. Sorry, Stormalong!</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924072400 +0700" stop="20260924074000 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>If there's something strange in your neighborhood, who ya gonna call? Flapjack (because there's no such thing as ghosts).</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924074000 +0700" stop="20260924083000 +0700">
+    <title lang="zh">FUNNY WOMAN S2</title>
+    <desc>Despite new career possibilities, Sophie's heart continues to ache for Dennis and her mother, who fails to provide the comfort Sophie seeks.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924083000 +0700" stop="20260924084100 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion square off against a no-nonsense security guard after they're banned from the premiere of their friend Hot Dog's new movie.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924084100 +0700" stop="20260924085200 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion invent a new game.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924085200 +0700" stop="20260924090300 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion go on a guided bus tour.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924090300 +0700" stop="20260924091300 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion have to outwit a mean duck.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924091300 +0700" stop="20260924093000 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple helps Onion compete on a baking show.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924093000 +0700" stop="20260924094100 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>Uncle Grandpa goes too far trying to make Mr. Gus and Pizza Steve laugh.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924094100 +0700" stop="20260924095500 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>When Birdman makes the RV's attic his new home, UG and the gang must figure out a way to make him leave before they're all driven crazy.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924095500 +0700" stop="20260924120000 +0700">
+    <title lang="zh">SUPERMAN III</title>
+    <desc>In this third instalment of this series, Superman battles a supercomputer and the evil businessman exploiting it.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924120000 +0700" stop="20260924122600 +0700">
+    <title lang="zh">HAPPILY EVER AFTER: FAIRY TALES FOR EVERY CHILD S1</title>
+    <desc>The Beast is an enchanted African prince with the voice of Gregory Hines in this version of the fairy tale.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924122600 +0700" stop="20260924125500 +0700">
+    <title lang="zh">HAPPILY EVER AFTER: FAIRY TALES FOR EVERY CHILD S1</title>
+    <desc>The American Southwest is the setting for this Native American retelling of the classic tale, with the voices of Buffy Sainte-Marie and Graham Greene.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924125500 +0700" stop="20260924141500 +0700">
+    <title lang="zh">RUGRATS IN PARIS: THE MOVIE</title>
+    <desc>Chuckie and the entire gang go to Paris with the hope of finding a new mom for his dad in this Rugrats film.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924141500 +0700" stop="20260924150000 +0700">
+    <title lang="zh">RUBY AND THE WELL S2</title>
+    <desc>Ruby and her friends embark on a thrilling and unexpected wish adventure close to home.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924150000 +0700" stop="20260924151200 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>K'Nuckles has the perfect plan for scamming the tourist crowd in Stormalong...</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924151200 +0700" stop="20260924152300 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>All Doctor Barber wants is a friendly, professional conversation with a man made out of candy. Is that too much to ask for?</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924152300 +0700" stop="20260924153500 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Meet Flapjack, a young boy who dreams of being a sea adventurer.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924153500 +0700" stop="20260924154700 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Who wants to live forever? K'Nuckles does, especially after he meets an adventurer who tells him he's immortal.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924154700 +0700" stop="20260924160500 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>...turns out it was Flapjack! Which is bad because they take over the town.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924160500 +0700" stop="20260924161500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion try to be in their favourite rapper's video.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924161500 +0700" stop="20260924162500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion struggle to ride a crazy roller coaster.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924162500 +0700" stop="20260924163500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion want to become the 'Most Fun People'.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924163500 +0700" stop="20260924164500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion need to join a club to see a rare whale.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924164500 +0700" stop="20260924170500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion try to spread cheer during a heatwave.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924170500 +0700" stop="20260924171600 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>Strange things start happening when Uncle Grandpa installs a moon roof in the RV.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924171600 +0700" stop="20260924172700 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>The Uncle Grandpa Babies use their special baby powers to save the day.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924172700 +0700" stop="20260924174500 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>Pizza Steve's life is disrupted when his father visits.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924174500 +0700" stop="20260924193000 +0700">
+    <title lang="zh">THE ADVENTURES OF TINTIN</title>
+    <desc>Tintin and his friends go on an exciting treasure hunt.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924193000 +0700" stop="20260924210000 +0700">
+    <title lang="zh">SUPERMAN IV: THE QUEST FOR PEACE</title>
+    <desc>Superman faces his toughest mission ever – to rid the world of all nuclear armaments but first he must win his battle against Lex Luther's new creation.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924210000 +0700" stop="20260924215000 +0700">
+    <title lang="zh">FUNNY WOMAN S2</title>
+    <desc>A trip to the pub proves both cathartic and fruitful, inspiring Sophie's brilliant new sitcom idea while repairing her fractured friendship with Marj.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924215000 +0700" stop="20260924232500 +0700">
+    <title lang="zh">THE SPONGEBOB MOVIE: SPONGE OUT OF WATER</title>
+    <desc>SpongeBob travels to our world to locate a burger recipe stolen by a pirate.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924232500 +0700" stop="20260924235000 +0700">
+    <title lang="zh">ST. DENIS MEDICAL S1</title>
+    <desc>Joyce launches a women's health initiative to unexpected results. Ron treats a patient who has all the answers. Bruce has an existential crisis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260924235000 +0700" stop="20260925000100 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>Strange things start happening when Uncle Grandpa installs a moon roof in the RV.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925000100 +0700" stop="20260925001200 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>The Uncle Grandpa Babies use their special baby powers to save the day.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925001200 +0700" stop="20260925003000 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>Pizza Steve's life is disrupted when his father visits.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925003000 +0700" stop="20260925011500 +0700">
+    <title lang="zh">RUBY AND THE WELL S2</title>
+    <desc>Ruby and her friends embark on a thrilling and unexpected wish adventure close to home.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925011500 +0700" stop="20260925014000 +0700">
+    <title lang="zh">ST. DENIS MEDICAL S1</title>
+    <desc>Joyce launches a women's health initiative to unexpected results. Ron treats a patient who has all the answers. Bruce has an existential crisis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925014000 +0700" stop="20260925023000 +0700">
+    <title lang="zh">FUNNY WOMAN S2</title>
+    <desc>A trip to the pub proves both cathartic and fruitful, inspiring Sophie's brilliant new sitcom idea while repairing her fractured friendship with Marj.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925023000 +0700" stop="20260925024200 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>K'Nuckles has the perfect plan for scamming the tourist crowd in Stormalong...</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925024200 +0700" stop="20260925025300 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>All Doctor Barber wants is a friendly, professional conversation with a man made out of candy. Is that too much to ask for?</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925025300 +0700" stop="20260925030500 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Meet Flapjack, a young boy who dreams of being a sea adventurer.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925030500 +0700" stop="20260925031700 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Who wants to live forever? K'Nuckles does, especially after he meets an adventurer who tells him he's immortal.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925031700 +0700" stop="20260925033500 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>...turns out it was Flapjack! Which is bad because they take over the town.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925033500 +0700" stop="20260925034500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion try to be in their favourite rapper's video.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925034500 +0700" stop="20260925035500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion struggle to ride a crazy roller coaster.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925035500 +0700" stop="20260925040500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion want to become the 'Most Fun People'.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925040500 +0700" stop="20260925041500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion need to join a club to see a rare whale.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925041500 +0700" stop="20260925043500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion try to spread cheer during a heatwave.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925043500 +0700" stop="20260925061000 +0700">
+    <title lang="zh">SULLY</title>
+    <desc>Tom Hanks stars as Captain Chesley 'Sully' Sullenberger, who landed his disabled plane on the Hudson River, saving the lives of all on board.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925061000 +0700" stop="20260925065500 +0700">
+    <title lang="zh">RUBY AND THE WELL S2</title>
+    <desc>Ruby and her friends embark on a thrilling and unexpected wish adventure close to home.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925065500 +0700" stop="20260925070000 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>K'Nuckles has the perfect plan for scamming the tourist crowd in Stormalong...</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369786" start="20260925070700 +0700" stop="20260925071800 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>All Doctor Barber wants is a friendly, professional conversation with a man made out of candy. Is that too much to ask for?</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925071800 +0700" stop="20260925073000 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Meet Flapjack, a young boy who dreams of being a sea adventurer.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925073000 +0700" stop="20260925074200 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Who wants to live forever? K'Nuckles does, especially after he meets an adventurer who tells him he's immortal.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925074200 +0700" stop="20260925080000 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>...turns out it was Flapjack! Which is bad because they take over the town.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925080000 +0700" stop="20260925085000 +0700">
+    <title lang="zh">FUNNY WOMAN S2</title>
+    <desc>A trip to the pub proves both cathartic and fruitful, inspiring Sophie's brilliant new sitcom idea while repairing her fractured friendship with Marj.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925085000 +0700" stop="20260925090000 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion try to be in their favourite rapper's video.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925090000 +0700" stop="20260925091000 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion struggle to ride a crazy roller coaster.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925091000 +0700" stop="20260925092000 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion want to become the 'Most Fun People'.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925092000 +0700" stop="20260925093000 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion need to join a club to see a rare whale.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925093000 +0700" stop="20260925095000 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion try to spread cheer during a heatwave.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925095000 +0700" stop="20260925100100 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>Strange things start happening when Uncle Grandpa installs a moon roof in the RV.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925100100 +0700" stop="20260925101200 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>The Uncle Grandpa Babies use their special baby powers to save the day.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925101200 +0700" stop="20260925103000 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>Pizza Steve's life is disrupted when his father visits.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925103000 +0700" stop="20260925121500 +0700">
+    <title lang="zh">THE ADVENTURES OF TINTIN</title>
+    <desc>Tintin and his friends go on an exciting treasure hunt.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925121500 +0700" stop="20260925124500 +0700">
+    <title lang="zh">HAPPILY EVER AFTER: FAIRY TALES FOR EVERY CHILD S1</title>
+    <desc>Margaret Cho is the voice of the queen who can't find a princess good enough for her son in this Korean version of the classic tale.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925124500 +0700" stop="20260925141500 +0700">
+    <title lang="zh">SUPERMAN IV: THE QUEST FOR PEACE</title>
+    <desc>Superman faces his toughest mission ever – to rid the world of all nuclear armaments but first he must win his battle against Lex Luther's new creation.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925141500 +0700" stop="20260925150000 +0700">
+    <title lang="zh">RUBY AND THE WELL S2</title>
+    <desc>Ruby sets off to settle a longstanding family feud.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925150000 +0700" stop="20260925151000 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Storm a brewin' in Stormalong? 'Don't worry!', says K'Nuckles, 'this happens every year.'.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925151000 +0700" stop="20260925152200 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>K'Nuckles will stop at nothing to be a hero. Except maybe actually doing something heroic.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925152200 +0700" stop="20260925153300 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>A candy bandit strikes! Everyone's a suspect! Well, not everyone, just K'Nuckles.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925153300 +0700" stop="20260925155000 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S3</title>
+    <desc>Flapjack and K'Nuckles start drinking candy like a fish, and eventually turn into one; er...two.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925155000 +0700" stop="20260925160500 +0700">
+    <title lang="zh">THE MARVELOUS MISADVENTURES OF FLAPJACK S1</title>
+    <desc>Bragging don't bring nothing but trouble. Just ask Flapjack...wait, you can't, he's busy racing a crazy inventor!</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925160500 +0700" stop="20260925161500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple is put in charge of the Dollar Store.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925161500 +0700" stop="20260925162500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion must find a way to use Burger's trampoline.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925162500 +0700" stop="20260925163500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>With their 6 month friend anniversary approaching, Apple has to find a way not to lose his best friend.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925163500 +0700" stop="20260925164500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple tries to survive a weekend alone.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925164500 +0700" stop="20260925170500 +0700">
+    <title lang="zh">APPLE &amp; ONION S1</title>
+    <desc>Apple and Onion's party plans are interrupted.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925170500 +0700" stop="20260925172700 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>Uncle Grandpa discovers a new, unusual occupation.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925172700 +0700" stop="20260925173800 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>When Uncle Grandpa loses his mustache, the gang must head to the forest to replace it.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925173800 +0700" stop="20260925175500 +0700">
+    <title lang="zh">UNCLE GRANDPA S2</title>
+    <desc>When Uncle Grandpa and the crew all have the same popular and hard‐to‐find gift in mine for their Secret Santa, their nice Christmas shopping trip to the mall turns into a crazy competition.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925175500 +0700" stop="20260925180600 +0700">
+    <title lang="zh">UNCLE GRANDPA S3</title>
+    <desc>Uncle Grandpa tells the story of when he and Giant Realistic Flying Tiger first met.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925180600 +0700" stop="20260925182000 +0700">
+    <title lang="zh">UNCLE GRANDPA S3</title>
+    <desc>Uncle Grandpa and Pizza Steve go to great lengths in order to keep Mister Gus from getting angry.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925182000 +0700" stop="20260925203500 +0700">
+    <title lang="zh">SPEED RACER</title>
+    <desc>The classic 1960s animated series explodes on the screen in this dazzling live-action adaptation from the makers of The Matrix trilogy.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925203500 +0700" stop="20260925210000 +0700">
+    <title lang="zh">LEGO JURASSIC PARK: THE UNOFFICIAL RETELLING</title>
+    <desc>The ever charming and now slightly older Chaos Mathematician Dr. Ian Malcolm retells the tale of what happened that dreadful night at Jurassic Park.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369786" start="20260925210000 +0700" stop="20260926070000 +0700">
+    <title lang="zh">FUNNY WOMAN S2</title>
+    <desc>Faced with an impending exposé, Sophie takes matters into her own hands and comes out on top. In doing so, she uncovers a superpower.</desc>
+    <date>2026-09-25</date>
+  </programme>
+<channel id="369840">
+    <display-name lang="Singapore">HBO Hits (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369840" start="20260924083500 +0700" stop="20260924101000 +0700">
+    <title lang="zh">MINIONS</title>
+    <desc>Follow the minion trio as they venture out into the world to find a new evil boss for their brethren to follow.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260924101000 +0700" stop="20260924114500 +0700">
+    <title lang="zh">THE IMMORTAL LIFE OF HENRIETTA LACKS</title>
+    <desc>Based on the book of the same name, this HBO Original film tells the true story of a woman whose cells were used to create the first immortal human cell line.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260924114500 +0700" stop="20260924121500 +0700">
+    <title lang="zh">HOLLYWOOD ON SET S1</title>
+    <desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260924121500 +0700" stop="20260924140000 +0700">
+    <title lang="zh">MOUNTAINHEAD</title>
+    <desc>A group of billionaire friends get together against the backdrop of a rolling international crisis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260924140000 +0700" stop="20260924161500 +0700">
+    <title lang="zh">THE LOVELY BONES</title>
+    <desc>Fourteen-year-old Susie Salmon is just experiencing the pangs of first love when she's viciously murdered by her neighbour Mr. Harvey.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260924161500 +0700" stop="20260924180000 +0700">
+    <title lang="zh">DC LEAGUE OF SUPER-PETS</title>
+    <desc>When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog forms a rescue team of superpowered shelter pets.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260924180000 +0700" stop="20260924193000 +0700">
+    <title lang="zh">THE IMMORTAL LIFE OF HENRIETTA LACKS</title>
+    <desc>Based on the book of the same name, this HBO Original film tells the true story of a woman whose cells were used to create the first immortal human cell line.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260924193000 +0700" stop="20260924220000 +0700">
+    <title lang="zh">HARRY POTTER AND THE GOBLET OF FIRE</title>
+    <desc>A competition will be held between three schools of wizardry. The Goblet of Fire makes its final selection for the competition - Harry Potter.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260924220000 +0700" stop="20260925000000 +0700">
+    <title lang="zh">NOT WITHOUT HOPE</title>
+    <desc>Four best friends went for a fishing trip. While attempting to free a trapped anchor, their boat capsizes, throwing them into the freezing water.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260925000000 +0700" stop="20260925022500 +0700">
+    <title lang="zh">ANCHORMAN 2: THE LEGEND CONTINUES</title>
+    <desc>With the 70s behind him, San Diego's top rated newsman, Ron Burgundy, returns to take New York's first 24-hour news channel by storm.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260925022500 +0700" stop="20260925050000 +0700">
+    <title lang="zh">ONE BATTLE AFTER ANOTHER</title>
+    <desc>Washed-up revolutionary Bob exists in a state of stoned paranoia. When his nemesis resurfaces and his daughter goes missing, Bob must find her.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260925050000 +0700" stop="20260925053000 +0700">
+    <title lang="zh">HOLLYWOOD ON SET S1</title>
+    <desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260925053000 +0700" stop="20260925070000 +0700">
+    <title lang="zh">MINIONS</title>
+    <desc>Follow the minion trio as they venture out into the world to find a new evil boss for their brethren to follow.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369840" start="20260925070500 +0700" stop="20260925093000 +0700">
+    <title lang="zh">BLOOD DIAMOND</title>
+    <desc>A smuggler, fisherman and reporter team up in search of a priceless pink diamond, a lost son and the dark story behind the diamond trade.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369840" start="20260925093000 +0700" stop="20260925120500 +0700">
+    <title lang="zh">HARRY POTTER AND THE GOBLET OF FIRE</title>
+    <desc>A competition will be held between three schools of wizardry. The Goblet of Fire makes its final selection for the competition - Harry Potter.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369840" start="20260925120500 +0700" stop="20260925142000 +0700">
+    <title lang="zh">THE LOVELY BONES</title>
+    <desc>Fourteen-year-old Susie Salmon is just experiencing the pangs of first love when she's viciously murdered by her neighbour Mr. Harvey.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369840" start="20260925142000 +0700" stop="20260925161000 +0700">
+    <title lang="zh">DC LEAGUE OF SUPER-PETS</title>
+    <desc>When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog forms a rescue team of superpowered shelter pets.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369840" start="20260925161000 +0700" stop="20260925180500 +0700">
+    <title lang="zh">SAVE THE LAST DANCE</title>
+    <desc>A small-town girl with big dreams must face the biggest challenge of her life – to stay true to her dream and her new romance.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369840" start="20260925180500 +0700" stop="20260925194000 +0700">
+    <title lang="zh">MINIONS</title>
+    <desc>Follow the minion trio as they venture out into the world to find a new evil boss for their brethren to follow.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369840" start="20260925194000 +0700" stop="20260926070000 +0700">
+    <title lang="zh">BLOOD DIAMOND</title>
+    <desc>A smuggler, fisherman and reporter team up in search of a priceless pink diamond, a lost son and the dark story behind the diamond trade.</desc>
+    <date>2026-09-25</date>
+  </programme>
+<channel id="369758">
+    <display-name lang="Singapore">HBO Signature (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369758" start="20260924071500 +0700" stop="20260924083000 +0700">
+    <title lang="zh">INDUSTRY S3</title>
+    <desc>As a new era dawns at Pierpoint, Yasmin and Robert have a fated encounter in the countryside, and Harper comes to a career crossroads.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924083000 +0700" stop="20260924101000 +0700">
+    <title lang="zh">CADDO LAKE</title>
+    <desc>The disappearance of an eight-year-old girl sets off a chain of events.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924101000 +0700" stop="20260924110500 +0700">
+    <title lang="zh">100 FOOT WAVE S3</title>
+    <desc>When he's not invited to participate in the prestigious Eddie Aikau Big Wave Invitational, Garrett reflects deeply on his life and surfing.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924110500 +0700" stop="20260924125500 +0700">
+    <title lang="zh">KING IN THE WILDERNESS</title>
+    <desc>The film chronicles the final chapters of Dr. Martin Luther King Jr.'s life, revealing a conflicted leader who faced an onslaught of criticism from both sides of the political spectrum.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924125500 +0700" stop="20260924144000 +0700">
+    <title lang="zh">DEAR SANTA</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924144000 +0700" stop="20260924162500 +0700">
+    <title lang="zh">COMA</title>
+    <desc>The film follows the lives of four patients recovering from their coma, documenting the effects of their brain injuries and recovery journey.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924162500 +0700" stop="20260924180000 +0700">
+    <title lang="zh">EINSTEIN AND EDDINGTON</title>
+    <desc>A story about the unlikely partnership during World War I between a young British scientist named Arthur Eddington and the brilliant physicist, Albert Einstein.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924180000 +0700" stop="20260924183000 +0700">
+    <title lang="zh">YOUTH S1</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924183000 +0700" stop="20260924191000 +0700">
+    <title lang="zh">YOUTH S1</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924191000 +0700" stop="20260924210000 +0700">
+    <title lang="zh">THE POLAR EXPRESS</title>
+    <desc>A doubting boy finds out first-hand that Santa exists when he goes aboard a magical train headed for the North Pole.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924210000 +0700" stop="20260924223000 +0700">
+    <title lang="zh">LIKE CRAZY</title>
+    <desc>A British college student falls for an American student but finds out that they have to be separated.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924223000 +0700" stop="20260924231500 +0700">
+    <title lang="zh">LAW &amp; ORDER ('21) S1</title>
+    <desc>When the CFO of a Fortune 500 company is found strangled in her home, Bernard and Cosgrove work to connect multiple dead ends to find her killer.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260924231500 +0700" stop="20260925005500 +0700">
+    <title lang="zh">THE PHOENICIAN SCHEME</title>
+    <desc>This dark comedy follows a father and daughter as they try and run their family business amongst a sea of morally grey choices.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260925005500 +0700" stop="20260925022500 +0700">
+    <title lang="zh">FINAL DESTINATION 3</title>
+    <desc>A high school senior has a premonition of death and manages to save her friends and herself, but death is out to take their lives.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260925022500 +0700" stop="20260925034000 +0700">
+    <title lang="zh">INDUSTRY S3</title>
+    <desc>As a new era dawns at Pierpoint, Yasmin and Robert have a fated encounter in the countryside, and Harper comes to a career crossroads.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260925034000 +0700" stop="20260925060500 +0700">
+    <title lang="zh">THE FINAL DESTINATION</title>
+    <desc>After a teen's premonition of a deadly race-car crash helps saves the lives of his peers, Death sets out to collect those who evaded their end.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260925060500 +0700" stop="20260925070000 +0700">
+    <title lang="zh">REGRETTING YOU</title>
+    <desc>After a devastating accident, Morgan Grant and her daughter Clara must rediscover life and love in this heart-felt coming-of-age story.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="369758" start="20260925080000 +0700" stop="20260925085500 +0700">
+    <title lang="zh">INDUSTRY S4</title>
+    <desc>While Harper makes a bold move as head of her own fund, Whitney Halberstram works to ensure the successful evolution of Tender.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925085500 +0700" stop="20260925103500 +0700">
+    <title lang="zh">NATIVE SON</title>
+    <desc>A young African-American named Bigger Thomas takes a job working for an affluent Chicago white family – a decision that will change his life forever.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925103500 +0700" stop="20260925110500 +0700">
+    <title lang="zh">YOUTH S1</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925110500 +0700" stop="20260925113500 +0700">
+    <title lang="zh">YOUTH S1</title>
+    <desc />
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925113500 +0700" stop="20260925130500 +0700">
+    <title lang="zh">LIKE CRAZY</title>
+    <desc>A British college student falls for an American student but finds out that they have to be separated.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925130500 +0700" stop="20260925145500 +0700">
+    <title lang="zh">THE HUNTSMAN: WINTER'S WAR</title>
+    <desc>The story before Snow White: During the war between two queens, the huntsman must vanquish the evil queen before her wickedness rules for eternity.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925145500 +0700" stop="20260925164500 +0700">
+    <title lang="zh">MANN V. FORD</title>
+    <desc>This HBO documentary follows the Ramapough Indians as they take on Ford and the Environmental Protection Agency to secure a healthy future for their children.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925164500 +0700" stop="20260925185500 +0700">
+    <title lang="zh">BURY MY HEART AT WOUNDED KNEE</title>
+    <desc>An HBO Original film which explores the impact after the US government wages a campaign to exterminate American Indians.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925185500 +0700" stop="20260925210000 +0700">
+    <title lang="zh">DOWNTON ABBEY: THE GRAND FINALE</title>
+    <desc>It's time to say goodbye… When Mary finds herself at the center of a public scandal and the family faces financial trouble.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925210000 +0700" stop="20260925215500 +0700">
+    <title lang="zh">THE GILDED AGE S3</title>
+    <desc>As George faces opposition for a new railway plan, Bertha prepares for the Duke's return, and Ada finds purpose in the temperance movement.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="369758" start="20260925215500 +0700" stop="20260926070000 +0700">
+    <title lang="zh">THE GILDED AGE S3</title>
+    <desc>Amid their domestic quibbles, Agnes and Ada welcome the Scotts into their home. Bertha and George disagree about Gladys's future.</desc>
+    <date>2026-09-25</date>
+  </programme>
+<channel id="Sport 1.sk"><display-name>Sport 1.sk</display-name></channel>
+<channel id="Sport 2.sk"><display-name>Sport 2.sk</display-name></channel>
+<programme start="20260924034500 +0700" stop="20260924074500 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, Austrian Darts Open, PDC European Tour 2026, 3. den, část 2</desc></programme>
+<programme start="20260924074500 +0700" stop="20260924083000 +0700" channel="Sport 1.sk"><title>MVP</title><desc>Rozhovory o sportu, Stanislav Lobotka, (film)</desc></programme>
+<programme start="20260924083000 +0700" stop="20260924100000 +0700" channel="Sport 1.sk"><title>Box: Sugar Ray Robinson ponud for pound</title><desc>Záznam</desc></programme>
+<programme start="20260924100000 +0700" stop="20260924110000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260924110000 +0700" stop="20260924120000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260924120000 +0700" stop="20260924140000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260924140000 +0700" stop="20260924160000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260924160000 +0700" stop="20260924200000 +0700" channel="Sport 1.sk"><title>Šipky</title><desc>Záznam, Austrian Darts Open, PDC European Tour 2026, 3. den, část 2</desc></programme>
+<programme start="20260924200000 +0700" stop="20260924220000 +0700" channel="Sport 1.sk"><title>Lední hokej: Frölunda - Färjestad</title><desc>Záznam, SHL, základní část</desc></programme>
+<programme start="20260924220000 +0700" stop="20260924221500 +0700" channel="Sport 1.sk"><title>Fotbal, Made in Italy, Albert Gudmundsson</title></programme>
+<programme start="20260924221500 +0700" stop="20260924224500 +0700" channel="Sport 1.sk"><title>Fotbal, Serie A, Full Impact</title></programme>
+<programme start="20260924224500 +0700" stop="20260925010000 +0700" channel="Sport 1.sk"><title>Fotbal: Malta - Andorra</title><desc>Přímý přenos utkání, Liga národů, Ligová fáze</desc></programme>
+<programme start="20260925010000 +0700" stop="20260925013000 +0700" channel="Sport 1.sk"><title>Tenis, WTA 250 s-Hertogenbosch, sestřih</title></programme>
+<programme start="20260925013000 +0700" stop="20260925034500 +0700" channel="Sport 1.sk"><title>Fotbal: Nizozemsko - Německo</title><desc>Přímý přenos utkání, Liga národů, Ligová fáze</desc></programme>
+<programme start="20260925034500 +0700" stop="20260925040000 +0700" channel="Sport 1.sk"><title>Fotbal, Made in Italy, Ange-Yoan Bonny</title></programme>
+<programme start="20260925040000 +0700" stop="20260925050000 +0700" channel="Sport 1.sk"><title>Fotbal: Liga národů</title><desc>Nejlepší okamžiky</desc></programme>
+<programme start="20260925050000 +0700" stop="20260925071500 +0700" channel="Sport 1.sk"><title>Fotbal: Norsko - Demmark</title><desc>Záznam, Liga národů, Ligová fáze</desc></programme>
+<programme start="20260925071500 +0700" stop="20260925091500 +0700" channel="Sport 1.sk"><title>WNBA: Indiana Fever - Minnesota Lynx</title><desc>Záznam, základní část</desc></programme>
+<programme start="20260925091500 +0700" stop="20260925100000 +0700" channel="Sport 1.sk"><title>MVP</title><desc>Rozhovory o sportu, Stanislav Lobotka, (film)</desc></programme>
+<programme start="20260925100000 +0700" stop="20260925110000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260925110000 +0700" stop="20260925120000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260925120000 +0700" stop="20260925140000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260925140000 +0700" stop="20260925160000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260925160000 +0700" stop="20260925180000 +0700" channel="Sport 1.sk"><title>Tenis</title><desc>Přímý přenos utkání, WTA 250, Korea Open</desc></programme>
+<programme start="20260925180000 +0700" stop="20260925200000 +0700" channel="Sport 1.sk"><title>Fotbal: Fiorentina - Neapol</title><desc>Záznam, Serie A, 5. kolo</desc></programme>
+<programme start="20260925200000 +0700" stop="20260925220000 +0700" channel="Sport 1.sk"><title>Fotbal: Juventus - Atalanta</title><desc>Záznam, Serie A, 5. kolo</desc></programme>
+<programme start="20260925220000 +0700" stop="20260925224500 +0700" channel="Sport 1.sk"><title>MVP</title><desc>Rozhovory o sportu, Tomáš Záborský, (film)</desc></programme>
+<programme start="20260925224500 +0700" stop="20260926014500 +0700" channel="Sport 1.sk"><title>Lední hokej: HK Nitra - VLCI Žilina</title><desc>Přímý přenos utkání, Tipsport Liga, základní část, 4. kolo</desc></programme>
+<programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="Sport 1.sk"><title>Fotbal: Itálie - Belgie</title><desc>Přímý přenos utkání, Liga národů, Ligová fáze</desc></programme>
+<programme start="20260926034500 +0700" stop="20260926040000 +0700" channel="Sport 1.sk"><title>Fotbal, Made in Italy, Keinan Davis</title></programme>
+<programme start="20260926040000 +0700" stop="20260926050000 +0700" channel="Sport 1.sk"><title>Fotbal: Liga národů</title><desc>Nejlepší okamžiky</desc></programme>
+<programme start="20260926050000 +0700" stop="20260926071500 +0700" channel="Sport 1.sk"><title>Fotbal: Georgia - Severní Irsko</title><desc>Záznam, Liga národů, Ligová fáze</desc></programme>
+<programme start="20260926071500 +0700" stop="20260926093000 +0700" channel="Sport 1.sk"><title>Fotbal: Turecko - Francie</title><desc>Záznam, Liga národů, Ligová fáze</desc></programme>
+<programme start="20260926093000 +0700" stop="20260926103000 +0700" channel="Sport 1.sk"><title>Box: Hector Camacho Jr - Bryon Mackie</title><desc>Záznam</desc></programme>
+<programme start="20260924044500 +0700" stop="20260924063000 +0700" channel="Sport 2.sk"><title>Házená</title><desc>Liga mistrů, muži, základní skupina GOG - OTP Bank-Pick Szeged, (šport)</desc></programme>
+<programme start="20260924063000 +0700" stop="20260924081500 +0700" channel="Sport 2.sk"><title>Házená</title><desc>Liga mistrů, muži, základní skupina Füchse Berlín - One Veszprém, (šport)</desc></programme>
+<programme start="20260924081500 +0700" stop="20260924103000 +0700" channel="Sport 2.sk"><title>Lední hokej</title><desc>Národní liga, základní část Lugano - Zug, (šport)</desc></programme>
+<programme start="20260924103000 +0700" stop="20260924110000 +0700" channel="Sport 2.sk"><title>Sectrets of Calcio (Tajemství fotbalu), La Gazetta</title><desc>(šport)</desc></programme>
+<programme start="20260924110000 +0700" stop="20260924130000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Sao Paulo, semifinále, (šport)</desc></programme>
+<programme start="20260924130000 +0700" stop="20260924150000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Sao Paulo, semifinále, (šport)</desc></programme>
+<programme start="20260924150000 +0700" stop="20260924170000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Sao Paulo, finále, (šport)</desc></programme>
+<programme start="20260924170000 +0700" stop="20260924190000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 5. kolo Juventus - Atalanta, (šport)</desc></programme>
+<programme start="20260924190000 +0700" stop="20260924210000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Korea Open, (šport)</desc></programme>
+<programme start="20260924210000 +0700" stop="20260924230000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Korea Open, (šport)</desc></programme>
+<programme start="20260924230000 +0700" stop="20260925010000 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Korea Open, (šport)</desc></programme>
+<programme start="20260925010000 +0700" stop="20260925013000 +0700" channel="Sport 2.sk"><title>Tenis, WTA 250, Hobart, sestřih</title><desc>(šport)</desc></programme>
+<programme start="20260925013000 +0700" stop="20260925034500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Liga národů, Ligová fáze Norsko - Demmark, (šport)</desc></programme>
+<programme start="20260925034500 +0700" stop="20260925050000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Sugar Ray Robinson ponud for pound, (šport)</desc></programme>
+<programme start="20260925050000 +0700" stop="20260925053000 +0700" channel="Sport 2.sk"><title>Fotbal, Serie A, Full Impact</title><desc>(šport)</desc></programme>
+<programme start="20260925053000 +0700" stop="20260925074500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Liga národů, Ligová fáze Malta - Andorra, (šport)</desc></programme>
+<programme start="20260925074500 +0700" stop="20260925100000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Liga národů, Ligová fáze Nizozemsko - Německo, (šport)</desc></programme>
+<programme start="20260925100000 +0700" stop="20260925110000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 5. kolo, (šport)</desc></programme>
+<programme start="20260925110000 +0700" stop="20260925144500 +0700" channel="Sport 2.sk"><title>Šipky</title><desc>Austrian Darts Open, PDC European Tour 2026, 3. den, část 2, (šport)</desc></programme>
+<programme start="20260925144500 +0700" stop="20260925164500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 5. kolo Fiorentina - Neapol, (šport)</desc></programme>
+<programme start="20260925164500 +0700" stop="20260925184500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Serie A, 5. kolo Frosinone - Como, (šport)</desc></programme>
+<programme start="20260925184500 +0700" stop="20260925204500 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Korea Open, (šport)</desc></programme>
+<programme start="20260925204500 +0700" stop="20260925224500 +0700" channel="Sport 2.sk"><title>Tenis</title><desc>WTA 250, Korea Open, (šport)</desc></programme>
+<programme start="20260925224500 +0700" stop="20260926010000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Liga národů, Ligová fáze Georgia - Severní Irsko, (šport)</desc></programme>
+<programme start="20260926010000 +0700" stop="20260926013000 +0700" channel="Sport 2.sk"><title>NCAA Fotbal, sestřih</title><desc>(šport)</desc></programme>
+<programme start="20260926013000 +0700" stop="20260926034500 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Liga národů, Ligová fáze Turecko - Francie, (šport)</desc></programme>
+<programme start="20260926034500 +0700" stop="20260926060000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Liga národů, Ligová fáze Nizozemsko - Německo, (šport)</desc></programme>
+<programme start="20260926060000 +0700" stop="20260926080000 +0700" channel="Sport 2.sk"><title>Fotbal</title><desc>Liga národů, Ligová fáze Itálie - Belgie, (šport)</desc></programme>
+<programme start="20260926080000 +0700" stop="20260926093000 +0700" channel="Sport 2.sk"><title>Box</title><desc>Sugar Ray Robinson ponud for pound, (šport)</desc></programme>
+<programme start="20260926093000 +0700" stop="20260926110000 +0700" channel="Sport 2.sk"><title>NCAA, americký fotbal</title><desc>Základní část, 4. kolo Kalifornie - Clemson, (šport)</desc></programme>
 </tv>
