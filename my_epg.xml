@@ -5752,7 +5752,7 @@
     <date>2026-09-29</date>
   </programme>
 <channel id="400480">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400480" start="20260927073000 +0700" stop="20260927103000 +0700">
@@ -5991,7 +5991,7 @@
     <date>2026-09-28</date>
   </programme>
 <channel id="400479">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400479" start="20260927090000 +0700" stop="20260927100000 +0700">
@@ -8646,8 +8646,13 @@
     <desc />
     <date>2026-09-28</date>
   </programme>
-  <programme channel="408613" start="20260928183000 +0700" stop="20260929070000 +0700">
+  <programme channel="408613" start="20260928183000 +0700" stop="20260928203000 +0700">
     <title lang="zh">United Rugby Championship. Hollywoodbets Sharks v Ospreys</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="408613" start="20260928203000 +0700" stop="20260929070000 +0700">
+    <title lang="zh">United Rugby Championship. Munster v Glasgow Warriors</title>
     <desc />
     <date>2026-09-28</date>
   </programme>
@@ -8785,8 +8790,18 @@
     <desc />
     <date>2026-09-28</date>
   </programme>
-  <programme channel="408658" start="20260928173000 +0700" stop="20260929070000 +0700">
+  <programme channel="408658" start="20260928173000 +0700" stop="20260928193000 +0700">
     <title lang="zh">Scottish Challenge Cup Football. East Kilbride v Celtic B</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="408658" start="20260928193000 +0700" stop="20260928200000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="408658" start="20260928200000 +0700" stop="20260929070000 +0700">
+    <title lang="zh">Top 14. Stade Français Paris v LOU Rugby</title>
     <desc />
     <date>2026-09-28</date>
   </programme>
@@ -9023,8 +9038,13 @@
     <desc />
     <date>2026-09-28</date>
   </programme>
-  <programme channel="417364" start="20260928180000 +0700" stop="20260929070000 +0700">
+  <programme channel="417364" start="20260928180000 +0700" stop="20260928200000 +0700">
     <title lang="zh">Football: Serie A. Sassuolo – Juventus (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="417364" start="20260928200000 +0700" stop="20260929070000 +0700">
+    <title lang="zh">Football: The EFL Cup. Liverpool – Tottenham (Carabao Cup), 2026</title>
     <desc />
     <date>2026-09-28</date>
   </programme>
@@ -9117,8 +9137,13 @@
     <desc />
     <date>2026-09-28</date>
   </programme>
-  <programme channel="417351" start="20260928180000 +0700" stop="20260929070000 +0700">
+  <programme channel="417351" start="20260928180000 +0700" stop="20260928200000 +0700">
     <title lang="zh">Football: LaLiga. Real Madrid – Rayo Vallecano (LaLiga)</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="417351" start="20260928200000 +0700" stop="20260929070000 +0700">
+    <title lang="zh">Football: The EFL Cup. Liverpool – Tottenham (Carabao Cup), 2026</title>
     <desc />
     <date>2026-09-28</date>
   </programme>
@@ -10367,8 +10392,43 @@
     <desc />
     <date>2026-09-28</date>
   </programme>
-  <programme channel="406253" start="20260928183000 +0700" stop="20260929070000 +0700">
+  <programme channel="406253" start="20260928183000 +0700" stop="20260928190000 +0700">
     <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406253" start="20260928190000 +0700" stop="20260928193000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406253" start="20260928193000 +0700" stop="20260928200000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406253" start="20260928200000 +0700" stop="20260928201500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406253" start="20260928201500 +0700" stop="20260928204500 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406253" start="20260928204500 +0700" stop="20260928211500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406253" start="20260928211500 +0700" stop="20260928213000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406253" start="20260928213000 +0700" stop="20260929070000 +0700">
+    <title lang="zh">Autožurnál</title>
     <desc />
     <date>2026-09-28</date>
   </programme>
@@ -10556,8 +10616,38 @@
     <desc />
     <date>2026-09-28</date>
   </programme>
-  <programme channel="406295" start="20260928183000 +0700" stop="20260929070000 +0700">
+  <programme channel="406295" start="20260928183000 +0700" stop="20260928191500 +0700">
     <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406295" start="20260928191500 +0700" stop="20260928194500 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406295" start="20260928194500 +0700" stop="20260928200000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406295" start="20260928200000 +0700" stop="20260928203000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406295" start="20260928203000 +0700" stop="20260928204500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406295" start="20260928204500 +0700" stop="20260928211500 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="406295" start="20260928211500 +0700" stop="20260929070000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
     <desc />
     <date>2026-09-28</date>
   </programme>
@@ -10955,32 +11045,67 @@
     <date>2026-09-27</date>
   </programme>
   <programme channel="445355" start="20260927114500 +0700" stop="20260927134000 +0700">
+    <title lang="zh">Buongiorno Cult</title>
+    <desc />
+    <date>2026-09-27</date>
+  </programme>
+  <programme channel="445355" start="20260927134000 +0700" stop="20260927134500 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-09-27</date>
   </programme>
-  <programme channel="445355" start="20260927134000 +0700" stop="20260927154000 +0700">
+  <programme channel="445355" start="20260927134500 +0700" stop="20260927143000 +0700">
+    <title lang="zh">HL Review 26/27</title>
+    <desc />
+    <date>2026-09-27</date>
+  </programme>
+  <programme channel="445355" start="20260927143000 +0700" stop="20260927151000 +0700">
+    <title lang="zh">Review Cult Baresi</title>
+    <desc />
+    <date>2026-09-27</date>
+  </programme>
+  <programme channel="445355" start="20260927151000 +0700" stop="20260927154000 +0700">
+    <title lang="zh">Milan F v Caldero</title>
+    <desc />
+    <date>2026-09-27</date>
+  </programme>
+  <programme channel="445355" start="20260927154000 +0700" stop="20260927171000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-09-27</date>
   </programme>
-  <programme channel="445355" start="20260927154000 +0700" stop="20260927174000 +0700">
+  <programme channel="445355" start="20260927171000 +0700" stop="20260927174000 +0700">
+    <title lang="zh">Wom Cup-Milan v Como</title>
+    <desc />
+    <date>2026-09-27</date>
+  </programme>
+  <programme channel="445355" start="20260927174000 +0700" stop="20260927190500 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-09-27</date>
   </programme>
-  <programme channel="445355" start="20260927174000 +0700" stop="20260927193000 +0700">
+  <programme channel="445355" start="20260927190500 +0700" stop="20260927193000 +0700">
+    <title lang="zh">Milan v Lecce-26/27</title>
+    <desc />
+    <date>2026-09-27</date>
+  </programme>
+  <programme channel="445355" start="20260927193000 +0700" stop="20260927210000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-09-27</date>
   </programme>
-  <programme channel="445355" start="20260927193000 +0700" stop="20260927212500 +0700">
+  <programme channel="445355" start="20260927210000 +0700" stop="20260927212500 +0700">
+    <title lang="zh">ONTHISDAY REVIEW</title>
+    <desc />
+    <date>2026-09-27</date>
+  </programme>
+  <programme channel="445355" start="20260927212500 +0700" stop="20260927230000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-09-27</date>
   </programme>
-  <programme channel="445355" start="20260927212500 +0700" stop="20260927231500 +0700">
-    <title lang="zh">Ac Milan – 26/27</title>
+  <programme channel="445355" start="20260927230000 +0700" stop="20260927231500 +0700">
+    <title lang="zh">ONTHISDAY REVIEW</title>
     <desc />
     <date>2026-09-27</date>
   </programme>
@@ -10990,16 +11115,21 @@
     <date>2026-09-27</date>
   </programme>
   <programme channel="445355" start="20260928010000 +0700" stop="20260928025500 +0700">
-    <title lang="zh">Ac Milan – 26/27</title>
+    <title lang="zh">ONTHISDAY REVIEW</title>
     <desc />
     <date>2026-09-27</date>
   </programme>
   <programme channel="445355" start="20260928025500 +0700" stop="20260928044000 +0700">
+    <title lang="zh">Milan v Lecce-26/27</title>
+    <desc />
+    <date>2026-09-27</date>
+  </programme>
+  <programme channel="445355" start="20260928044000 +0700" stop="20260928045000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-09-27</date>
   </programme>
-  <programme channel="445355" start="20260928044000 +0700" stop="20260928062500 +0700">
+  <programme channel="445355" start="20260928045000 +0700" stop="20260928062500 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-09-27</date>
@@ -11014,8 +11144,38 @@
     <desc />
     <date>2026-09-28</date>
   </programme>
-  <programme channel="445355" start="20260928084500 +0700" stop="20260929070000 +0700">
+  <programme channel="445355" start="20260928084500 +0700" stop="20260928114500 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="445355" start="20260928114500 +0700" stop="20260928134500 +0700">
+    <title lang="zh">Buongiorno Cult</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="445355" start="20260928134500 +0700" stop="20260928153000 +0700">
+    <title lang="zh">ONTHISDAY REVIEW</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="445355" start="20260928153000 +0700" stop="20260928172500 +0700">
+    <title lang="zh">VillaValle v Milan F</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="445355" start="20260928172500 +0700" stop="20260928192000 +0700">
+    <title lang="zh">U20-Milan v Juve</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="445355" start="20260928192000 +0700" stop="20260928212000 +0700">
+    <title lang="zh">Femm. Milan v Como</title>
+    <desc />
+    <date>2026-09-28</date>
+  </programme>
+  <programme channel="445355" start="20260928212000 +0700" stop="20260929070000 +0700">
+    <title lang="zh">Torino v Milan-26/27</title>
     <desc />
     <date>2026-09-28</date>
   </programme>
