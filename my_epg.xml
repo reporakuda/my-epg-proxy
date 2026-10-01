@@ -5332,7 +5332,7 @@
 <programme start="20261003110000 +0700" stop="20261003120000 +0700" channel="Sukan RTM.my"><title>Realiti : Rashid Mencari Juara (RMJ)</title><desc>Rancangan menarik untuk tontonan anda.</desc></programme>
 <programme start="20261003120000 +0700" stop="20261003160000 +0700" channel="Sukan RTM.my"><title>Siaran Langsung : Laporan Harian Sukan Asia AICHI - NAGOYA 2026</title><desc>Saksikan secara langsung laporan harian Sukan Asia AICHI - NAGOYA 2026 (SESI 2)</desc></programme>
 <channel id="400477">
-    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400477" start="20261001081500 +0700" stop="20261001111500 +0700">
@@ -5536,7 +5536,7 @@
     <date>2026-10-03</date>
   </programme>
 <channel id="400480">
-    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400480" start="20261001071500 +0700" stop="20261001080000 +0700">
@@ -5750,7 +5750,7 @@
     <date>2026-10-02</date>
   </programme>
 <channel id="400479">
-    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400479" start="20261001070000 +0700" stop="20261001080000 +0700">
@@ -10267,7 +10267,7 @@
     <date>2026-10-01</date>
   </programme>
   <programme channel="406253" start="20261001153000 +0700" stop="20261001160000 +0700">
-    <title lang="zh">Martin z Martina</title>
+    <title lang="zh">Za rybami světových moří</title>
     <desc />
     <date>2026-10-01</date>
   </programme>
@@ -10337,7 +10337,7 @@
     <date>2026-10-01</date>
   </programme>
   <programme channel="406253" start="20261001211500 +0700" stop="20261001213000 +0700">
-    <title lang="zh">Švihák testuje</title>
+    <title lang="zh">ENDURO magazín</title>
     <desc />
     <date>2026-10-01</date>
   </programme>
@@ -10371,10 +10371,215 @@
     <desc />
     <date>2026-10-01</date>
   </programme>
-  <programme channel="406253" start="20261002043000 +0700" stop="20261002070000 +0700">
+  <programme channel="406253" start="20261002043000 +0700" stop="20261002050000 +0700">
     <title lang="zh">Autožurnál</title>
     <desc />
     <date>2026-10-01</date>
+  </programme>
+  <programme channel="406253" start="20261002050000 +0700" stop="20261002060000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="406253" start="20261002060000 +0700" stop="20261002070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="406253" start="20261002113000 +0700" stop="20261002120000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002120000 +0700" stop="20261002121000 +0700">
+    <title lang="zh">Športové sekundy</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002121000 +0700" stop="20261002122000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002122000 +0700" stop="20261002123500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002123500 +0700" stop="20261002130000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002130000 +0700" stop="20261002133000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002133000 +0700" stop="20261002140000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002140000 +0700" stop="20261002143000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002143000 +0700" stop="20261002150000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002150000 +0700" stop="20261002153000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002153000 +0700" stop="20261002160000 +0700">
+    <title lang="zh">Za rybami světových moří</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002160000 +0700" stop="20261002163000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002163000 +0700" stop="20261002170000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002170000 +0700" stop="20261002173000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002173000 +0700" stop="20261002174500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002174500 +0700" stop="20261002180000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002180000 +0700" stop="20261002181500 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002181500 +0700" stop="20261002183000 +0700">
+    <title lang="zh">ENDURO magazín</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002183000 +0700" stop="20261002190000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002190000 +0700" stop="20261002193000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002193000 +0700" stop="20261002200000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002200000 +0700" stop="20261002201500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002201500 +0700" stop="20261002204500 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002204500 +0700" stop="20261002211500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002211500 +0700" stop="20261002213000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002213000 +0700" stop="20261002223000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002223000 +0700" stop="20261002230000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002230000 +0700" stop="20261002233000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261002233000 +0700" stop="20261003000000 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003000000 +0700" stop="20261003003000 +0700">
+    <title lang="zh">Za rybami světových moří</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003003000 +0700" stop="20261003010000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003010000 +0700" stop="20261003013000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003013000 +0700" stop="20261003020000 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003020000 +0700" stop="20261003030000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003030000 +0700" stop="20261003040000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003040000 +0700" stop="20261003043000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003043000 +0700" stop="20261003050000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003050000 +0700" stop="20261003060000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406253" start="20261003060000 +0700" stop="20261003070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-02</date>
   </programme>
 <channel id="406295">
     <display-name lang="Russian Federation">Sport 2 CZ</display-name>
@@ -10451,7 +10656,7 @@
     <date>2026-10-01</date>
   </programme>
   <programme channel="406295" start="20261002024500 +0700" stop="20261002030000 +0700">
-    <title lang="zh">AutoGRATIS</title>
+    <title lang="zh">ENDURO magazín</title>
     <desc />
     <date>2026-10-01</date>
   </programme>
@@ -10470,10 +10675,125 @@
     <desc />
     <date>2026-10-01</date>
   </programme>
-  <programme channel="406295" start="20261002043000 +0700" stop="20261002070000 +0700">
+  <programme channel="406295" start="20261002043000 +0700" stop="20261002050000 +0700">
     <title lang="zh">Motoring</title>
     <desc />
     <date>2026-10-01</date>
+  </programme>
+  <programme channel="406295" start="20261002050000 +0700" stop="20261002070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="406295" start="20261002130000 +0700" stop="20261002133000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002133000 +0700" stop="20261002135000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002135000 +0700" stop="20261002140000 +0700">
+    <title lang="zh">ENDURO magazín</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002140000 +0700" stop="20261002143000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002143000 +0700" stop="20261002150000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002150000 +0700" stop="20261002170000 +0700">
+    <title lang="zh">Eupago Porto Open</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002170000 +0700" stop="20261002190000 +0700">
+    <title lang="zh">Eupago Porto Open</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002190000 +0700" stop="20261002210000 +0700">
+    <title lang="zh">Eupago Porto Open</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002210000 +0700" stop="20261002230000 +0700">
+    <title lang="zh">Eupago Porto Open</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002230000 +0700" stop="20261002234500 +0700">
+    <title lang="zh">MarathonCast</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261002234500 +0700" stop="20261003000000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003000000 +0700" stop="20261003003000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003003000 +0700" stop="20261003010000 +0700">
+    <title lang="zh">Výběrová auta</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003010000 +0700" stop="20261003020000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003020000 +0700" stop="20261003021500 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003021500 +0700" stop="20261003023000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003023000 +0700" stop="20261003030000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003030000 +0700" stop="20261003033000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003033000 +0700" stop="20261003040000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003040000 +0700" stop="20261003043000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003043000 +0700" stop="20261003050000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="406295" start="20261003050000 +0700" stop="20261003070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-02</date>
   </programme>
 <channel id="12258">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">MUTV HD</display-name>
@@ -10933,4 +11253,124 @@
     <display-name lang="Russian Federation">Milan TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/07/16/20250716021106058103_15.png" />
   </channel>
+  <programme channel="445355" start="20261001114500 +0700" stop="20261001134500 +0700">
+    <title lang="zh">Buongiorno Cult</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261001134500 +0700" stop="20261001154000 +0700">
+    <title lang="zh">Milan v Slavia-23/24</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261001154000 +0700" stop="20261001173500 +0700">
+    <title lang="zh">Milan F. Brusaporto</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261001173500 +0700" stop="20261001191500 +0700">
+    <title lang="zh">U20-Milan v Torino</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261001191500 +0700" stop="20261001211500 +0700">
+    <title lang="zh">Wom Cup-Juve Milan</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261001211500 +0700" stop="20261001231000 +0700">
+    <title lang="zh">Lazio v Milan-26/27</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261001231000 +0700" stop="20261002010000 +0700">
+    <title lang="zh">ONTHISDAY REVIEW</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261002010000 +0700" stop="20261002035500 +0700">
+    <title lang="zh">ONTHISDAY REVIEW</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261002035500 +0700" stop="20261002050000 +0700">
+    <title lang="zh">ICONS Milan REVIEW</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261002050000 +0700" stop="20261002062500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261002062500 +0700" stop="20261002070000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-01</date>
+  </programme>
+  <programme channel="445355" start="20261002072500 +0700" stop="20261002084500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261002084500 +0700" stop="20261002114500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261002114500 +0700" stop="20261002134500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261002134500 +0700" stop="20261002154000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261002154000 +0700" stop="20261002173500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261002173500 +0700" stop="20261002191500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261002191500 +0700" stop="20261002211500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261002211500 +0700" stop="20261002231000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261002231000 +0700" stop="20261003010000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261003010000 +0700" stop="20261003035500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261003035500 +0700" stop="20261003050000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261003050000 +0700" stop="20261003062500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
+  <programme channel="445355" start="20261003062500 +0700" stop="20261003070000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-02</date>
+  </programme>
 </tv>
