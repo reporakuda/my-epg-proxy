@@ -5768,7 +5768,7 @@
     <date>2026-10-03</date>
   </programme>
 <channel id="400479">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400479" start="20261002070000 +0700" stop="20261002103000 +0700">
@@ -10877,34 +10877,89 @@
     <desc>Sit back and enjoy all 253 of our former captain Wayne Rooney's goals that made him United's greatest goalscorer - from a debut hat-trick, to that overhead kick, to the record-breaking free-kick.</desc>
     <date>2026-10-03</date>
   </programme>
-  <programme channel="12258" start="20261003180000 +0700" stop="20261003200000 +0700">
-    <title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
-    <desc>Full coverage of our Premier League match against Ipswich Town.</desc>
+  <programme channel="12258" start="20261003180000 +0700" stop="20261003183000 +0700">
+    <title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Ipswich Town.</desc>
     <date>2026-10-03</date>
   </programme>
-  <programme channel="12258" start="20261003200000 +0700" stop="20261003220000 +0700">
-    <title lang="zh">PL Match: Everton (A) 26/27</title>
-    <desc>Full coverage of our Premier League match against Everton.</desc>
+  <programme channel="12258" start="20261003183000 +0700" stop="20261003190000 +0700">
+    <title lang="zh">PL Highlights: Everton (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Everton.</desc>
     <date>2026-10-03</date>
   </programme>
-  <programme channel="12258" start="20261003220000 +0700" stop="20261003234500 +0700">
-    <title lang="zh">UEFA Champions League 26/27</title>
-    <desc>Full coverage of our UEFA Champions League game against Sabah FK.</desc>
+  <programme channel="12258" start="20261003190000 +0700" stop="20261003193000 +0700">
+    <title lang="zh">UEFA Champions League Highlights 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Sabah FK.</desc>
     <date>2026-10-03</date>
   </programme>
-  <programme channel="12258" start="20261003234500 +0700" stop="20261004003000 +0700">
+  <programme channel="12258" start="20261003193000 +0700" stop="20261003200000 +0700">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003200000 +0700" stop="20261003201500 +0700">
+    <title lang="zh">Top 20 Goals 2005/06</title>
+    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our 2005/06 season.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003201500 +0700" stop="20261003203000 +0700">
+    <title lang="zh">Top 20 Goals 2006/07</title>
+    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our 2006/07 season.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003203000 +0700" stop="20261003210000 +0700">
+    <title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Fulham.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003210000 +0700" stop="20261003214000 +0700">
+    <title lang="zh">Farewell Casemiro</title>
+    <desc>To celebrate Casemiro's time at United we pay tribute to his journey in this original film.  Have tissues at the ready, this one is an emotional rollercoaster.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003214000 +0700" stop="20261003220000 +0700">
+    <title lang="zh">All The Goals: Casemiro</title>
+    <desc>Tale a look back at all 17 goals Casemiro scored for United.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003220000 +0700" stop="20261003221500 +0700">
+    <title lang="zh">Wayne Rooney: Exclusive Interview</title>
+    <desc>Wayne Rooney joins us to reflect on his time at the club spanning the epic period between 2005 and 2008. Kings of the World is available to buy now via United Store.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003221500 +0700" stop="20261003223000 +0700">
+    <title lang="zh">A Day in the Life: Celin Bizet Donnum</title>
+    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003223000 +0700" stop="20261003233000 +0700">
+    <title lang="zh">All The Goals: MU Women 18/19</title>
+    <desc>Relive all 113 goals from Manchester United Women's unforgettable inaugural 18/19 season in the newly formed FA Women's Championship.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003233000 +0700" stop="20261003234500 +0700">
+    <title lang="zh">All The Goals: MU Women 19/20</title>
+    <desc>In the 19/20 season, facemasks became more common than clean sheets. Manchester United Women decided to unleash goal after goal in what was their debut season as a top-flight team.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261003234500 +0700" stop="20261004000000 +0700">
     <title lang="zh">Podcast</title>
     <desc>To mark Black History Month, Helen Evans is joined by Manchester United legends Viv Anderson and Wes Brown for an important conversation about football, progress and representation.</desc>
     <date>2026-10-03</date>
   </programme>
+  <programme channel="12258" start="20261004000000 +0700" stop="20261004003000 +0700">
+    <title lang="zh">All The Goals: MU Women 20/21</title>
+    <desc>Watch all the goals from Manchester United Women¿s 2020/21 season.</desc>
+    <date>2026-10-03</date>
+  </programme>
   <programme channel="12258" start="20261004003000 +0700" stop="20261004010000 +0700">
-    <title lang="zh">U21s Highlights 26/27</title>
-    <desc>Highlights of the U21s match against Brentford Academy.</desc>
+    <title lang="zh">All The Goals: MU Women 21/22</title>
+    <desc>Watch all the goals from Manchester United Women¿s 2021/22 season.</desc>
     <date>2026-10-03</date>
   </programme>
   <programme channel="12258" start="20261004010000 +0700" stop="20261004013000 +0700">
-    <title lang="zh">MUW 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Durham.</desc>
+    <title lang="zh">All The Goals: MU Women 22/23</title>
+    <desc>Watch all the goals from Manchester United Women¿s 2022/23 season.</desc>
     <date>2026-10-03</date>
   </programme>
   <programme channel="12258" start="20261004013000 +0700" stop="20261004014500 +0700">
@@ -10913,13 +10968,33 @@
     <date>2026-10-03</date>
   </programme>
   <programme channel="12258" start="20261004014500 +0700" stop="20261004020000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>To mark Black History Month, Helen Evans is joined by Manchester United legends Viv Anderson and Wes Brown for an important conversation about football, progress and representation.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261004020000 +0700" stop="20261004023000 +0700">
+    <title lang="zh">All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261004023000 +0700" stop="20261004030000 +0700">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Durham.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261004030000 +0700" stop="20261004031500 +0700">
+    <title lang="zh">Wayne Rooney: Exclusive Interview</title>
+    <desc>Wayne Rooney joins us to reflect on his time at the club spanning the epic period between 2005 and 2008. Kings of the World is available to buy now via United Store.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261004031500 +0700" stop="20261004032500 +0700">
     <title lang="zh">A Day in the Life: Celin Bizet Donnum</title>
     <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
     <date>2026-10-03</date>
   </programme>
-  <programme channel="12258" start="20261004020000 +0700" stop="20261004033000 +0700">
-    <title lang="zh">All The Goals: Rashford</title>
-    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+  <programme channel="12258" start="20261004032500 +0700" stop="20261004033000 +0700">
+    <title lang="zh">Live: Radio commentary</title>
+    <desc>Live radio commentary of the WSL match against Liverpool.</desc>
     <date>2026-10-03</date>
   </programme>
   <programme channel="12258" start="20261004033000 +0700" stop="20261004034500 +0700">
@@ -10932,20 +11007,35 @@
     <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our 2006/07 season.</desc>
     <date>2026-10-03</date>
   </programme>
-  <programme channel="12258" start="20261004040000 +0700" stop="20261004054500 +0700">
+  <programme channel="12258" start="20261004040000 +0700" stop="20261004053000 +0700">
     <title lang="zh">PL Match: Fulham (A) 26/27</title>
     <desc>Full coverage of our Premier League match against Fulham.</desc>
     <date>2026-10-03</date>
   </programme>
-  <programme channel="12258" start="20261004054500 +0700" stop="20261004060000 +0700">
+  <programme channel="12258" start="20261004053000 +0700" stop="20261004054500 +0700">
     <title lang="zh">A Day in the Life: Celin Bizet Donnum</title>
     <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
     <date>2026-10-03</date>
   </programme>
-  <programme channel="12258" start="20261004060000 +0700" stop="20261004070000 +0700">
-    <title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
-    <desc>Full coverage of our Premier League match against Ipswich Town.</desc>
+  <programme channel="12258" start="20261004054500 +0700" stop="20261004060000 +0700">
+    <title lang="zh">A Day in the Life: Andrea Medina</title>
+    <desc>Join us for another edition of A Day in the Life, this week we're with our new Spanish left back, Andrea Medina.</desc>
     <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261004060000 +0700" stop="20261004063000 +0700">
+    <title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Ipswich Town.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261004063000 +0700" stop="20261004070000 +0700">
+    <title lang="zh">PL Highlights: Everton (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Everton.</desc>
+    <date>2026-10-03</date>
+  </programme>
+  <programme channel="12258" start="20261004070000 +0700" stop="20261005070000 +0700">
+    <title lang="zh">UEFA Champions League Highlights 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Sabah FK.</desc>
+    <date>2026-10-04</date>
   </programme>
 <channel id="445355">
     <display-name lang="Russian Federation">Milan TV</display-name>
