@@ -5455,114 +5455,9 @@
 <programme start="20261007134500 +0700" stop="20261007140000 +0700" channel="Sukan RTM.my"><title>Kapsul RTM Sports</title><desc>Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc></programme>
 <programme start="20261007140000 +0700" stop="20261007143000 +0700" channel="Sukan RTM.my"><title>Majalah : Arena Wanita Hebat</title><desc>Rancangan menarik untuk tontonan anda.</desc></programme>
 <channel id="400477">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20261005070000 +0700" stop="20261005103000 +0700">
-    <title lang="zh">Live MLB</title>
-    <desc>Action from MLB Postseason (Start-time TBA).</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005103000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">Ultimate Pool</title>
-    <desc>Action from Group 4 of the Mixed Team event.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005120000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">Shenzhen Open Snooker</title>
-    <desc>Action from the final of the tournament.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005140000 +0700" stop="20261005151500 +0700">
-    <title lang="zh">Live: UIM F1H2O World Championship</title>
-    <desc>Coverage of the latest race in China.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005151500 +0700" stop="20261005161500 +0700">
-    <title lang="zh">Classic Premier League</title>
-    <desc>A look back at the best goals from the 2008/09 season. Chelsea striker Nicolas Anelka secured the Golden Boot with 19 goals, beating Cristiano Ronaldo to the prize.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005161500 +0700" stop="20261005170100 +0700">
-    <title lang="zh">Sign Up - Into Football</title>
-    <desc>Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005170100 +0700" stop="20261005180000 +0700">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v West Indies. Action from the third and final ODI in the series from Maharaja Yadvindra Singh PCA Stadium in New Chandigarh, Punjab.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005180000 +0700" stop="20261005190000 +0700">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the 2026 Sparkassen Munsterland Giro.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005190000 +0700" stop="20261005200000 +0700">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the 2026 Tour of Emilia.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005200000 +0700" stop="20261005213000 +0700">
-    <title lang="zh">Live: Men's Cycling Pro Series</title>
-    <desc>The Bernocchi Cup. Coverage of the historic one-day race in Legnano, Italy.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005213000 +0700" stop="20261005223000 +0700">
-    <title lang="zh">Cycling European Championship</title>
-    <desc>Action from the women's elite road race in Slovenia.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005223000 +0700" stop="20261005233000 +0700">
-    <title lang="zh">Cycling European Championship</title>
-    <desc>Action from the men's elite road race in Ljubljana, Slovenia.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261005233000 +0700" stop="20261006000000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the women's elite cross country Olympic elite race in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261006000000 +0700" stop="20261006003000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the women's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261006003000 +0700" stop="20261006010000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite cross country Olympic elite race in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261006010000 +0700" stop="20261006013000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261006013000 +0700" stop="20261006014500 +0700">
-    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
-    <desc>A look back at the second round of fixtures.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261006014500 +0700" stop="20261006020000 +0700">
-    <title lang="zh">The Gruppetto</title>
-    <desc>Rob Hatch presents news from the world of cycling.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261006020000 +0700" stop="20261006030000 +0700">
-    <title lang="zh">MLB Highlights</title>
-    <desc>Action from Major League Baseball.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261006030000 +0700" stop="20261006040000 +0700">
-    <title lang="zh">MLB Lead Off</title>
-    <desc>A look at tonight's upcoming MLB action.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400477" start="20261006040000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">Live MLB</title>
-    <desc>Action from MLB Postseason (Start-time TBA).</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="400477" start="20261006070000 +0700" stop="20261006103000 +0700">
     <title lang="zh">Live MLB</title>
     <desc>Action from MLB Postseason (Start-time TBA).</desc>
@@ -5688,165 +5583,140 @@
     <desc>Atlanta Braves v Los Angeles Dodgers (Start-time 11.00pm). Coverage of game three of the American League Division Series at Truist Park.</desc>
     <date>2026-10-06</date>
   </programme>
+  <programme channel="400477" start="20261007083000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>San Diego Padres v Milwaukee Brewers (Start-time 2.30am). Coverage of game three of the American League Division Series from Petco Park.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007120000 +0700" stop="20261007123000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The story of Kevin Keegan's incredible spell in Northern Germany with Hamburg and reflecting on Harry Kane's remarkable impact at Bayern Munich.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007123000 +0700" stop="20261007124500 +0700">
+    <title lang="zh">Groundbreaking</title>
+    <desc>Reliving some of the most memorable games at Villa Park.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007124500 +0700" stop="20261007130100 +0700">
+    <title lang="zh">Groundbreaking</title>
+    <desc>Reliving some of the most memorable games at Stamford Bridge.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007130100 +0700" stop="20261007134500 +0700">
+    <title lang="zh">Sign Up - Into Football</title>
+    <desc>Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007134500 +0700" stop="20261007144500 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v West Indies. Action from the first T20 in the five-match series from Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007144500 +0700" stop="20261007151500 +0700">
+    <title lang="zh">It's A Numbers Game</title>
+    <desc>A look at the numbers that shape the worlds of MotoGP, World Superbikes, British Superbikes, and Speedway GP.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007151500 +0700" stop="20261007161500 +0700">
+    <title lang="zh">Women's Cycling Pro Series</title>
+    <desc>Action from the 2026 Binche Chimay Binche.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007161500 +0700" stop="20261007171500 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Binche Chimay Binche.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007171500 +0700" stop="20261007181500 +0700">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2026 Tre Valli Varesine.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007181500 +0700" stop="20261007191500 +0700">
+    <title lang="zh">Cycling European Championship</title>
+    <desc>Action from the mixed elite time trial event at in Ljubljana, Slovenia.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007191500 +0700" stop="20261007210000 +0700">
+    <title lang="zh">Live: Cycling European Championship</title>
+    <desc>Coverage from the women's elite individual time trial event, which takes place in Ljubljana, Slovenia.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007210000 +0700" stop="20261007224500 +0700">
+    <title lang="zh">Live: Cycling European Championship</title>
+    <desc>Coverage from the men's elite individual time trial event, which takes place in Ljubljana, Slovenia.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007224500 +0700" stop="20261007230000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007230000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Michael Carrick reflects on his remarkable journey through the game, sharing fascinating stories of Jacques Santini at Spurs and Sir Alex Ferguson at Manchester United.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261007233000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The story of Kevin Keegan's incredible spell in Northern Germany with Hamburg and reflecting on Harry Kane's remarkable impact at Bayern Munich.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008000000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008003000 +0700" stop="20261008004500 +0700">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008004500 +0700" stop="20261008010000 +0700">
+    <title lang="zh">British Superbikes Rewind</title>
+    <desc>A look back at the best action from round 10 at Donington Park.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008010000 +0700" stop="20261008013000 +0700">
+    <title lang="zh">It's A Numbers Game</title>
+    <desc>The key numbers behind Valentino Rossi and Marc Marquez in MotoGP, Jonathan Rea's record-setting Superbike dominance, the rapid Thruxton circuit, and more.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008013000 +0700" stop="20261008023000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008023000 +0700" stop="20261008030000 +0700">
+    <title lang="zh">MLB Lead Off</title>
+    <desc>A look at the upcoming MLB action.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008030000 +0700" stop="20261008063000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>Chicago White Sox v Cleveland Guardians (Start-time 9.00pm). Coverage of game three of the National League Division Series, held at Rate Field.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008063000 +0700" stop="20261008064500 +0700">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>A look back at the second round of fixtures.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008064500 +0700" stop="20261008070000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400477" start="20261008070000 +0700" stop="20261009070000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>New York Yankees v Tampa Bay Rays (Start-time 1.00am). Coverage of game three of the National League Division Series, held at Yankee Stadium.</desc>
+    <date>2026-10-08</date>
+  </programme>
 <channel id="400480">
     <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20261005070000 +0700" stop="20261005073000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race three of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005073000 +0700" stop="20261005080000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the women's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005080000 +0700" stop="20261005083000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005083000 +0700" stop="20261005090000 +0700">
-    <title lang="zh">World Rally Championship</title>
-    <desc>Action from the third day of the 2026 Rally Italy Sardegna.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005090000 +0700" stop="20261005093000 +0700">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005093000 +0700" stop="20261005094500 +0700">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at India v West Indies in the first ODI of the series.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005094500 +0700" stop="20261005100000 +0700">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at India v West Indies in the second ODI of the series.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005100000 +0700" stop="20261005110000 +0700">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v West Indies. Action from the third and final ODI in the series from Maharaja Yadvindra Singh PCA Stadium in New Chandigarh, Punjab.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005110000 +0700" stop="20261005113000 +0700">
-    <title lang="zh">MotoGP Breakdown Show</title>
-    <desc>Charting the rise of Ducati, exploring how it was transformed from an unrideable underdog into the most technologically dominant factory in MotoGP history.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005113000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005120000 +0700" stop="20261005130000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 Moto3 Grand Prix of Japan.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005130000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 Moto2 Grand Prix of Japan.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005140000 +0700" stop="20261005143000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 Grand Prix of Japan MotoGP sprint race.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005143000 +0700" stop="20261005153000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 MotoGP Grand Prix of Japan.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005153000 +0700" stop="20261005163000 +0700">
-    <title lang="zh">MotoGP Breakdown Show</title>
-    <desc>Charting the rise of Ducati, exploring how it was transformed from an unrideable underdog into the most technologically dominant factory in MotoGP history.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005163000 +0700" stop="20261005170000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race one of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005170000 +0700" stop="20261005173000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race two of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005173000 +0700" stop="20261005180000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race three of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005180000 +0700" stop="20261005190000 +0700">
-    <title lang="zh">FIA World Endurance Championship Highlights</title>
-    <desc>Action from the 2026 6 Hours of Fuji.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005190000 +0700" stop="20261005200000 +0700">
-    <title lang="zh">MLB Highlights</title>
-    <desc>Action from Major League Baseball.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005200000 +0700" stop="20261005203000 +0700">
-    <title lang="zh">SailGP - Racing on the Edge</title>
-    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005203000 +0700" stop="20261005204500 +0700">
-    <title lang="zh">The Breakdown</title>
-    <desc>Danny Jamieson heads to the Tottenham Hotspur training ground to meet Head Coach Roberto De Zerbi.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005204500 +0700" stop="20261005213000 +0700">
-    <title lang="zh">Sign Up - Into Football</title>
-    <desc>Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005213000 +0700" stop="20261005233000 +0700">
-    <title lang="zh">Shenzhen Open Snooker</title>
-    <desc>Action from the final of the tournament.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005233000 +0700" stop="20261005234500 +0700">
-    <title lang="zh">Groundbreaking</title>
-    <desc>Reliving some of the most memorable games at Stamford Bridge.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261005234500 +0700" stop="20261006000000 +0700">
-    <title lang="zh">Groundbreaking</title>
-    <desc>Reliving some of the most memorable games at Villa Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261006000000 +0700" stop="20261006033000 +0700">
-    <title lang="zh">Live: Ultimate Pool</title>
-    <desc>Coverage from finals night of the Mixed Team event, as some of the country's leading eightball players battle it out for the title.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261006033000 +0700" stop="20261006043000 +0700">
-    <title lang="zh">British Superbikes Highlights</title>
-    <desc>Action from the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261006043000 +0700" stop="20261006053000 +0700">
-    <title lang="zh">WRC Review</title>
-    <desc>A look back at the latest action from the 2026 Rally Italy.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261006053000 +0700" stop="20261006063000 +0700">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the 2026 Bernocchi Cup.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400480" start="20261006063000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">Shenzhen Open Snooker</title>
-    <desc>Action from the final of the tournament.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="400480" start="20261006083000 +0700" stop="20261006093000 +0700">
     <title lang="zh">MotoGP Breakdown Show</title>
     <desc>Charting the rise of Ducati, exploring how it was transformed from an unrideable underdog into the most technologically dominant factory in MotoGP history.</desc>
@@ -5977,140 +5847,150 @@
     <desc>Action from the 2026 Tre Valli Varesine.</desc>
     <date>2026-10-06</date>
   </programme>
+  <programme channel="400480" start="20261007073000 +0700" stop="20261007083000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v West Indies. Action from the first T20 in the five-match series from Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007083000 +0700" stop="20261007084500 +0700">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>A look back at the second round of fixtures.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007084500 +0700" stop="20261007090000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007090000 +0700" stop="20261007110000 +0700">
+    <title lang="zh">Shenzhen Open Snooker</title>
+    <desc>Action from the final of the tournament.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007110000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">WRC Review</title>
+    <desc>A look back at the latest action from the 2026 Rally Italy.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007120000 +0700" stop="20261007130000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 Moto3 Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007130000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 Moto2 Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007140000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 Grand Prix of Japan MotoGP sprint race.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007143000 +0700" stop="20261007153000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 MotoGP Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007153000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">British Superbikes Highlights</title>
+    <desc>Action from the 10th round of the season at Donington Park.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007163000 +0700" stop="20261007171500 +0700">
+    <title lang="zh">Motocross World Championship</title>
+    <desc>Action from race one of the Motocross of Nations at Circuit Raymond Demy in France.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007171500 +0700" stop="20261007180000 +0700">
+    <title lang="zh">Motocross World Championship</title>
+    <desc>Action from race two of the Motocross of Nations at Circuit Raymond Demy in France.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007180000 +0700" stop="20261007184500 +0700">
+    <title lang="zh">Motocross World Championship</title>
+    <desc>Action from race three of the Motocross of Nations at Circuit Raymond Demy in France.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007184500 +0700" stop="20261007190000 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at India v West Indies in the first T20 of the series.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007190000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007200000 +0700" stop="20261007203000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>Tottenham Hotspur v Inter Milan. Highlights of the group encounter from the 2010/11 season, held at the San Siro.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007203000 +0700" stop="20261007210000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>Barcelona v Bayer Leverkusen. Highlights of the last-16 second-leg encounter from the 2011/12 season, held at the Nou Camp.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007210000 +0700" stop="20261007213000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>Celtic v Barcelona. Highlights of the group encounter from the 2012/13 season, held at Celtic Park.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007213000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>Bayern Munich v Barcelona. Action from the 2012/13 semi-final first-leg clash at the Allianz Arena.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007220000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>Schalke 04 v Real Madrid. Action from the 2013/14 last-16 first-leg encounter at the Veltins Arena.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007223000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v West Indies. Action from the first T20 in the five-match series from Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261007233000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">Ultimate Pool</title>
+    <desc>Action from finals night of the Mixed Team event.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261008010000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">MotoGP Breakdown Show</title>
+    <desc>Charting the rise of Ducati, exploring how it was transformed from an unrideable underdog into the most technologically dominant factory in MotoGP history.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261008020000 +0700" stop="20261008030000 +0700">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Action from the 2026 MotoGP Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261008030000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">British Superbikes Highlights</title>
+    <desc>Action from the 10th round of the season at Donington Park.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261008040000 +0700" stop="20261008043000 +0700">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Michael Carrick reflects on his remarkable journey through the game, sharing fascinating stories of Jacques Santini at Spurs and Sir Alex Ferguson at Manchester United.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261008043000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The story of Kevin Keegan's incredible spell in Northern Germany with Hamburg and reflecting on Harry Kane's remarkable impact at Bayern Munich.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400480" start="20261008050000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">Live MLB</title>
+    <desc>Atlanta Braves v Los Angeles Dodgers (Start-time 11.00pm). Coverage of game four of the American League Divison Series, held at Truist Park.</desc>
+    <date>2026-10-07</date>
+  </programme>
 <channel id="400479">
     <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400479" start="20261005081500 +0700" stop="20261005083000 +0700">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005083000 +0700" stop="20261005103000 +0700">
-    <title lang="zh">Shenzhen Open Snooker</title>
-    <desc>Action from the final of the tournament.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005103000 +0700" stop="20261005110000 +0700">
-    <title lang="zh">SailGP - Racing on the Edge</title>
-    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005110000 +0700" stop="20261005113000 +0700">
-    <title lang="zh">World Rally Championship</title>
-    <desc>Action from the third day of the 2026 Rally Italy Sardegna.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005113000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005120000 +0700" stop="20261005130000 +0700">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the 2026 Sparkassen Munsterland Giro.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005130000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the 2026 Tour of Emilia.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005140000 +0700" stop="20261005150000 +0700">
-    <title lang="zh">Cycling European Championship</title>
-    <desc>Action from the women's elite road race in Slovenia.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005150000 +0700" stop="20261005160000 +0700">
-    <title lang="zh">Cycling European Championship</title>
-    <desc>Action from the men's elite road race in Ljubljana, Slovenia.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005160000 +0700" stop="20261005163000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the women's elite cross country Olympic elite race in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005163000 +0700" stop="20261005170000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite cross country Olympic elite race in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005170000 +0700" stop="20261005173000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the women's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005173000 +0700" stop="20261005180000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005180000 +0700" stop="20261005200000 +0700">
-    <title lang="zh">Shenzhen Open Snooker</title>
-    <desc>Action from the final of the tournament.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005200000 +0700" stop="20261005210000 +0700">
-    <title lang="zh">World Superbike Highlights</title>
-    <desc>Action from the 10th round of the season at Cremona Circuit in Italy.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005210000 +0700" stop="20261005213000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race one of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005213000 +0700" stop="20261005220000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race two of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005220000 +0700" stop="20261005223000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race three of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005223000 +0700" stop="20261005233000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 Moto3 Grand Prix of Japan.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261005233000 +0700" stop="20261006003000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 Moto2 Grand Prix of Japan.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261006003000 +0700" stop="20261006010000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 Grand Prix of Japan MotoGP sprint race.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261006010000 +0700" stop="20261006020000 +0700">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 MotoGP Grand Prix of Japan.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261006020000 +0700" stop="20261006030000 +0700">
-    <title lang="zh">NWSL</title>
-    <desc>Gotham FC v Angel City FC.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261006030000 +0700" stop="20261006040000 +0700">
-    <title lang="zh">NWSL</title>
-    <desc>Houston Dash v Washington Spirit.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261006040000 +0700" stop="20261006043000 +0700">
-    <title lang="zh">UFC Connected</title>
-    <desc>A unique look inside the UFC with exclusive access to fighters, teams and events from around the globe.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400479" start="20261006043000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">UFC</title>
-    <desc>Natalia Silva v Wang Cong.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="400479" start="20261006073000 +0700" stop="20261006100000 +0700">
     <title lang="zh">UFC Reloaded</title>
     <desc>A look back at UFC 67 from 2007 in Las Vegas, featuring the thrilling headline middleweight bout between Anderson Silva and Travis Lutter.</desc>
@@ -6241,155 +6121,145 @@
     <desc>Houston Dash v Washington Spirit.</desc>
     <date>2026-10-06</date>
   </programme>
-  <programme channel="400479" start="20261007070000 +0700" stop="20261008070000 +0700">
+  <programme channel="400479" start="20261007070000 +0700" stop="20261007100000 +0700">
     <title lang="zh">UFC</title>
     <desc>Natalia Silva v Wang Cong.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007100000 +0700" stop="20261007103000 +0700">
+    <title lang="zh">UFC Connected</title>
+    <desc>Years after sharing the Octagon, Alexander Volkanovski heads to South Korea, where former rival “The Korean Zombie” welcomes him to host an MMA seminar.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007103000 +0700" stop="20261007110000 +0700">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Michael Carrick reflects on his remarkable journey through the game, sharing fascinating stories of Jacques Santini at Spurs and Sir Alex Ferguson at Manchester United.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007110000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v West Indies. Action from the first T20 in the five-match series from Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007120000 +0700" stop="20261007130000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Gotham FC v Angel City FC.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007130000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Houston Dash v Washington Spirit.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007140000 +0700" stop="20261007150000 +0700">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Rob Hughes and Andy Ford present an Autumn special from 2024.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007150000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">Shenzhen Open Snooker</title>
+    <desc>Action from the final of the tournament.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007170000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">Formula E Flashback</title>
+    <desc>A look back at the chaos and drama of the 2017 Mexico City ePrix at Autodromo Hermanos Rodriguez.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007173000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">Formula E Flashback</title>
+    <desc>A look back at the best of the action from the 2018 Punta del Este ePrix.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007180000 +0700" stop="20261007190000 +0700">
+    <title lang="zh">WRC Review</title>
+    <desc>A look back at the latest action from the 2026 Rally Italy.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007190000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Rob Hughes and Andy Ford present an Autumn special from 2024.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007200000 +0700" stop="20261007210000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bath Rugby v Exeter Chiefs.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007210000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Northampton Saints.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007220000 +0700" stop="20261007230000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Gloucester Rugby v Harlequins.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261007230000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Newcastle Red Bulls v Leicester Tigers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008000000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Saracens v Sale Sharks.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008010000 +0700" stop="20261008011500 +0700">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>A look back at the second round of fixtures.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008011500 +0700" stop="20261008014500 +0700">
+    <title lang="zh">The Football Archives: UEFA Champions League</title>
+    <desc>A look at the 2005/06 UEFA Champions League season.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008014500 +0700" stop="20261008021500 +0700">
+    <title lang="zh">The Football Archives: UEFA Champions League</title>
+    <desc>A look at the 2006/07 UEFA Champions League season.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008021500 +0700" stop="20261008024500 +0700">
+    <title lang="zh">The Football Archives: UEFA Champions League</title>
+    <desc>A look at the 2007/08 UEFA Champions League season.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008024500 +0700" stop="20261008030000 +0700">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008030000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">Cycling European Championship</title>
+    <desc>Action from the women's elite individual time trial event in Ljubljana, Slovenia.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008040000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">Cycling European Championship</title>
+    <desc>Action from the men's elite individual time trial event in Ljubljana, Slovenia.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008050000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">UFC Connected</title>
+    <desc>A unique look inside the UFC with exclusive access to fighters, teams and events from around the globe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008053000 +0700" stop="20261008063000 +0700">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Action from the 2026 MotoGP Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400479" start="20261008063000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bath Rugby v Exeter Chiefs.</desc>
     <date>2026-10-07</date>
   </programme>
 <channel id="400478">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400478" start="20261005070000 +0700" stop="20261005080000 +0700">
-    <title lang="zh">Cycling European Championship</title>
-    <desc>Action from the men's elite road race in Ljubljana, Slovenia.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005080000 +0700" stop="20261005090000 +0700">
-    <title lang="zh">Fishing: On the Bank</title>
-    <desc>Including action from round four of the UK Angling Championships.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005090000 +0700" stop="20261005093000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race two of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005093000 +0700" stop="20261005100000 +0700">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from race three of the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005100000 +0700" stop="20261005110000 +0700">
-    <title lang="zh">World Superbike Highlights</title>
-    <desc>Action from the 10th round of the season at Cremona Circuit in Italy.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005110000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
-    <desc>Action from the 10th round of the season in Torun, Poland.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005120000 +0700" stop="20261005130000 +0700">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Bath Rugby v Exeter Chiefs.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005130000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Bristol Bears v Northampton Saints.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005140000 +0700" stop="20261005150000 +0700">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Gloucester Rugby v Harlequins.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005150000 +0700" stop="20261005160000 +0700">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Newcastle Red Bulls v Leicester Tigers.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005160000 +0700" stop="20261005170000 +0700">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Saracens v Sale Sharks.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005170000 +0700" stop="20261005180000 +0700">
-    <title lang="zh">Classic Premier League</title>
-    <desc>A look back at the best goals from the 2010/2011 season. Dimitar Berbatov and Carlos Tevez shared the Golden Boot with 20 goals, ahead of Robin van Persie who finished with 18.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005180000 +0700" stop="20261005190000 +0700">
-    <title lang="zh">Classic Premier League</title>
-    <desc>A look back at the best goals from the 2011/12 season. With 30 goals, Robin van Persie won the Golden Boot in his final season for Arsenal, finishing three ahead of Wayne Rooney.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005190000 +0700" stop="20261005193000 +0700">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>Ipswich Town's first Brazilian, Emersonn, opens up on a fairytale arrival at Portman Road, reflecting on a goalscoring debut and an ambitious target that he's set himself.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005193000 +0700" stop="20261005203000 +0700">
-    <title lang="zh">Premier League Stories</title>
-    <desc>An interview with former Manchester City manager Roberto Mancini.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005203000 +0700" stop="20261005210000 +0700">
-    <title lang="zh">UEFA Champions League Magazine</title>
-    <desc>The story of Kevin Keegan's incredible spell in Northern Germany with Hamburg and reflecting on Harry Kane's remarkable impact at Bayern Munich.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005210000 +0700" stop="20261005220000 +0700">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v West Indies. Action from the first ODI in the three-match series from Greenfield International Stadium in Thiruvananthapuram.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005220000 +0700" stop="20261005230000 +0700">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v West Indies. Action from the second ODI in the three-match series from Barsapara Stadium in Barsapara, Guwahati.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261005230000 +0700" stop="20261006000000 +0700">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v West Indies. Action from the third and final ODI in the series from Maharaja Yadvindra Singh PCA Stadium in New Chandigarh, Punjab.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006000000 +0700" stop="20261006010000 +0700">
-    <title lang="zh">MLB Highlights</title>
-    <desc>Action from Major League Baseball.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006010000 +0700" stop="20261006020000 +0700">
-    <title lang="zh">BMX Racing</title>
-    <desc>Action from the fifth round of the season in China.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006020000 +0700" stop="20261006030000 +0700">
-    <title lang="zh">BMX Racing</title>
-    <desc>Action from the sixth round of the season in China.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006030000 +0700" stop="20261006040000 +0700">
-    <title lang="zh">Fishing: On the Bank</title>
-    <desc>Rob Hughes and Andy Ford present an Autumn special from 2024.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006040000 +0700" stop="20261006043000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the women's elite cross country Olympic elite race in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006043000 +0700" stop="20261006050000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the women's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006050000 +0700" stop="20261006053000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite cross country Olympic elite race in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006053000 +0700" stop="20261006060000 +0700">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the men's elite cross country downhill event in Lake Placid, New York.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="400478" start="20261006060000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">British Superbikes Highlights</title>
-    <desc>Action from the 10th round of the season at Donington Park.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="400478" start="20261006070000 +0700" stop="20261006080000 +0700">
     <title lang="zh">Men's Cycling Pro Series</title>
     <desc>Action from the 2026 Sparkassen Munsterland Giro.</desc>
@@ -6515,9 +6385,159 @@
     <desc>Action from the 2026 Moto2 Grand Prix of Japan.</desc>
     <date>2026-10-06</date>
   </programme>
-  <programme channel="400478" start="20261007070000 +0700" stop="20261008070000 +0700">
+  <programme channel="400478" start="20261007070000 +0700" stop="20261007073000 +0700">
     <title lang="zh">MotoGP</title>
     <desc>Action from the 2026 Grand Prix of Japan MotoGP sprint race.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007073000 +0700" stop="20261007083000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 MotoGP Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007083000 +0700" stop="20261007090000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>Leeds United v Deportivo La Coruna. Highlights of the quarter-final first-leg clash from the 1999/2000 season, held at Elland Road.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007090000 +0700" stop="20261007093000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>We revisit the 2001/02 UEFA Champions League group stage tie between Feyenoord and Newcastle in Rotterdam. The Toon had to win to secure a place in the competition's second phase.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007093000 +0700" stop="20261007100000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>A look back at the 2003/04 UEFA Champions League group stage tie between Inter Milan and Arsenal at the San Siro. Inter had thrashed the Gunners 3-0 at Highbury two months earlier.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007100000 +0700" stop="20261007103000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>We revisit the 2004/05 UEFA Champions League group stage tie between Manchester United and Fenerbahce at Old Trafford. The match saw Wayne Rooney make his highly anticipated debut.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007103000 +0700" stop="20261007110000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>We revisit this 2005/06 UEFA Champions League group stage epic at Ibrox between Rangers and 2004 champions Porto. A tough group also included Inter Milan and Artmedia Bratislava.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007110000 +0700" stop="20261007113000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>We revisit the quarter-final second leg from the 2006/07 UEFA Champions League at Old Trafford between Manchester United and Roma. United had to overturn a 2-1 first leg deficit.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007113000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">UEFA Champions League - Classics</title>
+    <desc>Celtic v AC Milan. Highlights of the group match from the 2007/08 season, held at Celtic Park.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007120000 +0700" stop="20261007130000 +0700">
+    <title lang="zh">Classic Premier League</title>
+    <desc>A look back at the top strikes from the 2012/13 season. Robin van Persie finished top of the charts with 26 goals, three ahead of Luis Suarez and five in front of Gareth Bale.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007130000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">Classic Premier League</title>
+    <desc>A look back at the top goals from the 2013/14 season. Luis Suarez - in his final season at Anfield - finished top scorer with 31 goals, 10 ahead of team-mate Daniel Sturridge.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007140000 +0700" stop="20261007150000 +0700">
+    <title lang="zh">Classic Premier League</title>
+    <desc>A look back at the most memorable goals from the 2014/15 season. Sergio Aguero won the Golden Boot with 26 goals, five ahead of Harry Kane and six in front of Diego Costa.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007150000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">Classic Premier League</title>
+    <desc>A look back at the top goals from the 2015/16 season. Harry Kane beat Sergio Aguero and Jamie Vardy to the Golden Boot, while Watford's Odion Ighalo and Troy Deeney also impressed.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007160000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">Classic Premier League</title>
+    <desc>A look back at the best goals from the 2016/17 season. Harry Kane won the Golden Boot for the second successive season with 29 goals, scoring seven goals in Spurs' last two games.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007170000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">Classic Premier League</title>
+    <desc>A look back at the best goals from the 2017/18 season. Liverpool's Mohamed Salah held off Harry Kane to clinch the Golden Boot, as both players reached 30 goals.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007180000 +0700" stop="20261007190000 +0700">
+    <title lang="zh">Classic Premier League</title>
+    <desc>Revisit the best goals from the 2018/19 season. Three players shared the Golden Boot after Pierre Emerick-Aubameyang equalled Liverpool duo Mo Salah and Sadio Mane as top scorers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007190000 +0700" stop="20261007193000 +0700">
+    <title lang="zh">Premier League Legends</title>
+    <desc>This episode profiles Robert Pires, who was an ever-present and iconic figure in Arsenal's Invincibles team and went on to make 189 appearances for the Gunners.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007193000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">Premier League Legends</title>
+    <desc>A profile of Arsenal legend Tony Adams, who captained a title-winning side in three different decades, making 255 Premier League appearances and winning 12 titles for the Gunners.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007200000 +0700" stop="20261007210000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 Moto3 Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007210000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 Moto2 Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007220000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 Grand Prix of Japan MotoGP sprint race.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007223000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 MotoGP Grand Prix of Japan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261007233000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Gotham FC v Angel City FC.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261008003000 +0700" stop="20261008013000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Houston Dash v Washington Spirit.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261008013000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">Premier League Legends</title>
+    <desc>A profile of former Newcastle United, Blackburn Rovers and England striker Alan Shearer.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261008020000 +0700" stop="20261008023000 +0700">
+    <title lang="zh">Premier League Legends</title>
+    <desc>A look at former Tottenham and Arsenal defender Sol Campbell's time in the Premier League, including his hugely controversial move across North London.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261008023000 +0700" stop="20261008033000 +0700">
+    <title lang="zh">WRC Review</title>
+    <desc>A look back at the latest action from the 2026 Rally Italy.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261008033000 +0700" stop="20261008043000 +0700">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Rob Hughes and Andy Ford present an Autumn special from 2024.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261008043000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v West Indies. Action from the first T20 in the five-match series from Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261008053000 +0700" stop="20261008063000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Gotham FC v Angel City FC.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="400478" start="20261008063000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">NWSL</title>
+    <desc>Houston Dash v Washington Spirit.</desc>
     <date>2026-10-07</date>
   </programme>
 <channel id="524003">
@@ -7160,111 +7180,6 @@
     <display-name lang="Canada">TSN 1</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470446" start="20261005071500 +0700" stop="20261005103000 +0700">
-    <title lang="zh">Live: NFL Football</title>
-    <desc>The Detroit Lions clash with the Carolina Panthers in Week 4 at Bank of America stadium. Detroit enters following a 31-24 win over the Jets on September 27, while host Carolina aims to bounce back from a 21-18 loss to Cleveland the same day.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005103000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">Live: SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005120000 +0700" stop="20261005130000 +0700">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005130000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005140000 +0700" stop="20261005143000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005143000 +0700" stop="20261005153000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005153000 +0700" stop="20261005163000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005163000 +0700" stop="20261005173000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005173000 +0700" stop="20261005183000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005183000 +0700" stop="20261005193000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005193000 +0700" stop="20261005203000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005203000 +0700" stop="20261005213000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005213000 +0700" stop="20261005223000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005223000 +0700" stop="20261005233000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261005233000 +0700" stop="20261006003000 +0700">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261006003000 +0700" stop="20261006010000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261006010000 +0700" stop="20261006020000 +0700">
-    <title lang="zh">Live: Big Day With Peter Schrager</title>
-    <desc>Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261006020000 +0700" stop="20261006040000 +0700">
-    <title lang="zh">NFL Live</title>
-    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The "NFL Live" crew entertains fans while offering all the latest news and analysis from across the NFL.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261006040000 +0700" stop="20261006043000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261006043000 +0700" stop="20261006050000 +0700">
-    <title lang="zh">Live: Pardon the Interruption</title>
-    <desc>The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470446" start="20261006050000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">Live: NFL Monday Night Countdown</title>
-    <desc>An in-depth look at Monday's game and reviews of Sunday's games.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="470446" start="20261006071500 +0700" stop="20261006103000 +0700">
     <title lang="zh">Live: NFL Football</title>
     <desc>The New Orleans Saints clash with the Atlanta Falcons at Caesars Superdome in NFL Week 4 action. New Orleans aims to bounce back from a 35-27 home loss to Las Vegas on Sept. 27, while Atlanta looks to build momentum on a 35-14 victory at Green Bay.</desc>
@@ -7380,9 +7295,129 @@
     <desc>Pregame soccer coverage for Canadian men's national team.</desc>
     <date>2026-10-06</date>
   </programme>
-  <programme channel="470446" start="20261007070000 +0700" stop="20261008070000 +0700">
+  <programme channel="470446" start="20261007070000 +0700" stop="20261007090000 +0700">
     <title lang="zh">Live: Men's International Soccer Friendlies</title>
     <desc>From Allianz Field in Saint Paul, Minn.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007090000 +0700" stop="20261007103000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007103000 +0700" stop="20261007110000 +0700">
+    <title lang="zh">Film Never Lies with Luke Willson</title>
+    <desc>Hosted by former NFL player and current TSN analyst Luke Willson.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007110000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007120000 +0700" stop="20261007130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007130000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007140000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007143000 +0700" stop="20261007153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007153000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007163000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007173000 +0700" stop="20261007183000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007183000 +0700" stop="20261007193000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007193000 +0700" stop="20261007203000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007203000 +0700" stop="20261007213000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007213000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007223000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261007233000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261008003000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261008010000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">Live: Big Day With Peter Schrager</title>
+    <desc>Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261008020000 +0700" stop="20261008030000 +0700">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261008030000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The "NFL Live" crew entertains fans while offering all the latest news and analysis from across the NFL.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261008040000 +0700" stop="20261008043000 +0700">
+    <title lang="zh">College Football Live</title>
+    <desc>Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261008043000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261008050000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470446" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">Live: Canadian Premier League Soccer</title>
+    <desc>From Hamilton Stadium in Hamilton, Ontario.</desc>
     <date>2026-10-07</date>
   </programme>
 <channel id="470550">
@@ -8405,86 +8440,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="219100" start="20261005070000 +0700" stop="20261005100000 +0700">
-    <title lang="zh">Live NHL Ice Hockey</title>
-    <desc>Anaheim Ducks v Florida Panthers (Face-off TBA). Coverage of the inter-conference match from Honda Center.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005100000 +0700" stop="20261005103000 +0700">
-    <title lang="zh">NHL: This is Hockey</title>
-    <desc>A look at the growth of ice hockey in Mexico.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005103000 +0700" stop="20261005110000 +0700">
-    <title lang="zh">NHL: This is Hockey</title>
-    <desc>A look at the growth of ice hockey in Chile.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005110000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">NHL Specials</title>
-    <desc>A look at the top players in the NHL from 50-41.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005120000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">LaLiga</title>
-    <desc>Deportivo La Coruna v Real Betis.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005140000 +0700" stop="20261005160000 +0700">
-    <title lang="zh">United Rugby Championship</title>
-    <desc>Edinburgh v Stormers.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005160000 +0700" stop="20261005180000 +0700">
-    <title lang="zh">United Rugby Championship</title>
-    <desc>Munster v Bulls.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005180000 +0700" stop="20261005200000 +0700">
-    <title lang="zh">United Rugby Championship</title>
-    <desc>Dragons v Scarlets.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005200000 +0700" stop="20261005203000 +0700">
-    <title lang="zh">NHL on the Fly</title>
-    <desc>Highlights and news from the NHL.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005203000 +0700" stop="20261005223000 +0700">
-    <title lang="zh">United Rugby Championship</title>
-    <desc>Sharks v Leinster.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261005223000 +0700" stop="20261006003000 +0700">
-    <title lang="zh">United Rugby Championship</title>
-    <desc>Lions v Ospreys.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261006003000 +0700" stop="20261006023000 +0700">
-    <title lang="zh">Argentine Primera</title>
-    <desc>Boca Juniors v Union.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261006023000 +0700" stop="20261006033000 +0700">
-    <title lang="zh">NHL Specials</title>
-    <desc>A look at the top 20 centers in the NHL.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261006033000 +0700" stop="20261006043000 +0700">
-    <title lang="zh">World Surf League</title>
-    <desc>Action from the Fiji Pro.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261006043000 +0700" stop="20261006063000 +0700">
-    <title lang="zh">Top 14 Rugby Union</title>
-    <desc>Montpellier v Toulon.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219100" start="20261006063000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">Live NHL Ice Hockey</title>
-    <desc>Pittsburgh Penguins v Winnipeg Jets (Face-off 12.30am). Coverage of the inter-conference match from PPG Paints Arena.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="219100" start="20261006093000 +0700" stop="20261006100000 +0700">
     <title lang="zh">Sporting Greats</title>
     <desc>Legendary sporting figures discuss their careers.</desc>
@@ -8575,100 +8530,105 @@
     <desc>Munster v Bulls.</desc>
     <date>2026-10-06</date>
   </programme>
+  <programme channel="219100" start="20261007090000 +0700" stop="20261007093000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Puerto Rico.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007093000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Sporting Greats</title>
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007120000 +0700" stop="20261007123000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Brazil.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007123000 +0700" stop="20261007130000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Chile.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007130000 +0700" stop="20261007150000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Atletico Madrid v Real Madrid.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007150000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">URC in 60</title>
+    <desc>Action from the second round of fixtures.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007160000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">NASCAR Highlights</title>
+    <desc>Action from the 2026 South Point 400.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007170000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">World Surf League</title>
+    <desc>Action from the Fiji Pro.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007180000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">NHL Ice Hockey</title>
+    <desc>Los Angeles Kings v Florida Panthers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007200000 +0700" stop="20261007210000 +0700">
+    <title lang="zh">NHL on the Fly</title>
+    <desc>Highlights and news from the NHL.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007210000 +0700" stop="20261007213000 +0700">
+    <title lang="zh">Top 14 Rugby Union Highlights</title>
+    <desc>Action from France's top domestic competition.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007213000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">URC in 60</title>
+    <desc>Action from the second round of fixtures.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261007223000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">International Football</title>
+    <desc>Argentina v Benin.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261008003000 +0700" stop="20261008004500 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Atletico Madrid v Real Madrid.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261008004500 +0700" stop="20261008011500 +0700">
+    <title lang="zh">KOTV Weekly</title>
+    <desc>All the latest news from the world of boxing.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261008011500 +0700" stop="20261008041500 +0700">
+    <title lang="zh">Live Elite Ice Hockey League</title>
+    <desc>Dundee Stars v Manchester Storm (Face-off 7.30pm). Coverage of the match from Dundee Ice Arena.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261008041500 +0700" stop="20261008043000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Deportivo La Coruna v Real Betis.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261008043000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">NHL Specials</title>
+    <desc>A look at the top 20 centers in the NHL.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219100" start="20261008053000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">International Football</title>
+    <desc>Argentina v Benin.</desc>
+    <date>2026-10-07</date>
+  </programme>
 <channel id="219104">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="219104" start="20261005083000 +0700" stop="20261005090000 +0700">
-    <title lang="zh">Bike World</title>
-    <desc>The latest news and reports from two-wheel competitions.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005090000 +0700" stop="20261005093000 +0700">
-    <title lang="zh">Football's Greatest</title>
-    <desc>The finest players in history discuss their careers.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005093000 +0700" stop="20261005113000 +0700">
-    <title lang="zh">United Rugby Championship</title>
-    <desc>Sharks v Leinster.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005113000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">Football's Greatest</title>
-    <desc>The finest players in history discuss their careers.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005120000 +0700" stop="20261005123000 +0700">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005123000 +0700" stop="20261005163000 +0700">
-    <title lang="zh">NASCAR</title>
-    <desc>Another chance to see the 2026 South Point 400.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005163000 +0700" stop="20261005170000 +0700">
-    <title lang="zh">Bike World</title>
-    <desc>The latest news and reports from two-wheel competitions.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005170000 +0700" stop="20261005190000 +0700">
-    <title lang="zh">NHL Ice Hockey</title>
-    <desc>Detroit Red Wings v Winnipeg Jets.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005190000 +0700" stop="20261005210000 +0700">
-    <title lang="zh">NHL Ice Hockey</title>
-    <desc>New York Rangers v Utah Mammoth.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005210000 +0700" stop="20261005213000 +0700">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues from around the globe.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005213000 +0700" stop="20261005233000 +0700">
-    <title lang="zh">United Rugby Championship</title>
-    <desc>Glasgow Warriors v Ulster.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261005233000 +0700" stop="20261006013000 +0700">
-    <title lang="zh">Top 14 Rugby Union</title>
-    <desc>Bordeaux Begles v Lyon.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261006013000 +0700" stop="20261006020000 +0700">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues from around the globe.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261006020000 +0700" stop="20261006023000 +0700">
-    <title lang="zh">Temples of Sport</title>
-    <desc>Iconic sporting venues from around the globe.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261006023000 +0700" stop="20261006043000 +0700">
-    <title lang="zh">United Rugby Championship</title>
-    <desc>Sharks v Leinster.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261006043000 +0700" stop="20261006050000 +0700">
-    <title lang="zh">Bike World</title>
-    <desc>The latest news and reports from two-wheel competitions.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261006050000 +0700" stop="20261006060000 +0700">
-    <title lang="zh">NHL Specials</title>
-    <desc>A look at the top 20 defensemen in the NHL.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="219104" start="20261006060000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">Live NHL Ice Hockey</title>
-    <desc>Tampa Bay Lightning v Philadelphia Flyers (Face-off 12.00am). Coverage of the Eastern Conference match from Benchmark International Arena.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="219104" start="20261006090000 +0700" stop="20261006093000 +0700">
     <title lang="zh">Temples of Sport</title>
     <desc>Iconic sporting venues.</desc>
@@ -8754,95 +8714,115 @@
     <desc>Argentina v Benin (Kick-off 12.00am). Coverage of the friendly match at Estadio Monumental in Buenos Aires.</desc>
     <date>2026-10-06</date>
   </programme>
+  <programme channel="219104" start="20261007080000 +0700" stop="20261007081000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Celta Vigo v Racing Santander.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007081000 +0700" stop="20261007082000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Valencia v Real Sociedad.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007082000 +0700" stop="20261007083000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Atletico Madrid v Real Madrid.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007083000 +0700" stop="20261007090000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Colombia.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007090000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Los Angeles Kings v Florida Panthers (Face-off 3.00am). Coverage of the inter-conference match from Crypto.com Arena.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007120000 +0700" stop="20261007123000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc>The finest players in history discuss their careers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007123000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">International Football</title>
+    <desc>Argentina v Benin.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007143000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">Premier Sports Cup</title>
+    <desc>Rangers v Celtic.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007163000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007170000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007173000 +0700" stop="20261007183000 +0700">
+    <title lang="zh">Mass Participation</title>
+    <desc>Action from the 2026 UK Challenge.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007183000 +0700" stop="20261007203000 +0700">
+    <title lang="zh">NHL Ice Hockey</title>
+    <desc>Montreal Canadiens v Carolina Hurricanes.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007203000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">Coppa Italia</title>
+    <desc>Fiorentina v Pisa.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007223000 +0700" stop="20261007230000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc>The finest players in history discuss their careers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007230000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc>The finest players in history discuss their careers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261007233000 +0700" stop="20261008013000 +0700">
+    <title lang="zh">Top 14 Rugby Union</title>
+    <desc>Castres v Toulouse.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261008013000 +0700" stop="20261008033000 +0700">
+    <title lang="zh">United Rugby Championship</title>
+    <desc>Glasgow Warriors v Ulster.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261008033000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">Top 14 Rugby Union</title>
+    <desc>Bordeaux Begles v Lyon.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261008053000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261008060000 +0700" stop="20261008063000 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="219104" start="20261008063000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Washington Capitals v Pittsburgh Penguins (Face-off 12.30am). Coverage of the Eastern Conference match from Capital One Arena.</desc>
+    <date>2026-10-07</date>
+  </programme>
 <channel id="408613">
     <display-name lang="Russian Federation">Premier Sports 1 [UK]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/14/20250214020739986975_47.png" />
   </channel>
-  <programme channel="408613" start="20261005070000 +0700" stop="20261005071500 +0700">
-    <title lang="zh">⋗ NHL Hockey. Florida Panthers at Anaheim Ducks</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005071500 +0700" stop="20261005100000 +0700">
-    <title lang="zh">⋗ NHL Hockey. Florida Panthers at Anaheim Ducks</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005100000 +0700" stop="20261005103000 +0700">
-    <title lang="zh">This is Hockey. Mexico</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005103000 +0700" stop="20261005110000 +0700">
-    <title lang="zh">This is Hockey. Chile</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005110000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">NHL Hockey. Top 50 Players 50-41</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005120000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">LaLiga. Real Club Deportivo de A Coruña v Real Betis</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005140000 +0700" stop="20261005160000 +0700">
-    <title lang="zh">United Rugby Championship. Edinburgh v DHL Stormers</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005160000 +0700" stop="20261005180000 +0700">
-    <title lang="zh">United Rugby Championship. Fidelity SecureDrive Lions v Ospreys</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005180000 +0700" stop="20261005200000 +0700">
-    <title lang="zh">United Rugby Championship. Dragons v Scarlets</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005200000 +0700" stop="20261005203000 +0700">
-    <title lang="zh">NHL On The Fly</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005203000 +0700" stop="20261005223000 +0700">
-    <title lang="zh">United Rugby Championship. Hollywoodbets Sharks v Leinster</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261005223000 +0700" stop="20261006003000 +0700">
-    <title lang="zh">United Rugby Championship. Munster v Vodacom Bulls</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261006003000 +0700" stop="20261006023000 +0700">
-    <title lang="zh">Liga Profesional de Fútbol. Boca Juniors v Unión</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261006023000 +0700" stop="20261006033000 +0700">
-    <title lang="zh">NHL Hockey. Top 20 Centers</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261006033000 +0700" stop="20261006043000 +0700">
-    <title lang="zh">World Surf League Highlights. Fiji Pro</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261006043000 +0700" stop="20261006063000 +0700">
-    <title lang="zh">Top 14. Montpellier Hérault Rugby v RC Toulon</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408613" start="20261006063000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">⋗ NHL Hockey. Winnipeg Jets at Pittsburgh Penguins</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="408613" start="20261006093000 +0700" stop="20261006100000 +0700">
     <title lang="zh">Sporting Greats. Series 1 Episode 8</title>
     <desc />
@@ -8927,6 +8907,106 @@
     <title lang="zh">⋗ NHL Hockey. Carolina Hurricanes at Montreal Canadiens</title>
     <desc />
     <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261007090000 +0700" stop="20261007093000 +0700">
+    <title lang="zh">This is Hockey. Puerto Rico</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007093000 +0700" stop="20261007100000 +0700">
+    <title lang="zh">Sporting Greats. Series 1 Episode 9</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007100000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">United Rugby Championship. Munster v Vodacom Bulls</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007120000 +0700" stop="20261007123000 +0700">
+    <title lang="zh">This is Hockey. Brazil</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007123000 +0700" stop="20261007130000 +0700">
+    <title lang="zh">This is Hockey. Chile</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007130000 +0700" stop="20261007150000 +0700">
+    <title lang="zh">LaLiga. Atlético Madrid v Real Madrid</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007150000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">URC in 60. Round 2</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007160000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">NASCAR Cup Racing Series. Las Vegas Motor Speedway</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007170000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">World Surf League Highlights. Fiji Pro</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007180000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">NHL Hockey. Florida Panthers at Los Angeles Kings</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007200000 +0700" stop="20261007210000 +0700">
+    <title lang="zh">NHL On The Fly</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007210000 +0700" stop="20261007213000 +0700">
+    <title lang="zh">Top 14 Highlights. Round 5</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007213000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">URC in 60. Round 2</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261007223000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">International Friendly Football. Argentina v Benin</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261008003000 +0700" stop="20261008004500 +0700">
+    <title lang="zh">LaLiga Highlights. Atlético Madrid v Real Madrid</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261008004500 +0700" stop="20261008011500 +0700">
+    <title lang="zh">KOTV Boxing Weekly</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261008011500 +0700" stop="20261008041500 +0700">
+    <title lang="zh">⋗ Elite Ice Hockey League. Dundee Stars v Manchester Storm</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261008041500 +0700" stop="20261008043000 +0700">
+    <title lang="zh">LaLiga Highlights. Real Club Deportivo de A Coruña v Real Betis</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261008043000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">NHL Hockey. Top 20 Centers</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408613" start="20261008053000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">International Friendly Football. Argentina v Benin</title>
+    <desc />
+    <date>2026-10-07</date>
   </programme>
 <channel id="408658">
     <display-name lang="Russian Federation">Premier Sports 2 [UK]</display-name>
@@ -9333,246 +9413,6 @@
     <display-name lang="Singapore">HBO Family (HD)</display-name>
     <icon src="" />
   </channel>
-  <programme channel="369786" start="20261005070500 +0700" stop="20261005073500 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>Ben and Gwen learn that Max's wife, VERDONA, is an alien.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005073500 +0700" stop="20261005075600 +0700">
-    <title lang="zh">CLASS OF 3000 S1</title>
-    <desc>The class express themselves in the annual Peanut Pageant.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005075600 +0700" stop="20261005082000 +0700">
-    <title lang="zh">CLASS OF 3000 S1</title>
-    <desc>Li'l D dreams of signing a record deal come true.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005082000 +0700" stop="20261005083100 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>Beatrice is left out in the rain while Wirt and Greg must ask for directions in a tavern where some surprising secrets are revealed about the Unknown.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005083100 +0700" stop="20261005084200 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost or is the tea baron going mad? Greg and Fred the Horse are on the case!</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005084200 +0700" stop="20261005090000 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>We join Wirt and Greg on Frogland Ferry and Beatrice acting glum. Things turn emotional for Greg when he realizes that his own frog may be better off living with his amphibian compatriots.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005090000 +0700" stop="20261005091100 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>When a new mattress sucks away all of PS's memories, Uncle Grandpa and must find a way to get them back.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005091100 +0700" stop="20261005092200 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>Uncle Grandpa falls for Pizza Steve's 'girlfriend' and ends up in serious danger.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005092200 +0700" stop="20261005093300 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>Seth must clean his room and learn to be a neater person in order to keep Messy Bessy from making his life a nightmare.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005093300 +0700" stop="20261005095000 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>Uncle Grandpa and the gang help their K9 pal, Charlie Burgers, get rid of his flea infestation.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005095000 +0700" stop="20261005112500 +0700">
-    <title lang="zh">GABBY'S DOLLHOUSE: THE MOVIE</title>
-    <desc>Gabby and Grandma Gigi's road trip to Cat Francisco takes an unexpected turn when Gabby's prized dollhouse is swiped by an eccentric cat lady.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005112500 +0700" stop="20261005115300 +0700">
-    <title lang="zh">HAPPILY EVER AFTER: FAIRY TALES FOR EVERY CHILD S2</title>
-    <desc>Join Aladdin, his genie and a princess who knows kung fu in this animated family adventure.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005115300 +0700" stop="20261005122500 +0700">
-    <title lang="zh">HAPPILY EVER AFTER: FAIRY TALES FOR EVERY CHILD S2</title>
-    <desc>In this animated tale set among towering pyramids, a shoe maker is tasked to produce new shoes for a customer when the previous one he made breaks.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005122500 +0700" stop="20261005140000 +0700">
-    <title lang="zh">LIFE ACCORDING TO SAM</title>
-    <desc>This documentary explores the world of Sam Berns and the relentless pursuit of a treatment by his parents to save their son from Progeria, a fatal genetic condition.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005140000 +0700" stop="20261005142100 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>Ben stands up to Cash and TJ!</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005142100 +0700" stop="20261005144300 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>A past monster threatens Ben's future.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005144300 +0700" stop="20261005150500 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>Forever Knights secure an alien weapon.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005150500 +0700" stop="20261005153500 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>Plumbers mistake Ben and Co for aliens.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005153500 +0700" stop="20261005160000 +0700">
-    <title lang="zh">CLASS OF 3000 S1</title>
-    <desc>Li'l D plots to get into the upper class' production.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005160000 +0700" stop="20261005162500 +0700">
-    <title lang="zh">CLASS OF 3000 S1</title>
-    <desc>Eddie and Li'l D embark on a mystery tour.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005162500 +0700" stop="20261005163600 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>After unexpected darkness tears the gang apart Wirt takes charge and meets Loma a young woman forced to do housework by an odious witch with a magic bell.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005163600 +0700" stop="20261005164700 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>While Wirt and Greg lay down to rest they're drawn into a dreamworld of cherubs flowers and clouds where Greg must battle the North Wind.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005164700 +0700" stop="20261005170500 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>The origin of Wirt and Greg's descent into the Unknown reveals itself.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005170500 +0700" stop="20261005171600 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>When Pizza Steve borrows Uncle Grandpa's sunglasses, he sees things in a whole new light.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005171600 +0700" stop="20261005172700 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>A young boy must learn to eat his spinach in order to save Uncle Grandpa and the others from a rowdy gang of evil vegetables.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005172700 +0700" stop="20261005174500 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>Uncle Grandpa helps a boy get his head out of the clouds and focussed on his history test.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005174500 +0700" stop="20261005180000 +0700">
-    <title lang="zh">UNCLE GRANDPA S4</title>
-    <desc>Uncle Grandpa goes to Italy to help a young girl who wants to be a great inventor.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005180000 +0700" stop="20261005200500 +0700">
-    <title lang="zh">SUPERMAN III</title>
-    <desc>In this third instalment of this series, Superman battles a supercomputer and the evil businessman exploiting it.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005200500 +0700" stop="20261005213000 +0700">
-    <title lang="zh">RUGRATS GO WILD</title>
-    <desc>The family vacation goes overboard when the Rugrats meet the Wild Thornberrys for a toon-spin of a time!</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005213000 +0700" stop="20261005231000 +0700">
-    <title lang="zh">ANGUS, THONGS AND PERFECT SNOGGING</title>
-    <desc>Eccentric but loveable 14 year-old Georgia Nicolson tries to overcome the trials and tribulations of growing up.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261005231000 +0700" stop="20261006000000 +0700">
-    <title lang="zh">FUNNY WOMAN S1</title>
-    <desc>It's 1964. Beauty queen Barbara Parker leaves Blackpool for London and embarks on her haphazard dream to work in showbusiness.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006000000 +0700" stop="20261006001100 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>When Pizza Steve borrows Uncle Grandpa's sunglasses, he sees things in a whole new light.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006001100 +0700" stop="20261006002200 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>A young boy must learn to eat his spinach in order to save Uncle Grandpa and the others from a rowdy gang of evil vegetables.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006002200 +0700" stop="20261006004000 +0700">
-    <title lang="zh">UNCLE GRANDPA S3</title>
-    <desc>Uncle Grandpa helps a boy get his head out of the clouds and focussed on his history test.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006004000 +0700" stop="20261006005500 +0700">
-    <title lang="zh">UNCLE GRANDPA S4</title>
-    <desc>Uncle Grandpa goes to Italy to help a young girl who wants to be a great inventor.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006005500 +0700" stop="20261006011600 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>Ben stands up to Cash and TJ!</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006011600 +0700" stop="20261006013800 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>A past monster threatens Ben's future.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006013800 +0700" stop="20261006020000 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>Forever Knights secure an alien weapon.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006020000 +0700" stop="20261006023000 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>Plumbers mistake Ben and Co for aliens.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006023000 +0700" stop="20261006032000 +0700">
-    <title lang="zh">FUNNY WOMAN S1</title>
-    <desc>It's 1964. Beauty queen Barbara Parker leaves Blackpool for London and embarks on her haphazard dream to work in showbusiness.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006032000 +0700" stop="20261006034500 +0700">
-    <title lang="zh">CLASS OF 3000 S1</title>
-    <desc>Li'l D plots to get into the upper class' production.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006034500 +0700" stop="20261006041000 +0700">
-    <title lang="zh">CLASS OF 3000 S1</title>
-    <desc>Eddie and Li'l D embark on a mystery tour.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006041000 +0700" stop="20261006042100 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>After unexpected darkness tears the gang apart Wirt takes charge and meets Loma a young woman forced to do housework by an odious witch with a magic bell.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006042100 +0700" stop="20261006043200 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>While Wirt and Greg lay down to rest they're drawn into a dreamworld of cherubs flowers and clouds where Greg must battle the North Wind.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006043200 +0700" stop="20261006045000 +0700">
-    <title lang="zh">OVER THE GARDEN WALL S1</title>
-    <desc>The origin of Wirt and Greg's descent into the Unknown reveals itself.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006045000 +0700" stop="20261006062000 +0700">
-    <title lang="zh">THE NATIONAL DOG SHOW ('20)</title>
-    <desc>From the Kennel Club of Philadelphia, this cherished competition for all dog lovers returns for the 17th year. Hosted by John O'Hurley, the event features 2,000 of the nation's leading canines, including the world's largest, smallest and most exotic. Over 170 breeds strut their stuff with the hope of becoming this year's top dog. “The Dean” David Frei provides expert show commentary, and Mary Cari</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006062000 +0700" stop="20261006064100 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>Ben stands up to Cash and TJ!</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369786" start="20261006064100 +0700" stop="20261006070000 +0700">
-    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
-    <desc>A past monster threatens Ben's future.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="369786" start="20261006070300 +0700" stop="20261006072500 +0700">
     <title lang="zh">BEN 10: ALIEN FORCE S1</title>
     <desc>Forever Knights secure an alien weapon.</desc>
@@ -9808,70 +9648,245 @@
     <desc>Ben is transported to a distant planet.</desc>
     <date>2026-10-06</date>
   </programme>
+  <programme channel="369786" start="20261007071100 +0700" stop="20261007074000 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>An alien doppelganger impersonates Ben.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007074000 +0700" stop="20261007080200 +0700">
+    <title lang="zh">CLASS OF 3000 S1</title>
+    <desc>Phil's efforts to prove aliens exist land him in trouble.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007080200 +0700" stop="20261007083000 +0700">
+    <title lang="zh">CLASS OF 3000 S1</title>
+    <desc>The Westley kids are challenged to a music competition.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007083000 +0700" stop="20261007092000 +0700">
+    <title lang="zh">FUNNY WOMAN S1</title>
+    <desc>Barbara lands a lead role in a new sitcom. But just as she's about to realise her dream, news from home threatens to derail her plans.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007092000 +0700" stop="20261007093500 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>The Beast has come. The final chapter begins.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007093500 +0700" stop="20261007094600 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Lost in the mysterious woods of the Unknown two brothers run into an old woodsman who warns them to beware the terrifying Beast that roams the forest.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007094600 +0700" stop="20261007100500 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>A bluebird named Beatrice offers to guide Wirt and Greg to Adelaide of the Pasture. Wirt refuses her help leaving them in trouble.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007100500 +0700" stop="20261007101600 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Uncle Grandpa goes to great lengths to meet Pizza Steve's imaginary friend.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007101600 +0700" stop="20261007102700 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Pizza Steve's jealousy ruins Uncle Grandpa's Dinosaur Day celebration for Mr. Gus.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007102700 +0700" stop="20261007104500 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Pizza Steve desperately tries to prevent the gang from finding out his shameful secret.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007104500 +0700" stop="20261007121500 +0700">
+    <title lang="zh">SUPERMAN IV: THE QUEST FOR PEACE</title>
+    <desc>Superman faces his toughest mission ever – to rid the world of all nuclear armaments but first he must win his battle against Lex Luther's new creation.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007121500 +0700" stop="20261007140000 +0700">
+    <title lang="zh">PRACTICAL MAGIC</title>
+    <desc>The Owens sisters look normal but are in fact descendants of a family of witches; and there's one problem – their men all end up dead.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007140000 +0700" stop="20261007142200 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben loses control of the Omnitrix.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007142200 +0700" stop="20261007144400 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben must rescue Cooper from the DNAliens.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007144400 +0700" stop="20261007150600 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben and Co must rescue the dog alien.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007150600 +0700" stop="20261007153500 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben and Gwen manage to get grounded.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007153500 +0700" stop="20261007160000 +0700">
+    <title lang="zh">CLASS OF 3000 S1</title>
+    <desc>Philly Phil's latest invention turns the kids blue.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007160000 +0700" stop="20261007162500 +0700">
+    <title lang="zh">CLASS OF 3000 S1</title>
+    <desc>Tamika's tries to impress two popular older girls.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007162500 +0700" stop="20261007163600 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Wirt, Greg, and Beatrice get all mixed up in the musical antics of a schoolhouse of animals, a lovelorn teacher, a grouchy old benefactor, and an escaped gorilla.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007163600 +0700" stop="20261007164700 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Beatrice is left out in the rain while Wirt and Greg must ask for directions in a tavern where some surprising secrets are revealed about the Unknown.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007164700 +0700" stop="20261007170500 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost or is the tea baron going mad? Greg and Fred the Horse are on the case!</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007170500 +0700" stop="20261007171600 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>The legendary American rock band, the Melvins, teams up with Uncle Grandpa to help a young girl who wants to win her school's talent show.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007171600 +0700" stop="20261007172600 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Uncle Grandpa helps a child who can't get rid of the hiccups.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007172600 +0700" stop="20261007173700 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Uncle Grandpa and a child embark on a dangerous jungle adventure in search of a legendary MacGuffin.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007173700 +0700" stop="20261007180000 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Uncle Grandpa's new found confidence makes his head big.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007180000 +0700" stop="20261007203500 +0700">
+    <title lang="zh">SUPERMAN RETURNS</title>
+    <desc>Superman returns after five years in space to find Lois engaged and Lex Luthor with a sinister plan that will endanger America.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007203500 +0700" stop="20261007220500 +0700">
+    <title lang="zh">SMURFS</title>
+    <desc>Smurfette and the Smurfs team up with new friends to save Papa Smurf after he's kidnapped and realize their destiny is to protect the universe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261007220500 +0700" stop="20261008001000 +0700">
+    <title lang="zh">OBLIVION</title>
+    <desc>A veteran assigned to extract Earth's remaining resources begins to question his mission and his being.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008001000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">FUNNY WOMAN S1</title>
+    <desc>The show is a huge hit and Barbara's (aka Sophie Straw) life changes overnight. Intoxicated by success, she embarks on a romance with co-star, Clive.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008010000 +0700" stop="20261008011100 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>The legendary American rock band, the Melvins, teams up with Uncle Grandpa to help a young girl who wants to win her school's talent show.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008011100 +0700" stop="20261008012100 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Uncle Grandpa helps a child who can't get rid of the hiccups.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008012100 +0700" stop="20261008013200 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Uncle Grandpa and a child embark on a dangerous jungle adventure in search of a legendary MacGuffin.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008013200 +0700" stop="20261008015000 +0700">
+    <title lang="zh">UNCLE GRANDPA S4</title>
+    <desc>Uncle Grandpa's new found confidence makes his head big.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008015000 +0700" stop="20261008021200 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben loses control of the Omnitrix.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008021200 +0700" stop="20261008023400 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben must rescue Cooper from the DNAliens.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008023400 +0700" stop="20261008025600 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben and Co must rescue the dog alien.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008025600 +0700" stop="20261008032500 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben and Gwen manage to get grounded.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008032500 +0700" stop="20261008041500 +0700">
+    <title lang="zh">FUNNY WOMAN S1</title>
+    <desc>The show is a huge hit and Barbara's (aka Sophie Straw) life changes overnight. Intoxicated by success, she embarks on a romance with co-star, Clive.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008041500 +0700" stop="20261008044000 +0700">
+    <title lang="zh">CLASS OF 3000 S1</title>
+    <desc>Philly Phil's latest invention turns the kids blue.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008044000 +0700" stop="20261008050500 +0700">
+    <title lang="zh">CLASS OF 3000 S1</title>
+    <desc>Tamika's tries to impress two popular older girls.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008050500 +0700" stop="20261008051600 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Wirt, Greg, and Beatrice get all mixed up in the musical antics of a schoolhouse of animals, a lovelorn teacher, a grouchy old benefactor, and an escaped gorilla.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008051600 +0700" stop="20261008052700 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Beatrice is left out in the rain while Wirt and Greg must ask for directions in a tavern where some surprising secrets are revealed about the Unknown.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008052700 +0700" stop="20261008054500 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost or is the tea baron going mad? Greg and Fred the Horse are on the case!</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008054500 +0700" stop="20261008061500 +0700">
+    <title lang="zh">CRASHBOX S1</title>
+    <desc>An outrageously insane new game show of puzzles and brainteasers for kids to play on television.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008061500 +0700" stop="20261008063700 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben loses control of the Omnitrix.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008063700 +0700" stop="20261008065900 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben must rescue Cooper from the DNAliens.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369786" start="20261008065900 +0700" stop="20261008070000 +0700">
+    <title lang="zh">BEN 10: ALIEN FORCE S1</title>
+    <desc>Ben and Co must rescue the dog alien.</desc>
+    <date>2026-10-07</date>
+  </programme>
 <channel id="369840">
     <display-name lang="Singapore">HBO Hits (HD)</display-name>
     <icon src="" />
   </channel>
-  <programme channel="369840" start="20261005074000 +0700" stop="20261005100500 +0700">
-    <title lang="zh">TRANSFORMERS</title>
-    <desc>Two intergalactic races of robots crash land on Earth, with the future of humankind hanging in balance as they battle for the ultimate power source.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261005100500 +0700" stop="20261005120000 +0700">
-    <title lang="zh">BUMBLEBEE</title>
-    <desc>A teenager trying to find her place in the world, discovers and repairs a battle-scarred robot, who's disguised as a Volkswagen Beetle.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261005120000 +0700" stop="20261005141500 +0700">
-    <title lang="zh">FANTASTIC BEASTS AND WHERE TO FIND THEM</title>
-    <desc>A Magizoologist arrives in New York amid tensions in the wizarding world only to be branded as a fugitive as he tries to recover his missing beasts.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261005141500 +0700" stop="20261005160000 +0700">
-    <title lang="zh">THE BACK UP PLAN</title>
-    <desc>A single woman turns to artificial insemination to answer her ticking clock, only to meet the man of her dreams after she conceives.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261005160000 +0700" stop="20261005180500 +0700">
-    <title lang="zh">DOWNTON ABBEY</title>
-    <desc>A royal visit from the King and Queen of England unleashes scandal, romance and intrigue that leave the future of Downton hanging in the balance.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261005180500 +0700" stop="20261005202500 +0700">
-    <title lang="zh">HARRY POTTER AND THE ORDER OF THE PHOENIX</title>
-    <desc>When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261005202500 +0700" stop="20261005220000 +0700">
-    <title lang="zh">ALARUM</title>
-    <desc>Forced out of hiding, former assassin couple Joe and Lara Travers must use their deadly skills from their past to survive the imminent threat.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261005220000 +0700" stop="20261005235000 +0700">
-    <title lang="zh">RED SONJA</title>
-    <desc>A barbarian huntress, Red Sonja, must unite a group of unlikely warriors to face off against Emperor Draygan and his deadly bride.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261005235000 +0700" stop="20261006014000 +0700">
-    <title lang="zh">BUMBLEBEE</title>
-    <desc>A teenager trying to find her place in the world, discovers and repairs a battle-scarred robot, who's disguised as a Volkswagen Beetle.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261006014000 +0700" stop="20261006034000 +0700">
-    <title lang="zh">ROB PEACE</title>
-    <desc>The true story of Robert Peace who grew up in New Jersey, the son of a convicted murderer, and defied the odds and went to Yale on a full scholarship. But at age 30, his bright future was ended by the bullet of a rival gang dealer.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261006034000 +0700" stop="20261006060000 +0700">
-    <title lang="zh">TRANSFORMERS</title>
-    <desc>Two intergalactic races of robots crash land on Earth, with the future of humankind hanging in balance as they battle for the ultimate power source.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369840" start="20261006060000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">THE BACK UP PLAN</title>
-    <desc>A single woman turns to artificial insemination to answer her ticking clock, only to meet the man of her dreams after she conceives.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="369840" start="20261006074000 +0700" stop="20261006095500 +0700">
     <title lang="zh">FANTASTIC BEASTS AND WHERE TO FIND THEM</title>
     <desc>A Magizoologist arrives in New York amid tensions in the wizarding world only to be branded as a fugitive as he tries to recover his missing beasts.</desc>
@@ -9936,6 +9951,76 @@
     <title lang="zh">DOWNTON ABBEY</title>
     <desc>A royal visit from the King and Queen of England unleashes scandal, romance and intrigue that leave the future of Downton hanging in the balance.</desc>
     <date>2026-10-06</date>
+  </programme>
+  <programme channel="369840" start="20261007080000 +0700" stop="20261007101500 +0700">
+    <title lang="zh">HARRY POTTER AND THE ORDER OF THE PHOENIX</title>
+    <desc>When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007101500 +0700" stop="20261007115500 +0700">
+    <title lang="zh">THE BACK UP PLAN</title>
+    <desc>A single woman turns to artificial insemination to answer her ticking clock, only to meet the man of her dreams after she conceives.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007115500 +0700" stop="20261007141500 +0700">
+    <title lang="zh">TRANSFORMERS</title>
+    <desc>Two intergalactic races of robots crash land on Earth, with the future of humankind hanging in balance as they battle for the ultimate power source.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007141500 +0700" stop="20261007161500 +0700">
+    <title lang="zh">DOWNTON ABBEY</title>
+    <desc>A royal visit from the King and Queen of England unleashes scandal, romance and intrigue that leave the future of Downton hanging in the balance.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007161500 +0700" stop="20261007164500 +0700">
+    <title lang="zh">HOLLYWOOD ON SET S1</title>
+    <desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007164500 +0700" stop="20261007181000 +0700">
+    <title lang="zh">A CHRISTMAS MYSTERY</title>
+    <desc>A group of intrepid kids sets out to solve the case of a town's stolen Christmas treasure in this engaging holiday family caper.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007181000 +0700" stop="20261007202000 +0700">
+    <title lang="zh">FANTASTIC BEASTS AND WHERE TO FIND THEM</title>
+    <desc>A Magizoologist arrives in New York amid tensions in the wizarding world only to be branded as a fugitive as he tries to recover his missing beasts.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007202000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">THE BACK UP PLAN</title>
+    <desc>A single woman turns to artificial insemination to answer her ticking clock, only to meet the man of her dreams after she conceives.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007220000 +0700" stop="20261007233500 +0700">
+    <title lang="zh">ALARUM</title>
+    <desc>Forced out of hiding, former assassin couple Joe and Lara Travers must use their deadly skills from their past to survive the imminent threat.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261007233500 +0700" stop="20261008010000 +0700">
+    <title lang="zh">A CHRISTMAS MYSTERY</title>
+    <desc>A group of intrepid kids sets out to solve the case of a town's stolen Christmas treasure in this engaging holiday family caper.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261008010000 +0700" stop="20261008031000 +0700">
+    <title lang="zh">FANTASTIC BEASTS AND WHERE TO FIND THEM</title>
+    <desc>A Magizoologist arrives in New York amid tensions in the wizarding world only to be branded as a fugitive as he tries to recover his missing beasts.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261008031000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">HARRY POTTER AND THE ORDER OF THE PHOENIX</title>
+    <desc>When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261008053000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">HOLLYWOOD ON SET S1</title>
+    <desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369840" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">EPIC: ELVIS PRESLEY IN CONCERT</title>
+    <desc>Elvis sings and tells his story like never before in a new cinematic experience from visionary filmmaker Baz Luhrmann.</desc>
+    <date>2026-10-07</date>
   </programme>
 <channel id="369758">
     <display-name lang="Singapore">HBO Signature (HD)</display-name>
@@ -10105,71 +10190,6 @@
     <display-name lang="Singapore">CINEMAX (HD)</display-name>
     <icon src="" />
   </channel>
-  <programme channel="369795" start="20261005085000 +0700" stop="20261005110000 +0700">
-    <title lang="zh">THE MATRIX REVOLUTIONS</title>
-    <desc>Neo, Morpheus and Trinity prepare for a final battle against vicious machines set to invade Zion.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261005110000 +0700" stop="20261005124500 +0700">
-    <title lang="zh">THE RHYTHM SECTION</title>
-    <desc>When an ordinary woman on a path of self-destruction discovers that the plane crash that killed her family was not an accident, she enters a dark, complex world to seek revenge and find her own redemption.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261005124500 +0700" stop="20261005145000 +0700">
-    <title lang="zh">THE LOST WORLD: JURASSIC PARK</title>
-    <desc>Four years after Jurassic Park, mathematician Ian Malcolm has to venture into a second island to save his girlfriend from becoming dinosaur bait.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261005145000 +0700" stop="20261005162500 +0700">
-    <title lang="zh">LAST BREATH</title>
-    <desc>An emotionally charged action thriller of a commercial diver who after a freak accident is trapped on the bottom of the North Sea.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261005162500 +0700" stop="20261005183500 +0700">
-    <title lang="zh">INDICTMENT: THE MCMARTIN TRIAL</title>
-    <desc>A fact-based drama based on the longest and most expensive trial in American history that ended without a single conviction.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261005183500 +0700" stop="20261005190500 +0700">
-    <title lang="zh">HOLLYWOOD ON SET S1</title>
-    <desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261005190500 +0700" stop="20261005210000 +0700">
-    <title lang="zh">JUROR #2</title>
-    <desc>A juror in a high-profile murder trial faces a serious moral dilemma… one that could sway the jury to convict or free the accused killer.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261005210000 +0700" stop="20261005223500 +0700">
-    <title lang="zh">FRIDAY THE 13TH</title>
-    <desc>Camp counselors are fiendishly stalked and murdered by an unseen killer while trying to re-open a summer camp site.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261005223500 +0700" stop="20261006000500 +0700">
-    <title lang="zh">HIGH GROUND</title>
-    <desc>When a mysterious prisoner lands in his jail, a border town sheriff faces the wrath of a brutal cartel.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261006000500 +0700" stop="20261006013500 +0700">
-    <title lang="zh">PARANORMAL ACTIVITY 2</title>
-    <desc>A couple is disturbed by the presence of a supernatural entity in their new home.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261006013500 +0700" stop="20261006031000 +0700">
-    <title lang="zh">PARANORMAL ACTIVITY 3</title>
-    <desc>In 1988, young sisters Katie and Kristi befriend an invisible entity who resides in their home.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261006031000 +0700" stop="20261006050000 +0700">
-    <title lang="zh">NOBODY'S FOOL</title>
-    <desc>As Tanya seeks her sister's help to get back on her feet, she discovers her sister's perfect life may not be what it seems, and will do whatever it takes to help.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="369795" start="20261006050000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">BOYCOTT</title>
-    <desc>A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="369795" start="20261006070000 +0700" stop="20261006091000 +0700">
     <title lang="zh">THE MATRIX REVOLUTIONS</title>
     <desc>Neo, Morpheus and Trinity prepare for a final battle against vicious machines set to invade Zion.</desc>
@@ -10244,6 +10264,76 @@
     <title lang="zh">BURY MY HEART AT WOUNDED KNEE</title>
     <desc>An HBO Original film which explores the impact after the US government wages a campaign to exterminate American Indians.</desc>
     <date>2026-10-06</date>
+  </programme>
+  <programme channel="369795" start="20261007090500 +0700" stop="20261007093500 +0700">
+    <title lang="zh">HOLLYWOOD ON SET S1</title>
+    <desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007093500 +0700" stop="20261007111500 +0700">
+    <title lang="zh">JUSTICE LEAGUE: CRISIS ON INFINITE EARTHS PART THREE</title>
+    <desc>As the heroes find themselves helpless to stop a wave of destruction, they must make a terrible choice: which Earth, if any, will be saved?</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007111500 +0700" stop="20261007125000 +0700">
+    <title lang="zh">LAST BREATH</title>
+    <desc>An emotionally charged action thriller of a commercial diver who after a freak accident is trapped on the bottom of the North Sea.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007125000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">TAG</title>
+    <desc>Five competitive friends hit the ground running with their annual game of tag, coinciding with the wedding of their only undefeated player, making him an easy target.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007143000 +0700" stop="20261007155500 +0700">
+    <title lang="zh">LIFE SUPPORT</title>
+    <desc>An HBO Original Movie, Life Support tells the tale of an HIV-positive woman who learns lessons of love and strength through helping others.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007155500 +0700" stop="20261007173000 +0700">
+    <title lang="zh">HOSTILE WATERS</title>
+    <desc>When a Russian nuclear submarine collides with an American submarine, the two captains must work together to prevent a nuclear meltdown.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007173000 +0700" stop="20261007193500 +0700">
+    <title lang="zh">61*</title>
+    <desc>In the summer of 1961, two baseball players and best friends compete to beat the home run record set by legendary Babe Ruth in 1927.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007193500 +0700" stop="20261007210000 +0700">
+    <title lang="zh">A.C.O.D.</title>
+    <desc>Forced to reunite with his bitterly divorced parents and their new spouses at his brother's wedding, a man's chaotic childhood comes back to haunt him.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007210000 +0700" stop="20261007222500 +0700">
+    <title lang="zh">PARANORMAL ACTIVITY 4</title>
+    <desc>Strange events begin to occur when a woman and her child move into the neighbourhood.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007222500 +0700" stop="20261007234000 +0700">
+    <title lang="zh">PARANORMAL ACTIVITY: THE MARKED ONES</title>
+    <desc>A young man seeks to uncover the source of terrifying sounds coming from his neighbour's apartment, but encounters an evil that won't rest until it has his soul!</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261007234000 +0700" stop="20261008011000 +0700">
+    <title lang="zh">PARANORMAL ACTIVITY: THE GHOST DIMENSION</title>
+    <desc>In this sixth chapter of the horror franchise, a new family moves into Katie and Kristi's former house and discovers an evil presence that begins to terrorise their lives.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261008011000 +0700" stop="20261008025000 +0700">
+    <title lang="zh">PARANORMAL ACTIVITY: NEXT OF KIN</title>
+    <desc>A documentary filmmaker follows Margot, as she heads to a secluded Amish community in the hopes of meeting and learning about her long-lost mother and extended family. Following a string of strange occurrences and discoveries, she soon realizes this community that welcomed them into their home might be hiding something sinister….</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261008025000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">THE EXORCIST: THE VERSION YOU'VE NEVER SEEN BEFORE</title>
+    <desc>A young girl has been possessed by the devil and Father Merrin is the priest called in to perform an exorcism. This version has 11 added minutes.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369795" start="20261008050000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">PATH TO WAR</title>
+    <desc>President Johnson and his foreign-policy team struggle with the decision to end the Vietnam war in this HBO Original film.</desc>
+    <date>2026-10-07</date>
   </programme>
 <channel id="406253">
     <display-name lang="Russian Federation">Sport 1 CZ</display-name>
@@ -10947,191 +11037,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">MUTV HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="12258" start="20261005070000 +0700" stop="20261005073000 +0700">
-    <title lang="zh">UEFA Champions League Highlights 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Sabah FK.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005073000 +0700" stop="20261005080000 +0700">
-    <title lang="zh">U21s Highlights 26/27</title>
-    <desc>Highlights of the U21s match against Brentford Academy.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005080000 +0700" stop="20261005081500 +0700">
-    <title lang="zh">Top 20 Goals 2005/06</title>
-    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our 2005/06 season.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005081500 +0700" stop="20261005083000 +0700">
-    <title lang="zh">Top 20 Goals 2006/07</title>
-    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our 2006/07 season.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005083000 +0700" stop="20261005090000 +0700">
-    <title lang="zh">PL Highlights: Fulham (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Fulham.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005090000 +0700" stop="20261005091500 +0700">
-    <title lang="zh">Wayne Rooney: Exclusive Interview</title>
-    <desc>Wayne Rooney joins us to reflect on his time at the club spanning the epic period between 2005 and 2008. Kings of the World is available to buy now via United Store.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005091500 +0700" stop="20261005093000 +0700">
-    <title lang="zh">A Day in the Life: Celin Bizet Donnum</title>
-    <desc>Fan favourite Celin Bizet Donnum is back from maternity leave and working towards her return to action as a mum.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005093000 +0700" stop="20261005100000 +0700">
-    <title lang="zh">U18s Highlights 26/27</title>
-    <desc>Highlights of the U18s game against Charlton Athletic.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005100000 +0700" stop="20261005103000 +0700">
-    <title lang="zh">U18s Highlights 26/27</title>
-    <desc>Highlights of the U18s game against Everton.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005103000 +0700" stop="20261005110000 +0700">
-    <title lang="zh">U18s Highlights 26/27</title>
-    <desc>Highlights of the U18s game against Middlesbrough.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005110000 +0700" stop="20261005113000 +0700">
-    <title lang="zh">U18s Highlights 26/27</title>
-    <desc>Highlights of the U18s game against Newcastle United.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005113000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">U18s Highlights 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005120000 +0700" stop="20261005123000 +0700">
-    <title lang="zh">UEFA Youth League Highlights</title>
-    <desc>Highlights of the U19s UEFA Youth League match against Sabah FK.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005123000 +0700" stop="20261005130000 +0700">
-    <title lang="zh">U21s Highlights 26/27</title>
-    <desc>Highlights of the U21s match against Ipswich Town.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005130000 +0700" stop="20261005133000 +0700">
-    <title lang="zh">U21s Highlights 26/27</title>
-    <desc>Highlights of the U21s match against Leicester City.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005133000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">UEFA Youth League Highlights</title>
-    <desc>Highlights of the U19s UEFA Youth League match against Sabah FK.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005140000 +0700" stop="20261005143000 +0700">
-    <title lang="zh">U21s Highlights 26/27</title>
-    <desc>Highlights of the U21s match against Brentford Academy.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005143000 +0700" stop="20261005150000 +0700">
-    <title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
-    <desc>Highlights of our Premier League match against Ipswich Town.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005150000 +0700" stop="20261005153000 +0700">
-    <title lang="zh">PL Highlights: Everton (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Everton.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005153000 +0700" stop="20261005160000 +0700">
-    <title lang="zh">UEFA Champions League Highlights 26/27</title>
-    <desc>Highlights of the UEFA Champions League game against Sabah FK.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005160000 +0700" stop="20261005173000 +0700">
-    <title lang="zh">All The Goals: Rashford</title>
-    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005173000 +0700" stop="20261005180000 +0700">
-    <title lang="zh">Podcast</title>
-    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005180000 +0700" stop="20261005183000 +0700">
-    <title lang="zh">PL Highlights: Fulham (A) 26/27</title>
-    <desc>Highlights of our Premier League match against Fulham.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005183000 +0700" stop="20261005190000 +0700">
-    <title lang="zh">U18s Highlights 26/27</title>
-    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005190000 +0700" stop="20261005193000 +0700">
-    <title lang="zh">PL: United v Arsenal 04/05</title>
-    <desc>United Archives 24/10/04. United looked to end the Gunners record breaking 49 match unbeaten run.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005193000 +0700" stop="20261005200000 +0700">
-    <title lang="zh">PL: Newcastle v United 05/06</title>
-    <desc>United Archives 28/8/05. The Reds were looking to make it three wins out of three at the beginning of the season when they faced a Newcastle desperate to kickstart their campaign.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005200000 +0700" stop="20261005203000 +0700">
-    <title lang="zh">2006 League Cup Final</title>
-    <desc>United Archives 26/2/06. United hadn't won the League Cup since 1992 but travelled to the Millennium Stadium in Cardiff hopeful of victory over Wigan.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005203000 +0700" stop="20261005221500 +0700">
-    <title lang="zh">CL: United v AC Milan 06/07</title>
-    <desc>United Archives 24/4/07. Two Wayne Rooney goals against the Italian giants keeps United's hopes of reaching the Champions League final alive at Old Trafford.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005221500 +0700" stop="20261005234500 +0700">
-    <title lang="zh">CL: AC Milan v United 09/10</title>
-    <desc>United Archives 16/2/10. United took on AC Milan looking to erase the memory of a painful Champions League defeat at the San Siro three years ago.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261005234500 +0700" stop="20261006000000 +0700">
-    <title lang="zh">Top 20 Wayne Rooney Goals</title>
-    <desc>Overhead kicks, volleys, long-rangers: this Wayne Rooney goals countdown is all killer, no filler...</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261006000000 +0700" stop="20261006014500 +0700">
-    <title lang="zh">LC: United v Man City 09/10</title>
-    <desc>United Archives 27/1/10. City took a 2-1 lead into the second leg. It was all to play for in another blockbuster derby game.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261006014500 +0700" stop="20261006020000 +0700">
-    <title lang="zh">Wayne Rooney: Exclusive Interview</title>
-    <desc>Wayne Rooney joins us to reflect on his time at the club spanning the epic period between 2005 and 2008. Kings of the World is available to buy now via United Store.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261006020000 +0700" stop="20261006021500 +0700">
-    <title lang="zh">Top 20 Goals 2007/08</title>
-    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our infamous 2007/08 season.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261006021500 +0700" stop="20261006033000 +0700">
-    <title lang="zh">Utd Podcast: Rooney</title>
-    <desc>United and England's record goalscorer looks back on his incredible years at Old Trafford; the trophies, the training sessions, the dressing room pranks - this episode has it all!</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261006033000 +0700" stop="20261006034500 +0700">
-    <title lang="zh">Top 20 Wayne Rooney Goals</title>
-    <desc>Overhead kicks, volleys, long-rangers: this Wayne Rooney goals countdown is all killer, no filler...</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261006034500 +0700" stop="20261006054500 +0700">
-    <title lang="zh">All The Goals: Rooney</title>
-    <desc>Sit back and enjoy all 253 of our former captain Wayne Rooney's goals that made him United's greatest goalscorer - from a debut hat-trick, to that overhead kick, to the record-breaking free-kick.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="12258" start="20261006054500 +0700" stop="20261006070000 +0700">
-    <title lang="zh">FAC: Man City v United 11/12</title>
-    <desc>United Archives 8/1/12. The FA Cup draw had handed the Reds a chance to get swift revenge for their heavy defeat against City back in October, could they knock the holders out of the cup on their own</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="12258" start="20261006073000 +0700" stop="20261006091500 +0700">
     <title lang="zh">UCL: United v Fenerbahce 04/05</title>
     <desc>United Archives 28/9/04. Wayne Rooney would make his Old Trafford bow as the Reds took on Fenerbahce.</desc>
@@ -11326,6 +11231,91 @@
     <title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
     <desc>Full coverage of our Premier League match against Ipswich Town.</desc>
     <date>2026-10-06</date>
+  </programme>
+  <programme channel="12258" start="20261007080000 +0700" stop="20261007090000 +0700">
+    <title lang="zh">Sir Bobby - The Greatest</title>
+    <desc>On the 63rd anniversary of Munich, this special documentary paid tribute to one of football's and United's all-time greats who survived the Air Disaster.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007090000 +0700" stop="20261007104500 +0700">
+    <title lang="zh">UEFA Champions League 26/27</title>
+    <desc>Full coverage of our UEFA Champions League game against Sabah FK.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007104500 +0700" stop="20261007120000 +0700">
+    <title lang="zh">All The Goals: Ronaldo</title>
+    <desc>Cristiano Ronaldo left an indelible mark during his first spell at Old Trafford, scoring 118 goals as he became one of the world's pre-eminent footballing talents.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007120000 +0700" stop="20261007133000 +0700">
+    <title lang="zh">All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007133000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007140000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">All The Goals: Yorke</title>
+    <desc>A passion for goals with a smile to match. From 1998-2002 Dwight impressed with a record of more than a goal every other start.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007143000 +0700" stop="20261007161500 +0700">
+    <title lang="zh">PL Match: Fulham (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Fulham.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007161500 +0700" stop="20261007163000 +0700">
+    <title lang="zh">All The Goals: Carrick</title>
+    <desc>See all of midfield maestro Michael Carrick's 24 goals during his trophy-laden career at Old Trafford.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007163000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007180000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">PL: Aston Villa v United 13/14</title>
+    <desc>United Archives 29/3/14. The Reds were desperate to bounce back from derby disappointment when they took on Aston Villa at Old Trafford.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007200000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">2008 UCL FInal: v Chelsea</title>
+    <desc>50 years after Munich, 40 years on from Wembley and 9 years after Barcelona, United take on Chelsea bidding to rule Europe for the third time.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261007220000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">1999 UCL Final v Bayern Munich</title>
+    <desc>United Archives 26/5/99. An absolute classic, with two trophies in the bag only Bayern Munich stood between United and an unprecedented treble.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261008000000 +0700" stop="20261008014500 +0700">
+    <title lang="zh">PL: United v Liverpool 06/07</title>
+    <desc>United Archives 22/10/06. Paul Scholes and Rio Ferdinand are both on the score sheet as United see off Rafa's Liverpool at Old Trafford.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261008014500 +0700" stop="20261008033000 +0700">
+    <title lang="zh">PL: Man City v United 12/13</title>
+    <desc>United Archives 9/12/12. Relive this unforgettable Manchester derby as United travelled to the Etihad Stadium knowing victory would leave Sir Alex Ferguson's side in pole position in the title race.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261008033000 +0700" stop="20261008051500 +0700">
+    <title lang="zh">FAC: Wimbledon v United 93/94</title>
+    <desc>United Archives 20/2/94. United make light work of Wimbledon in this fifth round FA Cup tie.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261008051500 +0700" stop="20261008070000 +0700">
+    <title lang="zh">FAC: v Oldham 93/94 SF Replay</title>
+    <desc>United Archives 8/4/90. United take on Joe Royle's Oldham at Maine Road after a last minute Mark Hughes goal secured a replay three days prior at Wembley.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="12258" start="20261008070000 +0700" stop="20261009070000 +0700">
+    <title lang="zh">FAC: United v Arsenal 07/08</title>
+    <desc>United Archives 16/2/08. Sir Alex's 100th FA Cup game in charge of United saw them take on Arsenal, one of the oldest and fiercest foes.</desc>
+    <date>2026-10-08</date>
   </programme>
 <channel id="445355">
     <display-name lang="Russian Federation">Milan TV</display-name>
