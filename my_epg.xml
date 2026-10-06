@@ -5689,7 +5689,7 @@
     <date>2026-10-06</date>
   </programme>
 <channel id="400480">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400480" start="20261005070000 +0700" stop="20261005073000 +0700">
@@ -5978,7 +5978,7 @@
     <date>2026-10-06</date>
   </programme>
 <channel id="400479">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400479" start="20261005081500 +0700" stop="20261005083000 +0700">
@@ -6520,70 +6520,308 @@
     <desc>Action from the 2026 Grand Prix of Japan MotoGP sprint race.</desc>
     <date>2026-10-07</date>
   </programme>
+<channel id="524003">
+    <display-name lang="Indonesia">Sportstars 2</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="524003" start="20261006080000 +0700" stop="20261006083000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006083000 +0700" stop="20261006090000 +0700">
+    <title lang="zh">Sport Today</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006090000 +0700" stop="20261006110000 +0700">
+    <title lang="zh">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006110000 +0700" stop="20261006113000 +0700">
+    <title lang="zh">Sportrivia</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006113000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">The Ultimate Goals</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006120000 +0700" stop="20261006140000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006140000 +0700" stop="20261006143000 +0700">
+    <title lang="zh">Sport Today</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006143000 +0700" stop="20261006163000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006163000 +0700" stop="20261006183000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006183000 +0700" stop="20261006203000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006203000 +0700" stop="20261006220000 +0700">
+    <title lang="zh">Sabuk Emas</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006220000 +0700" stop="20261006233000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261006233000 +0700" stop="20261007013000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261007013000 +0700" stop="20261007040000 +0700">
+    <title lang="zh">UEFA Nations: SCO Vs SVN (L)</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261007040000 +0700" stop="20261007053000 +0700">
+    <title lang="zh">Sabuk Emas</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261007053000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">The Ultimate Goals</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261007060000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524003" start="20261007080000 +0700" stop="20261007083000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007083000 +0700" stop="20261007090000 +0700">
+    <title lang="zh">Sport Today</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007090000 +0700" stop="20261007110000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007110000 +0700" stop="20261007113000 +0700">
+    <title lang="zh">Sportrivia</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007113000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">The Ultimate Goals</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007120000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007140000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">Sport Today</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007143000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007163000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007180000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007200000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">ASEAN C'ship Shopee Cup (L)</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261007220000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261008000000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261008020000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261008040000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">Sabuk Emas</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261008053000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">The Ultimate Goals</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524003" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+<channel id="524184">
+    <display-name lang="Indonesia">Sportstars 3</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="524184" start="20261006080000 +0700" stop="20261006100000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261006100000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261006120000 +0700" stop="20261006140000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261006140000 +0700" stop="20261006160000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261006160000 +0700" stop="20261006180000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261006180000 +0700" stop="20261006200000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261006200000 +0700" stop="20261006220000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261006220000 +0700" stop="20261007000000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261007000000 +0700" stop="20261007020000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261007020000 +0700" stop="20261007040000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261007040000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261007060000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524184" start="20261007080000 +0700" stop="20261007100000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261007100000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261007120000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261007140000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261007160000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261007180000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261007200000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261007220000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261008000000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261008020000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261008040000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524184" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
 <channel id="524033">
     <display-name lang="Indonesia">Sportstars 4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="524033" start="20261005080000 +0700" stop="20261005100000 +0700">
-    <title lang="zh">AFC Champions League Two</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261005100000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">AFC Futsal Asian Cup 2026</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261005120000 +0700" stop="20261005140000 +0700">
-    <title lang="zh">UEFA Nations League</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261005140000 +0700" stop="20261005160000 +0700">
-    <title lang="zh">V-League Men</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261005160000 +0700" stop="20261005180000 +0700">
-    <title lang="zh">Timnas Special</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261005180000 +0700" stop="20261005200000 +0700">
-    <title lang="zh">AFC Champions League Elite</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261005200000 +0700" stop="20261005220000 +0700">
-    <title lang="zh">V-League Men</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261005220000 +0700" stop="20261006000000 +0700">
-    <title lang="zh">Timnas Special</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261006000000 +0700" stop="20261006020000 +0700">
-    <title lang="zh">Timnas Special</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261006020000 +0700" stop="20261006040000 +0700">
-    <title lang="zh">AFC Champions League Elite</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261006040000 +0700" stop="20261006060000 +0700">
-    <title lang="zh">UEFA Nations League</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="524033" start="20261006060000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">V-League Men</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="524033" start="20261006080000 +0700" stop="20261006100000 +0700">
     <title lang="zh">AFC Champions League Elite</title>
     <desc />
@@ -6643,6 +6881,280 @@
     <title lang="zh">V-League Men</title>
     <desc />
     <date>2026-10-06</date>
+  </programme>
+  <programme channel="524033" start="20261007080000 +0700" stop="20261007100000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261007100000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261007120000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261007140000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261007160000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261007180000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261007200000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261007220000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261008000000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">Timnas Special</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261008020000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">AFC Champions League Elite</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261008040000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">UEFA Nations League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524033" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">V-League Men</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+<channel id="524124">
+    <display-name lang="Indonesia">Sportstars</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="524124" start="20261006070000 +0700" stop="20261006073000 +0700">
+    <title lang="zh">Sportrivia</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006073000 +0700" stop="20261006093000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006093000 +0700" stop="20261006113000 +0700">
+    <title lang="zh">V-League 2025-2026: Mens</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006113000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006120000 +0700" stop="20261006123000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006123000 +0700" stop="20261006143000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006143000 +0700" stop="20261006163000 +0700">
+    <title lang="zh">V-League 2025-2026: Womens</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006163000 +0700" stop="20261006170000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006170000 +0700" stop="20261006173000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006173000 +0700" stop="20261006180000 +0700">
+    <title lang="zh">30 Minutes Extreme</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006180000 +0700" stop="20261006200000 +0700">
+    <title lang="zh">V-League 2025-2026: Mens</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006200000 +0700" stop="20261006203000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006203000 +0700" stop="20261006223000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261006223000 +0700" stop="20261007003000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261007003000 +0700" stop="20261007010000 +0700">
+    <title lang="zh">30 Minutes Extreme</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261007010000 +0700" stop="20261007013000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261007013000 +0700" stop="20261007040000 +0700">
+    <title lang="zh">UEFA League: ENG Vs CZE (L)</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261007040000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261007060000 +0700" stop="20261007063000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261007063000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">30 Minutes Extreme</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="524124" start="20261007070000 +0700" stop="20261007073000 +0700">
+    <title lang="zh">Sportrivia</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007073000 +0700" stop="20261007093000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007093000 +0700" stop="20261007113000 +0700">
+    <title lang="zh">V-League 2025-2026: Mens</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007113000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007120000 +0700" stop="20261007123000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007123000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007143000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">V-League 2025-2026: Womens</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007163000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007170000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007173000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">30 Minutes Extreme</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007180000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">V-League 2025-2026: Mens</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007200000 +0700" stop="20261007203000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007203000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261007223000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">Pro Futsal League</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261008003000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">30 Minutes Extreme</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261008010000 +0700" stop="20261008013000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261008013000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">iNews Sport</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261008020000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">Best Of Badminton</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261008040000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">The Championship Wimbledon</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261008060000 +0700" stop="20261008063000 +0700">
+    <title lang="zh">Sports Today</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261008063000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">30 Minutes Extreme</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="524124" start="20261008070000 +0700" stop="20261009070000 +0700">
+    <title lang="zh">Sportrivia</title>
+    <desc />
+    <date>2026-10-08</date>
   </programme>
 <channel id="470446">
     <display-name lang="Canada">TSN 1</display-name>
@@ -6877,111 +7389,6 @@
     <display-name lang="Canada">TSN 2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="470550" start="20261005070000 +0700" stop="20261005073000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005073000 +0700" stop="20261005080000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005080000 +0700" stop="20261005100000 +0700">
-    <title lang="zh">Formula 1 Racing</title>
-    <desc>Formula 1 teams battle across 310.3 kilometers in the Bahrain Grand Prix at Sepang. Drivers push for victory on the 5.54-kilometer Malaysian circuit, as points leader Andrea Kimi Antonelli and Lando Norris duel for key championship standings.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005100000 +0700" stop="20261005180000 +0700">
-    <title lang="zh">Live: 2026 China Open Tennis</title>
-    <desc>From Beijing Olympic Green Tennis Center in Beijing.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005180000 +0700" stop="20261005183000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005183000 +0700" stop="20261005190000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005190000 +0700" stop="20261005193000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005193000 +0700" stop="20261005220000 +0700">
-    <title lang="zh">Live: 2026 China Open Tennis</title>
-    <desc>From Beijing Olympic Green Tennis Center in Beijing.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005220000 +0700" stop="20261005223000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005223000 +0700" stop="20261005230000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005230000 +0700" stop="20261005233000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261005233000 +0700" stop="20261006000000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006000000 +0700" stop="20261006020000 +0700">
-    <title lang="zh">Formula 1 Racing</title>
-    <desc>Formula 1 teams battle across 310.3 kilometers in the Bahrain Grand Prix at Sepang. Drivers push for victory on the 5.54-kilometer Malaysian circuit, as points leader Andrea Kimi Antonelli and Lando Norris duel for key championship standings.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006020000 +0700" stop="20261006023000 +0700">
-    <title lang="zh">SC</title>
-    <desc>The most outrageous moments in NASCAR history.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006023000 +0700" stop="20261006030000 +0700">
-    <title lang="zh">SC</title>
-    <desc>2024 SC Top 10-SC: Coaches Gone Wild.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006030000 +0700" stop="20261006033000 +0700">
-    <title lang="zh">Setting the Tempo</title>
-    <desc>The Tempo's growing momentum is dampened by the League's tense labor battle.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006033000 +0700" stop="20261006040000 +0700">
-    <title lang="zh">Setting the Tempo</title>
-    <desc>The Tempo struggle to build a roster amid CBA uncertainty, leaving the season in limbo.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006040000 +0700" stop="20261006043000 +0700">
-    <title lang="zh">Setting the Tempo</title>
-    <desc>Tempo training camp begins with their debut in a month and all spots are up for grabs.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006043000 +0700" stop="20261006050000 +0700">
-    <title lang="zh">Setting the Tempo</title>
-    <desc>The season arrives, and the fans are ready; can the Tempo live up to the excitement?</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006050000 +0700" stop="20261006060000 +0700">
-    <title lang="zh">SC</title>
-    <desc>Features the top 100 catches of all-time.</desc>
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="470550" start="20261006060000 +0700" stop="20261006070000 +0700">
-    <title lang="zh">Northern Super League Soccer</title>
-    <desc>From York Lions Stadium in Toronto.</desc>
-    <date>2026-10-05</date>
-  </programme>
   <programme channel="470550" start="20261006080000 +0700" stop="20261006083000 +0700">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
@@ -7131,6 +7538,868 @@
     <title lang="zh">Live: NHL Hockey</title>
     <desc>The Montreal Canadiens clash with the Carolina Hurricanes as the 2026 regular season opens. Montreal enters following a 3-2 victory over Toronto behind Zachary Bolduc's goal, while Carolina seeks to rebound after a recent 5-2 loss to Washington.</desc>
     <date>2026-10-06</date>
+  </programme>
+  <programme channel="470550" start="20261007083000 +0700" stop="20261007113000 +0700">
+    <title lang="zh">CFL on TSN: Game of the Week</title>
+    <desc>A top Canadian Football League matchup from TSN.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007113000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007120000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">All Elite Wrestling: Dynamite</title>
+    <desc>All Elite Wrestling continues to inject new spirit, freshness and energy into mainstream wrestling featuring a world-class roster of diverse male and female wrestlers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007140000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007143000 +0700" stop="20261007150000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007150000 +0700" stop="20261007153000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007153000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007160000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007163000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007170000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007173000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007180000 +0700" stop="20261007183000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007183000 +0700" stop="20261007190000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007190000 +0700" stop="20261007193000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007193000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007200000 +0700" stop="20261007203000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007203000 +0700" stop="20261007210000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007210000 +0700" stop="20261007213000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007213000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007220000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007223000 +0700" stop="20261007230000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007230000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261007233000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008000000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">Men's International Friendly Football</title>
+    <desc>From Allianz Field in Saint Paul, Minn.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008020000 +0700" stop="20261008023000 +0700">
+    <title lang="zh">SC</title>
+    <desc>2024 SC Top 10-SC: Coaches Gone Wild.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008023000 +0700" stop="20261008030000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008030000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">SC</title>
+    <desc>Features the top 100 catches of all-time.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008040000 +0700" stop="20261008043000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008043000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008050000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008053000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The most outrageous moments in NASCAR history.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008060000 +0700" stop="20261008063000 +0700">
+    <title lang="zh">NFL GameDay</title>
+    <desc>In-progress up-to-the-minute highlights; top moments from all the day's action; interviews and analysis.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470550" start="20261008063000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">Live: College Football</title>
+    <desc>The FIU Panthers host the New Mexico State Aggies in CUSA Week 6 midweek action. FIU looks to build on Anthony Carrie's 71 rushing yards, while New Mexico State enters after James Jones rushed for 155 yards in a 34-13 victory on October 1.</desc>
+    <date>2026-10-07</date>
+  </programme>
+<channel id="470888">
+    <display-name lang="Canada">TSN 3</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="470888" start="20261006071500 +0700" stop="20261006103000 +0700">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The New Orleans Saints clash with the Atlanta Falcons at Caesars Superdome in NFL Week 4 action. New Orleans aims to bounce back from a 35-27 home loss to Las Vegas on Sept. 27, while Atlanta looks to build momentum on a 35-14 victory at Green Bay.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006103000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006120000 +0700" stop="20261006130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006130000 +0700" stop="20261006140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006140000 +0700" stop="20261006143000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006143000 +0700" stop="20261006153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006153000 +0700" stop="20261006163000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006163000 +0700" stop="20261006173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006173000 +0700" stop="20261006183000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006183000 +0700" stop="20261006193000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006193000 +0700" stop="20261006203000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006203000 +0700" stop="20261006213000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006213000 +0700" stop="20261006223000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006223000 +0700" stop="20261006233000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261006233000 +0700" stop="20261007000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007000000 +0700" stop="20261007010000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007010000 +0700" stop="20261007020000 +0700">
+    <title lang="zh">Live: Big Day With Peter Schrager</title>
+    <desc>Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007020000 +0700" stop="20261007030000 +0700">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007030000 +0700" stop="20261007040000 +0700">
+    <title lang="zh">NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The "NFL Live" crew entertains fans while offering all the latest news and analysis from across the NFL.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007040000 +0700" stop="20261007043000 +0700">
+    <title lang="zh">College Football Live</title>
+    <desc>Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007043000 +0700" stop="20261007050000 +0700">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007050000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007060000 +0700" stop="20261007063000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007063000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470888" start="20261007070000 +0700" stop="20261007090000 +0700">
+    <title lang="zh">Live: All Elite Wrestling: Dynamite</title>
+    <desc>All Elite Wrestling continues to inject new spirit, freshness and energy into mainstream wrestling featuring a world-class roster of diverse male and female wrestlers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007090000 +0700" stop="20261007103000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007103000 +0700" stop="20261007110000 +0700">
+    <title lang="zh">Film Never Lies with Luke Willson</title>
+    <desc>Hosted by former NFL player and current TSN analyst Luke Willson.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007110000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007120000 +0700" stop="20261007130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007130000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007140000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007143000 +0700" stop="20261007153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007153000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007163000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007173000 +0700" stop="20261007183000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007183000 +0700" stop="20261007193000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007193000 +0700" stop="20261007203000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007203000 +0700" stop="20261007213000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007213000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007223000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261007233000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008000000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">Canadian Superbike Championship</title>
+    <desc>From Canadian Tire Motorsport Park in Bowmanville, Ont.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008003000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">Motorcycle Experience</title>
+    <desc>Dave Hatch and Emily Roberts share their passion for the sport as they interview motorcycle enthusiasts, share hard won tips and tricks, review the latest bikes, and travel to some of the best riding locations across North America.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008010000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">Live: Big Day With Peter Schrager</title>
+    <desc>Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008020000 +0700" stop="20261008030000 +0700">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008030000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The "NFL Live" crew entertains fans while offering all the latest news and analysis from across the NFL.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008040000 +0700" stop="20261008043000 +0700">
+    <title lang="zh">College Football Live</title>
+    <desc>Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008043000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008050000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">WNBA Playoffs Pregame</title>
+    <desc>Pregame coverage for the upcoming WNBA playoff game.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470888" start="20261008070000 +0700" stop="20261009070000 +0700">
+    <title lang="zh">Live: WNBA Basketball</title>
+    <desc>All the latest basketball action from the WNBA.</desc>
+    <date>2026-10-08</date>
+  </programme>
+<channel id="470730">
+    <display-name lang="Canada">TSN 4</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="470730" start="20261006071500 +0700" stop="20261006103000 +0700">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The New Orleans Saints clash with the Atlanta Falcons at Caesars Superdome in NFL Week 4 action. New Orleans aims to bounce back from a 35-27 home loss to Las Vegas on Sept. 27, while Atlanta looks to build momentum on a 35-14 victory at Green Bay.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006103000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006120000 +0700" stop="20261006130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006130000 +0700" stop="20261006140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006140000 +0700" stop="20261006150000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006150000 +0700" stop="20261006160000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006160000 +0700" stop="20261006170000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006170000 +0700" stop="20261006180000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006180000 +0700" stop="20261006190000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006190000 +0700" stop="20261006200000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006200000 +0700" stop="20261006210000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006210000 +0700" stop="20261006220000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006220000 +0700" stop="20261006230000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261006230000 +0700" stop="20261007010000 +0700">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261007010000 +0700" stop="20261007013000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261007013000 +0700" stop="20261007020000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261007020000 +0700" stop="20261007030000 +0700">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261007030000 +0700" stop="20261007050000 +0700">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261007050000 +0700" stop="20261007053000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261007053000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">Live: Toronto Maple Leafs Pregame</title>
+    <desc>Pregame coverage of Toronto Maple Leafs hockey.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261007060000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>The Toronto Maple Leafs clash with the Nashville Predators at Scotiabank Arena. Toronto enters following a 2-1 win over the New York Islanders behind Easton Cowan's two-point night, while Nashville looks to rebound after Roman Josi scored on Oct. 1.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470730" start="20261007083000 +0700" stop="20261007093000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007093000 +0700" stop="20261007103000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007103000 +0700" stop="20261007110000 +0700">
+    <title lang="zh">Film Never Lies with Luke Willson</title>
+    <desc>Hosted by former NFL player and current TSN analyst Luke Willson.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007110000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007120000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">Live: 2026 China Open Tennis</title>
+    <desc>From Beijing Olympic Green Tennis Center in Beijing.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007160000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007170000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007180000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">Live: 2026 China Open Tennis</title>
+    <desc>From Beijing Olympic Green Tennis Center in Beijing.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007220000 +0700" stop="20261007230000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007230000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261007233000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008000000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">Canadian Superbike Championship</title>
+    <desc>From Canadian Tire Motorsport Park in Bowmanville, Ont.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008003000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">Motorcycle Experience</title>
+    <desc>Dave Hatch and Emily Roberts share their passion for the sport as they interview motorcycle enthusiasts, share hard won tips and tricks, review the latest bikes, and travel to some of the best riding locations across North America.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008010000 +0700" stop="20261008013000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008013000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">Film Never Lies with Luke Willson</title>
+    <desc>Hosted by former NFL player and current TSN analyst Luke Willson.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008020000 +0700" stop="20261008030000 +0700">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008030000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008050000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">Live: WNBA Playoffs Pregame</title>
+    <desc>Pregame coverage for the upcoming WNBA playoff game.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470730" start="20261008070000 +0700" stop="20261009070000 +0700">
+    <title lang="zh">Live: WNBA Basketball</title>
+    <desc>All the latest basketball action from the WNBA.</desc>
+    <date>2026-10-08</date>
+  </programme>
+<channel id="470390">
+    <display-name lang="Canada">TSN 5</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="470390" start="20261006071500 +0700" stop="20261006103000 +0700">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The New Orleans Saints clash with the Atlanta Falcons at Caesars Superdome in NFL Week 4 action. New Orleans aims to bounce back from a 35-27 home loss to Las Vegas on Sept. 27, while Atlanta looks to build momentum on a 35-14 victory at Green Bay.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006103000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006120000 +0700" stop="20261006130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006130000 +0700" stop="20261006140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006140000 +0700" stop="20261006150000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006150000 +0700" stop="20261006160000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006160000 +0700" stop="20261006170000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006170000 +0700" stop="20261006180000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006180000 +0700" stop="20261006190000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006190000 +0700" stop="20261006200000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006200000 +0700" stop="20261006210000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006210000 +0700" stop="20261006220000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006220000 +0700" stop="20261006230000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006230000 +0700" stop="20261006233000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261006233000 +0700" stop="20261007000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261007000000 +0700" stop="20261007010000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261007010000 +0700" stop="20261007013000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261007013000 +0700" stop="20261007020000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261007020000 +0700" stop="20261007030000 +0700">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261007030000 +0700" stop="20261007050000 +0700">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261007050000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261007060000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>The Detroit Red Wings clash with the Ottawa Senators in an Atlantic Division matchup. Detroit aims to bounce back after a 2-0 loss to New York despite John Gibson's 19 saves, while Ottawa enters following an Oct. 3 matchup against Toronto.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="470390" start="20261007083000 +0700" stop="20261007093000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007093000 +0700" stop="20261007103000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007103000 +0700" stop="20261007110000 +0700">
+    <title lang="zh">Film Never Lies with Luke Willson</title>
+    <desc>Hosted by former NFL player and current TSN analyst Luke Willson.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007110000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007120000 +0700" stop="20261007130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007130000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007140000 +0700" stop="20261007150000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007150000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007160000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007170000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007180000 +0700" stop="20261007190000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007190000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007200000 +0700" stop="20261007210000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007210000 +0700" stop="20261007220000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007220000 +0700" stop="20261007230000 +0700">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261007230000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day's trending sports topics and under-the-radar news. They're regularly joined by veteran analysts and the top guests in sports and entertainment.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261008010000 +0700" stop="20261008013000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261008013000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">Film Never Lies with Luke Willson</title>
+    <desc>Hosted by former NFL player and current TSN analyst Luke Willson.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261008020000 +0700" stop="20261008030000 +0700">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261008030000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261008050000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">WNBA Playoffs Pregame</title>
+    <desc>Pregame coverage for the upcoming WNBA playoff game.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="470390" start="20261008070000 +0700" stop="20261009070000 +0700">
+    <title lang="zh">Live: WNBA Basketball</title>
+    <desc>All the latest basketball action from the WNBA.</desc>
+    <date>2026-10-08</date>
   </programme>
 <channel id="219100">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 1 HD</display-name>
@@ -7539,69 +8808,526 @@
     <desc />
     <date>2026-10-05</date>
   </programme>
-  <programme channel="408613" start="20261005203000 +0700" stop="20261006070000 +0700">
+  <programme channel="408613" start="20261005203000 +0700" stop="20261005223000 +0700">
     <title lang="zh">United Rugby Championship. Hollywoodbets Sharks v Leinster</title>
     <desc />
     <date>2026-10-05</date>
+  </programme>
+  <programme channel="408613" start="20261005223000 +0700" stop="20261006003000 +0700">
+    <title lang="zh">United Rugby Championship. Munster v Vodacom Bulls</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="408613" start="20261006003000 +0700" stop="20261006023000 +0700">
+    <title lang="zh">Liga Profesional de Fútbol. Boca Juniors v Unión</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="408613" start="20261006023000 +0700" stop="20261006033000 +0700">
+    <title lang="zh">NHL Hockey. Top 20 Centers</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="408613" start="20261006033000 +0700" stop="20261006043000 +0700">
+    <title lang="zh">World Surf League Highlights. Fiji Pro</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="408613" start="20261006043000 +0700" stop="20261006063000 +0700">
+    <title lang="zh">Top 14. Montpellier Hérault Rugby v RC Toulon</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="408613" start="20261006063000 +0700" stop="20261006070000 +0700">
+    <title lang="zh">⋗ NHL Hockey. Winnipeg Jets at Pittsburgh Penguins</title>
+    <desc />
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="408613" start="20261006093000 +0700" stop="20261006100000 +0700">
+    <title lang="zh">Sporting Greats. Series 1 Episode 8</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006100000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">LaLiga. Athletic Club v Deportivo Alavés</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006120000 +0700" stop="20261006140000 +0700">
+    <title lang="zh">LaLiga. Valencia CF v Real Sociedad</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006140000 +0700" stop="20261006150000 +0700">
+    <title lang="zh">NHL Hockey. Top 20 Defensemen</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006150000 +0700" stop="20261006160000 +0700">
+    <title lang="zh">NASCAR Cup Racing Series. Las Vegas Motor Speedway</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006160000 +0700" stop="20261006163000 +0700">
+    <title lang="zh">Top 14 Highlights. Round 5</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006163000 +0700" stop="20261006183000 +0700">
+    <title lang="zh">LaLiga. Atlético Madrid v Real Madrid</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006183000 +0700" stop="20261006203000 +0700">
+    <title lang="zh">NHL Hockey. Winnipeg Jets at Pittsburgh Penguins</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006203000 +0700" stop="20261006210000 +0700">
+    <title lang="zh">NHL On The Fly</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006210000 +0700" stop="20261006220000 +0700">
+    <title lang="zh">NHL Hockey. Stanley Cup Film 2026</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261006220000 +0700" stop="20261007000000 +0700">
+    <title lang="zh">Liga Profesional de Fútbol. Boca Juniors v Unión</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261007000000 +0700" stop="20261007010000 +0700">
+    <title lang="zh">NASCAR Cup Racing Series. Las Vegas Motor Speedway</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261007010000 +0700" stop="20261007030000 +0700">
+    <title lang="zh">Top 14. Montpellier Hérault Rugby v RC Toulon</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261007030000 +0700" stop="20261007033000 +0700">
+    <title lang="zh">Top 14 Highlights. Round 5</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261007033000 +0700" stop="20261007053000 +0700">
+    <title lang="zh">United Rugby Championship. Hollywoodbets Sharks v Leinster</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261007053000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">NHL On The Fly</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408613" start="20261007060000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">⋗ NHL Hockey. Carolina Hurricanes at Montreal Canadiens</title>
+    <desc />
+    <date>2026-10-06</date>
   </programme>
 <channel id="408658">
     <display-name lang="Russian Federation">Premier Sports 2 [UK]</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/14/20250214023025369820_39.png" />
   </channel>
-  <programme channel="408658" start="20261005083000 +0700" stop="20261005090000 +0700">
-    <title lang="zh">Bike World. Series 9 Episode 151</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408658" start="20261005090000 +0700" stop="20261005093000 +0700">
-    <title lang="zh">Football's Greatest. Series 1 Episode 7</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408658" start="20261005093000 +0700" stop="20261005113000 +0700">
-    <title lang="zh">United Rugby Championship. Hollywoodbets Sharks v Leinster</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408658" start="20261005113000 +0700" stop="20261005120000 +0700">
-    <title lang="zh">Football's Greatest. Series 1 Episode 8</title>
-    <desc />
-    <date>2026-10-05</date>
-  </programme>
-  <programme channel="408658" start="20261005120000 +0700" stop="20261005123000 +0700">
+  <programme channel="408658" start="20261006090000 +0700" stop="20261006093000 +0700">
     <title lang="zh">Temples of Sport. Ascot Racecourse</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="408658" start="20261005123000 +0700" stop="20261005163000 +0700">
-    <title lang="zh">NASCAR Cup Racing Series. Las Vegas Motor Speedway</title>
+  <programme channel="408658" start="20261006093000 +0700" stop="20261006113000 +0700">
+    <title lang="zh">United Rugby Championship. Benetton v Connacht</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="408658" start="20261005163000 +0700" stop="20261005170000 +0700">
+  <programme channel="408658" start="20261006113000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">Temples of Sport. St. Andrews Golf Course</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261006120000 +0700" stop="20261006123000 +0700">
+    <title lang="zh">Temples of Sport. Alpe D'Huez</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261006123000 +0700" stop="20261006153000 +0700">
+    <title lang="zh">NASCAR Grand National Series Motor Racing. Las Vegas 2</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261006153000 +0700" stop="20261006160000 +0700">
     <title lang="zh">Bike World. Series 9 Episode 151</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="408658" start="20261005170000 +0700" stop="20261005190000 +0700">
-    <title lang="zh">NHL Hockey. Winnipeg Jets at Detroit Red Wings</title>
+  <programme channel="408658" start="20261006160000 +0700" stop="20261006163000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 10</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="408658" start="20261005190000 +0700" stop="20261005210000 +0700">
-    <title lang="zh">NHL Hockey. Utah Mammoth at New York Rangers</title>
+  <programme channel="408658" start="20261006163000 +0700" stop="20261006183000 +0700">
+    <title lang="zh">NHL Hockey. Philadelphia Flyers at Tampa Bay Lightning</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="408658" start="20261005210000 +0700" stop="20261005213000 +0700">
-    <title lang="zh">Temples of Sport. Maracana Stadium</title>
+  <programme channel="408658" start="20261006183000 +0700" stop="20261006203000 +0700">
+    <title lang="zh">International Friendly Football. Argentina v Burkina Faso</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="408658" start="20261005213000 +0700" stop="20261006070000 +0700">
+  <programme channel="408658" start="20261006203000 +0700" stop="20261006210000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 8</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261006210000 +0700" stop="20261006213000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 9</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261006213000 +0700" stop="20261006233000 +0700">
+    <title lang="zh">Top 14. Round 5: TBA v TBA</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261006233000 +0700" stop="20261007013000 +0700">
+    <title lang="zh">United Rugby Championship. Hollywoodbets Sharks v Leinster</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261007013000 +0700" stop="20261007020000 +0700">
+    <title lang="zh">Temples of Sport. Wembley Stadium</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261007020000 +0700" stop="20261007035500 +0700">
+    <title lang="zh">Top 14. Castres Olympique v Stade Toulousain</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261007035500 +0700" stop="20261007055000 +0700">
+    <title lang="zh">International Friendly Football. Argentina v Burkina Faso</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261007055000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">⋗ International Friendly Football. Argentina v Benin</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="408658" start="20261007080000 +0700" stop="20261007081000 +0700">
+    <title lang="zh">LaLiga Highlights. RC Celta v Racing Santander</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007081000 +0700" stop="20261007082000 +0700">
+    <title lang="zh">LaLiga Highlights. Valencia CF v Real Sociedad</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007082000 +0700" stop="20261007083000 +0700">
+    <title lang="zh">LaLiga Highlights. Atlético Madrid v Real Madrid</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007083000 +0700" stop="20261007090000 +0700">
+    <title lang="zh">This is Hockey. Colombia</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007090000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">⋗ NHL Hockey. Florida Panthers at Los Angeles Kings</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007120000 +0700" stop="20261007123000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007123000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">Coppa Italia. Second Round: Palermo v Mantova</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007143000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">Scottish League Cup. Quarter-Final: Rangers v Celtic</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007163000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">Temples of Sport. Wembley Stadium</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007170000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">Temples of Sport. Anfield</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007173000 +0700" stop="20261007183000 +0700">
+    <title lang="zh">Mass Participation. UK Challenge</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007183000 +0700" stop="20261007203000 +0700">
+    <title lang="zh">NHL Hockey. Carolina Hurricanes at Montreal Canadiens</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007203000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">Coppa Italia. Second Round: Fiorentina v Pisa</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007223000 +0700" stop="20261007230000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007230000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 4</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261007233000 +0700" stop="20261008013000 +0700">
+    <title lang="zh">Top 14. Castres Olympique v Stade Toulousain</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261008013000 +0700" stop="20261008033000 +0700">
     <title lang="zh">United Rugby Championship. Glasgow Warriors v Ulster</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261008033000 +0700" stop="20261008053000 +0700">
+    <title lang="zh">Top 14. Union Bordeaux-Bègles v LOU Rugby</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261008053000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">Temples of Sport. Alpe D'Huez</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261008060000 +0700" stop="20261008063000 +0700">
+    <title lang="zh">Temples of Sport. Royal Birkdale Golf Course</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="408658" start="20261008063000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">⋗ NHL Hockey. Pittsburgh Penguins at Washington Capitals</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+<channel id="369809">
+    <display-name lang="Singapore">HBO HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369809" start="20261006070000 +0700" stop="20261006084500 +0700">
+    <title lang="zh">NO RESERVATIONS</title>
+    <desc>Catherine Zeta Jones stars as a chef with a fiery temper struggling to care for her orphan niece and manage the handsome new sous chef.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006084500 +0700" stop="20261006110000 +0700">
+    <title lang="zh">VAN HELSING</title>
+    <desc>Hugh Jackman and Kate Beckinsale star in this action adventure where legendary monsters meet Van Helsing, the fabled hunter on a quest to vanquish evil.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006110000 +0700" stop="20261006130500 +0700">
+    <title lang="zh">INDIANA JONES AND THE LAST CRUSADE</title>
+    <desc>After settling down to a quieter life, Indy is thrust back into action when his father mysteriously disappears while on a quest for the Holy Grail.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006130500 +0700" stop="20261006145500 +0700">
+    <title lang="zh">TURTLES ALL THE WAY DOWN</title>
+    <desc>Turtles All the Way Down tackles anxiety through its 17-year-old protagonist, Aza Holmes.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006145500 +0700" stop="20261006165000 +0700">
+    <title lang="zh">SAVE THE LAST DANCE</title>
+    <desc>A small-town girl with big dreams must face the biggest challenge of her life – to stay true to her dream and her new romance.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006165000 +0700" stop="20261006181500 +0700">
+    <title lang="zh">TEEN TITANS GO! TO THE MOVIES</title>
+    <desc>The Teen Titans head to Tinsel Town to pursue their dream of starring in their own movies.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006181500 +0700" stop="20261006200000 +0700">
+    <title lang="zh">LONDON FIELDS</title>
+    <desc>Nicola Six has a dark foreshadowing of her impending murder. But instead of trying to save herself, she seduces three different men - one of whom will be her killer.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006200000 +0700" stop="20261006220000 +0700">
+    <title lang="zh">INDIANA JONES AND THE KINGDOM OF THE CRYSTAL SKULL</title>
+    <desc>Harrison Ford is back as Indy in this new globe-trotting adventure, as he tries to find the secret behind the mysterious Crystal Skull.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006220000 +0700" stop="20261006233000 +0700">
+    <title lang="zh">TRUST</title>
+    <desc>After a scandal, a Hollywood starlet retreats to a remote cabin – but betrayal by the man she trusted sparks a brutal game of survival.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006233000 +0700" stop="20261006235000 +0700">
+    <title lang="zh">BOOKIE S2</title>
+    <desc>After an untimely personal loss, Ray's home life spirals out of control, causing Danny to take Hector under his wing.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261006235000 +0700" stop="20261007001000 +0700">
+    <title lang="zh">BOOKIE S2</title>
+    <desc>When a client bets big on the WNBA, Danny and Ray realize their banker – and money – have gone missing.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261007001000 +0700" stop="20261007020500 +0700">
+    <title lang="zh">NOT WITHOUT HOPE</title>
+    <desc>Four best friends went for a fishing trip. While attempting to free a trapped anchor, their boat capsizes, throwing them into the freezing water.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261007020500 +0700" stop="20261007040000 +0700">
+    <title lang="zh">ROCKETMAN</title>
+    <desc>A shy, small-town boy becomes one of the most iconic figures in rock &amp; roll we all know as Elton John.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261007040000 +0700" stop="20261007054000 +0700">
+    <title lang="zh">THE SPIDERWICK CHRONICLES</title>
+    <desc>Twin brothers and their sister stumble upon a mysterious book about the existence of faeries, only to be pulled into a fantastical world of magic and adventure.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261007054000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">VAN HELSING</title>
+    <desc>Hugh Jackman and Kate Beckinsale star in this action adventure where legendary monsters meet Van Helsing, the fabled hunter on a quest to vanquish evil.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369809" start="20261007075500 +0700" stop="20261007094000 +0700">
+    <title lang="zh">LONDON FIELDS</title>
+    <desc>Nicola Six has a dark foreshadowing of her impending murder. But instead of trying to save herself, she seduces three different men - one of whom will be her killer.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007094000 +0700" stop="20261007100500 +0700">
+    <title lang="zh">HOLLYWOOD ON SET S1</title>
+    <desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007100500 +0700" stop="20261007115000 +0700">
+    <title lang="zh">THE FIRST WIVES CLUB</title>
+    <desc>Three divorced women seek revenge on the husbands who left them for younger women.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007115000 +0700" stop="20261007134500 +0700">
+    <title lang="zh">SAVE THE LAST DANCE</title>
+    <desc>A small-town girl with big dreams must face the biggest challenge of her life – to stay true to her dream and her new romance.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007134500 +0700" stop="20261007152000 +0700">
+    <title lang="zh">THE ASTRONAUT</title>
+    <desc>After returning from her first space mission, astronaut Sam Walker fears that something extraterrestrial has followed her back to Earth.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007152000 +0700" stop="20261007171000 +0700">
+    <title lang="zh">DEAR SANTA</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007171000 +0700" stop="20261007184000 +0700">
+    <title lang="zh">TRUST</title>
+    <desc>After a scandal, a Hollywood starlet retreats to a remote cabin – but betrayal by the man she trusted sparks a brutal game of survival.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007184000 +0700" stop="20261007210000 +0700">
+    <title lang="zh">BLOOD DIAMOND</title>
+    <desc>A smuggler, fisherman and reporter team up in search of a priceless pink diamond, a lost son and the dark story behind the diamond trade.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007210000 +0700" stop="20261007212500 +0700">
+    <title lang="zh">BOOKIE S2</title>
+    <desc>After Walt takes ownership of Danny's book, Danny and Ray take off for Costa Rica to assess the future of their business.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007212500 +0700" stop="20261007215000 +0700">
+    <title lang="zh">BOOKIE S2</title>
+    <desc>A violent showdown in Costa Rica leads to a breakthrough for Danny and Ray. Back in LA, Danny and Marian have realizations of their own.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261007215000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">LEE CRONIN'S THE MUMMY</title>
+    <desc>The young daughter of a journalist disappears without a trace in the desert. The shattered family is stunned when the girl suddenly reappears eight years later. But what should have been a joyful reunion quickly turns into a true nightmare.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261008000000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">LANTERNS S1</title>
+    <desc>The series follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261008010000 +0700" stop="20261008031000 +0700">
+    <title lang="zh">SONG SUNG BLUE</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261008031000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">THE CONJURING: THE DEVIL MADE ME DO IT</title>
+    <desc>Paranormal investigators Ed and Lorraine Warren try to uncover the truth behind a murderer's claim of demonic possession.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261008050000 +0700" stop="20261008063000 +0700">
+    <title lang="zh">THE ASTRONAUT</title>
+    <desc>After returning from her first space mission, astronaut Sam Walker fears that something extraterrestrial has followed her back to Earth.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369809" start="20261008063000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">THE FIRST WIVES CLUB</title>
+    <desc>Three divorced women seek revenge on the husbands who left them for younger women.</desc>
+    <date>2026-10-07</date>
+  </programme>
+<channel id="417364">
+    <display-name lang="Russian Federation">Setanta Sports 1 Lietuva</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/03/15/20250315022730840182_51.png" />
+  </channel>
+  <programme channel="417364" start="20261006070000 +0700" stop="20261006100000 +0700">
+    <title lang="zh">Tennis: WTA Singapore. Final (Tennis: Singapore Open)</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="417364" start="20261006100000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">Tennis: WTA 1000 China Open (Tennis: China Open), 2026</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="417364" start="20261006120000 +0700" stop="20261006140000 +0700">
+    <title lang="zh">Tennis: WTA 1000 China Open (Tennis: China Open), 2026</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="417364" start="20261006140000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">12</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+<channel id="417351">
+    <display-name lang="Russian Federation">Setanta Sports 2 Lietuva</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/03/15/20250315021926005178_77.png" />
+  </channel>
+  <programme channel="417351" start="20261006080000 +0700" stop="20261006100000 +0700">
+    <title lang="zh">Football: Bundesliga. Stuttgart – Borussia Dortmund (1. Bundesliga)</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="417351" start="20261006100000 +0700" stop="20261006120000 +0700">
+    <title lang="zh">Football: LaLiga. Atletico Madrid – Real Madrid (LaLiga)</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="417351" start="20261006120000 +0700" stop="20261006140000 +0700">
+    <title lang="zh">Football: French Ligue 1. Marseille – Paris SG (Ligue 1 McDonald's)</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="417351" start="20261006140000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">Football: Serie A. Roma – Inter (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-10-06</date>
   </programme>
 <channel id="369786">
     <display-name lang="Singapore">HBO Family (HD)</display-name>
@@ -8211,6 +9937,170 @@
     <desc>A royal visit from the King and Queen of England unleashes scandal, romance and intrigue that leave the future of Downton hanging in the balance.</desc>
     <date>2026-10-06</date>
   </programme>
+<channel id="369758">
+    <display-name lang="Singapore">HBO Signature (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369758" start="20261006081500 +0700" stop="20261006084500 +0700">
+    <title lang="zh">HOLLYWOOD ON SET S1</title>
+    <desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006084500 +0700" stop="20261006095000 +0700">
+    <title lang="zh">INDUSTRY S4</title>
+    <desc>As Tender dominates the headlines, Harper, Yasmin, and Henry each face a moment of reckoning.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006095000 +0700" stop="20261006113000 +0700">
+    <title lang="zh">THE MOMENT</title>
+    <desc>A rising pop star navigates the complexities of fame and industry pressure while preparing for her arena tour debut.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006113000 +0700" stop="20261006124000 +0700">
+    <title lang="zh">LIVING WITH LINCOLN</title>
+    <desc>This documentary examines how a one-of-a-kind collection of Abraham Lincoln photos and memorabilia have shaped the lives and sensibilities of five generations of his family.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006124000 +0700" stop="20261006144000 +0700">
+    <title lang="zh">CHOCOLAT</title>
+    <desc>A woman opens a chocolate shop in a French town and creates confections that inspire the straitlaced villagers to abandon themselves to temptation and happiness.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006144000 +0700" stop="20261006164000 +0700">
+    <title lang="zh">CRAZY RICH ASIANS</title>
+    <desc>Chinese-American New Yorker Rachel Chu travels to Singapore with her boyfriend Nick to attend his best friend's wedding. Before long, his secret is out: Nick's family is wealthy, and he's considered the most eligible bachelor in Asia….</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006164000 +0700" stop="20261006172000 +0700">
+    <title lang="zh">THE FENCE</title>
+    <desc>Built along the border between US and Mexico, the 700-mile fence brings about unexpected impacts that are anything but achieving its intended purposes.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006172000 +0700" stop="20261006185500 +0700">
+    <title lang="zh">ATOMIC HOMEFRONT</title>
+    <desc>Probing the devastating impact of the illegal dumping of radioactive waste in North St. Louis communities, the moms-turned-advocates fight for answers.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006185500 +0700" stop="20261006210000 +0700">
+    <title lang="zh">ANEMONE</title>
+    <desc>Anemone explores the complex and profound ties that exist between brothers, fathers, and sons.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006210000 +0700" stop="20261006220000 +0700">
+    <title lang="zh">LANTERNS S1</title>
+    <desc>The series follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261006220000 +0700" stop="20261007000500 +0700">
+    <title lang="zh">HAMNET</title>
+    <desc>HAMNET tells the powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261007000500 +0700" stop="20261007014500 +0700">
+    <title lang="zh">JERSEY GIRL</title>
+    <desc>When a successful publicist finds himself an unemployed single father back living with his dad in the suburbs, he learns to acknowledge what truly makes him happy.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261007014500 +0700" stop="20261007025000 +0700">
+    <title lang="zh">INDUSTRY S4</title>
+    <desc>As Tender dominates the headlines, Harper, Yasmin, and Henry each face a moment of reckoning.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261007025000 +0700" stop="20261007043000 +0700">
+    <title lang="zh">PRIME MINISTER</title>
+    <desc>A view inside the life of former New Zealand Prime Minister Jacinda Ardern.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261007043000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">BALTIMORE RISING</title>
+    <desc>Baltimore Rising follows activists, police officers, community leaders and gang affiliates, who struggle to hold Baltimore together.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261007060000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">SAUDI WOMEN'S DRIVING SCHOOL</title>
+    <desc>This film captures how women's lives are changing in Saudi Arabia, their hopes and challenges in a country that appears to be making strides forward but continues to silence and jail female activists.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369758" start="20261007070500 +0700" stop="20261007085000 +0700">
+    <title lang="zh">BRESLIN AND HAMILL: DEADLINE ARTISTS</title>
+    <desc>The documentary brings New York columnists Jimmy Breslin and Pete Hamill's courageous writing to life, celebrating the acclaimed journalists and the city they loved.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007085000 +0700" stop="20261007101000 +0700">
+    <title lang="zh">THE GILDED AGE S1</title>
+    <desc>After the death of her father and accompanied by Peggy Scott, Marian Brook travels to New York to live with her aristocratic aunts, Agnes van Rhijn and Ada Brook.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007101000 +0700" stop="20261007115000 +0700">
+    <title lang="zh">HEIR TO AN EXECUTION: A GRANDDAUGHTER'S STORY</title>
+    <desc>This film chronicles the lives and deaths of martyrs and atomic spies, Julius and Ethel Rosenberg, told through their granddaughter and filmmaker, Ivy Meeropol.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007115000 +0700" stop="20261007125000 +0700">
+    <title lang="zh">LANTERNS S1</title>
+    <desc>The series follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007125000 +0700" stop="20261007145500 +0700">
+    <title lang="zh">HAMNET</title>
+    <desc>HAMNET tells the powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007145500 +0700" stop="20261007161500 +0700">
+    <title lang="zh">TAKING CHANCE</title>
+    <desc>Kevin Bacon stars in this profoundly moving HBO Original Movie that looks at the military rituals for honoring its war dead.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007161500 +0700" stop="20261007182000 +0700">
+    <title lang="zh">ANEMONE</title>
+    <desc>Anemone explores the complex and profound ties that exist between brothers, fathers, and sons.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007182000 +0700" stop="20261007200500 +0700">
+    <title lang="zh">BRESLIN AND HAMILL: DEADLINE ARTISTS</title>
+    <desc>The documentary brings New York columnists Jimmy Breslin and Pete Hamill's courageous writing to life, celebrating the acclaimed journalists and the city they loved.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007200500 +0700" stop="20261007210000 +0700">
+    <title lang="zh">CHARLIE HUSTLE &amp; THE MATTER OF PETE ROSE S1</title>
+    <desc>Three decades after receiving a lifetime ban for gambling, former Cincinnati Reds star Pete Rose reignites his quest for reinstatement.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007210000 +0700" stop="20261007224500 +0700">
+    <title lang="zh">LAND OF GOLD</title>
+    <desc>A truck driver finds a young Mexican American girl inside his shipping container and his life takes a turn as he tries to reunite her with her family.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261007224500 +0700" stop="20261008001500 +0700">
+    <title lang="zh">BLACK BAG</title>
+    <desc>An intelligence agent is suspected of betraying the nation, forcing her agent husband to choose between loyalty to his marriage or his country.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261008001500 +0700" stop="20261008014500 +0700">
+    <title lang="zh">HIM</title>
+    <desc>A rising star quarterback suffers a potentially career-ending brain trauma after an attack by an unhinged fan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261008014500 +0700" stop="20261008030500 +0700">
+    <title lang="zh">THE GILDED AGE S1</title>
+    <desc>After the death of her father and accompanied by Peggy Scott, Marian Brook travels to New York to live with her aristocratic aunts, Agnes van Rhijn and Ada Brook.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261008030500 +0700" stop="20261008041500 +0700">
+    <title lang="zh">LIVING WITH LINCOLN</title>
+    <desc>This documentary examines how a one-of-a-kind collection of Abraham Lincoln photos and memorabilia have shaped the lives and sensibilities of five generations of his family.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261008041500 +0700" stop="20261008055000 +0700">
+    <title lang="zh">ATOMIC HOMEFRONT</title>
+    <desc>Probing the devastating impact of the illegal dumping of radioactive waste in North St. Louis communities, the moms-turned-advocates fight for answers.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="369758" start="20261008055000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">HEIR TO AN EXECUTION: A GRANDDAUGHTER'S STORY</title>
+    <desc>This film chronicles the lives and deaths of martyrs and atomic spies, Julius and Ethel Rosenberg, told through their granddaughter and filmmaker, Ivy Meeropol.</desc>
+    <date>2026-10-07</date>
+  </programme>
 <channel id="369795">
     <display-name lang="Singapore">CINEMAX (HD)</display-name>
     <icon src="" />
@@ -8359,224 +10249,699 @@
     <display-name lang="Russian Federation">Sport 1 CZ</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/11/20241211020801051810_31.png" />
   </channel>
-  <programme channel="406253" start="20261005113000 +0700" stop="20261005120000 +0700">
+  <programme channel="406253" start="20261006113000 +0700" stop="20261006120000 +0700">
     <title lang="zh">Motoring</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005120000 +0700" stop="20261005121000 +0700">
+  <programme channel="406253" start="20261006120000 +0700" stop="20261006121000 +0700">
     <title lang="zh">Športové sekundy</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005121000 +0700" stop="20261005122000 +0700">
+  <programme channel="406253" start="20261006121000 +0700" stop="20261006122000 +0700">
     <title lang="zh">Švihák testuje</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005122000 +0700" stop="20261005123500 +0700">
+  <programme channel="406253" start="20261006122000 +0700" stop="20261006123500 +0700">
     <title lang="zh">Martin z Martina</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005123500 +0700" stop="20261005130000 +0700">
+  <programme channel="406253" start="20261006123500 +0700" stop="20261006130000 +0700">
     <title lang="zh">Motoring</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005130000 +0700" stop="20261005133000 +0700">
+  <programme channel="406253" start="20261006130000 +0700" stop="20261006133000 +0700">
     <title lang="zh">GarazTV</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005133000 +0700" stop="20261005140000 +0700">
+  <programme channel="406253" start="20261006133000 +0700" stop="20261006140000 +0700">
     <title lang="zh">AutoGRATIS</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005140000 +0700" stop="20261005143000 +0700">
+  <programme channel="406253" start="20261006140000 +0700" stop="20261006143000 +0700">
     <title lang="zh">Motoride</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005143000 +0700" stop="20261005150000 +0700">
+  <programme channel="406253" start="20261006143000 +0700" stop="20261006150000 +0700">
     <title lang="zh">Autožurnál</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005150000 +0700" stop="20261005153000 +0700">
+  <programme channel="406253" start="20261006150000 +0700" stop="20261006153000 +0700">
     <title lang="zh">GarazTV</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005153000 +0700" stop="20261005160000 +0700">
+  <programme channel="406253" start="20261006153000 +0700" stop="20261006160000 +0700">
     <title lang="zh">Martin z Martina</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005160000 +0700" stop="20261005163000 +0700">
+  <programme channel="406253" start="20261006160000 +0700" stop="20261006163000 +0700">
     <title lang="zh">DRIVE IT – Ondrej Macko</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005163000 +0700" stop="20261005170000 +0700">
+  <programme channel="406253" start="20261006163000 +0700" stop="20261006170000 +0700">
     <title lang="zh">Motoring</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005170000 +0700" stop="20261005173000 +0700">
+  <programme channel="406253" start="20261006170000 +0700" stop="20261006173000 +0700">
     <title lang="zh">DominicCars</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005173000 +0700" stop="20261005174500 +0700">
+  <programme channel="406253" start="20261006173000 +0700" stop="20261006174500 +0700">
     <title lang="zh">Cargo Magazín</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005174500 +0700" stop="20261005180000 +0700">
+  <programme channel="406253" start="20261006174500 +0700" stop="20261006180000 +0700">
     <title lang="zh">Martin z Martina</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005180000 +0700" stop="20261005181500 +0700">
+  <programme channel="406253" start="20261006180000 +0700" stop="20261006181500 +0700">
     <title lang="zh">Švihák testuje</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005181500 +0700" stop="20261005183000 +0700">
+  <programme channel="406253" start="20261006181500 +0700" stop="20261006183000 +0700">
     <title lang="zh">Piok Cars</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005183000 +0700" stop="20261005190000 +0700">
+  <programme channel="406253" start="20261006183000 +0700" stop="20261006190000 +0700">
     <title lang="zh">GarazTV</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005190000 +0700" stop="20261005193000 +0700">
+  <programme channel="406253" start="20261006190000 +0700" stop="20261006193000 +0700">
     <title lang="zh">DominicCars</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005193000 +0700" stop="20261005200000 +0700">
+  <programme channel="406253" start="20261006193000 +0700" stop="20261006200000 +0700">
     <title lang="zh">AutoGRATIS</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005200000 +0700" stop="20261005201500 +0700">
+  <programme channel="406253" start="20261006200000 +0700" stop="20261006201500 +0700">
     <title lang="zh">Martin z Martina</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005201500 +0700" stop="20261005204500 +0700">
+  <programme channel="406253" start="20261006201500 +0700" stop="20261006204500 +0700">
     <title lang="zh">Motoring</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005204500 +0700" stop="20261005211500 +0700">
+  <programme channel="406253" start="20261006204500 +0700" stop="20261006211500 +0700">
     <title lang="zh">Cargo Magazín</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005211500 +0700" stop="20261005213000 +0700">
+  <programme channel="406253" start="20261006211500 +0700" stop="20261006213000 +0700">
     <title lang="zh">Švihák testuje</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406253" start="20261005213000 +0700" stop="20261006070000 +0700">
+  <programme channel="406253" start="20261006213000 +0700" stop="20261006223000 +0700">
     <title lang="zh">Autožurnál</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261006223000 +0700" stop="20261006230000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261006230000 +0700" stop="20261006233000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261006233000 +0700" stop="20261007000000 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007000000 +0700" stop="20261007003000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007003000 +0700" stop="20261007010000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007010000 +0700" stop="20261007013000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007013000 +0700" stop="20261007020000 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007020000 +0700" stop="20261007030000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007030000 +0700" stop="20261007040000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007040000 +0700" stop="20261007043000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007043000 +0700" stop="20261007050000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007050000 +0700" stop="20261007060000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007060000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406253" start="20261007113000 +0700" stop="20261007120000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007120000 +0700" stop="20261007121000 +0700">
+    <title lang="zh">Športové sekundy</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007121000 +0700" stop="20261007122000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007122000 +0700" stop="20261007123500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007123500 +0700" stop="20261007130000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007130000 +0700" stop="20261007133000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007133000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007140000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007143000 +0700" stop="20261007150000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007150000 +0700" stop="20261007153000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007153000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007160000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007163000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007170000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007173000 +0700" stop="20261007174500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007174500 +0700" stop="20261007180000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007180000 +0700" stop="20261007181500 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007181500 +0700" stop="20261007183000 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007183000 +0700" stop="20261007190000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007190000 +0700" stop="20261007193000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007193000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007200000 +0700" stop="20261007201500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007201500 +0700" stop="20261007204500 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007204500 +0700" stop="20261007211500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007211500 +0700" stop="20261007213000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007213000 +0700" stop="20261007223000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007223000 +0700" stop="20261007230000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007230000 +0700" stop="20261007233000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261007233000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008000000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008003000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008010000 +0700" stop="20261008013000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008013000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008020000 +0700" stop="20261008030000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008030000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008040000 +0700" stop="20261008043000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008043000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008050000 +0700" stop="20261008060000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406253" start="20261008060000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-07</date>
   </programme>
 <channel id="406295">
     <display-name lang="Russian Federation">Sport 2 CZ</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/11/20241211022507915937_94.png" />
   </channel>
-  <programme channel="406295" start="20261005130000 +0700" stop="20261005133000 +0700">
+  <programme channel="406295" start="20261006130000 +0700" stop="20261006133000 +0700">
     <title lang="zh">Naša Garáž</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005133000 +0700" stop="20261005140000 +0700">
+  <programme channel="406295" start="20261006133000 +0700" stop="20261006140000 +0700">
     <title lang="zh">Naša Garáž</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005140000 +0700" stop="20261005143000 +0700">
+  <programme channel="406295" start="20261006140000 +0700" stop="20261006143000 +0700">
     <title lang="zh">DominicCars</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005143000 +0700" stop="20261005150000 +0700">
+  <programme channel="406295" start="20261006143000 +0700" stop="20261006150000 +0700">
     <title lang="zh">MM Automotive</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005150000 +0700" stop="20261005160000 +0700">
+  <programme channel="406295" start="20261006150000 +0700" stop="20261006160000 +0700">
     <title lang="zh">Vytuningované jazdy Fínsko</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005160000 +0700" stop="20261005163000 +0700">
+  <programme channel="406295" start="20261006160000 +0700" stop="20261006163000 +0700">
     <title lang="zh">Cargo Magazín</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005163000 +0700" stop="20261005170000 +0700">
+  <programme channel="406295" start="20261006163000 +0700" stop="20261006170000 +0700">
     <title lang="zh">Autožurnál</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005170000 +0700" stop="20261005173000 +0700">
+  <programme channel="406295" start="20261006170000 +0700" stop="20261006173000 +0700">
     <title lang="zh">Motoring</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005173000 +0700" stop="20261005180000 +0700">
+  <programme channel="406295" start="20261006173000 +0700" stop="20261006180000 +0700">
     <title lang="zh">DRIVE IT – Ondrej Macko</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005180000 +0700" stop="20261005183000 +0700">
+  <programme channel="406295" start="20261006180000 +0700" stop="20261006183000 +0700">
     <title lang="zh">Výběrová auta</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005183000 +0700" stop="20261005191500 +0700">
+  <programme channel="406295" start="20261006183000 +0700" stop="20261006191500 +0700">
     <title lang="zh">DominicCars</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005191500 +0700" stop="20261005194500 +0700">
+  <programme channel="406295" start="20261006191500 +0700" stop="20261006194500 +0700">
     <title lang="zh">MM Automotive</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005194500 +0700" stop="20261005200000 +0700">
+  <programme channel="406295" start="20261006194500 +0700" stop="20261006200000 +0700">
     <title lang="zh">Švihák testuje</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005200000 +0700" stop="20261005203000 +0700">
+  <programme channel="406295" start="20261006200000 +0700" stop="20261006203000 +0700">
     <title lang="zh">DominicCars</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005203000 +0700" stop="20261005204500 +0700">
+  <programme channel="406295" start="20261006203000 +0700" stop="20261006204500 +0700">
     <title lang="zh">Cargo Magazín</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005204500 +0700" stop="20261005211500 +0700">
+  <programme channel="406295" start="20261006204500 +0700" stop="20261006211500 +0700">
     <title lang="zh">Piok Cars</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
   </programme>
-  <programme channel="406295" start="20261005211500 +0700" stop="20261006070000 +0700">
+  <programme channel="406295" start="20261006211500 +0700" stop="20261006220000 +0700">
     <title lang="zh">DRIVE IT – Ondrej Macko</title>
     <desc />
-    <date>2026-10-05</date>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261006220000 +0700" stop="20261006224500 +0700">
+    <title lang="zh">Living City</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261006224500 +0700" stop="20261006233000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261006233000 +0700" stop="20261007000000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007000000 +0700" stop="20261007003000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007003000 +0700" stop="20261007010000 +0700">
+    <title lang="zh">Výběrová auta</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007010000 +0700" stop="20261007020000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007020000 +0700" stop="20261007024500 +0700">
+    <title lang="zh">Téma s Petrom Bielikom</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007024500 +0700" stop="20261007030000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007030000 +0700" stop="20261007033000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007033000 +0700" stop="20261007040000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007040000 +0700" stop="20261007043000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007043000 +0700" stop="20261007050000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007050000 +0700" stop="20261007070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="406295" start="20261007130000 +0700" stop="20261007133000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007133000 +0700" stop="20261007140000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007140000 +0700" stop="20261007143000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007143000 +0700" stop="20261007150000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007150000 +0700" stop="20261007160000 +0700">
+    <title lang="zh">Vytuningované jazdy Fínsko</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007160000 +0700" stop="20261007163000 +0700">
+    <title lang="zh">MarathonCast</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007163000 +0700" stop="20261007170000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007170000 +0700" stop="20261007173000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007173000 +0700" stop="20261007180000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007180000 +0700" stop="20261007183000 +0700">
+    <title lang="zh">Výběrová auta</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007183000 +0700" stop="20261007190000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007190000 +0700" stop="20261007193000 +0700">
+    <title lang="zh">Bez Extrémov</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007193000 +0700" stop="20261007200000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007200000 +0700" stop="20261007203000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007203000 +0700" stop="20261007204500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007204500 +0700" stop="20261007211500 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007211500 +0700" stop="20261007220000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007220000 +0700" stop="20261007224500 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007224500 +0700" stop="20261007233000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261007233000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008000000 +0700" stop="20261008003000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008003000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">Výběrová auta</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008010000 +0700" stop="20261008020000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008020000 +0700" stop="20261008024500 +0700">
+    <title lang="zh">Téma s Petrom Bielikom</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008024500 +0700" stop="20261008030000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008030000 +0700" stop="20261008033000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008033000 +0700" stop="20261008040000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008040000 +0700" stop="20261008043000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008043000 +0700" stop="20261008050000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="406295" start="20261008050000 +0700" stop="20261008070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-07</date>
   </programme>
 <channel id="12258">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">MUTV HD</display-name>
@@ -8961,5 +11326,139 @@
     <title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
     <desc>Full coverage of our Premier League match against Ipswich Town.</desc>
     <date>2026-10-06</date>
+  </programme>
+<channel id="445355">
+    <display-name lang="Russian Federation">Milan TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/07/16/20250716021106058103_15.png" />
+  </channel>
+  <programme channel="445355" start="20261006072500 +0700" stop="20261006084500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261006084500 +0700" stop="20261006114500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261006114500 +0700" stop="20261006134500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261006134500 +0700" stop="20261006154000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261006154000 +0700" stop="20261006173500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261006173500 +0700" stop="20261006191500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261006191500 +0700" stop="20261006211500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261006211500 +0700" stop="20261006231000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261006231000 +0700" stop="20261007010000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261007010000 +0700" stop="20261007035500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261007035500 +0700" stop="20261007050000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261007050000 +0700" stop="20261007062500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261007062500 +0700" stop="20261007070000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="445355" start="20261007072500 +0700" stop="20261007084500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261007084500 +0700" stop="20261007114500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261007114500 +0700" stop="20261007134500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261007134500 +0700" stop="20261007154000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261007154000 +0700" stop="20261007173500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261007173500 +0700" stop="20261007191500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261007191500 +0700" stop="20261007211500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261007211500 +0700" stop="20261007231000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261007231000 +0700" stop="20261008010000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261008010000 +0700" stop="20261008035500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261008035500 +0700" stop="20261008050000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261008050000 +0700" stop="20261008062500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="445355" start="20261008062500 +0700" stop="20261008070000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-07</date>
   </programme>
 </tv>
