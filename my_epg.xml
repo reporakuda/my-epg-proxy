@@ -5366,7 +5366,7 @@
 <programme start="20261011113000 +0700" stop="20261011113500 +0700" channel="Sukan RTM.my"><title>Kapsul RTM Sports</title><desc>Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc></programme>
 <programme start="20261011113500 +0700" stop="20261011162000 +0700" channel="Sukan RTM.my"><title>Siaran Langsung : MOTOGP 2026 PERTAMINA</title><desc>Saksikan secara langsung MOTOGP 2026 PERTAMINA - GRAND PRIX OF INDONESIA (RACE DAY) R17</desc></programme>
 <channel id="400477">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400477" start="20261009070000 +0700" stop="20261009100000 +0700">
@@ -5560,7 +5560,7 @@
     <date>2026-10-11</date>
   </programme>
 <channel id="400480">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400480" start="20261009070000 +0700" stop="20261009080000 +0700">
@@ -8121,6 +8121,11 @@
     <desc>Barcelona v Getafe.</desc>
     <date>2026-10-10</date>
   </programme>
+  <programme channel="219100" start="20261011070000 +0700" stop="20261012070000 +0700">
+    <title lang="zh">United Rugby Championship</title>
+    <desc>Ulster v Munster.</desc>
+    <date>2026-10-11</date>
+  </programme>
 <channel id="219104">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 2 HD</display-name>
     <icon src="" />
@@ -10015,10 +10020,615 @@
     <display-name lang="Russian Federation">Sport 1 CZ</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/11/20241211020801051810_31.png" />
   </channel>
+  <programme channel="406253" start="20261009113000 +0700" stop="20261009120000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009120000 +0700" stop="20261009121000 +0700">
+    <title lang="zh">Športové sekundy</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009121000 +0700" stop="20261009122000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009122000 +0700" stop="20261009123500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009123500 +0700" stop="20261009130000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009130000 +0700" stop="20261009133000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009133000 +0700" stop="20261009140000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009140000 +0700" stop="20261009143000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009143000 +0700" stop="20261009150000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009150000 +0700" stop="20261009153000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009153000 +0700" stop="20261009160000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009160000 +0700" stop="20261009163000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009163000 +0700" stop="20261009170000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009170000 +0700" stop="20261009173000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009173000 +0700" stop="20261009174500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009174500 +0700" stop="20261009180000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009180000 +0700" stop="20261009181500 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009181500 +0700" stop="20261009183000 +0700">
+    <title lang="zh">PAV PROFINCAR Ostrá Lúka 2026</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009183000 +0700" stop="20261009190000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009190000 +0700" stop="20261009193000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009193000 +0700" stop="20261009200000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009200000 +0700" stop="20261009201500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009201500 +0700" stop="20261009204500 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009204500 +0700" stop="20261009211500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009211500 +0700" stop="20261009213000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009213000 +0700" stop="20261009223000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009223000 +0700" stop="20261009230000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009230000 +0700" stop="20261009233000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261009233000 +0700" stop="20261010000000 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010000000 +0700" stop="20261010003000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010003000 +0700" stop="20261010010000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010010000 +0700" stop="20261010030000 +0700">
+    <title lang="zh">PSV Eindhoven – sc Heerenveen</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010030000 +0700" stop="20261010040000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010040000 +0700" stop="20261010043000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010043000 +0700" stop="20261010050000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010050000 +0700" stop="20261010060000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010060000 +0700" stop="20261010070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406253" start="20261010113000 +0700" stop="20261010120000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010120000 +0700" stop="20261010121000 +0700">
+    <title lang="zh">Športové sekundy</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010121000 +0700" stop="20261010122000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010122000 +0700" stop="20261010123500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010123500 +0700" stop="20261010130000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010130000 +0700" stop="20261010133000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010133000 +0700" stop="20261010140000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010140000 +0700" stop="20261010143000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010143000 +0700" stop="20261010150000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010150000 +0700" stop="20261010153000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010153000 +0700" stop="20261010160000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010160000 +0700" stop="20261010163000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010163000 +0700" stop="20261010170000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010170000 +0700" stop="20261010173000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010173000 +0700" stop="20261010174500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010174500 +0700" stop="20261010180000 +0700">
+    <title lang="zh">PAV PROFINCAR Ostrá Lúka 2026</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010180000 +0700" stop="20261010181500 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010181500 +0700" stop="20261010183000 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010183000 +0700" stop="20261010190000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010190000 +0700" stop="20261010193000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010193000 +0700" stop="20261010200000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010200000 +0700" stop="20261010201500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010201500 +0700" stop="20261010204500 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010204500 +0700" stop="20261010211500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010211500 +0700" stop="20261010213000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010213000 +0700" stop="20261010223000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010223000 +0700" stop="20261010230000 +0700">
+    <title lang="zh">Motoride</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010230000 +0700" stop="20261010233000 +0700">
+    <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010233000 +0700" stop="20261010234500 +0700">
+    <title lang="zh">Topspeed</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261010234500 +0700" stop="20261011014500 +0700">
+    <title lang="zh">Feyenoord – AZ Alkmaar</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261011014500 +0700" stop="20261011020000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261011020000 +0700" stop="20261011040000 +0700">
+    <title lang="zh">AFC Ajax – NEC</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261011040000 +0700" stop="20261011043000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261011043000 +0700" stop="20261011050000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261011050000 +0700" stop="20261011060000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406253" start="20261011060000 +0700" stop="20261011070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
 <channel id="406295">
     <display-name lang="Russian Federation">Sport 2 CZ</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/12/11/20241211022507915937_94.png" />
   </channel>
+  <programme channel="406295" start="20261009130000 +0700" stop="20261009133000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009133000 +0700" stop="20261009140000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009140000 +0700" stop="20261009143000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009143000 +0700" stop="20261009150000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009150000 +0700" stop="20261009160000 +0700">
+    <title lang="zh">Vytuningované jazdy Fínsko</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009160000 +0700" stop="20261009161500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009161500 +0700" stop="20261009163000 +0700">
+    <title lang="zh">PAV PROFINCAR Ostrá Lúka 2026</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009163000 +0700" stop="20261009170000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009170000 +0700" stop="20261009173000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009173000 +0700" stop="20261009180000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009180000 +0700" stop="20261009183000 +0700">
+    <title lang="zh">Výběrová auta</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009183000 +0700" stop="20261009191500 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009191500 +0700" stop="20261009194500 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009194500 +0700" stop="20261009200000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009200000 +0700" stop="20261009203000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009203000 +0700" stop="20261009204500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009204500 +0700" stop="20261009211500 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009211500 +0700" stop="20261009220000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009220000 +0700" stop="20261009224500 +0700">
+    <title lang="zh">MarathonCast</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009224500 +0700" stop="20261009233000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261009233000 +0700" stop="20261010000000 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261010000000 +0700" stop="20261010020000 +0700">
+    <title lang="zh">SC Preußen Münster Rot-Weiss Essen</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261010020000 +0700" stop="20261010021500 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261010021500 +0700" stop="20261010041500 +0700">
+    <title lang="zh">SC Braga – Sporting CP</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261010041500 +0700" stop="20261010043000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261010043000 +0700" stop="20261010050000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261010050000 +0700" stop="20261010070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="406295" start="20261010130000 +0700" stop="20261010133000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010133000 +0700" stop="20261010140000 +0700">
+    <title lang="zh">Naša Garáž</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010140000 +0700" stop="20261010144500 +0700">
+    <title lang="zh">Living City</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010144500 +0700" stop="20261010150000 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010150000 +0700" stop="20261010160000 +0700">
+    <title lang="zh">Vytuningované jazdy Fínsko</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010160000 +0700" stop="20261010163000 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010163000 +0700" stop="20261010170000 +0700">
+    <title lang="zh">Autožurnál</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010170000 +0700" stop="20261010173000 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010173000 +0700" stop="20261010180000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010180000 +0700" stop="20261010183000 +0700">
+    <title lang="zh">Výběrová auta</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010183000 +0700" stop="20261010190000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010190000 +0700" stop="20261010210000 +0700">
+    <title lang="zh">FC Würzburger Kickers – F.C. Hansa Rostock</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010210000 +0700" stop="20261010213000 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010213000 +0700" stop="20261010220000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261010220000 +0700" stop="20261011000000 +0700">
+    <title lang="zh">Grazer AK 1902 – FC Red Bull Salzburg</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261011000000 +0700" stop="20261011020000 +0700">
+    <title lang="zh">Maritimo – FC Porto</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261011020000 +0700" stop="20261011021500 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261011021500 +0700" stop="20261011023000 +0700">
+    <title lang="zh">PAV PROFINCAR Ostrá Lúka 2026</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261011023000 +0700" stop="20261011030000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261011030000 +0700" stop="20261011053000 +0700">
+    <title lang="zh">Blue Cross NC 250</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="406295" start="20261011053000 +0700" stop="20261011070000 +0700">
+    <title lang="zh">Nočné vysielanie</title>
+    <desc />
+    <date>2026-10-10</date>
+  </programme>
 <channel id="12258">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">MUTV HD</display-name>
     <icon src="" />
@@ -10173,9 +10783,14 @@
     <desc>United Archives 6/3/02. David Beckham once again produces a fine display against Spurs as the Reds ease to victory at Old Trafford.</desc>
     <date>2026-10-09</date>
   </programme>
-  <programme channel="12258" start="20261009220000 +0700" stop="20261009230000 +0700">
+  <programme channel="12258" start="20261009220000 +0700" stop="20261009225000 +0700">
     <title lang="zh">Podcast</title>
     <desc>Youri Tielemans, Frazier Campbell and Harry Redknapp join us on Inside Carrington to preview our Premier League game against Tottenham.</desc>
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="12258" start="20261009225000 +0700" stop="20261009230000 +0700">
+    <title lang="zh">New: Phallon Tullis-Joyce: New York</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
     <date>2026-10-09</date>
   </programme>
   <programme channel="12258" start="20261009230000 +0700" stop="20261009233000 +0700">
@@ -10220,12 +10835,12 @@
   </programme>
   <programme channel="12258" start="20261010030000 +0700" stop="20261010031500 +0700">
     <title lang="zh">New: United with Fans</title>
-    <desc>A group of young Reds are invited to Carrington as part of our fans training sessions.</desc>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
     <date>2026-10-09</date>
   </programme>
   <programme channel="12258" start="20261010031500 +0700" stop="20261010033000 +0700">
     <title lang="zh">Live: Press Conference</title>
-    <desc>Live press conference ahead of our Barclays Premier League match against Tottenham.</desc>
+    <desc>Live press conference ahead of our Premier League match against Tottenham Hotspur.</desc>
     <date>2026-10-09</date>
   </programme>
   <programme channel="12258" start="20261010033000 +0700" stop="20261010034500 +0700">
@@ -10258,9 +10873,14 @@
     <desc>United Archives 12/03/22.  Cristiano Ronaldo put on a one-man superstar goal-show as United hosted Tottenham at Old Trafford.</desc>
     <date>2026-10-09</date>
   </programme>
-  <programme channel="12258" start="20261010050000 +0700" stop="20261010060000 +0700">
+  <programme channel="12258" start="20261010050000 +0700" stop="20261010055000 +0700">
     <title lang="zh">Podcast</title>
     <desc>Youri Tielemans, Frazier Campbell and Harry Redknapp join us on Inside Carrington to preview our Premier League game against Tottenham.</desc>
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="12258" start="20261010055000 +0700" stop="20261010060000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
     <date>2026-10-09</date>
   </programme>
   <programme channel="12258" start="20261010060000 +0700" stop="20261010061500 +0700">
@@ -10270,7 +10890,7 @@
   </programme>
   <programme channel="12258" start="20261010061500 +0700" stop="20261010063000 +0700">
     <title lang="zh">Player Spotlight</title>
-    <desc>A group of young Reds are invited to Carrington as part of our fans training sessions.</desc>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
     <date>2026-10-09</date>
   </programme>
   <programme channel="12258" start="20261010063000 +0700" stop="20261010070000 +0700">
@@ -10333,9 +10953,14 @@
     <desc>United Archives 17/4/06. After a disappointing home draw with Sunderland, the Reds travelled to White Hart Lane looking for their fifth straight win away to Spurs.</desc>
     <date>2026-10-10</date>
   </programme>
-  <programme channel="12258" start="20261010113000 +0700" stop="20261010123000 +0700">
+  <programme channel="12258" start="20261010113000 +0700" stop="20261010122000 +0700">
     <title lang="zh">Podcast</title>
     <desc>Youri Tielemans, Frazier Campbell and Harry Redknapp join us on Inside Carrington to preview our Premier League game against Tottenham.</desc>
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="12258" start="20261010122000 +0700" stop="20261010123000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
     <date>2026-10-10</date>
   </programme>
   <programme channel="12258" start="20261010123000 +0700" stop="20261010124500 +0700">
@@ -10393,9 +11018,14 @@
     <desc>United Archives 30/10/21. Ole Gunnar Solskjaer hoped to end a 4-match winless run as United made the journey to the Tottenham Hotspur Stadium.</desc>
     <date>2026-10-10</date>
   </programme>
-  <programme channel="12258" start="20261010163000 +0700" stop="20261010173000 +0700">
+  <programme channel="12258" start="20261010163000 +0700" stop="20261010172000 +0700">
     <title lang="zh">Podcast</title>
     <desc>Youri Tielemans, Frazier Campbell and Harry Redknapp join us on Inside Carrington to preview our Premier League game against Tottenham.</desc>
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="12258" start="20261010172000 +0700" stop="20261010173000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
     <date>2026-10-10</date>
   </programme>
   <programme channel="12258" start="20261010173000 +0700" stop="20261010174500 +0700">
@@ -10435,7 +11065,7 @@
   </programme>
   <programme channel="12258" start="20261010201500 +0700" stop="20261010203000 +0700">
     <title lang="zh">Player Spotlight</title>
-    <desc>A group of young Reds are invited to Carrington as part of our fans training sessions.</desc>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
     <date>2026-10-10</date>
   </programme>
   <programme channel="12258" start="20261010203000 +0700" stop="20261010210000 +0700">
@@ -10473,9 +11103,14 @@
     <desc>United Archives 17/4/06. After a disappointing home draw with Sunderland, the Reds travelled to White Hart Lane looking for their fifth straight win away to Spurs.</desc>
     <date>2026-10-10</date>
   </programme>
-  <programme channel="12258" start="20261010233000 +0700" stop="20261011003000 +0700">
+  <programme channel="12258" start="20261010233000 +0700" stop="20261011002000 +0700">
     <title lang="zh">Podcast</title>
     <desc>Youri Tielemans, Frazier Campbell and Harry Redknapp join us on Inside Carrington to preview our Premier League game against Tottenham.</desc>
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="12258" start="20261011002000 +0700" stop="20261011003000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
     <date>2026-10-10</date>
   </programme>
   <programme channel="12258" start="20261011003000 +0700" stop="20261011005500 +0700">
@@ -10513,9 +11148,14 @@
     <desc>United Archives 19/10/22.  United hoped to close the gap on Antonio Conte's Tottenham side as the visitors came to Old Trafford.</desc>
     <date>2026-10-10</date>
   </programme>
-  <programme channel="12258" start="20261011044500 +0700" stop="20261011054500 +0700">
+  <programme channel="12258" start="20261011044500 +0700" stop="20261011053500 +0700">
     <title lang="zh">Podcast</title>
     <desc>Youri Tielemans, Frazier Campbell and Harry Redknapp join us on Inside Carrington to preview our Premier League game against Tottenham.</desc>
+    <date>2026-10-10</date>
+  </programme>
+  <programme channel="12258" start="20261011053500 +0700" stop="20261011054500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
     <date>2026-10-10</date>
   </programme>
   <programme channel="12258" start="20261011054500 +0700" stop="20261011060000 +0700">
