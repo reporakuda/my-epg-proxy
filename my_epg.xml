@@ -8577,6 +8577,11 @@
     <desc>A look at the growth of ice hockey in Argentina.</desc>
     <date>2026-10-12</date>
   </programme>
+  <programme channel="219100" start="20261013070000 +0700" stop="20261014070000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Minnesota Wild v Vegas Golden Knights (Face-off 1.00am). Coverage of the Western Conference match from Grand Casino Arena.</desc>
+    <date>2026-10-13</date>
+  </programme>
 <channel id="219104">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 2 HD</display-name>
     <icon src="" />
@@ -8751,7 +8756,7 @@
     <date>2026-10-11</date>
   </programme>
   <programme channel="408613" start="20261011120000 +0700" stop="20261011123000 +0700">
-    <title lang="zh">FIM World Supercross Championship. Birmingham Kickstart</title>
+    <title lang="zh">World of Free Sports</title>
     <desc />
     <date>2026-10-11</date>
   </programme>
@@ -8830,8 +8835,48 @@
     <desc />
     <date>2026-10-12</date>
   </programme>
-  <programme channel="408613" start="20261012093000 +0700" stop="20261013070000 +0700">
+  <programme channel="408613" start="20261012093000 +0700" stop="20261012100000 +0700">
     <title lang="zh">KOTV Boxing Weekly</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408613" start="20261012100000 +0700" stop="20261012120000 +0700">
+    <title lang="zh">Top 14. Stade Toulousain v Aviron Bayonnais</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408613" start="20261012120000 +0700" stop="20261012140000 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408613" start="20261012140000 +0700" stop="20261012160000 +0700">
+    <title lang="zh">LaLiga. TBA v TBA</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408613" start="20261012160000 +0700" stop="20261012180000 +0700">
+    <title lang="zh">Scottish Premiership Football. Aberdeen v St. Johnstone</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408613" start="20261012180000 +0700" stop="20261012200000 +0700">
+    <title lang="zh">United Rugby Championship. Ulster v Munster</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408613" start="20261012200000 +0700" stop="20261012203000 +0700">
+    <title lang="zh">NHL On The Fly</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408613" start="20261012203000 +0700" stop="20261012213000 +0700">
+    <title lang="zh">NHL Hockey. Top 20 Wings</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408613" start="20261012213000 +0700" stop="20261013070000 +0700">
+    <title lang="zh">This is Hockey. Jamaica</title>
     <desc />
     <date>2026-10-12</date>
   </programme>
@@ -8924,8 +8969,48 @@
     <desc />
     <date>2026-10-12</date>
   </programme>
-  <programme channel="408658" start="20261012090000 +0700" stop="20261013070000 +0700">
-    <title lang="zh">LaLiga. Real Sociedad v Real Club Deportivo de A Coruña</title>
+  <programme channel="408658" start="20261012090000 +0700" stop="20261012110000 +0700">
+    <title lang="zh">Liga Profesional de Fútbol. River Plate v Estudiantes (RC)</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408658" start="20261012110000 +0700" stop="20261012113000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 4</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408658" start="20261012113000 +0700" stop="20261012120000 +0700">
+    <title lang="zh">Football's Greatest. Series 1 Episode 8</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408658" start="20261012120000 +0700" stop="20261012123000 +0700">
+    <title lang="zh">Football's Greatest</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408658" start="20261012123000 +0700" stop="20261012163000 +0700">
+    <title lang="zh">NASCAR Cup Racing Series. Charlotte Motor Speedway</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408658" start="20261012163000 +0700" stop="20261012170000 +0700">
+    <title lang="zh">Bike World. Series 9 Episode 152</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408658" start="20261012170000 +0700" stop="20261012190000 +0700">
+    <title lang="zh">Campeonato Brasileiro. Palmeiras v Corinthians</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408658" start="20261012190000 +0700" stop="20261012210000 +0700">
+    <title lang="zh">United Rugby Championship. Scarlets v Benetton</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="408658" start="20261012210000 +0700" stop="20261013070000 +0700">
+    <title lang="zh">Elite Ice Hockey League. Glasgow Clan v Guildford Flames</title>
     <desc />
     <date>2026-10-12</date>
   </programme>
@@ -9142,7 +9227,12 @@
     <desc />
     <date>2026-10-12</date>
   </programme>
-  <programme channel="417364" start="20261012183000 +0700" stop="20261013070000 +0700">
+  <programme channel="417364" start="20261012183000 +0700" stop="20261012203000 +0700">
+    <title lang="zh">Tennis: WTA 1000 – Wuhan Open (Tennis: WTA 1000 Wuhan Open), 2026</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="417364" start="20261012203000 +0700" stop="20261013070000 +0700">
     <title lang="zh">Tennis: WTA 1000 – Wuhan Open (Tennis: WTA 1000 Wuhan Open), 2026</title>
     <desc />
     <date>2026-10-12</date>
@@ -9236,8 +9326,13 @@
     <desc />
     <date>2026-10-12</date>
   </programme>
-  <programme channel="417351" start="20261012180000 +0700" stop="20261013070000 +0700">
+  <programme channel="417351" start="20261012180000 +0700" stop="20261012200000 +0700">
     <title lang="zh">Football: Serie A. Lazio – Monza (Calcio: Campionato Italiano Serie A)</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="417351" start="20261012200000 +0700" stop="20261013070000 +0700">
+    <title lang="zh">Football: Bundesliga. Freiburg – Schalke (1. Bundesliga)</title>
     <desc />
     <date>2026-10-12</date>
   </programme>
@@ -10162,7 +10257,7 @@
     <date>2026-10-11</date>
   </programme>
   <programme channel="406253" start="20261011153000 +0700" stop="20261011160000 +0700">
-    <title lang="zh">Martin z Martina</title>
+    <title lang="zh">Za rybami světových moří</title>
     <desc />
     <date>2026-10-11</date>
   </programme>
@@ -10292,7 +10387,7 @@
     <date>2026-10-12</date>
   </programme>
   <programme channel="406253" start="20261012153000 +0700" stop="20261012160000 +0700">
-    <title lang="zh">Martin z Martina</title>
+    <title lang="zh">Za rybami světových moří</title>
     <desc />
     <date>2026-10-12</date>
   </programme>
@@ -10331,8 +10426,43 @@
     <desc />
     <date>2026-10-12</date>
   </programme>
-  <programme channel="406253" start="20261012183000 +0700" stop="20261013070000 +0700">
+  <programme channel="406253" start="20261012183000 +0700" stop="20261012190000 +0700">
     <title lang="zh">GarazTV</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406253" start="20261012190000 +0700" stop="20261012193000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406253" start="20261012193000 +0700" stop="20261012200000 +0700">
+    <title lang="zh">AutoGRATIS</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406253" start="20261012200000 +0700" stop="20261012201500 +0700">
+    <title lang="zh">Martin z Martina</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406253" start="20261012201500 +0700" stop="20261012204500 +0700">
+    <title lang="zh">Motoring</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406253" start="20261012204500 +0700" stop="20261012211500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406253" start="20261012211500 +0700" stop="20261012213000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406253" start="20261012213000 +0700" stop="20261013070000 +0700">
+    <title lang="zh">Autožurnál</title>
     <desc />
     <date>2026-10-12</date>
   </programme>
@@ -10486,7 +10616,7 @@
     <date>2026-10-12</date>
   </programme>
   <programme channel="406295" start="20261012160000 +0700" stop="20261012163000 +0700">
-    <title lang="zh">Cargo Magazín</title>
+    <title lang="zh">Za rybami světových moří</title>
     <desc />
     <date>2026-10-12</date>
   </programme>
@@ -10510,8 +10640,38 @@
     <desc />
     <date>2026-10-12</date>
   </programme>
-  <programme channel="406295" start="20261012183000 +0700" stop="20261013070000 +0700">
+  <programme channel="406295" start="20261012183000 +0700" stop="20261012191500 +0700">
     <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406295" start="20261012191500 +0700" stop="20261012194500 +0700">
+    <title lang="zh">MM Automotive</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406295" start="20261012194500 +0700" stop="20261012200000 +0700">
+    <title lang="zh">Švihák testuje</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406295" start="20261012200000 +0700" stop="20261012203000 +0700">
+    <title lang="zh">DominicCars</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406295" start="20261012203000 +0700" stop="20261012204500 +0700">
+    <title lang="zh">Cargo Magazín</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406295" start="20261012204500 +0700" stop="20261012211500 +0700">
+    <title lang="zh">Piok Cars</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="406295" start="20261012211500 +0700" stop="20261013070000 +0700">
+    <title lang="zh">DRIVE IT – Ondrej Macko</title>
     <desc />
     <date>2026-10-12</date>
   </programme>
@@ -10883,9 +11043,109 @@
     <desc />
     <date>2026-10-11</date>
   </programme>
-  <programme channel="445355" start="20261011084500 +0700" stop="20261012070000 +0700">
+  <programme channel="445355" start="20261011084500 +0700" stop="20261011114500 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261011114500 +0700" stop="20261011135000 +0700">
+    <title lang="zh">Buongiorno Cult</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261011135000 +0700" stop="20261011154500 +0700">
+    <title lang="zh">Milan Sassuolo-2019</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261011154500 +0700" stop="20261011173500 +0700">
+    <title lang="zh">Milan Sassuolo-2016</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261011173500 +0700" stop="20261011191500 +0700">
+    <title lang="zh">Milan Sassuolo-2015</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261011191500 +0700" stop="20261011195500 +0700">
+    <title lang="zh">Conferenza Amorim</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261011195500 +0700" stop="20261011211500 +0700">
+    <title lang="zh">Sassuolo Milan-2020</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261011211500 +0700" stop="20261012000000 +0700">
+    <title lang="zh">Sassuolo Milan-2020</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261012000000 +0700" stop="20261012014500 +0700">
+    <title lang="zh">Fem. Milan v Juventus</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261012014500 +0700" stop="20261012033000 +0700">
+    <title lang="zh">Sassuolo Milan 26/27</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261012033000 +0700" stop="20261012051300 +0700">
+    <title lang="zh">Milan F v Rovato</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261012051300 +0700" stop="20261012062500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261012062500 +0700" stop="20261012070000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-11</date>
+  </programme>
+  <programme channel="445355" start="20261012072500 +0700" stop="20261012084500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="445355" start="20261012084500 +0700" stop="20261012114500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="445355" start="20261012114500 +0700" stop="20261012134500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="445355" start="20261012134500 +0700" stop="20261012154000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="445355" start="20261012154000 +0700" stop="20261012173500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="445355" start="20261012173500 +0700" stop="20261012191500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="445355" start="20261012191500 +0700" stop="20261012211500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-12</date>
+  </programme>
+  <programme channel="445355" start="20261012211500 +0700" stop="20261013070000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-12</date>
   </programme>
 </tv>
