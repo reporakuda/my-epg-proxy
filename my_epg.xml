@@ -6377,7 +6377,7 @@
     <date>2026-10-18</date>
   </programme>
 <channel id="400480">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400480" start="20261016083000 +0700" stop="20261016090000 +0700">
@@ -6651,7 +6651,7 @@
     <date>2026-10-18</date>
   </programme>
 <channel id="400479">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400479" start="20261016070000 +0700" stop="20261016073000 +0700">
@@ -11694,4 +11694,64 @@
     <display-name lang="Russian Federation">Milan TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/07/16/20250716021106058103_15.png" />
   </channel>
+  <programme channel="445355" start="20261018084500 +0700" stop="20261018114500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261018114500 +0700" stop="20261018134500 +0700">
+    <title lang="zh">Buongiorno Cult</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261018134500 +0700" stop="20261018153000 +0700">
+    <title lang="zh">EL Salisburgo v Milan</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261018153000 +0700" stop="20261018173000 +0700">
+    <title lang="zh">Sassuolo Milan 26/27</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261018173000 +0700" stop="20261018192000 +0700">
+    <title lang="zh">Atalanta v Milan 2005</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261018192000 +0700" stop="20261018212000 +0700">
+    <title lang="zh">EL Salisburgo v Milan</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261018212000 +0700" stop="20261018230500 +0700">
+    <title lang="zh">Atalanta v Milan 2012</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261018230500 +0700" stop="20261019013000 +0700">
+    <title lang="zh">ONTHISDAY REVIEW</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261019013000 +0700" stop="20261019031000 +0700">
+    <title lang="zh">Atalanta v Milan 26/27</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261019031000 +0700" stop="20261019050000 +0700">
+    <title lang="zh">EL Salisburgo v Milan</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261019050000 +0700" stop="20261019062500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="445355" start="20261019062500 +0700" stop="20261019070000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-18</date>
+  </programme>
 </tv>
