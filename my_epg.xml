@@ -9410,7 +9410,7 @@
     <date>2026-10-29</date>
   </programme>
 <channel id="369809">
-    <display-name lang="新加坡">HBO HD</display-name>
+    <display-name lang="Singapore">HBO HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="369809" start="20261028085000 +0700" stop="20261028110500 +0700">
@@ -10175,7 +10175,7 @@
     <date>2026-10-29</date>
   </programme>
 <channel id="369758">
-    <display-name lang="新加坡">HBO Signature (HD)</display-name>
+    <display-name lang="Singapore">HBO Signature (HD)</display-name>
     <icon src="" />
   </channel>
   <programme channel="369758" start="20261028073000 +0700" stop="20261028081000 +0700">
@@ -10726,9 +10726,14 @@
     <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
     <date>2026-10-29</date>
   </programme>
-  <programme channel="12258" start="20261029130000 +0700" stop="20261029133000 +0700">
-    <title lang="zh">Podcast</title>
-    <desc>Women's team captain Maya Le Tissier joins us on Inside Carrington.</desc>
+  <programme channel="12258" start="20261029130000 +0700" stop="20261029132500 +0700">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Burnley.</desc>
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="12258" start="20261029132500 +0700" stop="20261029133000 +0700">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Full coverage of our Women's League Cup match against Burnley.</desc>
     <date>2026-10-29</date>
   </programme>
   <programme channel="12258" start="20261029133000 +0700" stop="20261029134500 +0700">
@@ -10792,8 +10797,8 @@
     <date>2026-10-29</date>
   </programme>
   <programme channel="12258" start="20261029200000 +0700" stop="20261029203000 +0700">
-    <title lang="zh">MUW 26/27</title>
-    <desc>Highlights of our Women's League Cup match against Burnley.</desc>
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Liverpool.</desc>
     <date>2026-10-29</date>
   </programme>
   <programme channel="12258" start="20261029203000 +0700" stop="20261029204000 +0700">
@@ -10846,7 +10851,12 @@
     <desc>United Archives 31/3/96. United faced Chelsea at Villa Park for a place in the FA Cup Final.</desc>
     <date>2026-10-29</date>
   </programme>
-  <programme channel="12258" start="20261030044500 +0700" stop="20261030051500 +0700">
+  <programme channel="12258" start="20261030044500 +0700" stop="20261030050000 +0700">
+    <title lang="zh">Top 20 Goals 2007/08</title>
+    <desc>As part of our Kings of the World book launch, join us to look back at the Top 20 goals of our infamous 2007/08 season.</desc>
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="12258" start="20261030050000 +0700" stop="20261030051500 +0700">
     <title lang="zh">Live: Press Conference</title>
     <desc>Live press conference ahead of our Premier League match against Chelsea.</desc>
     <date>2026-10-29</date>
@@ -10896,51 +10906,96 @@
     <date>2026-10-28</date>
   </programme>
   <programme channel="445355" start="20261028114500 +0700" stop="20261028134500 +0700">
+    <title lang="zh">Buongiorno Cult</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261028134500 +0700" stop="20261028135000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261028134500 +0700" stop="20261028153500 +0700">
+  <programme channel="445355" start="20261028135000 +0700" stop="20261028153500 +0700">
+    <title lang="zh">Milan F Club Milano</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261028153500 +0700" stop="20261028154000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261028153500 +0700" stop="20261028172500 +0700">
+  <programme channel="445355" start="20261028154000 +0700" stop="20261028172500 +0700">
+    <title lang="zh">Milan Atalanta 26/27</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261028172500 +0700" stop="20261028174000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261028172500 +0700" stop="20261028191000 +0700">
+  <programme channel="445355" start="20261028174000 +0700" stop="20261028191000 +0700">
+    <title lang="zh">Bologna Milan 2021</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261028191000 +0700" stop="20261028194000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261028191000 +0700" stop="20261028211500 +0700">
+  <programme channel="445355" start="20261028194000 +0700" stop="20261028211500 +0700">
+    <title lang="zh">Udinese Milan 26/27</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261028211500 +0700" stop="20261028214000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261028211500 +0700" stop="20261028231000 +0700">
+  <programme channel="445355" start="20261028214000 +0700" stop="20261028231000 +0700">
+    <title lang="zh">Bologna Milan 2019</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261028231000 +0700" stop="20261028233000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261028231000 +0700" stop="20261029010000 +0700">
+  <programme channel="445355" start="20261028233000 +0700" stop="20261029010000 +0700">
+    <title lang="zh">ONTHISDAY REVIEW</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261029010000 +0700" stop="20261029013000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261029010000 +0700" stop="20261029025000 +0700">
+  <programme channel="445355" start="20261029013000 +0700" stop="20261029025000 +0700">
+    <title lang="zh">Milan Bologna 26/27</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261029025000 +0700" stop="20261029032500 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261029025000 +0700" stop="20261029043000 +0700">
+  <programme channel="445355" start="20261029032500 +0700" stop="20261029043000 +0700">
+    <title lang="zh">Milan Atalanta 26/27</title>
+    <desc />
+    <date>2026-10-28</date>
+  </programme>
+  <programme channel="445355" start="20261029043000 +0700" stop="20261029051500 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
   </programme>
-  <programme channel="445355" start="20261029043000 +0700" stop="20261029062500 +0700">
+  <programme channel="445355" start="20261029051500 +0700" stop="20261029062500 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-28</date>
@@ -10955,7 +11010,62 @@
     <desc />
     <date>2026-10-29</date>
   </programme>
-  <programme channel="445355" start="20261029084500 +0700" stop="20261030070000 +0700">
+  <programme channel="445355" start="20261029084500 +0700" stop="20261029114500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261029114500 +0700" stop="20261029134500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261029134500 +0700" stop="20261029153500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261029153500 +0700" stop="20261029172500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261029172500 +0700" stop="20261029191000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261029191000 +0700" stop="20261029211500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261029211500 +0700" stop="20261029231000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261029231000 +0700" stop="20261030010000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261030010000 +0700" stop="20261030025000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261030025000 +0700" stop="20261030043000 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261030043000 +0700" stop="20261030062500 +0700">
+    <title lang="zh">Ac Milan – 26/27</title>
+    <desc />
+    <date>2026-10-29</date>
+  </programme>
+  <programme channel="445355" start="20261030062500 +0700" stop="20261030070000 +0700">
     <title lang="zh">Ac Milan – 26/27</title>
     <desc />
     <date>2026-10-29</date>
